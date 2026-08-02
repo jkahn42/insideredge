@@ -1,0 +1,32 @@
+{
+ "MSFT": [
+  {
+   "label": "HR2847: AI Accountability and Data Privacy Act",
+   "url": "https://www.congress.gov/",
+   "updated": "2026-07-20",
+   "desc": "Requires developers of large AI systems to publish safety evaluations and gives the FTC authority over consumer data used in model training. \u2014 Latest action 2026-07-20: Reported out of House Energy and Commerce Committee."
+  }
+ ],
+ "XOM": [
+  {
+   "label": "S1104: Strategic Petroleum Reserve Modernization Act",
+   "url": "https://www.congress.gov/",
+   "updated": "2026-07-11",
+   "desc": "Directs the Department of Energy to modernize the Strategic Petroleum Reserve and sets refill price bands. \u2014 Latest action 2026-07-11: Hearings held by Senate Energy and Natural Resources Committee."
+  }
+ ],
+ "NVAX": [
+  {
+   "label": "HR3120: Pandemic Preparedness and Vaccine Manufacturing Act",
+   "url": "https://www.congress.gov/",
+   "desc": "Funds domestic vaccine manufacturing capacity and creates advance-purchase authority for next-generation protein-based vaccines. \u2014 Latest action 2026-07-25: Referred to House Appropriations Subcommittee."
+  }
+ ],
+ "TSM": [
+  {
+   "label": "S2210: American Semiconductor Supply Chain Security Act",
+   "url": "https://www.congress.gov/",
+   "desc": "Extends CHIPS-era investment credits to foreign foundries expanding US fabrication capacity and tightens export-control review. \u2014 Latest action 2026-07-18: Placed on Senate legislative calendar."
+  }
+ ]
+}

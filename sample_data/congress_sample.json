@@ -1,0 +1,50 @@
+[
+ {
+  "ticker": "NVAX",
+  "politician": "Sen. Alpha",
+  "chamber": "Senate",
+  "date": "2026-07-13",
+  "type": "P",
+  "value_usd": 32500
+ },
+ {
+  "ticker": "MSFT",
+  "politician": "Rep. Beta",
+  "chamber": "House",
+  "date": "2026-07-18",
+  "type": "P",
+  "value_usd": 175000
+ },
+ {
+  "ticker": "MSFT",
+  "politician": "Sen. Gamma",
+  "chamber": "Senate",
+  "date": "2026-07-08",
+  "type": "P",
+  "value_usd": 75000
+ },
+ {
+  "ticker": "MSFT",
+  "politician": "Rep. Delta",
+  "chamber": "House",
+  "date": "2026-07-23",
+  "type": "P",
+  "value_usd": 32500
+ },
+ {
+  "ticker": "XOM",
+  "politician": "Sen. Epsilon",
+  "chamber": "Senate",
+  "date": "2026-07-03",
+  "type": "S",
+  "value_usd": 375000
+ },
+ {
+  "ticker": "TSM",
+  "politician": "Rep. Zeta",
+  "chamber": "House",
+  "date": "2026-06-23",
+  "type": "P",
+  "value_usd": 75000
+ }
+]

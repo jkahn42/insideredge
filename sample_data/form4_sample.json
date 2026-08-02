@@ -1,0 +1,103 @@
+[
+ {
+  "ticker": "NVAX",
+  "insider_name": "J. Smith",
+  "role": "CEO",
+  "date": "2026-07-30",
+  "type": "P",
+  "shares": 20000,
+  "price": 12.5,
+  "value_usd": 250000
+ },
+ {
+  "ticker": "NVAX",
+  "insider_name": "A. Lee",
+  "role": "CFO",
+  "date": "2026-07-29",
+  "type": "P",
+  "shares": 8000,
+  "price": 12.4,
+  "value_usd": 99200
+ },
+ {
+  "ticker": "NVAX",
+  "insider_name": "B. Cho",
+  "role": "DIRECTOR",
+  "date": "2026-07-31",
+  "type": "P",
+  "shares": 5000,
+  "price": 12.6,
+  "value_usd": 63000
+ },
+ {
+  "ticker": "NVAX",
+  "insider_name": "C. Diaz",
+  "role": "DIRECTOR",
+  "date": "2026-07-27",
+  "type": "P",
+  "shares": 4000,
+  "price": 12.3,
+  "value_usd": 49200
+ },
+ {
+  "ticker": "XOM",
+  "insider_name": "D. Roy",
+  "role": "CEO",
+  "date": "2026-07-31",
+  "type": "S",
+  "shares": 50000,
+  "price": 110,
+  "value_usd": 5500000
+ },
+ {
+  "ticker": "XOM",
+  "insider_name": "E. Kim",
+  "role": "CFO",
+  "date": "2026-07-30",
+  "type": "S",
+  "shares": 20000,
+  "price": 109,
+  "value_usd": 2180000
+ },
+ {
+  "ticker": "XOM",
+  "insider_name": "F. Ito",
+  "role": "OFFICER",
+  "date": "2026-07-28",
+  "type": "S",
+  "shares": 10000,
+  "price": 111,
+  "value_usd": 1110000,
+  "planned": true
+ },
+ {
+  "ticker": "TSM",
+  "insider_name": "G. Wu",
+  "role": "DIRECTOR",
+  "date": "2026-08-01",
+  "type": "P",
+  "shares": 1000,
+  "price": 160,
+  "value_usd": 160000
+ },
+ {
+  "ticker": "PLTR",
+  "insider_name": "H. Novak",
+  "role": "OFFICER",
+  "date": "2026-07-29",
+  "type": "P",
+  "shares": 3000,
+  "price": 28,
+  "value_usd": 84000
+ },
+ {
+  "ticker": "PLTR",
+  "insider_name": "I. Marsh",
+  "role": "DIRECTOR",
+  "date": "2026-07-30",
+  "type": "S",
+  "shares": 4000,
+  "price": 28.5,
+  "value_usd": 114000
+ }
+]

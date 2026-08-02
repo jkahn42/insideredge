@@ -1,0 +1,58 @@
+{
+ "NVAX": [
+  {
+   "title": "Novavax flu-COVID combination vaccine shows strong Phase 3 immune response",
+   "url": "https://news.google.com/",
+   "date": "2026-08-01",
+   "source": "Reuters"
+  },
+  {
+   "title": "Why insiders are quietly accumulating Novavax shares",
+   "url": "https://news.google.com/",
+   "date": "2026-07-31",
+   "source": "Barron's"
+  },
+  {
+   "title": "Novavax partners with regional manufacturer for Asia distribution",
+   "url": "https://news.google.com/",
+   "date": "2026-07-29",
+   "source": "BioPharma Dive"
+  }
+ ],
+ "XOM": [
+  {
+   "title": "Exxon Mobil faces state investigation over disclosure practices",
+   "url": "https://news.google.com/",
+   "date": "2026-08-01",
+   "source": "Bloomberg"
+  },
+  {
+   "title": "Analyst downgrades Exxon citing refining margin pressure",
+   "url": "https://news.google.com/",
+   "date": "2026-07-31",
+   "source": "MarketWatch"
+  },
+  {
+   "title": "Oil majors slip as crude retreats",
+   "url": "https://news.google.com/",
+   "date": "2026-07-30",
+   "source": "CNBC"
+  }
+ ],
+ "MSFT": [
+  {
+   "title": "Microsoft expands AI datacenter footprint in Midwest",
+   "url": "https://news.google.com/",
+   "date": "2026-07-31",
+   "source": "WSJ"
+  }
+ ],
+ "TSM": [
+  {
+   "title": "TSMC monthly revenue tops estimates on AI chip demand",
+   "url": "https://news.google.com/",
+   "date": "2026-08-01",
+   "source": "Nikkei"
+  }
+ ]
+}
