@@ -1,7 +1,7 @@
 """Central configuration. Tuned for MODERATE risk profile."""
 
 # --- Data windows ---
-INSIDER_LOOKBACK_DAYS = 14      # Form 4 filings arrive within 2 business days of trade
+INSIDER_LOOKBACK_DAYS = 3      # Form 4 filings arrive within 2 business days of trade
 CONGRESS_LOOKBACK_DAYS = 60     # STOCK Act allows up to 45-day disclosure lag
 
 # --- Signal weights (must sum to 1.0) ---
@@ -37,7 +37,7 @@ ALPACA_LIVE_URL = "https://api.alpaca.markets"
 
 # --- Data source URLs ---
 SEC_DAILY_INDEX = "https://www.sec.gov/Archives/edgar/daily-index"
-SEC_USER_AGENT = "InsiderEdge research bot yourname@example.com"  # SEC REQUIRES a real contact
+SEC_USER_AGENT = "InsiderEdge research bot jkahn@jk-legalconsulting.com"  # SEC REQUIRES a real contact
 SENATE_WATCHER_URL = (
     "https://senate-stock-watcher-data.s3-us-west-2.amazonaws.com"
     "/aggregate/all_transactions.json"
