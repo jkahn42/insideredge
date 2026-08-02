@@ -1,0 +1,31 @@
+name: Daily InsiderEdge report
+on:
+  schedule:
+    - cron: "30 11 * * 1-5"   # ~7:30 AM ET in summer; adjust for DST if you care
+  workflow_dispatch: {}        # manual "Run workflow" button
+permissions:
+  contents: write
+  issues: write
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Build report + portal + Telegram ping
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PORTAL_URL: ${{ vars.PORTAL_URL }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 main.py report
+      - name: Publish portal
+        run: |
+          git config user.name "insideredge-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -f docs/index.html daily_report.md daily_report.json tracking_state.json insider_history.json scorecard_state.json docs/archive || true
+          git add docs/index.html daily_report.md daily_report.json tracking_state.json scorecard_state.json docs/archive || true
+          git commit -m "Daily report $(date -u +%F)" || echo "no changes"
+          git push
