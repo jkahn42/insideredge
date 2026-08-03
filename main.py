@@ -9,6 +9,7 @@
 """
 from __future__ import annotations
 import argparse
+import re
 import datetime as dt
 import json
 import sys
@@ -62,6 +63,26 @@ def cmd_report(demo: bool) -> None:
                               sample_profiles=spf)
     news.annotate(signals, sample=sn)
 
+    # timing/freshness: insider-following edge decays within weeks
+    for s in signals:
+        dates = [e[:10] for e in s.get("evidence", [])
+                 if re.match(r"\d{4}-\d{2}-\d{2}", e)]
+        age = (today - dt.date.fromisoformat(max(dates))).days if dates else 99
+        drift = s.get("pct_since_signal")
+        if drift is not None and drift >= 10:
+            s["timing"] = {"label": f"Edge partly spent \u2014 already "
+                           f"{drift:+.0f}% since disclosure", "cls": "spent"}
+        elif age <= 3:
+            s["timing"] = {"label": f"Fresh \u2014 latest filing "
+                           f"{age} day(s) ago", "cls": "fresh"}
+        elif age <= 8:
+            s["timing"] = {"label": f"Recent \u2014 latest filing "
+                           f"{age} days ago", "cls": "mid"}
+        else:
+            s["timing"] = {"label": f"Aging \u2014 latest filing "
+                           f"{age} days ago; edge decays over weeks",
+                           "cls": "spent"}
+
     # earnings-soon heuristic: >=80 days since last quarterly filing
     for s in signals:
         qdates = [f["date"] for f in (s.get("deep") or {}).get("recent_filings", [])
@@ -92,6 +113,14 @@ def cmd_report(demo: bool) -> None:
         s["legislation"] = legislation.legislative_context(s, sample=sl)
 
     tracked = tracking.tracked_cards(state, lookup, today)
+    for t in tracked:
+        match = next((s for s in signals if s["ticker"] == t["ticker"]), None)
+        if match:
+            t["news_flags"] = match.get("news_flags", [])
+        elif sn is not None:
+            t["news_flags"] = news.risk_flags(sn.get(t["ticker"], []))
+        else:
+            t["news_flags"] = news.risk_flags(news.fetch_news(t["ticker"]))
     tracking.save_state(state)
     report.build_report(signals, REPORT_MD, REPORT_JSON)
     html_report.build_portal(signals, PORTAL_HTML,
