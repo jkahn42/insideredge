@@ -1,7 +1,7 @@
 """Central configuration. Tuned for MODERATE risk profile."""
 
 # --- Data windows ---
-INSIDER_LOOKBACK_DAYS = 3      # Form 4 filings arrive within 2 business days of trade
+INSIDER_LOOKBACK_DAYS = 7      # Form 4 filings arrive within 2 business days of trade
 CONGRESS_LOOKBACK_DAYS = 60     # STOCK Act allows up to 45-day disclosure lag
 
 # --- Signal weights (must sum to 1.0) ---
