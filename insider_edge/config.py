@@ -37,7 +37,7 @@ ALPACA_LIVE_URL = "https://api.alpaca.markets"
 
 # --- Data source URLs ---
 SEC_DAILY_INDEX = "https://www.sec.gov/Archives/edgar/daily-index"
-SEC_USER_AGENT = "InsiderEdge research bot jkahn@jk-legalconsulting.com"  # SEC REQUIRES a real contact
+SEC_USER_AGENT = "InsiderEdge research bot "jkahn@jk-legalconsulting.com"  # SEC REQUIRES a real contact
 SENATE_WATCHER_URL = (
     "https://senate-stock-watcher-data.s3-us-west-2.amazonaws.com"
     "/aggregate/all_transactions.json"
