@@ -9,6 +9,16 @@
       "action": "SELL",
       "start_date": "2026-08-03",
       "start_price": null
+    },
+    "CRWD": {
+      "action": "BUY",
+      "start_date": "2026-08-03",
+      "start_price": null
+    },
+    "MU": {
+      "action": "BUY",
+      "start_date": "2026-08-03",
+      "start_price": null
     }
   },
   "rejected": []
