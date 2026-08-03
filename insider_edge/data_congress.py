@@ -46,13 +46,22 @@ def _fetch_json(url: str) -> list:
 
 POLITICIAN_STATS: dict[str, dict] = {}
 
+JUNK_TICKERS = {"", "-", "--", "\u2014", "N/A", "NA", "N.A.", "NONE",
+                "NULL", "UNKNOWN", "VARIOUS", "MULTIPLE", "SEE", "TBD"}
+TICKER_RE = __import__("re").compile(r"^[A-Z]{1,5}([.\-][A-Z]{1,2})?$")
+
+
+def _valid_ticker(tk: str) -> bool:
+    tk = tk.upper().strip()
+    return tk not in JUNK_TICKERS and bool(TICKER_RE.match(tk))
+
 
 def _normalize(rows: list, chamber: str, cutoff: dt.date,
                stats: dict | None = None) -> list[dict]:
     out = []
     for row in rows:
         ticker = (row.get("ticker") or "").upper().strip()
-        if not ticker or ticker in ("--", "N/A") or len(ticker) > 6:
+        if not _valid_ticker(ticker):
             continue
         ttype = (row.get("type") or row.get("transaction_type") or "").lower()
         if "purchase" in ttype:

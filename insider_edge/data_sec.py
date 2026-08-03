@@ -73,7 +73,8 @@ def parse_form4_xml(xml_bytes: bytes) -> list[dict]:
     except ET.ParseError:
         return out
     ticker = (root.findtext(".//issuerTradingSymbol") or "").upper().strip()
-    if not ticker or len(ticker) > 6:
+    from .data_congress import _valid_ticker
+    if not _valid_ticker(ticker):
         return out
     planned = (root.findtext(".//aff10b5One") or "").strip() in ("1", "true")
     owner = root.find(".//reportingOwner")
