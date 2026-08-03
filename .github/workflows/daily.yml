@@ -1,7 +1,7 @@
 name: Daily InsiderEdge report
 on:
   schedule:
-    - cron: "30 11 * * 1-5"   # ~7:30 AM ET in summer; adjust for DST if you care
+    - cron: "0 13 * * 1-5"   # ~7:30 AM ET in summer; adjust for DST if you care
   workflow_dispatch: {}        # manual "Run workflow" button
 permissions:
   contents: write
