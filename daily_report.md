@@ -1,6 +1,6 @@
 # InsiderEdge Daily Report — 2026-08-03
 
-Signals: **1 BUY** / **0 SELL** / **10 WATCH**
+Signals: **1 BUY** / **0 SELL** / **8 WATCH**
 
 ## BUY
 ### SCTX  (net +60.0 | buy 60.0 / sell 0.0 | 4 buyers, 0 sellers)
@@ -36,16 +36,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-07-24 CEO MEHROTRA SANJAY SELL $944,828 (10b5-1 planned sale — discounted)
 - 2026-07-24 CEO MEHROTRA SANJAY SELL $935,192 (10b5-1 planned sale — discounted)
 - 2026-07-24 CEO MEHROTRA SANJAY SELL $935,192 (10b5-1 planned sale — discounted)
-
-### N/A  (net +45.0 | buy 45.0 / sell 0.0 | 6 buyers, 0 sellers)
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000
-- 2026-07-24 OTHER Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. BUY $1,894,300
-- 2026-07-24 OTHER Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. BUY $1,894,300
 
 ### CRWD  (net -42.2 | buy 0.0 / sell 42.2 | 0 buyers, 1 sellers)
 - 2026-07-29 CEO Kurtz George SELL $99,893 (10b5-1 planned sale — discounted)
@@ -106,16 +96,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-07-28 OFFICER Howard Dennis SELL $2,940,263 (10b5-1 planned sale — discounted)
 - 2026-07-28 OFFICER Bettinger Walter W SELL $4,389,643
 - 2026-07-28 OFFICER Bettinger Walter W SELL $4,389,643
-
-### NONE  (net +34.1 | buy 44.8 / sell 10.7 | 6 buyers, 3 sellers)
-- 2026-07-29 OTHER Green Joshua Michael BUY $1,250,000
-- 2026-07-29 OTHER Green Joshua Michael BUY $1,250,000
-- 2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000
-- 2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000
-- 2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000
-- 2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000
-- 2026-07-28 OTHER Abu Dhabi Investment Authority BUY $22,935,759
-- 2026-07-28 OTHER Abu Dhabi Investment Authority BUY $22,935,759
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.

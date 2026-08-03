@@ -67,16 +67,10 @@
       ],
       "news": [
         {
-          "title": "SCTX: Scribe Therapeutics Inc. - Cash Flow Statements - Zacks Investment Research",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTkQ4WktRRldIYkhCZzFsbjNuWXpST0drdk5qMzF2bnlhRTIxcjRWMkE5b2RqOVBCeVpkWXBObll3RUlSMG53TnV1WFBVMUdfQlg2MllFZGdjRGJqR0N3ZDhEeExhNWNpMFhkOE02SUIxQ0VScWh3NlJmUzJRUEZiUGRWZE9UaVNzRW9GclIwbTBTWU9PZWpfdXBheTB6R3FNYTNwR0RHOExYd3RPWXBraVFteGNLVy1LQWhRdmltU0t3MG5WMmc1Y0dISTQzWk1ma0N1MkxzWnJUQlNoYUpJc0s0aExBWnBaMWxaNHBHZno?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "Zacks Investment Research"
-        },
-        {
-          "title": "Operating income of Scribe Therapeutics Inc. \u2013 NASDAQ:SCTX - TradingView",
+          "title": "Operating income of Scribe Therapeutics Inc. \u2013 NASDAQ:SCTX - tradingview.com",
           "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMS1pWEVSUnFNZktnellNc09kcXoxVGJ5elh4MmRsSE41dGlHMkkyVzBvcUhUY1pPM3YwMzFUOFRuWTlzaElhMlp0Nk1WNE5ldk1qVDNYZTJlRzNhME9VWXJWRUlvclVyenFGU211aTFQMXFyTEN2Ui0zUWwyVGVGZGF3bkZZSXlYWWxlMlRjQzJqQQ?oc=5",
           "date": "Sat, 01 Aug 2026",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Scribe Therapeutics Announces Pricing of Upsized Initial Public Offering - GlobeNewswire",
@@ -85,21 +79,31 @@
           "source": "GlobeNewswire"
         },
         {
+          "title": "SCTX: Scribe Therapeutics Inc. - Cash Flow Statements - Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTkQ4WktRRldIYkhCZzFsbjNuWXpST0drdk5qMzF2bnlhRTIxcjRWMkE5b2RqOVBCeVpkWXBObll3RUlSMG53TnV1WFBVMUdfQlg2MllFZGdjRGJqR0N3ZDhEeExhNWNpMFhkOE02SUIxQ0VScWh3NlJmUzJRUEZiUGRWZE9UaVNzRW9GclIwbTBTWU9PZWpfdXBheTB6R3FNYTNwR0RHOExYd3RPWXBraVFteGNLVy1LQWhRdmltU0t3MG5WMmc1Y0dISTQzWk1ma0N1MkxzWnJUQlNoYUpJc0s0aExBWnBaMWxaNHBHZno?oc=5",
+          "date": "Sun, 02 Aug 2026",
+          "source": "Zacks Investment Research"
+        },
+        {
           "title": "12 Health Care Stocks Moving In Thursday's After-Market Session - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSWt5QWxRUUJsZEVCQ1M2X3NjVFgzbTJSMFhXUTlJc3A5WW5JNmc1YXNzN19BRWtJeTJuMDBkdEFpTlpSbGdoejVNVndRenh6WlZiU2JFQzc2amFGMzhrWFh3dWtkdUFnd1phaEgwckNTMEMyRDVaZTBtbHlfczJwVWh0UEpUQWhMaVNGS2xuMmJUUTE1QVFDX0kxWHRKT1lzbU5TZWUwajcwbDZyOEJudFU0RlRtblVnR1dFQTVB?oc=5",
           "date": "Thu, 30 Jul 2026",
           "source": "Benzinga"
         },
         {
-          "title": "Scribe Therapeutics Completes Initial Public Offering and Private Placement - SynBioBeta",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUZaQVh3ZlFrMnAyaXJMQlJydGkyTjlzd3BoblQ2b0s1MGFHNWdKVWJuQ2NOVWhOX05WbFhuWUM1aWRMQUNYU3M5Q25sOXlQek0xNzJVZ3BicVlqMlEtRm1ncDVrLUZLME5zaXA1MGNlWnRRbjBzWThoM1pCcFJpX2ZQdC1UVklCNldFUXN3?oc=5",
-          "date": "Tue, 28 Jul 2026",
-          "source": "SynBioBeta"
+          "title": "Breaking News about Scribe Therapeutics Inc. - Common Stock (Nasdaq:SCTX) - FinancialContent",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43dkdBTXBIRU9FaHQ4Zm83RnpOS1pFTGRsV0xhNDlxZmQ3TFpMQ2QwYUdfeG54QmVvVTl3R0VlY2IzVndiWmR6dFd1ZTFnVnV4cWtOZnp3MFBWMTBON1Z6ZA?oc=5",
+          "date": "Sat, 01 Aug 2026",
+          "source": "FinancialContent"
         }
       ],
       "news_flags": [
         "share offering (dilution)"
       ],
+      "timing": {
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -178,37 +182,41 @@
       ],
       "news": [
         {
-          "title": "Meta (META) Could Spend $62 Billion With CoreWeave (CRWV) and Nebius (NBIS), Then Become Their Competitor - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSk5VQlVaT2VQLWN5WkhNNnJRSVhoY0Y2T2JHWHYxUlFhZWl3akN1WmQ0RzdCYWRfdU5fOFpuM0FUbktoZURrTWVURjR2bEdRNHNaTGZRSFVtc3dyYi0yVGtIX2QwcEtXRVMybEZKQTc4Mk5QbXpXM2s2dlZhN1h5aWlmcXBYSkY0YlVXeDdwMjRDZw?oc=5",
-          "date": "Thu, 30 Jul 2026",
+          "title": "CoreWeave Stock Jumps as AI Data-Center Demand Skyrockets Ahead of Q2 Earnings - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWEl5MjBTMXZNbktYZkRfTXgxcnY1QUJSOE9ZQ0xOQU1BRTBmTzRWYXFyQjllZzhmZ0pLMjBPOW1VLUotV1Vtd3FJOTVwQTJ3VEQyVE1nQS1sZ1FBT1FyNkJhRm5QVG1oOUtJYUhaSWtzajRxMjg3bVRRUHVMZlZVcTlEaTdWM21Gb3VidVpmRDVzYmNHR0hTbTRjT2x1cUJrMGx1c2U1ckRRYnNmTXVta1phRDJsQllZbWs1aXRETjhkQmo0dGhBSlNiNA?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "Benzinga"
+        },
+        {
+          "title": "CoreWeave Just Scored a Leidos Partnership. What That Means for CRWV Stock Here. - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc2ktTHR3QXVjenpIdExfVTk1RmdUMlNLNVFpX2VOTzVTa0VLWnJNMFN6ei1DMDlVOFoybm95NjhLX0FSckhNa0txMG5JeTV0MHczNEM1M0Z4b3REeHB3WUVhZHR0WXNWSl9LNEZLQ00xeEllaDM4cUhHSFM1dkh2TTBMZVdONzcycURhZTFta0hOX2NjSG1YMV9ObkFTbTVocnJiM2N0bTg?oc=5",
+          "date": "Sun, 02 Aug 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "CoreWeave's GPU Debt Treadmill Keeps Me Sidelined Ahead Of Earnings (Preview) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDhzTGlicGZBWWR0SkZLbWJ0VUFRaTl4NDNmT1QxVTZGWlBWbDEzRzA3dnpTa1FQVW1UQjd1Ym44M3BUS1pHczlqaHRvRnNKOWtSYUdSMjM1RnpzeGtFdHBpaTR6MndyYk9ETV84VktybUtzUHF0R1RDNk5peTljWS12bEdEZDZrejNEWVgwYk1OcVJUUVZvaUNDYWF0SnRTMzRuRzh4OXNudHVoMEVvdl9MUlczZw?oc=5",
-          "date": "Wed, 29 Jul 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "CoreWeave (NASDAQ:CRWV) Stock Price Down 9.6% After Insider Selling - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQazUtZUFMRk1sNll0UWlnMGNabzhNbll6cFhqbUFsZzF1UHQyRUsxcVBod3Z4YmlBVndXQ1loYVFoM29wY0RWU3BoMk5jV19xVmRJcy1vZlRSX1V4Q193bkZkZkpnVS1TZEV4MTFYT1BEVFR1VndsdjBsek5Nc0xwMmphckU2cXFZZXIyUThYdklYcU1CNEQtcTd3NmlaSFJ4S2dCVkxrSjZ6b3dJcVNrTEQ2akFqZlE?oc=5",
-          "date": "Wed, 29 Jul 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Coreweave is $71 After Falling 43% in a Year: One Analyst Thinks It Can Rocket to $250 - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWp2akpsTGJkOW5McmEyaHVPeVl6b3pPSjBrc3FVMm5ObmtmUEdINGNpemt0T1FNcWlGakJiRmJRUkVzZVlROC1FSGdHV2FSVkp6cnpjOWpVc3VzWnR6SC1IQ3drcGd0RmVKR01zQVZWOHl1aU0tcUNwRTN5SDhUdGU5ckZSZExXZmN2QXU4MXFiUzk4b2pDdkdEcmc5MFd2WlFIVzhaUnN2eXBRZ21kLTlFdFc0UUQ4Y2g5VGgtT3Zkd2o4?oc=5",
-          "date": "Mon, 27 Jul 2026",
+          "title": "Price Prediction: CoreWeave Will Trade at This Price in 2027 - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaUw4dGc4M3BFOHRTVjh5TVNDSnFzSldvSzVGR0FPaVRfS2JoYUhwMkF3UmJIYXN3RGlNTzF0Tzk3QVFvUGVKYWRNM1A0SldLMndVRzk4X0lwM1RBNUQ2aWNpNTUwU3N4dWVzY3hUNnl2MWE3UzFhTnYyNllpUEZxSFMyUWloMUY3bTdCS2xyRTFNd2hYQklENl9kX3llX0hRSEN3UXp3?oc=5",
+          "date": "Mon, 03 Aug 2026",
           "source": "24/7 Wall St."
         },
         {
-          "title": "Cathie Wood\u2019s ARK sells Shopify stock, buys CoreWeave shares - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2ZITVNoZDRBLVZqSkpSX29YRHJoTXo2ck5pMjVTNHJlamVJVHJ5SG10SjN0bDlhR0dhbXZCU3UyWHdxT2M5NXVfR3VRZmNjRG1MSWxyRTVObkxMNTZjaFlLMzk3U095Mm1YUWlCNWFFa1I1bS1FbGR5M3hLckJ1X2dkcHBlamh5ZnJXam9IN3ZkbzhMekVXTk94c2JWWGNvUVlUUEdPUi1waVZVSjVpbmk2YUVqQQ?oc=5",
-          "date": "Sat, 01 Aug 2026",
-          "source": "Investing.com"
+          "title": "CoreWeave Jumps 11%, Snowflake Gains 6%, Oracle Climbs 5% as Risk-On Mood Lifts AI Cloud - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZnJZRmRSWlBORGMxUEVNNllscHVGSUt4cHRIMFg1THZCdzZjeDBYZ2s5T3E0MmN6MTRkWVBGOUhudktlb0hycG5ScV9NT19acmNaeTh5TEN0WF9WbEpxRDZlN0hmSlpDVGR6R283ZnU5SmZRdTBiLUhWTElaQlQtR3dYOTlXQVVnbDlxYlprdXZQdzZWTkZFeFNXRjBSUkpDeENLZ19tVW1jVnRDRmc4SFlUTC1vX1N2REJTNHVtdlhBYjBoaFE?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "CoreWeave (CRWV) Stock Looks Reasonable On Sales Yet Stretched On Broader Checks - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXJralk3ZVpUQlNQanZoRHp0cFowVV9SbkFReXpfajR5cEEyWVJaT3hxeFhFam1sT0s4NUJSQjdvU1RKTEQtNHUxa0JjYTRQYXJ6TDlKX3ZXRUlOcEtpcHdfeVdHVmR5MDExUklMdThscFBwcTRNdE01RndwYzlpVGZScEpCWHJZcldYdjlZbFhWWTU5aXVMYnVRMzJnUUNyQjZfVQ?oc=5",
+          "date": "Fri, 31 Jul 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -296,37 +304,41 @@
       ],
       "news": [
         {
-          "title": "Micron: High Risk, High Reward (NASDAQ:MU) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JbFUwUnRYeVFJMFRwQmFMaXlwVGZmTDIyY2Y0eTc2UnBFNGY3bUtGVVI3eWRTNEM0bkRyR1BPeGtnUmgyX0ROWUtnbGpabFgyNVRKU0FkSllnN0xzLUQ2ZkRpeks3em9ualY3eG1YQ1lDT1NDVTlfQQ?oc=5",
+          "title": "Micron Technology Stock Is Falling Monday: What's Going On? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXludzVQWlZWdGctSWZYUTBnZTdTRDVYLVpkM1ItbXc3UVRqNWxmUnNqbGhUNWdwUEE2dS1qTXBLMjFwU0ROTm5jWTVaR29BOUNRVDdKdG0weEk0ZDd4dVRveDNlb0RNbkJVNERCSzBKUUlzRkJqOHlDQW9iZGtyTFFJRzRKMkV4QjJTWlFzTC1mQTNKYXdHcXExLTdzM0NaSlA4dGVzM1NURmM3RFE?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Micron Technology (NASDAQ:MU) Shares Drop on China Capacity Concerns Outpacing DRAM Price Growth - TechStock\u00b2",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlhwRTN4b1pDeFhKeGZtamUteW9MeDRaMEN3MWhFemdtTHJoam4zcEJZODhUajNpbXdlYWRtakwxZ3g0MGhMZ2d3b2RRdVlhelNkN3Jpd3pkeHJnaHpKak84RjQxY2M0VUV2ZHFTT1hqQVNEUnhTcXg4VWpPZ2xRTklnaWVGQnQ0N3JNaU1FekNzSGZLVFE0TnlRSUlUa1FtZVJLR1dHMklPcEdOb2dldXVhTDQ?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "TechStock\u00b2"
+        },
+        {
+          "title": "MU Stock Slides As Semiconductor Selloff Deepens - StocksToTrade",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jM1IwWmdJbEpQdHozRlY5a3hsckFiTTJ4NWt6cGt1ME9iUHhUWk9aaE9wMThwZTFEcDZDd2s0ZHVjWjRNSnVTeXc4OUZfVW1QNGhPQjZLZDlwYk5TaUQ3bFNDVE5HRGpfaXVrTXFFWUZSRmVHN2tzTFd5M28?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "StocksToTrade"
+        },
+        {
+          "title": "Micron: The Case For At Least 52.5% Near-Term Upside (NASDAQ:MU) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTUI0ZGEyaEtzNmlaNTF2WFBHX0xJUTFOamYtYzJKU3Z5c0dkbHhSQ2Eybm9VUEk0TDFHT0pnYzRseEZzR3JnQ0huYjkxRGx2N0ExZUM5NF9MOFYzaEtnUm9LUTF0T1BQaWVtN2tSWldfLV9xM3d1ZkVQVDFUcjNpbVZIY21WVFE3d3Iwd2gweDNmZHl2R2VfaWN4Q043YWlZ?oc=5",
           "date": "Mon, 03 Aug 2026",
           "source": "Seeking Alpha"
         },
         {
-          "title": "Fund\u2019s Missed Bet on Micron Technology (MU) Weighs on Performance - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0RrV1gwY3pEN0RxWFZJUms1dWI4Y250R1N0aGZWaFFhdEI0MDdQQWxxUHVBeDlrNm5RUTFYODhZVmZLd2p5RHhkY1dPRlhaQkdBakpvSHVSMDVxdVBhT3VGc1VuTnZHRTdOSW5NT0ZUNGtLYmNjZWd1ZDE2azRmMENJTmcwNEI1eXZwT2JuLVRFN1g0OXdtczZwNHZjems?oc=5",
-          "date": "Thu, 30 Jul 2026",
+          "title": "Micron Technology Inc. (MU) Is A Top AI Stock In D. E. Shaw\u2019s Holdings - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPczlFUkpjTkUzZlhISEJVZFA0YzRoTjV1ekctekJYbXlIVzd4V3hjU1QxcjgzNjhHc280Wnk0bldwUENJWEdVbmxfcHFZQjlSejI5VTF2djA3Q0FkUEgzZ3UwQlEwNjAwR2c0X0ZnYjJjNTZhdGJ1S3o4R2MwUVQyWWh2bUN0Um1iWTY3YmxkZW8xWmxkLTA3aA?oc=5",
+          "date": "Sun, 12 Jul 2026",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Micron Technology Inc Stock (MU) Moved Down by 3.16% on Jul 31: What Investors Need To Know - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUsxLUplMzNpcGNuaWd1Sy1jZkJrZzlwRVJXR2pjZTYyRUZndW02SzRGTlRxbmRMeUdSU3prUjhSV1pqazA4ckJhMnJQTVVQNUN1Z1RJMGozMFQxcXN2WWR0dF9xTWlnRlNHYjMyOE54M1dob0xVZkR5S2ZMdW42X3ppdW9kWkVO?oc=5",
-          "date": "Fri, 31 Jul 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "Why Is Micron Stock Falling on Friday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNXzFjUjMxbld2ZXA3Y055WkhLYTJjM1BIaVRnb0FwMUgxR3FkOFVQS1hCUVBGaVVHM1NwZ0hSNEFGeU1SUVMxMC0ya1E2Qk9FcjlBLVFGc3NiU1N1YU5OTHB1LUdZMUw2ZU1iTDVDRldudVV3MjNJWXJfdzRfdWZnSzdxMWFNaVZYUkswYVVCOW9VQ2dPZGVMTVl5WHlKQXM?oc=5",
-          "date": "Fri, 31 Jul 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "Micron Stock Rallies As Analysts Hike AI Price Targets - StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE95MnQ0X1FwN1RmSFVtMzhWMExmaHBhYjg2UVF6V2YzUTl1OERZMkVtd2xUVkFZZG5nSmdFYlNYYWNHV0xIZzd6RXVXVU95NC1fVDdJUnB4RE05UDBQSzJFVlA3QzZhYWJpZFRFNW0yVm9VTWN2eWRJZWl1eFc?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "StocksToTrade"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Aging \u2014 latest filing 10 days ago; edge decays over weeks",
+        "cls": "spent"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -348,120 +360,6 @@
           "label": "Hearings mentioning \u201cSemiconductors & Related Devices\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Semiconductors%20%26%20Related%20Devices&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "N/A",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 45.0,
-      "sell_score": 0.0,
-      "net_score": 45.0,
-      "distinct_buyers": 6,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-29 10% OWNER TPG GP A, LLC BUY $50,000,000",
-        "2026-07-24 OTHER Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. BUY $1,894,300",
-        "2026-07-24 OTHER Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. BUY $1,894,300"
-      ],
-      "company": {
-        "name": "N/A",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "TPG GP A, LLC",
-          "kind": "10% OWNER",
-          "note": "57 Form 4 filings on record since 2022; 1 buy of N/A in this tracker's ledger"
-        },
-        {
-          "name": "Bavin Tom",
-          "kind": "OFFICER",
-          "note": "1 Form 4 filings on record since 2025; 1 buy of N/A in this tracker's ledger"
-        },
-        {
-          "name": "Calamos Aksia Hedged Strategies Fund (Offshore), Ltd.",
-          "kind": "OTHER",
-          "note": "2 Form 4 filings on record since 2026; 1 buy of N/A in this tracker's ledger"
-        },
-        {
-          "name": "Cochran John",
-          "kind": "COO",
-          "note": "12 Form 4 filings on record since 2018; 1 buy of N/A in this tracker's ledger"
-        },
-        {
-          "name": "Smith Matthew Eric",
-          "kind": "DIRECTOR",
-          "note": "1 Form 4 filings on record since 2025; 1 buy of N/A in this tracker's ledger"
-        },
-        {
-          "name": "Semple Christopher James",
-          "kind": "CEO",
-          "note": "1 Form 4 filings on record since 2025; 1 buy of N/A in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Top 3 Industrials Stocks You'll Regret Missing In Q3 - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1hGYUVDb1pTcnBmWXpMVW5NX1ZlQVlhOE9KUmc2UGw4QVZGdDBQYkY0cHNkNnJBM3BEZVJPX1B3SlNqb2tXbDNaTENYSG1YNXZNcE1WY240MDVzZk1aOUFHSGo2Si1LYnNnamN2emVBblMwZDh0TG9zYVJWNEQzN1pkVkdYUHFzUTQxaTEyTkwyNGYxQ041Y3A5OFNwdXctcTVicllURDhVT3hueGFuME5PcFo0cFhfZnc?oc=5",
-          "date": "Tue, 21 Jul 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "Insider Stock Purchases: April 01, 2026 - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcnlDRnc1N1NKQ2h3Z3Q0YjgydVVKMUVFcEd4WVVwUGU2TGhKSzhTRGgyd1B2RHJzNFRmbTA2M0pDUVFyUVhQU0ZrdW5rSGJtWWl1ZGxGaHNaSUxzNllNOXpZTHZPWFcwYmdjXzQyeEtkSXRsTDIxcEFBZG1WZUpwTHR3?oc=5",
-          "date": "Wed, 01 Apr 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Which Asset Types Have Held Up Best in Recessions? - Morningstar",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbG5xOE5rOEU5RzdVY0o2OVZ4QnUwUDZwNko4ejVCYTctMmFyTFBuWjU3RndRRHJkOE0yNjdNMm05dHp4b0dOUlE3MXJ2VHZLVktUZXI5Q3ZpUjVVa2FpUV92ajFXdUhkRkV4SkRELUptN0ZpNmlGU0V3cnZ2RHd4bzhUdkJMYzB3eUtWZFRB?oc=5",
-          "date": "Tue, 19 May 2026",
-          "source": "Morningstar"
-        },
-        {
-          "title": "Negative P/E Ratio Explained: What It Means and How to Analyze Unprofitable Stocks - TIKR.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOTdHenNpcjRmUkRWenoyT0lwOE1RdWZ4SGZPSmF2Z1c5TGZMd3pXeGJRMTVmNDNXb1lrdWFnZ0ZFc1lsWktobXBkZ1lUSWZETlk5d2hVVHFSZmhZVnlVYXJYcWNkNHF4cDZjVjJKZ0Q2YjJTQXRXTS1lNlB4UmVJR1lhUFZldVlBV2JYeV9idGVIOWJqYjFDM3BUalBGRXJzcTdnSGt4TDY1NGM?oc=5",
-          "date": "Mon, 20 Apr 2026",
-          "source": "TIKR.com"
-        },
-        {
-          "title": "Passage Bio to Merge With Remix Therapeutics; Remix Valued at $226M, $100M Financing - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTkxvQ1ZBVHhESEUtWElLb0JpWko0VURsdXNkRzV0aTN2TlQ0UHpRa2hCMGxEUHlxQ1U0ZDdVdF9ibUxLWi1abEdDLVlpUHhST1A5RjVwVzJfMHRIVW1uWm9hUXBNZmduN1BYWEZYNkZybXNtXzVPM1hCWnBPQ1V1M1RkMmxFSTJpS1liSmZrak9uSm9LbndqRzV0SUxGNWxORWpneVdpVGFEM2tDeWIzZWxya1N1TUNSZjluWko4eHFZeWkzeFlRc1NzdkMyM3lfc0FndEhxUTJwUQ?oc=5",
-          "date": "Wed, 24 Jun 2026",
-          "source": "TradingView"
-        }
-      ],
-      "news_flags": [],
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cN/A\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=N/A&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cN/A\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=N/A&source=committeemeetings"
         }
       ]
     },
@@ -509,10 +407,16 @@
       ],
       "news": [
         {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Closed Up by 3.20% on Jul 31: Facts Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzFhYmwzZUhkeE9BZXpQNVp1UVQwSmZ1RjlDQk5KbEhCR1B6TmZfd2tPVEFKMVR6TkN2UktGS0M0aVI2OFdmeE1FQ3NzSzV6MTMxcjI0WWdZc2gzeG1HZVZJYzNtdGY2bmRmdWlSOGJfcWpiTzlBaFE4RlFmMDZiaXk2c1BfeGQtOHhR?oc=5",
-          "date": "Fri, 31 Jul 2026",
+          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 3.55% on Aug 3: What Investors Need To Know - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVC04VG9wMHRzWGVKZ3ZsRTEtek5PZm1yYXhYM2xuNW40Z0MwUkhibFg2UXgzX3NZRE5PMjQ0enVFYUdaOXctTVVpYk9pOGo2UTFxN2pwZ2t0Y1dfdFk3U2k4bzZ0dDBWWnpuM2xuUXpXZi1xOUZjbTF2cGJXeWV2LWJUb09VRHU3YUg4?oc=5",
+          "date": "Mon, 03 Aug 2026",
           "source": "TradingKey"
+        },
+        {
+          "title": "CrowdStrike Holdings Inc. Cl A stock rises Friday, outperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGJkbjJyVkJzWE1lcjVsUXZNQnFaWm9lV3hlb2tySjFXTVlwNTFtRVpQRGdRYjVwaTA3UmNGbnlfU05QcFRoYjZFaElaTElmbmx5Ym5JSmR0UlBLWEtfNTRaMjYxQ1JhU183ZDl5QkNlcVg1ZVBNd25hNE8yVVZDVnRxdmlmd29vSktpdXV3TUJnUS1vNEtCUzluanZOaHlLZlRWZUZ4dW05VlZlZTJ4ZExUdUc3NFVpdEV6S1VsOFh5RXVVVkE?oc=5",
+          "date": "Fri, 31 Jul 2026",
+          "source": "MarketWatch"
         },
         {
           "title": "CrowdStrike Stock Just Scored a New 'Buy' Rating. Here's Why. - Yahoo Finance",
@@ -521,25 +425,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "CrowdStrike Holdings Inc. Cl A stock falls Wednesday, still outperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYUd5aTl2MjJaQVdod3JMaU1abjBpQUdyYlFvZXpWWmV1UEo2QU1nVmk1Mi1QWllDYnhMRll5Wm1ac1NrR3RMNUVSV3pMM1BxelFIQ3RMUkVISmdGT1BOZEhJQ0E2Ykx2U1dJdGhSUFUycjBUSU5EdXNlNkJMWGgxWmhYZTdWcE9INnJIaENha21MeEdfNEVwdm1DYjA0VHFiX0lfX3o1X0g5aXVYRnVrUlBKRWFVTzh2QU5KRDFaNXRJR3R1TjY3OHpJQ3hOcHB3Umc?oc=5",
-          "date": "Wed, 29 Jul 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Cyber Stocks Jump as CrowdStrike, Palo Alto Networks Ride AI Agent Hack Fears - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcTV3R3Q2YkVCWFZqcEJtWWxMWjBlZldJZUtKMExlRWpMQVp3T0lINEZ3NndFbnNPeDF5NEpjMUdsbGwtUGtqZFRBYzJHSVRQZkI2NE9mNjN5RXoxNnZldWdkei12RFhnWHNKYjhpeHl6SzduaGxMUDhTRTUwWm1lZTJ4MngwNlhYaWszSGJMT3RGYl9qVzU1NE9lXzBxT0hnVFFTdjJQV0pGbEhYbDdMNWFtamFubVpvcjNWSzcyd180QU91Z1RKc2NXM05MQQ?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "CrowdStrike Holdings, Inc. Revenue Breakdown \u2013 NASDAQ:CRWD - TradingView",
+          "title": "CrowdStrike Holdings, Inc. Revenue Breakdown \u2013 NASDAQ:CRWD - tradingview.com",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSFNoQUFDMm9udGppT0prNVN0REJCRVRmUHd1cnRTdGRzTjEzRG1vaFZycV9BWUgtN2huSll6SmtKc2xOOTFsZHV4bWZ2NXFKRVo1VmRzb0hxQmRidnBzUklfbFZ4WUs4cDFLcmphaVo2RzJVbzdR?oc=5",
           "date": "Fri, 31 Jul 2026",
-          "source": "TradingView"
+          "source": "tradingview.com"
+        },
+        {
+          "title": "CrowdStrike Holdings (CRWD) CEO George Kurtz sells 20,000 shares in planned trades - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWNVOE1hWEpyaEdfRlhmNEJaWXMwc0xYcXRubjQ5VDhqVW10T1N0Q0JyMFJVV0FQODVxQmFUUlRUQnQ3TnZIV0JNS1RBUG85OGFzZ0hWVlcwUmRFaVAyQmpWQlV4V1REX2xGUFNmQjBEMkViZE0tM3F5b01KdmZQWGo2a1Z4WEY5N3pZRzl3c2U1OGljTDZWcTdEam9hZlJ5Z1MtV1RpY0R3X2lHSnRxUTRmWGxCVkVLeXZ3?oc=5",
+          "date": "Fri, 31 Jul 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -655,16 +557,16 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "SkyWest's CEO Just Sold $5.7 Million in Stock. Here's What Long-Term Investors Should Know - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMnVsRTZsMDJuNUNkenNXamE2bFhqYzA4NFh5bUE3QmI4Q3MtamRKQlY3S2JpZFVFX1dOa0RBeUJ0QVl5OVVUMnRtZGdldFdzcnVfcWY0cUZtckFYTzNGSzJ2SmFvN3ROTFE4SXVseXptdThzMm9VamNuczNpUmpJSTdhLUFwSElOUlJZV2FTaU1veEo3RkxhQlg2UEVfUU93Z0xLZmRWQzlrdVJnN0FfSDdCSWRtZlpOWVNZTlByN1Z6clNkR3FLd0UxWHhyemQ5RVduaXFwN1E?oc=5",
+          "date": "Sun, 02 Aug 2026",
+          "source": "The Motley Fool"
+        },
+        {
           "title": "SkyWest Inc. (SKYW) CFO sells 25,000 common shares in open-market trades - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlgya1RvUDdxVms1T05yTmZleFBEXzBaYTZGd1dtYi1UdmtUQmtEbmd5aG05T3I0Mlc3MExaUkltLXZ0bXktOWMxWXQ4M0dsWU9RUV9xeHFpZlRqd1FCdkpBMk0tcGdFaERlTmxDTWVjNFJMTjVSaEM0ZWFsalg5TDl4dE5xRHVJV3I0R1VuWno4d1Y4eW91WXRJTjZNeWVKQjJLVUNKN0E?oc=5",
           "date": "Fri, 31 Jul 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "SKYW|SkyWest Inc|Price:109.640|Chg%:-4.110 - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLU9tQXRqRGxsQXljRDZIVk9sNDJINEFoS2pvWFFpNkZ4bVJ5aFZFUW9lYmNZbXlsM0VJVDQ4THladXhzdjdsd3o5emdGVTFmbHZpOU1tSGljWDRZTmpSRC1ETnVOV2dKMUQ5VFpB?oc=5",
-          "date": "Tue, 28 Jul 2026",
-          "source": "TradingKey"
         },
         {
           "title": "SkyWest\u2019s Greg Wooley, EVP operations, sells $1.92m in stock - Investing.com",
@@ -673,13 +575,17 @@
           "source": "Investing.com"
         },
         {
-          "title": "SkyWest Shares Rise 7.7% Since Second-Quarter 2026 Earnings Release - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlhJS1BqVHFzMTYydUh1cVRKb0NVOE1JWGd3SzVkR2pPMmdzMnUzM2hXMDlQYjY3VEZzSk9CSnZaNW9rdV95TTJ0MlJhTFROSTQ5S3B5d2ExNEVXNjBDNnZMWDFaNmxtc0dkNW03b1o0U0w3WlFzQ1hFdjFyRVBKMS1jdlE5YUI0a1VHUlpDcnZOTGxWYy1UZXNkaDlWdHBYbFE3SXkwNnNvQWpXdHJlQ3RwSGEtZDJyZWF2YUZDbw?oc=5",
-          "date": "Mon, 27 Jul 2026",
-          "source": "TradingView"
+          "title": "SKYW|SkyWest Inc|Price:109.640|Chg%:-4.110 - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fLU9tQXRqRGxsQXljRDZIVk9sNDJINEFoS2pvWFFpNkZ4bVJ5aFZFUW9lYmNZbXlsM0VJVDQ4THladXhzdjdsd3o5emdGVTFmbHZpOU1tSGljWDRZTmpSRC1ETnVOV2dKMUQ5VFpB?oc=5",
+          "date": "Tue, 28 Jul 2026",
+          "source": "TradingKey"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -770,16 +676,16 @@
       ],
       "news": [
         {
-          "title": "Darden Restaurants (DRI) Stock Price, News & Analysis $DRI - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQXVvWE1SLUhIY2U5SnVmRFRzWFlvNzdhNjJtTnBvRThKYlc1Vk5aSlotTGdOcEFzdkdDbzdNQlBvT3lHb0M3NVoyN0FwT1VybEtMYkhB?oc=5",
-          "date": "Fri, 31 Jul 2026",
-          "source": "MarketBeat"
+          "title": "Darden Restaurants Inc. stock outperforms competitors on strong trading day - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTVhHSVJJdlJHclQyV3o4dG9zMF82N2JMNzlnRGRIc003NWFTaUdDOS1Wa3V1V3Utd0pFdEtMSWRaOVFFM25EcDFLQjRnVEZZc1g5Zkx3WlA1QWdfZGlxTTFiM0JoMWRhTGJyVGRsUmt2OVFGMmtjZmxHcGdEOWhfOTFZUnFMc0k2LTVWTGpMYnVpdkozNnZyMEFGMkc2V0UzMjYyaWxjdGMwTXVQam9FNjk2VEhuMjhTVG0xeUlLLWdNMVFsRzVvMGF5RnNEaVZzSzBQMk5OWHIybUxXdU1ZYnhOVnUxWTA?oc=5",
+          "date": "Wed, 29 Jul 2026",
+          "source": "MarketWatch"
         },
         {
-          "title": "Darden Restaurants Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN3RkWENublpqZEpSaDd5eW5rQnNrVTNQS0RHaEU4RHNxYTZVZ2o0UTdYTjNwbGs0X0E0WEZQYTRRVE9mQVNOdnhCTDRkanp0V1ZGMVBpQzhRREVsOUE2blpKRDJNS1BqN3BLYmh0Y1d2cWFWZkI4THpFSlJLRzdCcGQxRGlSWjRCdGtZWnNON0ZxT1k5VC13cFA4aGVHZWZnN0YwZTBEQWprelBfYlJBUkFsaThqVy1HRWR2OVdqOFc2WER5QnFVS1paWmN0MkFpSlhiNml5eTBtRk1wRE9rcEN0amdYUmtBcUtydQ?oc=5",
+          "title": "Darden Restaurants, Inc. $DRI Stock Holdings Cut by First Trust Advisors LP - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQmhNaHktLXJ6TmgxYWlGNFhBNF9Xa2ZEZEZMdU5fOGNBb1F1dWM4TVZOdlpuUHZwVHRINXIyckNCdWR3dlNabWJuSEw0NHY0bW5YUEZ1MFY4aEU1Zlhybm1QTVdDNk5FbVFOZFdfUWRHT2JQUEpFWTlvLVc3cHIwX3pWeUV0TXJuZUNZa1pWOFB0X0tsRHllZEhIS0MwMUZZMjk1anNUUEwwdGY2cHljbEw0VjAzX0hXcExZLUZKSXA4TWdXek5oREliak1Odw?oc=5",
           "date": "Fri, 31 Jul 2026",
-          "source": "MarketWatch"
+          "source": "MarketBeat"
         },
         {
           "title": "Is Darden Restaurants, Inc. (DRI) A Good Stock To Buy Now? - Yahoo Finance",
@@ -788,19 +694,23 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Darden restaurants SVP Sarah King sells $920k in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFJPZ1JoNjd3bmxIdE5oT3FCdnExVmxiVGx6MWRTakRTMVJVeFJKc2tkYzRXQVl6MU9kMGhpb0lzMlhOM2R0LVdJaF9OTWFEblctYjBsbHZpejhrenlUSW1PVENJaWpPaWpaSXJ3ZmE3cFd5eE5fcHZzelF5c0RIaDhRNGRLY2RCVFFKTWx6SFRWVjZ1QXA3cm4wc1hyVWlkSG42cFJRUXhJcF9QbTk5cnBrdFpJTVVpNHc?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "Investing.com"
-        },
-        {
           "title": "Darden Restaurants (NYSE: DRI) insider Susan Connelly plans sale of 2,226 shares - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTHNwcnpnQXlzakIyamtOMkNMeTVlODYyR0xRVENVT2RlWmZqaFhFdEtENXd0VlVnSmhfY280c0VfUDdxNkQ2UXBCeXRQclZUNU5zRFd3MGNZWkMzM01wT2hoR1VBY1VwaXdoR3dzd0tYMlp3OFh1UnhsSVplSU1xeW0wWlhKZ1dsVjJYMDJlMTdwanFpcnlpTmwyc2ZQVlU?oc=5",
           "date": "Wed, 29 Jul 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Darden Restaurants SVP Connelly sells $463,388 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZmJiT2QyNE9vZ0Jzb0didlg0cTNiY2k2TEkxWUVTMkpyVjZDX2RvZEU5UzVrd2NYelMwMGNxNnV4ZFBCWDFwOFFfZ1V0c3ZxWFNYbVprUWdPTElNeVlveXZGVzdRY2tEeGV0WlVVSWJfS0NvNHA5YjB2TWQ2RVRNeVRfeGhWazhpSllaMHlDTktLblNwNUo4dFpwM1pWMUdSb0JtMHBDSjFubmJwQ29CVlNhaVlNdU1MNGc?oc=5",
+          "date": "Thu, 30 Jul 2026",
+          "source": "Investing.com"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -898,10 +808,10 @@
       ],
       "news": [
         {
-          "title": "The Manufacturers Life Insurance Company Sells 5,386 Shares of Ameriprise Financial, Inc. $AMP - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOU1fS1lMQmVueVVvNFdkakw5dEthc1JJOGp2c1ZNTlJNYmNNM2VZaVJzUzZGUVRGTTRIYk9nLTBma2doZGxkcS1kc2xacWVKQnBKOE9jcW00WlUzYlFHVTQtLXYwWUF6YnhTSzNzSlBscV80RS1vTnFqVml1Y1FFSWllUWtEbkVIeWgtYzFURFlSZE1za3d6b2xSajNtX0lvNXRxLW1uaF9DRzFCUm1yVTZmaEFuUlFkdTdhS25wd1FNYzMwU2VtNDJMTzBocjIzYjRMYkFWeWd0YUpIejJJSjZwMmZlUQ?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "MarketBeat"
+          "title": "Ameriprise Financial Inc's Dividend Analysis - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVR2THFOampLanp5YkVhWUhxQ1N5djQydnNxNFN1UzVxVU50VVQ0YkRrMzVWZXIyakhwNFVYODV5MXRWWHJybGUwNzl4dTlMTENhUVNMbVdjaWlsSEtoakN1QUlWSjZpVWFJYWtuc2RxTnVZMWRRekdQSWpXWU5lZDJZQlNueEFTLXNuTURFT0lxTzFwcjVyUTgwUTFFbUZfczNrZmlDZ0cxbURI?oc=5",
+          "date": "Mon, 03 Aug 2026",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Ameriprise Financial Inc. stock outperforms competitors despite losses on the day - MarketWatch",
@@ -916,19 +826,23 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Ameriprise Financial, Inc. Stock 12\u2011Month Price Target Raised to $577.3, Implies 9% Upside - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd3ZiNkRvaElFSmxvUER4VkV4MnRaZDNZYW9nbGlMT29mVTIyVnVuSDV6QVBnTk9sMGEyZllCOG9TTUp3cmR1UGN2eXBXb3JoVHNZbzdZaHhRWDJuYmZ6THc3a0xGTjJNeTNGcF9uVjhSelZEa21CckRMeGNobmV1cXRoMEFyTlBCekdLSzdiR04xVTJwaEVQckVsOUFqalBPUGNfQ2M1VjdDbUxnRHo2TWtlNlV4eXI4bUxlY0NKeVVod09XV3dwVkR0d1ZXYURvR25wcFJVRHNiMmwyalV2Mg?oc=5",
-          "date": "Mon, 27 Jul 2026",
-          "source": "TradingView"
+          "title": "Enterprise value to revenue forward of Ameriprise Financial, Inc. \u2013 NYSE:AMP - tradingview.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVjhUYTNCSWRJbW81V2pybTFsczdRT0FrVzFuN21MZG9GVGRyVEFoUUxuR0ZQSTVEVThsX2ZqUl9ja0ZrdFlkZ2d6eVdPZ3ZoQjZvVjRhNFI5czdJUGpNckoxRTRqall5ZVlHOHlCaTRQS2sxZHFpSjBUQS1rYU9scWwtaFBaNWFFNGo4bFZCVnB5T256NTBuczBMWk1hUzFaUmRGdWxFbTc?oc=5",
+          "date": "Fri, 31 Jul 2026",
+          "source": "tradingview.com"
         },
         {
-          "title": "Is Ameriprise Financial (AMP) a Great Value Stock Right Now? - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUt2LV9VRHdGX3JhbWdTZ0xDNTFTTnVRS204ZDVVTW01d2VNbFFjUlNlRE9XcU1fZTl6djZvQ3oyTGhSUEFQTTNReklLSU1UYjRGNEpmVHRldmdvcW5Zb0NoelFZTXJ3LXRHWkduMk1yYUo2bXJKbjBhN3NWT1NYZHFRT0N1cDZWdnZ2a0ln?oc=5",
-          "date": "Tue, 28 Jul 2026",
-          "source": "Yahoo Finance Singapore"
+          "title": "The Manufacturers Life Insurance Company Sells 5,386 Shares of Ameriprise Financial, Inc. $AMP - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOOU1fS1lMQmVueVVvNFdkakw5dEthc1JJOGp2c1ZNTlJNYmNNM2VZaVJzUzZGUVRGTTRIYk9nLTBma2doZGxkcS1kc2xacWVKQnBKOE9jcW00WlUzYlFHVTQtLXYwWUF6YnhTSzNzSlBscV80RS1vTnFqVml1Y1FFSWllUWtEbkVIeWgtYzFURFlSZE1za3d6b2xSajNtX0lvNXRxLW1uaF9DRzFCUm1yVTZmaEFuUlFkdTdhS25wd1FNYzMwU2VtNDJMTzBocjIzYjRMYkFWeWd0YUpIejJJSjZwMmZlUQ?oc=5",
+          "date": "Sun, 02 Aug 2026",
+          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -1004,9 +918,9 @@
       ],
       "news": [
         {
-          "title": "United Therapeutics (UTHR) CEO exercises 9,500 options, sells shares under plan - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU82N09WODJYSWsxTmdmdkIycHg5Z2dpSTdEZjVPWjAtTEUwdlZqOXBNbDI2QnZRR1gwWEF6c2xPeUlJSkdIeVlWWFhNS1J2aVJ3Q1ZscHJGUnpnaDhwUi1lTmNCR2cyUnE5Y1M1NHMwRFVXYjVsMXVjeHQ2b0ZFRTV5Rk5fdzRhdHpKQmZRbWFDVFZLeUhMVnhoTVdpTm1UQmJRaTJWUmRlRnpELVBPWVYwMjdCYzJIYUE?oc=5",
-          "date": "Thu, 30 Jul 2026",
+          "title": "United Therapeutics (UTHR) CEO trusts exercise options, sell 9,500 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2NYanU3NGNILUs4WHYtMTVOU1ZzSlJsTU9tU2FJb2c4TFhlaWFJVEJMX3kzMXE1eDVNS00xT0FrNENjN0ZUMm11djhIemZjOG9DeWl2QnR1QU5ycXFUdjFod1J4NURfc01jbFhaOWVLT0xURl9tRnMwLS15X0UyMTkzTTVmVnR2aFlGbVZqR3VVTHdnVEZia2hrUmhORngwSnIzaFJwbktvMXlfY3l0SjJXQmNhR1VhWmc?oc=5",
+          "date": "Fri, 31 Jul 2026",
           "source": "Stock Titan"
         },
         {
@@ -1022,9 +936,9 @@
           "source": "TradingKey"
         },
         {
-          "title": "United Therapeutics (UTHR) CEO trusts exercise options, sell 9,500 shares - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV2NYanU3NGNILUs4WHYtMTVOU1ZzSlJsTU9tU2FJb2c4TFhlaWFJVEJMX3kzMXE1eDVNS00xT0FrNENjN0ZUMm11djhIemZjOG9DeWl2QnR1QU5ycXFUdjFod1J4NURfc01jbFhaOWVLT0xURl9tRnMwLS15X0UyMTkzTTVmVnR2aFlGbVZqR3VVTHdnVEZia2hrUmhORngwSnIzaFJwbktvMXlfY3l0SjJXQmNhR1VhWmc?oc=5",
-          "date": "Fri, 31 Jul 2026",
+          "title": "United Therapeutics (UTHR) CEO exercises 9,500 options, sells shares under plan - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU82N09WODJYSWsxTmdmdkIycHg5Z2dpSTdEZjVPWjAtTEUwdlZqOXBNbDI2QnZRR1gwWEF6c2xPeUlJSkdIeVlWWFhNS1J2aVJ3Q1ZscHJGUnpnaDhwUi1lTmNCR2cyUnE5Y1M1NHMwRFVXYjVsMXVjeHQ2b0ZFRTV5Rk5fdzRhdHpKQmZRbWFDVFZLeUhMVnhoTVdpTm1UQmJRaTJWUmRlRnpELVBPWVYwMjdCYzJIYUE?oc=5",
+          "date": "Thu, 30 Jul 2026",
           "source": "Stock Titan"
         },
         {
@@ -1035,6 +949,10 @@
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -1154,25 +1072,29 @@
           "source": "Investing.com South Africa"
         },
         {
-          "title": "Charles Schwab Corp Depositary Shs Repr 1/40th Non-Cum Pfd Shs Series J Trade Ideas \u2014 BOATS:SCHW/PJ - TradingView",
+          "title": "Charles Schwab Corp (NYSE: SCHW) CRO exercises options and sells 32,947 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMExwcE11Sk1Ha0Z0eUQ0QWVPNU95NXhtbzVkRGFyX1BnLUczVWU3LWgwdkpMY2VyVjhBWGlZanF2NVp0SWRqN2Rqek80aDNRXzBiWnpfOEYzOVNibjU5bU9XeVNwM3pBXzRKWmJ6ajlaSDhoa2JYNXViYXVGNEdqWXE0RUZjMlhDcDJackJjR0EtZ1NlS2ZTM1gzRXN5Y0NuN2VGUGhMUGtGR0Vsbmc1TnRoUQ?oc=5",
+          "date": "Thu, 30 Jul 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Charles Schwab Corp Depositary Shs Repr 1/40th Non-Cum Pfd Shs Series J Trade Ideas \u2014 BOATS:SCHW/PJ - tradingview.com",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92ZDNLcThnZDhuY19KMFJNS2R0TkozM2pxN3BncGlaaXU4UWxxOTU3b2IxX1dUOGVLYm5HdHktSVRGMkFXWV9uRTNFX2JvQVFVWkdsbVJyVFQ3ak16Zml3d1NJUWZNNktGLVhRMHkzWU8?oc=5",
           "date": "Mon, 27 Jul 2026",
-          "source": "TradingView"
+          "source": "tradingview.com"
         },
         {
           "title": "Schwab Charles (NYSE: SCHW) exec sells 28,000 shares after option exercise - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFhzUko3cVdhYnNvWU5NeDNxRWJwMHROUDBENEhERjVFXzNVV0xrcnJMQnpJMWUxNXh3QjEzVDBaei1mM1hiZE1mVmVFWnhiZ0hiS1otWmhINC0xVGJrdU5JejlQc0RBSk9XTUloc3NhZ0lqMXVZQUtxWG0tUWZIQjdnVGtyY2o5MG55N1lncGpiMGs2NGlIdkNkU01OVmJlYzlJODRMX1JFWkc1MW5IY014OA?oc=5",
           "date": "Thu, 30 Jul 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "Charles Schwab Corp (NYSE: SCHW) CRO exercises options and sells 32,947 shares - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMExwcE11Sk1Ha0Z0eUQ0QWVPNU95NXhtbzVkRGFyX1BnLUczVWU3LWgwdkpMY2VyVjhBWGlZanF2NVp0SWRqN2Rqek80aDNRXzBiWnpfOEYzOVNibjU5bU9XeVNwM3pBXzRKWmJ6ajlaSDhoa2JYNXViYXVGNEdqWXE0RUZjMlhDcDJackJjR0EtZ1NlS2ZTM1gzRXN5Y0NuN2VGUGhMUGtGR0Vsbmc1TnRoUQ?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
       "earnings_soon": false,
       "legislation": [
         {
@@ -1194,135 +1116,6 @@
           "label": "Hearings mentioning \u201cSecurity Brokers, Dealers & Flotation Companies\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Security%20Brokers%2C%20Dealers%20%26%20Flotation%20Companies&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "NONE",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 44.8,
-      "sell_score": 10.7,
-      "net_score": 34.1,
-      "distinct_buyers": 6,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-07-29 OTHER Green Joshua Michael BUY $1,250,000",
-        "2026-07-29 OTHER Green Joshua Michael BUY $1,250,000",
-        "2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000",
-        "2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000",
-        "2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000",
-        "2026-07-28 OTHER Silver Point Capital L.P. SELL $2,110,000",
-        "2026-07-28 OTHER Abu Dhabi Investment Authority BUY $22,935,759",
-        "2026-07-28 OTHER Abu Dhabi Investment Authority BUY $22,935,759"
-      ],
-      "company": {
-        "name": "NONE",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Green Joshua Michael",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2026; 1 buy of NONE in this tracker's ledger"
-        },
-        {
-          "name": "Abu Dhabi Investment Authority",
-          "kind": "OTHER",
-          "note": "56 Form 4 filings on record since 2006; 1 buy of NONE in this tracker's ledger"
-        },
-        {
-          "name": "Silver Point Capital L.P.",
-          "kind": "OTHER",
-          "note": "335 Form 4 filings on record since 2005; 1 sale of NONE in this tracker's ledger"
-        },
-        {
-          "name": "PRUDENTIAL INSURANCE CO OF AMERICA",
-          "kind": "10% OWNER",
-          "note": "42 Form 4 filings on record since 1997; 1 sale of NONE in this tracker's ledger"
-        },
-        {
-          "name": "LIBERTY MUTUAL HOLDING Co INC.",
-          "kind": "OTHER",
-          "note": "27 Form 4 filings on record since 2010; 3 buys of NONE in this tracker's ledger"
-        },
-        {
-          "name": "MSD CAPITAL, L.P.",
-          "kind": "OTHER",
-          "note": "160 Form 4 filings on record since 2000; 1 buy of NONE in this tracker's ledger"
-        },
-        {
-          "name": "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL",
-          "kind": "10% OWNER",
-          "note": "105 Form 4 filings on record since 1997; 1 buy of NONE in this tracker's ledger"
-        },
-        {
-          "name": "Haugen Timothy",
-          "kind": "OTHER",
-          "note": "51 Form 4 filings on record since 2013; 1 sale of NONE in this tracker's ledger"
-        },
-        {
-          "name": "Korsmo Michelle L.",
-          "kind": "OTHER",
-          "note": "43 Form 4 filings on record since 2017; 1 buy of NONE in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Insider Purchase: Director at $[NONE] Buys 1,628 Shares - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGVwMTRhV2xPcnBQWUhrWk1FMnNKRXRLWGlXcHBzejNCbHMyZGhGN3BCTmZWcTg3TnJOX18yckE3cGJKa3NHYmZaeURPM3lYRDRqMHZoQzF1RENGS3hZYmdFV2hiQnBaWE9wWXJ5SEFyN29ZdVdNeU5OblFfUkxDYjhJTnBOMXVQM3pzakF3Y2IySXVleVdJRGlYVFVDVUU?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Goosehead Insurance(GSHD.US) None Buys US$9.1 Million in Common Stock - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHNnWENSbWR6Q0NVM3BsdFh2cmdJY3NXbXZhVjRPdXVPbVh6blZSdVc1Q0Z6bTFIS2hleFZMeC1nX0d3aW8xOG92bWliVEsxRU5aVjREbk1VWnVkeXRzTldfWUNXSUJoRkstUXFhLUx0NXBCQTN1NmhlekViTlVPY1RWSGF0RnBvYWhibExfRXFTTUVzb1ZyczI0UVU?oc=5",
-          "date": "Tue, 28 Jul 2026",
-          "source": "Moomoo"
-        },
-        {
-          "title": "Carnival Corporation Stock Has 30 Analysts Watching. None of Them Say Sell. - TIKR.com",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVF1aDlYSFExV0RnTWh2UUhyNjJlQkRKUVlFLWFXeWlvNmdtR0FSNDlnZHB1Q2l3WDRfQVVmdzZ6aVhXNGhqQnhqeTJ3WnVlZDhVd0I3Nm9sZWRwV3RPMWlZVVNpbXJvR0l0ZnF4QmJhSHhXZ1dwVFBEREUxTWdRR1N0bGlSRWo2N2REc25ESUhudURKVlV6aGFobHZqQlVT?oc=5",
-          "date": "Thu, 09 Jul 2026",
-          "source": "TIKR.com"
-        },
-        {
-          "title": "Alphabet (NASDAQ:GOOGL) Beat Earnings by 215%. Almost None of It Came From Google. - Stocks Down Under",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sYVZ6ckdtMFBkTTRyaUF4bFpqbzh4R0loYTN1T21BcHhhakNpd2NDS2I5aGxMaUg3TjVka2FhekZmNEZIZVJnRkFIWldpTVlWa0tRT1YyQ2I1OGUtcmtYX2QwQUJNUzlKdjd5SzN4Njc?oc=5",
-          "date": "Thu, 23 Jul 2026",
-          "source": "Stocks Down Under"
-        },
-        {
-          "title": "Jim Cramer Says \u201cAlphabet Has a Mosaic Like None Other\u201d - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2ZJSF9oNUVXcVk2ajU5X29UUjVLbmljaTJ4WGk3MlJGOExNU2EyUWZPdU1kUUhhdVlmWHJpcnJaam1TVFlwVWFWNVZtV3ZKdU9NLWxqTmhlLWdCQk1sXzZBNWo0TlU4T1d3QVYzWVFjTUlfRlRMR1JUMHk0ZnlybmoyZEJQQUFIRFJuZUVQUDlBZVdsSnBGTHdIZzE?oc=5",
-          "date": "Mon, 27 Apr 2026",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "news_flags": [],
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cNONE\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NONE&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cNONE\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NONE&source=committeemeetings"
         }
       ]
     }

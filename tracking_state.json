@@ -1,4 +1,15 @@
 {
-  "tracked": {},
+  "tracked": {
+    "CRWV": {
+      "action": "SELL",
+      "start_date": "2026-08-03",
+      "start_price": null
+    },
+    "DRI": {
+      "action": "SELL",
+      "start_date": "2026-08-03",
+      "start_price": null
+    }
+  },
   "rejected": []
 }
