@@ -41,10 +41,12 @@ def send_daily_ping(signals: list[dict], date: str,
         lines.append("")
         lines.append("<b>Your tracked names</b>")
         for t in sorted(movers, key=lambda x: -abs(x["pct"]))[:5]:
+            tf = " \u26a0 " + ", ".join(t["news_flags"][:2]) if t.get("news_flags") else ""
             lines.append(f"{t['ticker']} day {t['day']}/{t['days_total']}: "
-                         f"{t['pct']:+.1f}% since your {t['action']} call")
+                         f"{t['pct']:+.1f}% since your {t['action']} call{tf}")
     if portal:
-        lines += ["", f'<a href="{portal}">Open full report →</a>']
+        fresh = f"{portal}{'&' if '?' in portal else '?'}d={date}"
+        lines += ["", f'<a href="{fresh}">Open full report →</a>']
     body = {"chat_id": chat, "text": "\n".join(lines),
             "parse_mode": "HTML", "disable_web_page_preview": True}
     req = Request(f"https://api.telegram.org/bot{token}/sendMessage",
