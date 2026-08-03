@@ -11,9 +11,9 @@ import os
 import urllib.parse
 import datetime as dt
 
-P = {"bg": "#F7F5EF", "card": "#FFFFFF", "ink": "#14284B", "mut": "#5E6E8C",
-     "line": "#E5E1D6", "brand": "#1F3A6E", "buy": "#17A06F",
-     "sell": "#DC5B6E", "watch": "#C9962E"}
+P = {"bg": "#F1F7F3", "card": "#FFFFFF", "ink": "#183B31", "mut": "#5F7A6E",
+     "line": "#DCE8DF", "brand": "#0E8F6E", "buy": "#17A374",
+     "sell": "#E15A72", "watch": "#CE8A1B"}
 
 
 def _repo() -> str:
@@ -237,6 +237,16 @@ def _tracking_section(tracked: list[dict]) -> str:
         spx = f"${t['start_price']:.2f}" if t.get("start_price") else "—"
         npx = f"${t['price_now']:.2f}" if t.get("price_now") else "—"
         pctdone = int(100 * t["day"] / t["days_total"])
+        pv = t.get("pct")
+        if pv is None:
+            pcell = '<span class="mut">—</span>'
+        else:
+            good = (pv >= 0) if t["action"] == "BUY" else (pv <= 0)
+            pcell = (f'<span class="num {"up" if good else "dn"}">'
+                     f'{pv:+.1f}%</span>')
+        sell_note = ('<p class="mut tiny">Sell/avoid call: a falling price '
+                     'means the call is working.</p>'
+                     if t["action"] == "SELL" else "")
         tflags = "".join(f'<span class="chip chip-news">\u26a0 News: '
                          f'{__import__("html").escape(f)}</span>'
                          for f in t.get("news_flags", [])[:3])
@@ -254,8 +264,9 @@ def _tracking_section(tracked: list[dict]) -> str:
     <div class="stats">
       <div class="stat"><span class="lbl">Decision \u00b7 {t['start_date']}</span><span class="num val">{spx}</span></div>
       <div class="stat"><span class="lbl">Now</span><span class="num val">{npx}</span></div>
-      <div class="stat"><span class="lbl">Since decision</span>{_pct(t.get('pct'))}</div>
+      <div class="stat"><span class="lbl">Since decision</span>{pcell}</div>
     </div>
+    {sell_note}
   </div>
 </article>"""
     return ('<section><h2>Your tracked decisions</h2>'
@@ -313,8 +324,8 @@ def build_portal(signals: list[dict], out_path: str,
 --line:{P['line']};--brand:{P['brand']};--buy:{P['buy']};--sell:{P['sell']};
 --watch:{P['watch']}}}
 @media (prefers-color-scheme:dark){{
-:root{{--bg:#0C182E;--card:#152742;--ink:#EDEBE0;--mut:#94A3BE;
---line:#24395C;--brand:#E2B457;--buy:#3BC48F;--sell:#F2848F;--watch:#E2B457}}
+:root{{--bg:#0E1F1A;--card:#163028;--ink:#E9F2EC;--mut:#93AC9F;
+--line:#25443A;--brand:#4FC79E;--buy:#3BC48F;--sell:#F2848F;--watch:#E4B45C}}
 .card,.kpi,.panel{{box-shadow:0 1px 2px rgba(0,0,0,.28),0 10px 28px rgba(0,0,0,.24)}}
 body{{-webkit-font-smoothing:antialiased}}}}
 *{{box-sizing:border-box;margin:0}}
