@@ -148,6 +148,9 @@ def _card(s: dict) -> str:
     nflags = "".join(f'<span class="chip chip-news">\u26a0 News: '
                      f'{html.escape(f)}</span>'
                      for f in s.get("news_flags", [])[:3])
+    tm = s.get("timing")
+    timing = (f'<span class="chip chip-{tm["cls"]}">'
+              f'{html.escape(tm["label"])}</span>' if tm else "")
     return f"""
 <article class="card" style="--c:{color}">
   <header class="head">
@@ -166,7 +169,7 @@ def _card(s: dict) -> str:
       <div class="stat"><span class="lbl">14 day</span>{_pct(s.get('pct_14d'))}</div>
     </div>
     {_sparkline(closes, color)}
-    <div class="chips">{short}{earn}{nflags}</div>
+    <div class="chips">{timing}{short}{earn}{nflags}</div>
     <p class="mut meta">{s['distinct_buyers']} buyer(s) \u00b7 {s['distinct_sellers']} seller(s) \u00b7 score {s['buy_score']} / {s['sell_score']}</p>
     {_buttons(s)}
     <details><summary>Latest news <span class="cnt">{len(s.get('news', []))}</span></summary>
@@ -234,6 +237,10 @@ def _tracking_section(tracked: list[dict]) -> str:
         spx = f"${t['start_price']:.2f}" if t.get("start_price") else "—"
         npx = f"${t['price_now']:.2f}" if t.get("price_now") else "—"
         pctdone = int(100 * t["day"] / t["days_total"])
+        tflags = "".join(f'<span class="chip chip-news">\u26a0 News: '
+                         f'{__import__("html").escape(f)}</span>'
+                         for f in t.get("news_flags", [])[:3])
+        tflags = f'<div class="chips" style="margin-bottom:.4rem">{tflags}</div>' if tflags else ""
         rows += f"""
 <article class="card slim" style="--c:{color}">
   <header class="head">
@@ -242,6 +249,7 @@ def _tracking_section(tracked: list[dict]) -> str:
     <span class="net">day {t['day']} / {t['days_total']}</span>
   </header>
   <div class="body">
+    {tflags}
     <div class="prog"><i style="width:{pctdone}%"></i></div>
     <div class="stats">
       <div class="stat"><span class="lbl">Decision \u00b7 {t['start_date']}</span><span class="num val">{spx}</span></div>
@@ -375,6 +383,9 @@ border-radius:14px;flex:1;text-align:center;min-width:96px}}
 .browse-head{{margin-top:.55rem;text-transform:uppercase;letter-spacing:.07em;
 font-size:.66rem;font-weight:700;list-style:none}}
 .browse a{{font-weight:400;font-size:.8rem;color:var(--mut)}}
+.chip-fresh{{background:color-mix(in srgb,var(--buy) 13%,var(--card));color:var(--buy)}}
+.chip-mid{{background:color-mix(in srgb,var(--watch) 14%,var(--card));color:var(--watch)}}
+.chip-spent{{background:color-mix(in srgb,var(--mut) 14%,var(--card));color:var(--mut)}}
 .chip-news{{background:color-mix(in srgb,var(--sell) 10%,var(--card));
 color:var(--sell);border:1px dashed color-mix(in srgb,var(--sell) 45%,var(--card))}}
 .btn:focus-visible,summary:focus-visible{{outline:2px solid var(--brand);
