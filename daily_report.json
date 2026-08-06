@@ -1,13 +1,435 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "signals": [
     {
-      "ticker": "JMKE",
+      "ticker": "GBFH",
       "call": "BUY",
       "short_candidate": false,
       "buy_score": 60.0,
-      "sell_score": 23.6,
-      "net_score": 36.4,
+      "sell_score": 0.0,
+      "net_score": 60.0,
+      "distinct_buyers": 4,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-04 OTHER Herbst Timothy P BUY $214,971",
+        "2026-08-04 OTHER Herbst Timothy P BUY $214,971",
+        "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
+        "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
+        "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
+        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852",
+        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852",
+        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852"
+      ],
+      "company": {
+        "name": "GBank Financial Holdings Inc.",
+        "industry": "State Commercial Banks"
+      },
+      "trend": {
+        "dates": [],
+        "closes": []
+      },
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-07-29",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526323761/gbfh-20260724.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-23",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526313490/gbfh-20260723.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-20",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526308942/gbfh-20260720.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-05-19",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526230737/gbfh-20260515.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-05-15",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526226363/gbfh-20260331.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "NIGRO EDWARD MICHAEL",
+          "kind": "CEO",
+          "note": "9 Form 4 filings on record since 2005; 1 buy of GBFH in this tracker's ledger"
+        },
+        {
+          "name": "Nigro Todd Anthony",
+          "kind": "OFFICER",
+          "note": "6 Form 4 filings on record since 2025; 1 buy of GBFH in this tracker's ledger"
+        },
+        {
+          "name": "NEWGARD JEFFREY K",
+          "kind": "CEO",
+          "note": "6 Form 4 filings on record since 2014; 4 buys of GBFH in this tracker's ledger"
+        },
+        {
+          "name": "Herbst Timothy P",
+          "kind": "OTHER",
+          "note": "4 Form 4 filings on record since 2025; 1 buy of GBFH in this tracker's ledger"
+        }
+      ],
+      "news": [],
+      "news_flags": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": true,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cGBank Financial\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=GBank%20Financial&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cGBank Financial\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=GBank%20Financial&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cState Commercial Banks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=State%20Commercial%20Banks&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cState Commercial Banks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=State%20Commercial%20Banks&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "NET",
+      "call": "SELL",
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 60.0,
+      "net_score": -60.0,
+      "distinct_buyers": 0,
+      "distinct_sellers": 2,
+      "evidence": [
+        "2026-08-05 CEO Prince Matthew SELL $92,978 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $92,978 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $853,233 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $853,233 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $843,285 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $843,285 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $69,867 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Prince Matthew SELL $69,867 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "Cloudflare, Inc.",
+        "industry": "Services-Prepackaged Software"
+      },
+      "trend": {
+        "dates": [],
+        "closes": []
+      },
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-06-30",
+            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000042/cloud-20260630.htm"
+          },
+          {
+            "form": "DEF 14A",
+            "date": "2026-06-09",
+            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1477333/000119312526263809/d160227ddef14a.htm"
+          }
+        ],
+        "about": "Cloudflare, Inc., is an American technology company headquartered in San Francisco, California, that provides a range of internet services, including content delivery network (CDN) services, cloud cybersecurity, DDoS mitigation, and ICANN-accredited domain registration. The company's services act primarily as a reverse proxy between website visitors and a customer's hosting provider, improving performance and protect"
+      },
+      "actors": [
+        {
+          "name": "Prince Matthew",
+          "kind": "CEO",
+          "note": "112 Form 4 filings on record since 2019; 81 sales of NET in this tracker's ledger"
+        },
+        {
+          "name": "Hawkins Mark J",
+          "kind": "DIRECTOR",
+          "note": "212 Form 4 filings on record since 2008; 1 sale of NET in this tracker's ledger"
+        }
+      ],
+      "news": [],
+      "news_flags": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cCloudflare\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Cloudflare&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cCloudflare\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Cloudflare&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "STX",
+      "call": "WATCH",
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 48.3,
+      "net_score": -48.3,
+      "distinct_buyers": 0,
+      "distinct_sellers": 3,
+      "evidence": [
+        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "Seagate Technology Holdings plc",
+        "industry": "Computer Storage Devices"
+      },
+      "trend": {
+        "dates": [],
+        "closes": []
+      },
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-K",
+            "date": "2026-08-04",
+            "summary": "Annual report: full-year financials, risks, and business overview.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000159/stx-20260703.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-28",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stx-20260728.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-12",
+            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000119312526268170/d24300d8k.htm"
+          }
+        ],
+        "about": "Seagate Technology Holdings plc is an Irish-domiciled data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States."
+      },
+      "actors": [
+        {
+          "name": "MOSLEY WILLIAM D",
+          "kind": "CEO",
+          "note": "130 Form 4 filings on record since 2007; 48 sales of STX in this tracker's ledger"
+        },
+        {
+          "name": "Morris John Christopher",
+          "kind": "OFFICER",
+          "note": "35 Form 4 filings on record since 2023; 1 sale of STX in this tracker's ledger"
+        },
+        {
+          "name": "Lee James CI",
+          "kind": "OFFICER",
+          "note": "30 Form 4 filings on record since 2019; 1 sale of STX in this tracker's ledger"
+        }
+      ],
+      "news": [],
+      "news_flags": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cSeagate Technology\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cSeagate Technology\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cComputer Storage Devices\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cComputer Storage Devices\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "MHK",
+      "call": "WATCH",
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 36.6,
+      "net_score": -36.6,
+      "distinct_buyers": 0,
+      "distinct_sellers": 3,
+      "evidence": [
+        "2026-08-03 OTHER HELEN SUZANNE L SELL $920,640",
+        "2026-08-03 OTHER HELEN SUZANNE L SELL $920,640",
+        "2026-08-03 OFFICER Repp David Lee SELL $29,383",
+        "2026-08-03 OFFICER Repp David Lee SELL $29,383",
+        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $914,022",
+        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $914,022",
+        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $816,461",
+        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $816,461"
+      ],
+      "company": {
+        "name": "MOHAWK INDUSTRIES INC",
+        "industry": "Carpets & Rugs"
+      },
+      "trend": {
+        "dates": [],
+        "closes": []
+      },
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-07-31",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/851968/000085196826000033/mhk-20260704.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-30",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/851968/000085196826000031/mhk-20260730.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-11",
+            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926072955/tm2617713d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-05-21",
+            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926065151/tm2615069d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-05-13",
+            "summary": "Company entered a material agreement; took on new debt or obligations; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926060295/tm2614381d1_8k.htm"
+          }
+        ],
+        "about": "Mohawk Industries is an American flooring manufacturer based in Calhoun, Georgia. Mohawk produces floor covering products for residential and commercial applications in North America and residential applications in Europe. The company manufacturing portfolio consists of soft flooring products, hard flooring products, laminate flooring, sheet vinyl and luxury vinyl tile, natural stone and quartz countertops. In Europe"
+      },
+      "actors": [
+        {
+          "name": "HELEN SUZANNE L",
+          "kind": "OTHER",
+          "note": "75 Form 4 filings on record since 2003; 1 sale of MHK in this tracker's ledger"
+        },
+        {
+          "name": "LORBERBAUM JEFFREY S",
+          "kind": "CEO",
+          "note": "95 Form 4 filings on record since 2003; 14 sales of MHK in this tracker's ledger"
+        },
+        {
+          "name": "Repp David Lee",
+          "kind": "OFFICER",
+          "note": "3 Form 4 filings on record since 2025; 1 sale of MHK in this tracker's ledger"
+        }
+      ],
+      "news": [],
+      "news_flags": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cMOHAWK INDUSTRIES\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=MOHAWK%20INDUSTRIES&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cMOHAWK INDUSTRIES\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=MOHAWK%20INDUSTRIES&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cCarpets & Rugs\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Carpets%20%26%20Rugs&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cCarpets & Rugs\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Carpets%20%26%20Rugs&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "JMKE",
+      "call": "WATCH",
+      "short_candidate": false,
+      "buy_score": 37.4,
+      "sell_score": 19.0,
+      "net_score": 18.3,
       "distinct_buyers": 5,
       "distinct_sellers": 3,
       "evidence": [
@@ -85,41 +507,10 @@
           "note": "65 Form 4 filings on record since 2019; 1 buy of JMKE in this tracker's ledger"
         }
       ],
-      "news": [
-        {
-          "title": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO - Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzZvVWlXOTlrUEVCWGxoS1ZvZFllUGx2dXhNMXhuZmZtNThsbzdVcmdCV1k3Z0V2eTJVbG1sdFRVeE5icl8yWi1Vbjl1ZzV6dFZBSjdscTlNSmNZTF85YTJyWWFqMjg3NXcyOU5Hc3ZIbmRVMFh2aDJxdG9yZy1UeUdWb3A2TUhZM2hRd0VXR3RQYlZhZXhPVnhPN2VXS3M?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Jersey Mike's Subs Inc.: Target Price Consensus and Analysts Recommendations | JMKE | US47668J1025 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGFGQTRla2ZhbWV6R01Yelg3VVFZcExEMnZkQ05zUEI0eU03dGtEZDVBakpKZl9xa1hGbmxNMzd1dWFIS01NdTdUR0tGZWs2bEpaYVk4SWhLVm9SQ1ZXNVJOOWpiSnR1enAxNzVUS3Z0azJYS0ZJU256V2ZGdURSaHJYelpjaXprbElaZFRBVQ?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "marketscreener.com"
-        },
-        {
-          "title": "Jersey Mike's stock falls 5% from IPO price, raising nearly $1 billion - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRDMyRmViOFpYUFJhaFNrQS1EMzNrWUF6bnZYVmw3RnBLT1VIOThLWW9GOVpIaHFEM1NNUEdNQXRKX2NzdXM0Sy0tN2Jla0dBTUpWSzFQSnJBU3FidHNzODlKWm40UDlIVnJ0RC12SmJ4TEFGVy1TR3JROFljU1BkekFDcVUwZXpuU1VQRjJTeUVIOWZOS3FyUm9yQmJqSmFQZy1DcXRGdHkybnE3dWE2dnhDNXFlQkZVR2t5Z3VfU0psMHhMOFd6LVhn?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23 - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhtNkt1anhabVF4Sm1vaGxYa0NHSGRhLUdVR2FEVk5aekd6VTltOTBnZEFBOHFZdUFjVmx2TXE4Ql90R0FPMmRwNUxuMG9GdHlUN2JHbDYzVkZQTERHZEFpUHdVMzBUYm1CWXpWZEhIZENNcjJ4dmR2MG9KLTB5Sk1MNGdvX1k1SkJpeHg0X1JnOGNfOWF6X0g1dG45aEE5dV9KN1RhVdIBrAFBVV95cUxOdHMzeG9Iejc2TlJLN3RUWEo4NklmcWcxS0pnaXNHbTZGYnNQLWMxdjd5MzM2YjQ5c2d2S3RvSHpNYTlLaTJyMVhzbXlZSE5oaDBGSVh0YjVzREUzRl9OMHNTaHJWSGVSYzRpV1M3czRMaGlOV01yaGNRQmVCVGRVVl9lOEVuRFhOeklNMG9Va0RMazVha1cxdExEaFNJZS15Ty1mUHhSbGh3ZkZi?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "CNBC"
-        },
-        {
-          "title": "Jersey Mike's Subs Inc. Class A (JMKE) Stock Price | Live Quotes & Charts | NYSE - StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wTm9ObXlKRmozUFZVellveTFMUmFNR2tnTjdRbi1jcVZsT3Y0N3l4b0hVN0J5RW5ja3VjREVHSGhTTzdsYmstdFBKdWJ2dw?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "StocksToTrade"
-        }
-      ],
+      "news": [],
       "news_flags": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -143,524 +534,6 @@
           "label": "Hearings mentioning \u201cRetail-Eating  Places\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Retail-Eating%20%20Places&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "STX",
-      "call": "SELL",
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 60.0,
-      "net_score": -60.0,
-      "distinct_buyers": 0,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)"
-      ],
-      "company": {
-        "name": "Seagate Technology Holdings plc",
-        "industry": "Computer Storage Devices"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-K",
-            "date": "2026-08-04",
-            "summary": "Annual report: full-year financials, risks, and business overview.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000159/stx-20260703.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-28",
-            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stx-20260728.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-12",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000119312526268170/d24300d8k.htm"
-          }
-        ],
-        "about": "Seagate Technology Holdings plc is an Irish-domiciled data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States."
-      },
-      "actors": [
-        {
-          "name": "MOSLEY WILLIAM D",
-          "kind": "CEO",
-          "note": "130 Form 4 filings on record since 2007; 48 sales of STX in this tracker's ledger"
-        },
-        {
-          "name": "Morris John Christopher",
-          "kind": "OFFICER",
-          "note": "35 Form 4 filings on record since 2023; 1 sale of STX in this tracker's ledger"
-        },
-        {
-          "name": "Lee James CI",
-          "kind": "OFFICER",
-          "note": "30 Form 4 filings on record since 2019; 1 sale of STX in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Seagate Technology Holdings PLC stock rises Tuesday, still underperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNY0tCdWVTN0prREJxN3ByOENsWkxCSmtpa1NrWlltSHFteG43YktqeENxcXg0QXF4a2VQOVRXeXVhZ1N0SnpNdTFIZXY4M0FDLW43Ml9oN2ctNDBIMzV0WVF6TC1ZWGJXWHBOaDg0d2s5ZlJXd0ZMWnVuenFhN2t0cnd0bmNOTHMwVjF1SDZjWkdpOXhZazFqdzNwOWZoYUx5N0VBMV9BOGMyR1d4UDlCbDEyeTdEODltRUROWXJqLUZtYmY4UkF5NVhxQ2tEbXN5ZVdLTHh6UDRUWU5GZXFxZkRuWUJxQlUxX1BENA?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 5.12% on Aug 4: A Full Analysis - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRWV0THpyYWUzemhBZGdRamhRRjNuZHJ1STNRT1QwUmxCY3NtaVlCWVVLVmZFYjUtcXJwQVJjMnU5RFJEZHpDT1NyY2tDV1BrZEhON3pldmZXTzhFZzVuUW1fMTVsbkMxWW9jMjB4ZnYwX1NRTUx0TGhLWWVBdFQwejk1VG5qMGVSNkE?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "Seagate Technology Holdings (STX) EVP & CTO sells 168 shares at $817.76 - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOeG9KZnBicFVQbkZHb2lheWs2YWptYW9NeG5zRWpWV0NCMzhlSE40ZmpWbzJ5V0lMYkpheTFYcnJGemJrY2l5aFBHbUtWX3p4QUwxMjQzVE1kN1dvNFVzNUdCbGZNUnJ3V3ZTNGVEQkZKd3hDMGtYU25TRkdvNDBfYXNmQUJPYk1HUFF0eHdKMHYxSkROaWlLVnBmWkhXQTlMZFFBdnZaUmJZNVNuNGFwM2Z6SHN4T2d4N0phTzhfUGpyQQ?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Seagate Technology Holdings PLC stock underperforms Monday when compared to competitors - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdkpYam13bHhVQXZDWGRqc3ZRdG9YZzBZeUVUZG1TWGp5bWtyd2RNbWlfTmZUT1JoSVM0a3hieHMtXzk1RjJjdzI1M2ZvQTB5anFWb203aHRUQmxGOEJEdXQ1R0ozbFU5dGtsQUV2M2lFb3F4RVpUV1BmLVBTYVlFSGtfd0RENGFhdWZ3ZWN0VHZNM2s2cDNROHJ5WGFOS19sc2tsdGhaRmNPcGJoVWkzVkFLV1BySDVNOEdoTWdnOHFob0NSQ2JoUEpxQzduS1l2eTlqS0ZDOGthdlR0cFFSYzg3OEJZWjN0bUtvRVN2N1NXbjVGbXBVLQ?oc=5",
-          "date": "Mon, 03 Aug 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Seagate Technology creates clear visibility for quarters ahead; BNP Paribas ups target - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkxTVU1kT0FqOFZnQ0FNYUMzYnpjdmxRMkk4STNETnp5ZG1oT2Q5OWJ3eGRmUjZ3VVNiWlRVRUN6UDA4QUF4Nk1wQVFVR3Nhd2RzSDc2NXN0N21jVnhRWTc2UzgyS05qQ2VfN3B0ZFRBS0czWkh1V0ttN1Q2TUtYbk1jNlJ1cWo5MVkyLTFYaFhVdlZyS19FUHpHaVM5VXhPelZ1YmVTcUZuZ0RQYjJHY2lVOFJpQ2pRNDM4d2JYQnE?oc=5",
-          "date": "Mon, 03 Aug 2026",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "news_flags": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cSeagate Technology\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cSeagate Technology\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cComputer Storage Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cComputer Storage Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "MKZR",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 50.0,
-      "sell_score": 0.0,
-      "net_score": 50.0,
-      "distinct_buyers": 3,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-03 OFFICER PATTERSON CHARLES E. II BUY $36,000",
-        "2026-08-03 OFFICER PATTERSON CHARLES E. II BUY $36,000",
-        "2026-08-03 OFFICER FULLER GLEN W BUY $36,000",
-        "2026-08-03 OFFICER FULLER GLEN W BUY $36,000",
-        "2026-08-03 CEO DIXON ROBERT E BUY $36,000",
-        "2026-08-03 CEO DIXON ROBERT E BUY $36,000",
-        "2026-07-31 OFFICER PATTERSON CHARLES E. II BUY $51,606",
-        "2026-07-31 OFFICER PATTERSON CHARLES E. II BUY $51,606"
-      ],
-      "company": {
-        "name": "MacKenzie Realty Capital, Inc.",
-        "industry": "Real Estate Investment Trusts"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-07-29",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000027/mkzr-20260728.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-14",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000025/mxzr-20260714.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-15",
-            "summary": "Company other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000017/mxzr-20260515.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-05-15",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000114036126021627/ef20070433_10q.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-04-16",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000013/mrc8k04152026.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "DIXON ROBERT E",
-          "kind": "CEO",
-          "note": "48 Form 4 filings on record since 2000; 2 buys of MKZR in this tracker's ledger"
-        },
-        {
-          "name": "FULLER GLEN W",
-          "kind": "OFFICER",
-          "note": "13 Form 4 filings on record since 2000; 2 buys of MKZR in this tracker's ledger"
-        },
-        {
-          "name": "PATTERSON CHARLES E. II",
-          "kind": "OFFICER",
-          "note": "14 Form 4 filings on record since 2013; 2 buys of MKZR in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "66,600 MKZR shares bought via trusts at MacKenzie Realty Capital (MKZR) - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT05jd3dpeU8wLUwzcTkwN0UweDhnUWt5ZUpIZkpyZUZpTUptUlVoUDZrQWY2QjJESDltQXZhMFBLV1I5NzZweXNhbFVNUlVvMnRkWEhqU0pLb1laMEo4WHA0Vll2cHJEaFlZM0toN1d0a0lLRS1iZWVYS2ZkNGhieVM4QXc1WVk4VzdJZUozLXM2NnoyeFBJM3pTWWVhc3VjR2NueWVlWV9LNGhIclgyNHdEVlBhRTlYejlSOVNGaVA?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Enterprise value to EBIT forward of MacKenzie Realty Capital, Inc. \u2013 NASDAQ:MKZR - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDk1SDdHY3kzRUFnZ3JnZU5mSG0wd0UtOTdVRHpTMUpVLVFfb2tyWjJndHNGTEJ0c1N2NllBUXpHTU5ZZS1JRmdiMTJCdmVSa216Z0ZhOElVZzVINnJNNktrRmtPbWM5b1lhYXlWcUFESlZGYlppMU1wcjBhbjBreS1HQXVzUWR2R2toNFl0ZnE4UW10MGN4LWFUV2FualBoNmJQenZKQWZLcHc?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "MacKenzie Realty Capital (MKZR) trust acquires 66,600 shares at weighted prices - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGVtNjVoZDFOV095NldVRzlQN0dsbDFfRVFrcUZ5UlFPTTBqX21rYmRwREdnYUttNzJfNFhWVmpRN1ZzcVE3WEFEQTNqWlc0OUpxNGgwSi00NHVXN3FuekE4am03cU9COEQ0emszeUNhREk5bG53OXg4clZrQnA3UXE4YUpuQTBWQkctaDJXMVhaLVEzanQyUHdxemdwaEhDVTI4ZERBdlpvOWd0QWEzLVk0M3hDeVlWNmxWeGRpMmI?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "MacKenzie Realty Capital, Inc. Common Stock (NASDAQ: MKZR) Stock Price, News & Analysis - Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPTDhNaXBvc1ctN1dvNVEwdGZ1TUVFeng5QkJla0NZb0tOV2l4VHhNMWl2RVFYUHdPdVR1a29aTDZ6dE9iU0hjSjMxYUdtTG1pME55dU5R?oc=5",
-          "date": "Mon, 03 Aug 2026",
-          "source": "Kalkine"
-        },
-        {
-          "title": "MacKenzie Realty (MKZR) CEO-related trust purchases 66,600 common shares - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlFzeE5XWlBVV3B2MnJiYkJnSWFwZUU5WndKMjlTNmhIR0VDTUNUYXEzck5GcFI4SHFSS2UtbElucDdaVWFzcDdfYndoUmFYYmlBZDFhaVIxbHI2SVpJVE5Sb204SVprdGsxME0yVFU1WDU4Q1B6bmVjcE1RaFlBRW9jMWh6YlBCMGJ4bk11OWFmQ05hNXNPX2g5cjlOamw2aW5la2VLRzVSRU9wbTdabGE3N1JsNHBVUGVmNjV6R0s?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Stock Titan"
-        }
-      ],
-      "news_flags": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": true,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cMacKenzie Realty Capital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=MacKenzie%20Realty%20Capital&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cMacKenzie Realty Capital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=MacKenzie%20Realty%20Capital&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cReal Estate Investment Trusts\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cReal Estate Investment Trusts\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "CRWD",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 42.8,
-      "net_score": -42.8,
-      "distinct_buyers": 0,
-      "distinct_sellers": 2,
-      "evidence": [
-        "2026-08-03 CFO Podbere Burt W. SELL $1,477,373",
-        "2026-08-03 CFO Podbere Burt W. SELL $1,477,373",
-        "2026-08-03 CEO Kurtz George SELL $99,975 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO Kurtz George SELL $99,975 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO Kurtz George SELL $85,329 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO Kurtz George SELL $85,329 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO Kurtz George SELL $719,070 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO Kurtz George SELL $719,070 (10b5-1 planned sale \u2014 discounted)"
-      ],
-      "company": {
-        "name": "CrowdStrike Holdings, Inc.",
-        "industry": "Services-Prepackaged Software"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Kurtz George",
-          "kind": "CEO",
-          "note": "166 Form 4 filings on record since 2019; 63 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "Podbere Burt W.",
-          "kind": "CFO",
-          "note": "88 Form 4 filings on record since 2019; 1 sale of CRWD in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "CrowdStrike Holdings Inc. Cl A stock rises Tuesday, outperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZzltZFc4a3lndkNlNTU1Vzc5cFpGUEJYNGRfa3NRWTNHOUN3OEdTc0NyeWlsZDJyUzJRRmVPckpEbVdZVHF3cFJ6NkdaYzR6ODlseTBfTjhlYWM0d0ZwcFZ2NzFrQXROM2xyek45bTZXdWdieGJTa2Y5UkZpRlRzZ214Z2w4Vi1TNTVBMGpTdzJCWjU5dmk0bTFCUzlrM0FxQTRwNDBGMmoyWFBnNU9lWXBja3JMSDYyUUhoYW1UQ092QzcxOUZZdFNXZ0llWnBmc2NvVDV0VmpIa1lwUGlJ?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 3.34% on Aug 4: Drivers Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFZudnNLQmdMZU1iWkJ1Wm90N1VLZ055WEJ3cUdBSER3ZFo5RlFheFdxMG92aGYyejlUcjlPNlBCU3N5akJZSmY3b25QUkJlbm9kN09ndExxN0ZibXRwWDdaTW9lb09sZDh5Unp4bzVOX2NfMUJtRlVEQTRTdXpfTDRmTmdJYVEyNjVF?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "CrowdStrike CFO (NASDAQ: CRWD) sells 7,622 shares for RSU tax withholding - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQajdzSmctZU5IQ2xld052TlN3VUs1YlhuWkdPRk9ER2hQZWdyN3Njdm50MlBWVHlKRGZadkVnOC14eS1rd2Y3YmJjWkFodmNtRnZxMUlkZlJIQ21vc1phMVBwTGRERm9YVEozNkMteDYxUWRocmlDcDZmYkpOUmw2dVU4NnJVbnFSU2QzdnRmczZUcWx1YnRBanYxOXlnWUhzbEFmZDZxUGhBb2dKbUNjbFlLQ2lCbERweDM4?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Why Is CrowdStrike Stock Surging on Tuesday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVh0ckdQN3dENWZNbFZ2MVZwT1dCSXlna1FKMGRMT1RxZXRvMzlqNTlNM2ZIWDR1bDQwZnU5Slppa1h2djFyMHUtUTdMX3hKZmNMbTdBRG5SQ1RiTDBhblV2SmNQVGhRYllHcHFoTDRjV0wydDVwV0hsSFJxcnNDWldkaVd4U2xVWnhuU2ZzN2tneWxnbmkyRDZhSWU5SC1SYTkyUlJRNA?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "CrowdStrike Stock: Is Wall Street Bullish or Bearish? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPclQyUUtwUFZlcll1NXBRclpUVGkyMjdDYVVaN3JMdE5jaDZHOHEtcUVhbERwRWRWUWk3UXhmOXMtUUpkRWpoS0d0OUhzbTNLZ1ludF9VLVMxbS1va2Q5TXNRWGYwVWlNeEpieXBOZ1Q5RFUxaEdaUjY4d0tVRk1iLWhRQzVzVktkZ3Boa1IwQzNFaUIzVElObzdRSlJhZFpyZDJrSg?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "news_flags": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "NXTC",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 40.1,
-      "sell_score": 0.0,
-      "net_score": 40.1,
-      "distinct_buyers": 1,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $38,414",
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $38,414",
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $38,414",
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $124,540",
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $124,540",
-        "2026-07-31 10% OWNER ADAR1 Capital Management, LLC BUY $124,540",
-        "2026-07-30 10% OWNER ADAR1 Capital Management, LLC BUY $490,000",
-        "2026-07-30 10% OWNER ADAR1 Capital Management, LLC BUY $490,000"
-      ],
-      "company": {
-        "name": "NextCure, Inc.",
-        "industry": "Pharmaceutical Preparations"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-07-14",
-            "summary": "Company entered a material agreement; exit or disposal costs (restructuring); change in control.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926083326/tm2620428d1_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-25",
-            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926077546/nxtc-20260618x8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-01",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926068604/nxtc-20260601x8k.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-05-07",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926057187/nxtc-20260331x10q.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-07",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1661059/000110465926057171/nxtc-20260507x8k.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "ADAR1 Capital Management, LLC",
-          "kind": "10% OWNER",
-          "note": "13 Form 4 filings on record since 2024; 9 buys of NXTC in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "ADAR1-managed funds buy 329,153 shares of NextCure (NXTC) - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeUtCbjc4QzMyNEliM3pzSWNOR3c3Zno0SUVOeUhDb2FpSFdHazlJMTVEeGZLdmtSNjg5bno0QkJQUVloYlAyNFF0cXpwYTl3VnFsUnJRY2doMDBOMVZtXzBZZDA2UDFQanpfb1RrRnhvZHo5YU1KcXZ2eHF3LTdkRTgxMlBDVFJ2SWFab0h6bUo0cmhrZjFYVXRBZXE3V0lMMUZ1MFgtaVd3cFU?oc=5",
-          "date": "Mon, 03 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "NextCure, Inc. Revenue Breakdown \u2013 NASDAQ:NXTC - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9iWTZsUkpmX0NzRWJRSlZWMnBmdjY4cWE4MkZRX0pqYk81SGYtUGNTTW8teGdrcFY2WmxKTlFDUGRib1d3S2h3NjZXa1NHemI1Mm9xc1AtSDJxVy0tNEx1dW1TS0F3eHhsd2RlcjlBeDRZUGQ2eFlV?oc=5",
-          "date": "Sat, 01 Aug 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Adar1 Capital Management buys $1.6m in NextCure (NXTC) shares - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSFVqUWR3NWUwakhSN3RjVHNweFRkdUxsZ2ktaHFUNnVnZUJuU3YzX2hiaWZndzFqRThTWUFzb1dqTFVoNlg0azM2MDNJd1NuSTlYbC1HLUtRanVBOUQyRjFLRDA4dkxETDI2dUFldG82eE1lX2lvSTF1UTMycFd4NV8xYzgwUm9HTlpMTkk2RWZLeXVaNGl1NW9BUWdYb2s5cGR4SHdsRXI4V1BIOXAweVpGakVtM0JrYjVMWmlVQTV6c3JHRFlYam5B?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Beltsville's NextCure merging with San Francisco startup - The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXNYa3BINFJCajNoY05hVDJEVFY4cm43XzhBWFNkbExQNEF0LXBlTXJrQVJIaHdZWjNkMmhfTTYyTC1zQnZmWUt2RW40c2JsSk9MX0Jta1JkNWpyZGlmekk1R05OUVp0b3BWdDU1T09hc1F1TFBjNmMzTUFMM0lETHY2R2pDU3dIUFhTVkxuVGZNRUtVQ0hMMndn?oc=5",
-          "date": "Wed, 15 Jul 2026",
-          "source": "The Business Journals"
-        },
-        {
-          "title": "NXTC|NextCure Inc|Price:4.220|Chg%:+0.075 - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE80NkRhcDdLM3pPLWF0SmJJSFdfaVFoQ3ItdUd4b1RhUGxUdkcxVWdzTTFEZzlwRXdnano0S2hWQW9Dc29zZ202QTRDZ0YwQkRybDZUSjg4cHNuUWNBNTlDb1dKbzZSYnpDdUo3bmlR?oc=5",
-          "date": "Fri, 31 Jul 2026",
-          "source": "TradingKey"
-        }
-      ],
-      "news_flags": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": true,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cNextCure\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NextCure&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cNextCure\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NextCure&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
         }
       ]
     }

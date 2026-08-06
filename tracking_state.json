@@ -24,6 +24,11 @@
       "action": "BUY",
       "start_date": "2026-08-05",
       "start_price": null
+    },
+    "JMKE": {
+      "action": "BUY",
+      "start_date": "2026-08-06",
+      "start_price": null
     }
   },
   "rejected": [
