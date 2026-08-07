@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "signals": [
     {
       "ticker": "GBFH",
@@ -89,10 +89,41 @@
           "note": "4 Form 4 filings on record since 2025; 1 buy of GBFH in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "GBank Financial Holdings' Jeffrey Newgard Acquires 161% More Stock - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN203T292ZUhUeGlpeXBPeHNTb1puWVBQdWthSklaUlkzTTZCRXFRSWNiR29ZLTVpZ0d5Z09EQ0pHQXRSMUtkOFM2OExKRzVnbmxDajlrbEVZYzFJUUtGbHBBWEFUVmktUmx2Tll6OU5KbUJMNktRakEtRjBDa3dZaWVMQU95NF9LWjkxSVdIX1VkaVZHanh1ZTJRbWFxdmVieWVPZ2ZEbi1rdW5vZVEyaVBjUzJHNEtUa0xZRnctQnpsek5IMmVZRlNFT1Q0SE1wRGowVElVb9IB3AFBVV95cUxORkhrQTRORll3U0VDcm9OOE5CYVlaZWFDalJGVVJiV3RWVzluT29lYzhEdFhZaTNuX2gzQnk2d3dFQWMzaG9BMkstTnhoZFRuQ3ZadmhqNjR3Z090TDdJSl9faXZWWXdXT2JITk90RVNSWVA4aTNRMkRjTDRROVllcW80elZkLW5kLWozQXR5Ry1CRWY2MW81VWxtaGFfTlVEVUY0WFRDMHdlV1M4NGViWDBuN2NLOERzRzZsTG80VHVWRXMyb0ppNk9oYUZ5ZEVvRlNQc051QnZtOXJP?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "simplywall.st"
+        },
+        {
+          "title": "Why is GBank Financial stock rallying today? - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDlzS2h0UUN4TU14ajQ2YWhtaFAyVnFFeE85c3Nfb2lfYkxHRTViSGo0SXJiZVhaMk1FbDVFSXVya01QWkplMVNYQ212LVZYdUY4WVNPVGxHTTVjWmhKWW9XajE5N2VyR2ZJRldINUVFT2l5XzB6aTJIVGE3Q0UyR3M3X3ExeWllNk5ua3QySXNsS2NyWmxRMFZLUnY4dWVRMmdJMGtnVkE?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "GBank Financial Holdings Inc. (GBFH) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnhaejBmb1lYWnFWQkZ3NENtZjR2eWRmOGJjUmtYZUFTcHNHUnhxSXFrSEl4Zlk3bXpoSjNtc0NiYTZUbTZGaGE2aHE2SFNMa3NkSFVqV2VLbDZucjlPRmRlaFA1Ymp3WHM4Rmt1NVR5dzNSNkRjdEpmY29wRURzaTZmYjY2VXdCSmdrWlJGQjMzdlhBZEJGcW81UkZFaE0?oc=5",
+          "date": "Wed, 29 Jul 2026",
+          "source": "finance.yahoo.com"
+        },
+        {
+          "title": "GBank Financial: Deteriorating Loans (NASDAQ:GBFH) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEwtZmZLSlp1UjV5NWVLRXJ4Q1NoX1VVbDVXMFlNVDZwbkZFdnFiLU1HYklTU3RfUXYzMDJ1UXRXMkctdVYtLVdsUUFRUlBnN2xTMWdKZ2d6WFBMSl9scE9FMW02bW0zTnY4a2F5dzUwa3h4ZlRCMnE4WktrNjB5TjRB?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Timothy Herbst Buys 10,000 Shares of GBank Financial (NASDAQ:GBFH) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHU3dzdoRUhKVjhwbHhRLTFvNVFiTlVZX2Z4V1RRRHEzUU40Qnp3UWdaamhtTFhKal80RzBrWXBnUWRuaWpwRlhNTkd6SEhUbklDRDlmTnVvYUxIMjJFRUd1T2JZcmlFVVk0UlNUYmQ4YnhQUDh6QUVVdGJ5NTFOYllvdFFfS0RTN2tkY0lzZXRURWtZWV9URnNwYmpoRy1YNkxFdU9lZHhkMktteG8tazZWcERacjRBNjZCWm1sUQ?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "MarketBeat"
+        }
+      ],
       "news_flags": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": true,
@@ -127,16 +158,16 @@
       "sell_score": 60.0,
       "net_score": -60.0,
       "distinct_buyers": 0,
-      "distinct_sellers": 2,
+      "distinct_sellers": 4,
       "evidence": [
-        "2026-08-05 CEO Prince Matthew SELL $92,978 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $92,978 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $853,233 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $853,233 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $843,285 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $843,285 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $69,867 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-05 CEO Prince Matthew SELL $69,867 (10b5-1 planned sale \u2014 discounted)"
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $862,338 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $862,338 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $84,039 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $84,039 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $283,802 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $283,802 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $179,731 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-06 DIRECTOR Ledbetter Carl SELL $179,731 (10b5-1 planned sale \u2014 discounted)"
       ],
       "company": {
         "name": "Cloudflare, Inc.",
@@ -153,21 +184,37 @@
       "deep": {
         "recent_filings": [
           {
+            "form": "10-Q",
+            "date": "2026-08-06",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000054/cloud-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000053/cloud-20260806.htm"
+          },
+          {
             "form": "8-K",
             "date": "2026-06-30",
             "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
             "url": "https://www.sec.gov/Archives/edgar/data/1477333/000147733326000042/cloud-20260630.htm"
-          },
-          {
-            "form": "DEF 14A",
-            "date": "2026-06-09",
-            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1477333/000119312526263809/d160227ddef14a.htm"
           }
         ],
         "about": "Cloudflare, Inc., is an American technology company headquartered in San Francisco, California, that provides a range of internet services, including content delivery network (CDN) services, cloud cybersecurity, DDoS mitigation, and ICANN-accredited domain registration. The company's services act primarily as a reverse proxy between website visitors and a customer's hosting provider, improving performance and protect"
       },
       "actors": [
+        {
+          "name": "Ledbetter Carl",
+          "kind": "DIRECTOR",
+          "note": "103 Form 4 filings on record since 2006; 4 sales of NET in this tracker's ledger"
+        },
+        {
+          "name": "SEIFERT THOMAS J",
+          "kind": "CFO",
+          "note": "184 Form 4 filings on record since 2009; 2 sales of NET in this tracker's ledger"
+        },
         {
           "name": "Prince Matthew",
           "kind": "CEO",
@@ -179,7 +226,38 @@
           "note": "212 Form 4 filings on record since 2008; 1 sale of NET in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Cloudflare Stock Jumps After Revenue Soars Past Estimates - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbGctY2lUczM2R3BUc2VQdENzaWN2Q2VZQkFvRGozZEFBZmlSNmNUaTNvekZyaFNnNktlOURsVVIweTRDZU1nRG05MjdLYXFqWFhkeGRFNWU3NFhkcVpiYlQ0MkliQmI0a2k0dUQ0bGZqRkpIM0x1b055RDZOdw?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Barron's"
+        },
+        {
+          "title": "Cloudflare Q2 2026 earnings beat, raises full-year forecast - qz.com",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tT0hJQTc0VnBTaW1HYV9TRU1ndHAwbjkxVU9JbE9KMUhJSW43a2RHUU84amg2MXNwdXJFRGRyUnd6OTE5aVBmbEFSNVZ0dUJCY0VYSGVBRmJ6WnZXYjdnS0QyMkxGRzNDU2UyTndNRFhVRV9SaVZKZkhn?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "qz.com"
+        },
+        {
+          "title": "NET Stock Heads Toward An All-Time High After Beat-And-Raise Q2 \u2014 Wall Street Calls Cloudflare A 'Compelling Picks-And-Shovels Play' On AI - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1cyWlF0czczSTgxNXl6V2dpcHFkV3M3Szc0UGkzU2lZYTR2QmxGajVVOTlNZHA5QWZZZ3BJSGpXdDlEaUVNOHVhenl4S3E2N3dkN1pySmhoMXhXRENLdmtTMThDdjRQc1FKVUNLUkhGYlRlVkRnM3Z1ZlVpODI0UmRKcHVNLWZSY0NYYzRxdDU0b05vZTA0?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "finance.yahoo.com"
+        },
+        {
+          "title": "Cloudflare, Inc. Stock 12\u2011Month Price Target Raised to $309.93, Implies 9% Upside - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3dhLWZzWC01TlZsQUMzTkdwX3hETjhlQThRTDZmczNCSURkcW9fR3pCMVhLOHN4VUJjenktQVBDdWZHcTdENTJDdk9WRVFvS25RSFhPaVNPSkZqS1BDa3RMOXVqZUtVMjJGYmlLM25YQlh2azNzSG5TUmVwVWlEX01YRWFBN19Id0xfRjZwalpvZGxkQXhLY0o0WENqXzloRVNxSDI0V1AyUTFIRjJqSkpDYTNYV0VTdUx6SklDTlpEUlJ6bzNvdFk5ZExKQVRNRThoNw?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "TD Cowen raises Cloudflare stock price target on strong growth - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3VGeGo0eTZ5SFBEdVdmSV8zOXpXNXR6S1QtUHBsV084U1J5U1pDQU1WWFBNaDJ4YlFuRU9KSjlxb1d6UzB3UXF1b1loZGxYY3U2VUM1YXhEQ2wxM1BHWmR0NEpxa0VZZ1dKOE8tWURmWHd5QzBmbkxBM1duWEJRcWJ1MXVNS094VURpZHdvQ1BJY19rOXlvcnJoNVltejhQQno0M29weERLWE9tMVlxZTBsYWFzV1dYQjBRaUF1SlhOWUpnWExTV0VB?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Investing.com"
+        }
+      ],
       "news_flags": [],
       "timing": {
         "label": "Fresh \u2014 latest filing 1 day(s) ago",
@@ -210,27 +288,27 @@
       ]
     },
     {
-      "ticker": "STX",
+      "ticker": "CRWV",
       "call": "WATCH",
       "short_candidate": false,
       "buy_score": 0.0,
-      "sell_score": 48.3,
-      "net_score": -48.3,
+      "sell_score": 38.2,
+      "net_score": -38.2,
       "distinct_buyers": 0,
       "distinct_sellers": 3,
       "evidence": [
-        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 OFFICER Morris John Christopher SELL $137,384 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $94,746 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $922,272 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)",
-        "2026-08-03 CEO MOSLEY WILLIAM D SELL $690,947 (10b5-1 planned sale \u2014 discounted)"
+        "2026-08-05 OFFICER Goldberg Chen SELL $1,772,706 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 OFFICER Goldberg Chen SELL $1,772,706 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 OFFICER Goldberg Chen SELL $575,736 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 OFFICER Goldberg Chen SELL $575,736 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 CEO Intrator Michael N SELL $943,716 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 CEO Intrator Michael N SELL $943,716 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 CEO Intrator Michael N SELL $90,761 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-04 CEO Intrator Michael N SELL $90,761 (10b5-1 planned sale \u2014 discounted)"
       ],
       "company": {
-        "name": "Seagate Technology Holdings plc",
-        "industry": "Computer Storage Devices"
+        "name": "CoreWeave, Inc.",
+        "industry": "Services-Prepackaged Software"
       },
       "trend": {
         "dates": [],
@@ -241,185 +319,84 @@
       "pct_since_signal": null,
       "pct_14d": null,
       "deep": {
-        "recent_filings": [
-          {
-            "form": "10-K",
-            "date": "2026-08-04",
-            "summary": "Annual report: full-year financials, risks, and business overview.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000159/stx-20260703.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-28",
-            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000153/stx-20260728.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-12",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000119312526268170/d24300d8k.htm"
-          }
-        ],
-        "about": "Seagate Technology Holdings plc is an Irish-domiciled data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States."
+        "recent_filings": [],
+        "about": ""
       },
       "actors": [
         {
-          "name": "MOSLEY WILLIAM D",
+          "name": "Goldberg Chen",
+          "kind": "OFFICER",
+          "note": "15 Form 4 filings on record since 2025; 2 sales of CRWV in this tracker's ledger"
+        },
+        {
+          "name": "Intrator Michael N",
           "kind": "CEO",
-          "note": "130 Form 4 filings on record since 2007; 48 sales of STX in this tracker's ledger"
+          "note": "47 Form 4 filings on record since 2025; 25 sales of CRWV in this tracker's ledger"
         },
         {
-          "name": "Morris John Christopher",
+          "name": "McBee Brannin",
           "kind": "OFFICER",
-          "note": "35 Form 4 filings on record since 2023; 1 sale of STX in this tracker's ledger"
-        },
-        {
-          "name": "Lee James CI",
-          "kind": "OFFICER",
-          "note": "30 Form 4 filings on record since 2019; 1 sale of STX in this tracker's ledger"
+          "note": "90 Form 4 filings on record since 2025; 88 sales of CRWV in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "CoreWeave Stock Jumps\u2014and Can Go Much Higher, Analyst Says - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNjJic2tkZnNtYUEyamF1WE11NHBMb2pIZEV0eHUyUG1CNzdQVlRGeDF2TnY5cEtwRlViOXY5QjRFZE9Ib3I2WGt3SThCeHh4d3pIdkxpbmtpQkZSVmRxX2FyaUhOa21wT200eg?oc=5",
+          "date": "Tue, 04 Aug 2026",
+          "source": "Barron's"
+        },
+        {
+          "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for August 11 - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXdIMGh1dU1iRUlMeXZtdm5qeU9VaGFienQ2akktR1RaTlZfTWliS3N3eGU3amVZcjkxM3NVcVlyd1l5UkZsR3BrRVAxOTVIcmFlWDIwaFhoX1o2OEtGMXdFX2pMQkEwTVlFUDU2NTdRVkw1Z00yOTdkV2VET1pWSkNoeEZlOGdESm9qQ2x5cVVNYjhxWGVMbG13WQ?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "finance.yahoo.com"
+        },
+        {
+          "title": "Nebius Is Still Up 136% This Year. It Is Time to Take Profits and Switch to Cloudflare, CoreWeave, or Snowflake? - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU2hZd0xBNFc5ak1zWHFtOXVvYjNjOW5mNFg2QktzYzBrR0kyTWV3WkVKRUNLNzBIenNqczBSczBYNldpaExjZm5KRjRnWWJrN01YVmo0VlhHVkE4QlU1UXdlQnNJeXFITkV1N0w4UWFaWmQ5ZHhWdVZmTXhXU0FJTmc5dzRpcmZKa3M5NmtQQXhfVXBSZ1FHQVIwajhkLTZDVGUtNEltSV9YLS0xUTFmb2VqNG5MVXVMNzlpcVJQQjFVTC1INkRBVC1aMXQyVnl5a0RDNzZKUTc0cGlCY2ZUdkxSaXhvdw?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "24/7 Wall St."
+        },
+        {
+          "title": "Coreweave Draws Attention Ahead of Earnings and New Capacity Plans - benzinga.com",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkhEazBqaDBuOWJaTnBhQmc1RkR4cUlMam5fOUhsZVREWjl1UldtZFVBdGpWMkZaRHBEbHhpWTRqNEUwZ0RsWWR5Qkkydk5wTnRacWk4ZUdnVFFfUWlyNWpvX1dZLVlhSmg3TXpiZ3RZYU9wWXF3cW9GdU9JVUZxSWUwLS0xQm42Q1l4ZUZ0WG5YS3VucXdZZ29ISS04blRHSmk0amdacHV3UUE3eVgyVlF4T2EyNjVDSU1NS0hHWmYteFRKMlE?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "benzinga.com"
+        },
+        {
+          "title": "Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither. - finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3J6NWxwY3QwWWU3MTZfVzh0Rk11RjFtOVR0RHpWMUU4RmxQMkxyLXVVaE1WUGZGVjlUQXVmMmtzblRaZzJvSHBNQkN2S042QWtVRDRCSHRDYmtoMnhTRlIycnlQcVN1aEtoclR3T3pLOGlGMGJLUG51SmcwaXlQTC14TzFSUDJQbzl4Um9FT1pyY2xSc2EybHREZHhvQQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "finance.yahoo.com"
+        }
+      ],
       "news_flags": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cSeagate Technology\u201d",
+          "label": "Bills mentioning \u201cCoreWeave\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=legislation"
+          "url": "https://www.congress.gov/search?q=CoreWeave&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cSeagate Technology\u201d",
+          "label": "Hearings mentioning \u201cCoreWeave\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=CoreWeave&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cComputer Storage Devices\u201d",
+          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=legislation"
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cComputer Storage Devices\u201d",
+          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "MHK",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 36.6,
-      "net_score": -36.6,
-      "distinct_buyers": 0,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-08-03 OTHER HELEN SUZANNE L SELL $920,640",
-        "2026-08-03 OTHER HELEN SUZANNE L SELL $920,640",
-        "2026-08-03 OFFICER Repp David Lee SELL $29,383",
-        "2026-08-03 OFFICER Repp David Lee SELL $29,383",
-        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $914,022",
-        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $914,022",
-        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $816,461",
-        "2026-08-03 CEO LORBERBAUM JEFFREY S SELL $816,461"
-      ],
-      "company": {
-        "name": "MOHAWK INDUSTRIES INC",
-        "industry": "Carpets & Rugs"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-07-31",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/851968/000085196826000033/mhk-20260704.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-30",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/851968/000085196826000031/mhk-20260730.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-11",
-            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926072955/tm2617713d1_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-21",
-            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926065151/tm2615069d1_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-13",
-            "summary": "Company entered a material agreement; took on new debt or obligations; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/851968/000110465926060295/tm2614381d1_8k.htm"
-          }
-        ],
-        "about": "Mohawk Industries is an American flooring manufacturer based in Calhoun, Georgia. Mohawk produces floor covering products for residential and commercial applications in North America and residential applications in Europe. The company manufacturing portfolio consists of soft flooring products, hard flooring products, laminate flooring, sheet vinyl and luxury vinyl tile, natural stone and quartz countertops. In Europe"
-      },
-      "actors": [
-        {
-          "name": "HELEN SUZANNE L",
-          "kind": "OTHER",
-          "note": "75 Form 4 filings on record since 2003; 1 sale of MHK in this tracker's ledger"
-        },
-        {
-          "name": "LORBERBAUM JEFFREY S",
-          "kind": "CEO",
-          "note": "95 Form 4 filings on record since 2003; 14 sales of MHK in this tracker's ledger"
-        },
-        {
-          "name": "Repp David Lee",
-          "kind": "OFFICER",
-          "note": "3 Form 4 filings on record since 2025; 1 sale of MHK in this tracker's ledger"
-        }
-      ],
-      "news": [],
-      "news_flags": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cMOHAWK INDUSTRIES\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=MOHAWK%20INDUSTRIES&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cMOHAWK INDUSTRIES\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=MOHAWK%20INDUSTRIES&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cCarpets & Rugs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Carpets%20%26%20Rugs&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCarpets & Rugs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Carpets%20%26%20Rugs&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
         }
       ]
     },
@@ -428,8 +405,8 @@
       "call": "WATCH",
       "short_candidate": false,
       "buy_score": 37.4,
-      "sell_score": 19.0,
-      "net_score": 18.3,
+      "sell_score": 13.4,
+      "net_score": 24.0,
       "distinct_buyers": 5,
       "distinct_sellers": 3,
       "evidence": [
@@ -484,7 +461,7 @@
         {
           "name": "Blackstone Holdings II L.P.",
           "kind": "OTHER",
-          "note": "117 Form 4 filings on record since 2010; 2 sales of JMKE in this tracker's ledger"
+          "note": "118 Form 4 filings on record since 2010; 2 sales of JMKE in this tracker's ledger"
         },
         {
           "name": "Mercado Betsy",
@@ -507,10 +484,41 @@
           "note": "65 Form 4 filings on record since 2019; 1 buy of JMKE in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrUlg5WWotbXFUNlFFTElUMjFGWEVyYUJ3b1gwQ1dPYXFxR0thcG9ucjJGa3F5Nnhha3p0N2ozX0ZfZjhIRGlqYkdNbmpuY2VS?oc=5",
+          "date": "Tue, 04 Aug 2026",
+          "source": "CNN"
+        },
+        {
+          "title": "Jersey Mike's Subs Inc. (JMKE) Stock Historical Prices & Data - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TLUZ0M3hjU3E3NlhNNXVKU1pJb3p4UFlDZ0lxaWZLVzh6MjdxaTJrOXhxZ1c1LURrc1VITHVmcDM5dmo2Nm9OX29aajBpNFNmcUdmcmZsX2xNamtO?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO - Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzZvVWlXOTlrUEVCWGxoS1ZvZFllUGx2dXhNMXhuZmZtNThsbzdVcmdCV1k3Z0V2eTJVbG1sdFRVeE5icl8yWi1Vbjl1ZzV6dFZBSjdscTlNSmNZTF85YTJyWWFqMjg3NXcyOU5Hc3ZIbmRVMFh2aDJxdG9yZy1UeUdWb3A2TUhZM2hRd0VXR3RQYlZhZXhPVnhPN2VXS3M?oc=5",
+          "date": "Sun, 02 Aug 2026",
+          "source": "Barchart.com"
+        },
+        {
+          "title": "Jersey Mike's (JMKE) Stock Price, News & Analysis - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Vd2lranVCNXIzMzlERGtGbHdGMWxpdUEtS2FjaXNETHR1M3czTEhIa1N5cldMdWRpSF9YM09pcUhjcmxsdmJyU2daV2xOZ3hhNl92c0I4Yw?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Jersey Mike\u2019s IPO: Stock listing date and pricing near for popular sub sandwich chain as road show begins - Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3hicW9DR2w1T0hWLVNMT1ZUajVKOUdEREdEWkl2OHdmWlMtb295VXV0VDBWQktfM3JDSjVzeTV1M3JxcnVjQWpmSi0xWkV6YlZzWmRlSGdKSXNBeTRFd3BlYnY2UExhOEFXUGg1eVRNb1ZnV2FBU0Vna0U3a3ZuWnNsaHd4YUpSb3lzVFBfX2dVdVNjTGxzb2cyTQ?oc=5",
+          "date": "Tue, 21 Jul 2026",
+          "source": "Fast Company"
+        }
+      ],
       "news_flags": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
