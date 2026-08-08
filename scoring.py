@@ -32,7 +32,8 @@ def _log_dollar(v: float) -> float:
 
 
 def score_universe(insider_txns: list[dict], congress_txns: list[dict],
-                   today: dt.date | None = None) -> list[dict]:
+                   today: dt.date | None = None,
+                   force_watch: set | None = None) -> list[dict]:
     today = today or dt.date.today()
     # raw[ticker][side] -> accumulated weight; actors[ticker][side] -> set of names
     raw = defaultdict(lambda: {"P": 0.0, "S": 0.0})
@@ -91,6 +92,7 @@ def score_universe(insider_txns: list[dict], congress_txns: list[dict],
 
     results = []
     for tk in tickers:
+        herd = False
         buy = (config.WEIGHT_INSIDER * 100 * raw[tk]["P"] / max_ib
                + config.WEIGHT_CONGRESS * 100 * craw[tk]["P"] / max_cb)
         sell = (config.WEIGHT_INSIDER * 100 * raw[tk]["S"] / max_is
@@ -108,6 +110,9 @@ def score_universe(insider_txns: list[dict], congress_txns: list[dict],
             call = "WATCH"
         elif tk in activists:
             call = "WATCH"   # a fresh 13D always earns at least a watch slot
+        elif force_watch and tk in force_watch:
+            call = "WATCH"
+            herd = True   # herding-panel pick below signal threshold
         else:
             continue
         short_flag = (call == "SELL"
@@ -116,7 +121,8 @@ def score_universe(insider_txns: list[dict], congress_txns: list[dict],
                       and buyers == 0
                       and len(exec_sellers[tk]) >= config.SHORT_MIN_EXEC_SELLERS)
         results.append({
-            "ticker": tk, "call": call, "short_candidate": short_flag,
+            "ticker": tk, "call": call, "herd_pick": herd,
+            "short_candidate": short_flag,
             "buy_score": round(buy, 1),
             "sell_score": round(sell, 1), "net_score": round(net, 1),
             "distinct_buyers": buyers, "distinct_sellers": sellers,
