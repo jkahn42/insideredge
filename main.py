@@ -65,16 +65,6 @@ def cmd_report(demo: bool) -> None:
                     print(f"[tracking] backfilled {_tk} decision price {_c2}")
                     break
 
-    signals = scoring.score_universe(ins, con)
-    signals = tracking.suppress_rejected(signals, state)
-    print(f"Scoring done: {len(signals)} signals. Enriching...")
-    enrich.enrich_signals(signals, sample_prices=sp, sample_companies=sc)
-    enrich.deep_enrich(signals, sample_deep=sd)
-    ledger = data_sec.update_history(ins)
-    context.build_actor_notes(signals, ledger, live=not demo,
-                              sample_profiles=spf)
-    news.annotate(signals, sample=sn)
-    trends.annotate_themes(signals)
     _icache = {}
     def _industry(tk):
         if tk not in _icache:
@@ -84,6 +74,23 @@ def cmd_report(demo: bool) -> None:
                 _icache[tk] = enrich.company_info(tk).get("industry", "")
         return _icache[tk]
     momentum = trends.sector_momentum(ins, _industry)
+    herd_set, _budget = set(), 10
+    for _row in momentum:
+        for _tk in _row["tickers"]:
+            if _budget > 0:
+                herd_set.add(_tk)
+                _budget -= 1
+
+    signals = scoring.score_universe(ins, con, force_watch=herd_set)
+    signals = tracking.suppress_rejected(signals, state)
+    print(f"Scoring done: {len(signals)} signals. Enriching...")
+    enrich.enrich_signals(signals, sample_prices=sp, sample_companies=sc)
+    enrich.deep_enrich(signals, sample_deep=sd)
+    ledger = data_sec.update_history(ins)
+    context.build_actor_notes(signals, ledger, live=not demo,
+                              sample_profiles=spf)
+    news.annotate(signals, sample=sn)
+    trends.annotate_themes(signals)
 
     # timing/freshness: insider-following edge decays within weeks
     for s in signals:
