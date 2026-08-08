@@ -1,9 +1,9 @@
 {
   "tracked": {
     "CRWV": {
-      "action": "SELL",
-      "start_date": "2026-08-03",
-      "start_price": 85.76
+      "action": "BUY",
+      "start_date": "2026-08-08",
+      "start_price": 90.67
     },
     "DRI": {
       "action": "SELL",
@@ -34,6 +34,21 @@
       "action": "BUY",
       "start_date": "2026-08-08",
       "start_price": 20.88
+    },
+    "ANET": {
+      "action": "BUY",
+      "start_date": "2026-08-08",
+      "start_price": 188.67
+    },
+    "BRVE": {
+      "action": "BUY",
+      "start_date": "2026-08-08",
+      "start_price": 30.0
+    },
+    "NET": {
+      "action": "BUY",
+      "start_date": "2026-08-08",
+      "start_price": 300.27
     }
   },
   "rejected": [
