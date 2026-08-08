@@ -53,6 +53,18 @@ def cmd_report(demo: bool) -> None:
     state = tracking.ingest_decisions(state, lookup, today)
     state = tracking.expire(state, today)
 
+    # heal tracked entries whose decision price failed to record
+    for _tk, _rec in state["tracked"].items():
+        if _rec.get("start_price") is None:
+            _h = ((sp or {}).get(_tk) if sp is not None
+                  else enrich.price_history(_tk, days=45))
+            _h = _h or {"dates": [], "closes": []}
+            for _d2, _c2 in zip(_h.get("dates", []), _h.get("closes", [])):
+                if _d2 >= _rec["start_date"]:
+                    _rec["start_price"] = _c2
+                    print(f"[tracking] backfilled {_tk} decision price {_c2}")
+                    break
+
     signals = scoring.score_universe(ins, con)
     signals = tracking.suppress_rejected(signals, state)
     print(f"Scoring done: {len(signals)} signals. Enriching...")
