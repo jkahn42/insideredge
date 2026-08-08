@@ -1,3 +1,10 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "ticker": "GBFH",
+      "issued": "2026-08-08",
+      "px_issue": 20.88,
+      "spy_issue": 773.26
+    }
+  ]
 }

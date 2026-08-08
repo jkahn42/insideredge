@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "signals": [
     {
       "ticker": "GBFH",
@@ -8,30 +8,60 @@
       "buy_score": 60.0,
       "sell_score": 0.0,
       "net_score": 60.0,
-      "distinct_buyers": 4,
+      "distinct_buyers": 5,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-08-05 OTHER Griege Charles William Jr. BUY $525,675",
+        "2026-08-05 OTHER Griege Charles William Jr. BUY $525,675",
+        "2026-08-05 OTHER Griege Charles William Jr. BUY $525,675",
         "2026-08-04 OTHER Herbst Timothy P BUY $214,971",
         "2026-08-04 OTHER Herbst Timothy P BUY $214,971",
         "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
         "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
-        "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350",
-        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852",
-        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852",
-        "2026-08-04 CEO NIGRO EDWARD MICHAEL BUY $197,852"
+        "2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350"
       ],
       "company": {
         "name": "GBank Financial Holdings Inc.",
         "industry": "State Commercial Banks"
       },
       "trend": {
-        "dates": [],
-        "closes": []
+        "dates": [
+          "2026-07-21",
+          "2026-07-22",
+          "2026-07-23",
+          "2026-07-24",
+          "2026-07-27",
+          "2026-07-28",
+          "2026-07-29",
+          "2026-07-30",
+          "2026-07-31",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        "closes": [
+          31.73,
+          30.44,
+          30.26,
+          31.0,
+          31.3,
+          30.34,
+          30.02,
+          21.02,
+          20.82,
+          21.9,
+          21.45,
+          20.39,
+          20.85,
+          20.88
+        ]
       },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
+      "price_now": 20.88,
+      "price_at_signal": 21.45,
+      "pct_since_signal": -2.66,
+      "pct_14d": -34.19,
       "deep": {
         "recent_filings": [
           {
@@ -69,6 +99,11 @@
       },
       "actors": [
         {
+          "name": "Griege Charles William Jr.",
+          "kind": "OTHER",
+          "note": "9 Form 4 filings on record since 2025; 1 buy of GBFH in this tracker's ledger"
+        },
+        {
           "name": "NIGRO EDWARD MICHAEL",
           "kind": "CEO",
           "note": "9 Form 4 filings on record since 2005; 1 buy of GBFH in this tracker's ledger"
@@ -97,28 +132,28 @@
           "source": "simplywall.st"
         },
         {
+          "title": "GBank Financial (NASDAQ:GBFH) Director Charles William Jr. Griege Acquires 25,000 Shares - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemZzZ1pJTmNDNDhoeTBNX1VDTklrQ3pmY2EwSjE4VHFSSFVrZEN0UW9uY0ZiQjU3ek8zbWFseEN0eXdWcjZ3eUdWTi1EbnNTTHVhYU9HcnIzNmg0aXVZYUFDNnZBNWdKb19YZGgzcXVsRVBNTm1LSGxMNEZyektkaHQtSWpKQkk4aXQ5WE52U1U4T240VEJ4WDdLWjlzRENlVURCV2I5VEhnTXBRSVFoMjlHdURPcmhnRlNxeEJWSTBvVGxsZ0Y4MHZ6elR2RGwtelpJ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
           "title": "Why is GBank Financial stock rallying today? - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZDlzS2h0UUN4TU14ajQ2YWhtaFAyVnFFeE85c3Nfb2lfYkxHRTViSGo0SXJiZVhaMk1FbDVFSXVya01QWkplMVNYQ212LVZYdUY4WVNPVGxHTTVjWmhKWW9XajE5N2VyR2ZJRldINUVFT2l5XzB6aTJIVGE3Q0UyR3M3X3ExeWllNk5ua3QySXNsS2NyWmxRMFZLUnY4dWVRMmdJMGtnVkE?oc=5",
           "date": "Thu, 06 Aug 2026",
           "source": "Investing.com"
         },
         {
-          "title": "GBank Financial Holdings Inc. (GBFH) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - finance.yahoo.com",
+          "title": "GBank Financial Holdings Inc. (GBFH) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnhaejBmb1lYWnFWQkZ3NENtZjR2eWRmOGJjUmtYZUFTcHNHUnhxSXFrSEl4Zlk3bXpoSjNtc0NiYTZUbTZGaGE2aHE2SFNMa3NkSFVqV2VLbDZucjlPRmRlaFA1Ymp3WHM4Rmt1NVR5dzNSNkRjdEpmY29wRURzaTZmYjY2VXdCSmdrWlJGQjMzdlhBZEJGcW81UkZFaE0?oc=5",
           "date": "Wed, 29 Jul 2026",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
           "title": "GBank Financial: Deteriorating Loans (NASDAQ:GBFH) - Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEwtZmZLSlp1UjV5NWVLRXJ4Q1NoX1VVbDVXMFlNVDZwbkZFdnFiLU1HYklTU3RfUXYzMDJ1UXRXMkctdVYtLVdsUUFRUlBnN2xTMWdKZ2d6WFBMSl9scE9FMW02bW0zTnY4a2F5dzUwa3h4ZlRCMnE4WktrNjB5TjRB?oc=5",
           "date": "Wed, 05 Aug 2026",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "Timothy Herbst Buys 10,000 Shares of GBank Financial (NASDAQ:GBFH) Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdHU3dzdoRUhKVjhwbHhRLTFvNVFiTlVZX2Z4V1RRRHEzUU40Qnp3UWdaamhtTFhKal80RzBrWXBnUWRuaWpwRlhNTkd6SEhUbklDRDlmTnVvYUxIMjJFRUd1T2JZcmlFVVk0UlNUYmQ4YnhQUDh6QUVVdGJ5NTFOYllvdFFfS0RTN2tkY0lzZXRURWtZWV9URnNwYmpoRy1YNkxFdU9lZHhkMktteG8tazZWcERacjRBNjZCWm1sUQ?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
@@ -152,7 +187,7 @@
     },
     {
       "ticker": "NET",
-      "call": "SELL",
+      "call": "WATCH",
       "short_candidate": false,
       "buy_score": 0.0,
       "sell_score": 60.0,
@@ -174,13 +209,43 @@
         "industry": "Services-Prepackaged Software"
       },
       "trend": {
-        "dates": [],
-        "closes": []
+        "dates": [
+          "2026-07-21",
+          "2026-07-22",
+          "2026-07-23",
+          "2026-07-24",
+          "2026-07-27",
+          "2026-07-28",
+          "2026-07-29",
+          "2026-07-30",
+          "2026-07-31",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        "closes": [
+          272.31,
+          268.98,
+          262.32,
+          262.15,
+          265.61,
+          264.1,
+          270.38,
+          283.39,
+          278.98,
+          282.74,
+          301.33,
+          292.96,
+          284.43,
+          300.27
+        ]
       },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
+      "price_now": 300.27,
+      "price_at_signal": 284.43,
+      "pct_since_signal": 5.57,
+      "pct_14d": 10.27,
       "deep": {
         "recent_filings": [
           {
@@ -234,33 +299,33 @@
           "source": "Barron's"
         },
         {
-          "title": "Cloudflare Q2 2026 earnings beat, raises full-year forecast - qz.com",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0tT0hJQTc0VnBTaW1HYV9TRU1ndHAwbjkxVU9JbE9KMUhJSW43a2RHUU84amg2MXNwdXJFRGRyUnd6OTE5aVBmbEFSNVZ0dUJCY0VYSGVBRmJ6WnZXYjdnS0QyMkxGRzNDU2UyTndNRFhVRV9SaVZKZkhn?oc=5",
+          "title": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmFkZmluMGNqRklzUV9BN0NSWTV1NlBqTGF3ZDVEME1ncl94b2NIb1pEdk5Kb21rZTl1SUhvZEMtMDh1VFgtLURzWVpNSFV4Y1BGZFczWldZNnlwSE9aNnZkV0J1Wk1VbzFJakx5LTF2ck03OGE0QXBGUzEtejNldEF0X1o3ZmxTNXc0ZENMLVFHWkJVWENJc3pEcmg?oc=5",
           "date": "Fri, 07 Aug 2026",
-          "source": "qz.com"
+          "source": "Yahoo Finance"
         },
         {
-          "title": "NET Stock Heads Toward An All-Time High After Beat-And-Raise Q2 \u2014 Wall Street Calls Cloudflare A 'Compelling Picks-And-Shovels Play' On AI - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ1cyWlF0czczSTgxNXl6V2dpcHFkV3M3Szc0UGkzU2lZYTR2QmxGajVVOTlNZHA5QWZZZ3BJSGpXdDlEaUVNOHVhenl4S3E2N3dkN1pySmhoMXhXRENLdmtTMThDdjRQc1FKVUNLUkhGYlRlVkRnM3Z1ZlVpODI0UmRKcHVNLWZSY0NYYzRxdDU0b05vZTA0?oc=5",
+          "title": "Cloudflare\u2019s Huge Endorsement: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeU9tc1pFT1A2X3VoOXN0S2hheWx4R0ZLZDJlaFNfRUpCTDY2eV91UlJGZWs2ek0yTkQ5QlQ0WnZrS1cteTJ3U2hKMHN5enBVUUl1LTNqOGlSZXRDZEdZbDVkdFdiTEUtcGhTZUh6MUlWalRGNTVxWjhuQjhpVzFBSnFCdEt5UGsyRklCT0ZoVVBHTXp3QkFGVVdmTVduelhOVGVIdWdHcw?oc=5",
           "date": "Fri, 07 Aug 2026",
-          "source": "finance.yahoo.com"
+          "source": "TheStreet Pro"
         },
         {
-          "title": "Cloudflare, Inc. Stock 12\u2011Month Price Target Raised to $309.93, Implies 9% Upside - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3dhLWZzWC01TlZsQUMzTkdwX3hETjhlQThRTDZmczNCSURkcW9fR3pCMVhLOHN4VUJjenktQVBDdWZHcTdENTJDdk9WRVFvS25RSFhPaVNPSkZqS1BDa3RMOXVqZUtVMjJGYmlLM25YQlh2azNzSG5TUmVwVWlEX01YRWFBN19Id0xfRjZwalpvZGxkQXhLY0o0WENqXzloRVNxSDI0V1AyUTFIRjJqSkpDYTNYV0VTdUx6SklDTlpEUlJ6bzNvdFk5ZExKQVRNRThoNw?oc=5",
+          "title": "Cloudflare Stock Soars to Record on Strong Earnings - Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFpZQVFRTTg1M3RrbU5NOEFQUzVkSElOQ2dBZG1VYmlTYTd0ek5XQzAyRy1YdTByLVhfMnZUeTZJTGFWdjc1VV94SEE3LUNSOVdXNFZyNU1KQzctOVllT0ZZXy1qdVhqZGlubS1aalA4TklJVWpERy1BZzBSUnVTN3pybVRjalVsbGZpbG9JSlhHNE15ZkJqeUhiUVdublFhOURqblAydE4yUWs?oc=5",
           "date": "Fri, 07 Aug 2026",
-          "source": "TradingView"
+          "source": "Investopedia"
         },
         {
-          "title": "TD Cowen raises Cloudflare stock price target on strong growth - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNU3VGeGo0eTZ5SFBEdVdmSV8zOXpXNXR6S1QtUHBsV084U1J5U1pDQU1WWFBNaDJ4YlFuRU9KSjlxb1d6UzB3UXF1b1loZGxYY3U2VUM1YXhEQ2wxM1BHWmR0NEpxa0VZZ1dKOE8tWURmWHd5QzBmbkxBM1duWEJRcWJ1MXVNS094VURpZHdvQ1BJY19rOXlvcnJoNVltejhQQno0M29weERLWE9tMVlxZTBsYWFzV1dYQjBRaUF1SlhOWUpnWExTV0VB?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Investing.com"
+          "title": "Cloudflare (NYSE:NET) Reports Bullish Q2 CY2026, Stock Jumps 14.9% - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3dlT1JGUzNGWlVPOVZ3N2lvSklPcDZkR2NmZVo1WWNSdzN6WnpGNzlqQmlBcU5haG9XZDJyUXd0ODJvY29BQTA4YUp2RmJ1NUU0cmlVeElZdml5ay1oWGtxNjhLZU0yYU5qVlVIYU9kMGRlUEQybUZMWmtySFh2c3lvOVdFRktXREpITW1BWHBVcFM3aUNiQUNIcGVYTTBTOUE?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -288,6 +353,305 @@
       ]
     },
     {
+      "ticker": "BRVE",
+      "call": "WATCH",
+      "short_candidate": false,
+      "buy_score": 53.3,
+      "sell_score": 0.0,
+      "net_score": 53.3,
+      "distinct_buyers": 6,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $30,240,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $30,240,000",
+        "2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $30,240,000"
+      ],
+      "company": {
+        "name": "Braveheart Bio, Inc.",
+        "industry": "Pharmaceutical Preparations"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        "closes": [
+          29.8,
+          30.0
+        ]
+      },
+      "price_now": 30.0,
+      "price_at_signal": 30.0,
+      "pct_since_signal": 0.0,
+      "pct_14d": 0.67,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-08-07",
+            "summary": "Company amended bylaws or changed fiscal year; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2131524/000162828026054842/braveheart-closing8xk.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
+          "kind": "OTHER",
+          "note": "1 Form 4 filings on record since 2026; 2 buys of BRVE in this tracker's ledger"
+        },
+        {
+          "name": "Lubner David Charles",
+          "kind": "DIRECTOR",
+          "note": "57 Form 4 filings on record since 2013; 1 buy of BRVE in this tracker's ledger"
+        },
+        {
+          "name": "Murdoch Travis",
+          "kind": "CEO",
+          "note": "4 Form 4 filings on record since 2021; 1 buy of BRVE in this tracker's ledger"
+        },
+        {
+          "name": "Malek David I",
+          "kind": "DIRECTOR",
+          "note": "1 Form 4 filings on record since 2026; 1 buy of BRVE in this tracker's ledger"
+        },
+        {
+          "name": "Viehbacher Christopher",
+          "kind": "DIRECTOR",
+          "note": "7 Form 4 filings on record since 2019; 1 buy of BRVE in this tracker's ledger"
+        },
+        {
+          "name": "Rickey James Paul",
+          "kind": "CFO",
+          "note": "22 Form 4 filings on record since 2014; 1 buy of BRVE in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Braveheart Bio, Inc. Common Stock (BRVE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ21MZTR3c29vNE9iVnZwWnQ5dFYzRTV3ZThUVHB2NXFPRlFIT1JnSUtIZXI4UTE2R3dmR2ZJdFVNSEo1aEZuN282cUxYUFNhU3c?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Braveheart Bio Shares Begin Nasdaq Trading After $439.9M IPO - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY1VaUlN4UWJmN2M5LWhvc3FKQlZQaFZGd0lJVTVLZ3d6a1pfcDdIZjVRQ1lLNUFiZld5SGNpM3NIRVpIOHRNX1dxbU5vYmZ4d1BuaWlQa3dRNHBiSWw4VzFfVjRTckxTczgycG9kSl9Nc1lhLWp0WHlnVlJDY3d3aXpmMHlzWVh6ZDlLYklmVlFEUzNXZ2Nuak83N01rV3ZiTmxqTFZ6MXVOVFZ3R081NDl0dEZtMktOZmt2VVNYaw?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Braveheart Bio's stock skyrockets 65% in IPO debut after raising nearly $400M - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSThJZnN2SjM3VXhHQ0xSdndsSkNJWkc2SmI0blF0djJIZEgxeHh2Nllua2g0c2JieUJOeXBzTlo2MWM1dEJpaEptQTljdzl5bF9vMlpCWWZTUHFYUnZEdXlDUUZHNDZLekR3SF9xbVJvRWJDWHh1N0dYalctcUF6aHprcWpIaVQtMzkzWnlQOWNzcWFKTlFqc0RDUzB0cXpFS1c4S09VQQ?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "The Business Journals"
+        },
+        {
+          "title": "BRAVEHEART BIO INC Earnings and Revenue \u2013 NASDAQ:BRVE - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15NjBSUzNIRXZIWVhpSTNUS0x1dEtjejh6TFUwakdCdUlTdVFYRzBfMV85SnJpVkg3cHdORHEyVlVBR21ERHBBYnhJVDZUQ056MWN6SzJ3ZTN2VEtITllidEx5c0hUaHBKNTJybVFsa2dYRUZyOHI4?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Braveheart Bio Announces Closing of Upsized Initial Public Offering Including Full Exercise of Underwriters\u2019 Option to Purchase Additional Shares - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQSXA2Ui1BUFZ6NFcxX3hqT2NxN2dnQnBNX0N4OGNvYzJQb2NscG5rdGhDZ0xOS01UdFktVUUzVzBaZWlKbE5vNGpPSHBtdE51THJ0MmNnT2hhdnlJdklkMC03cTIzYnJhak13dzJHWXg2MDEwdTFwTThoWDZpR3VPSnVvblZoNmZ2QUtrY2o5RnBKNWp1aktxMG82dGh3b3E2M3JYeUVLeHdQTVZxa0w5VC1WME1yTGp6NGpLZG15blF1bWFzU2FLdjc3eFBoOFlkV3ZsQTBfcThFQUREWTEzT2ZhX09pYnFrNmg2N3ZOUE1pckFHVGFmUTA0OTNpZWtxYkVrVW1fZnlMczBHbVdDb0lGbFVZbVFMcF8zUDFQQS1pbzlwa1dUeGstMXktMF9VUWQ0TVFJQ2xtMndhZTdWNHJ2SWLSAcQCQVVfeXFMUElwNlItQVBWejRXMV94ak9jcTdnZ0JwTV9DeDhjb2MyUG9jbHBua3RoQ2dMTktNVHRZLVVFM1cwWmVpSmxObzRqT0hwbXROdUxydDJjZ09oYXZ5SXZJZDAtN3EyM2JyYWpNd3cyR1l4NjAxMHUxcE04aFg2aUd1T0p1b25WaDZmdkFLa2NqOUZwSjVqdWpLcTBvNnRod29xNjNyWHlFS3h3UE1WcWtMOVQtVjBNckxqejRqS2RteW5RdW1hc1NhS3Y3N3hQaDhZZFd2bEEwX3E4RUFERFkxM09mYV9PaWJxazZoNjd2TlBNaXJBR1RhZlEwNDkzaWVrcWJFa1VtX2Z5THMwR21XQ29JRmxVWW1RTHBfM1AxUEEtaW85cGtXVHhrLTF5LTBfVVFkNE1RSUNsbTJ3YWU3VjRydkli?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "The Manila Times"
+        }
+      ],
+      "news_flags": [
+        "share offering (dilution)"
+      ],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBraveheart Bio\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Braveheart%20Bio&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBraveheart Bio\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Braveheart%20Bio&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "ANET",
+      "call": "WATCH",
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 47.3,
+      "net_score": -47.3,
+      "distinct_buyers": 0,
+      "distinct_sellers": 3,
+      "evidence": [
+        "2026-08-05 CEO Ullal Jayshree SELL $813,127 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $813,127 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $741,778 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $741,778 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $741,778 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $741,778 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $74,391,542 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-05 CEO Ullal Jayshree SELL $74,391,542 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "Arista Networks, Inc.",
+        "industry": "Computer Communications Equipment"
+      },
+      "trend": {
+        "dates": [
+          "2026-07-21",
+          "2026-07-22",
+          "2026-07-23",
+          "2026-07-24",
+          "2026-07-27",
+          "2026-07-28",
+          "2026-07-29",
+          "2026-07-30",
+          "2026-07-31",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        "closes": [
+          174.58,
+          174.87,
+          176.61,
+          173.99,
+          170.76,
+          169.71,
+          157.97,
+          171.02,
+          180.35,
+          184.89,
+          190.51,
+          197.31,
+          192.32,
+          188.67
+        ]
+      },
+      "price_now": 188.67,
+      "price_at_signal": 197.31,
+      "pct_since_signal": -4.38,
+      "pct_14d": 8.07,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-05",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000175/anet-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-04",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1596532/000159653226000174/anet-20260804.htm"
+          }
+        ],
+        "about": "Arista Networks, Inc. is an American provider of client to cloud networking services for large data center/AI, campus and routing environments."
+      },
+      "actors": [
+        {
+          "name": "Ullal Jayshree",
+          "kind": "CEO",
+          "note": "270 Form 4 filings on record since 2014; 31 sales of ANET in this tracker's ledger"
+        },
+        {
+          "name": "BECHTOLSHEIM ANDREAS",
+          "kind": "10% OWNER",
+          "note": "72 Form 4 filings on record since 2001; 19 sales of ANET in this tracker's ledger"
+        },
+        {
+          "name": "Giancarlo Charles H",
+          "kind": "DIRECTOR",
+          "note": "315 Form 4 filings on record since 2004; 12 sales of ANET in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Arista Networks Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd0RzODAxM1NHVkdEa1ppak45dDFJSk1Pdy1DYlhaUEpGeXlLdVlOR0hvSWUySnh3eXpBQmZ4N0FsVWk5aElMR040T1p1Slp5dnIzeVFUbk9jWEd5eXhjZHZrcXhxTFVJdEpkU2J0RU1lVi1lTXRXS0pMaEt3Wk03c25oZkJ4bUxwLTJ3ZXhjTHlDT1JNZG1nNk5nbm41Rko2Wk9GLWlFQjk5dUNzYlhlZnRIN18yX016SVFLZHpyaGZPQkNqTWdXZVp0dW5zTWQzSUM3MHRrV1BydEJhc2QzNE5VV1FaZGRm?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Top Stock Reports for SpaceX, Arista Networks & Boeing - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPekUxNWZWcHB2TUpORFJheFdoMXYxb3RySHZxSE9MUlBEdVZEOHBja2lONldLbmhOc2V6LUtEOC1kUTRHRFRkZGVpNjcwYTJFbUVqQ19jVU1nc0ZVdWoyTEQwU1UtT09SMEk0VkFzWll5RTdCd1NhekZfQ09xdzNpNHJNWnB5YzQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Arista Networks, Inc. (ANET) CEO sells 767,029 shares under plan - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaV9SejVLbGlRb183LVBKTDRLWC1LaWdvaEhWd0ZGd09WQmpMZ21JSWlpbkJBTURSc3VWSHJCOEdDckZQMVQwMm4ydlFMdEkxZnJEY1lOcWNVZ2Fxdmcxekt2MzBrVmF4aXNSNndUbDZwRFkxYVUzU2dOR0NJcWowQjJsZmVNRkY3Ym4xNzktdkVhTU8ydWliRDlRNVl5Ukd3Y0xKaXRpQ09mLVExVldNZXNnQQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Arista Networks director sells $60.99 million in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXB2VllmLTJyMlpDWTVBcHc3eV9wV0lWMDl0U19nLXpaNGRMQllnLWEybEY2QUpZeWZjVFlONDl5Q1NTU0tVSkw2dUhpeVVtalVaejZLNUpCX3JVazZLNTNUbmVrNERONlhtYmowajVkY3V3bWVvSnppTEZYQ3h2SlhOVklBd2VxYWhkNUxSUzZQY1ZRSEF0RnBsRnNfWTZPS1JtLW9FY3ozRlN4alk2TUUtVGljZGNJUDJGQlVHeWsxUkU?oc=5",
+          "date": "Sat, 08 Aug 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Arista Networks: Nice Growth; Don't Buy It (NYSE:ANET) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDgxUVpoOVNLTmxzMVhNc2dqUWhaU1hmNWRZR1FvZmdiMjl3dW1LbWMyOW1kTVhVVzJvcmphMDd3RkhCRXExWGMtTEpyM2h2UHFfZWxuN2p0R1pxVEdJNWMwSjFGX0lxNTM4bjN6RzVFcWJUbE1vYW40dUdHNkc1NkZmNjB5MzA?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "news_flags": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cArista Networks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Arista%20Networks&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cArista Networks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Arista%20Networks&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cComputer Communications Equipment\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Computer%20Communications%20Equipment&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cComputer Communications Equipment\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Computer%20Communications%20Equipment&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "CRWV",
       "call": "WATCH",
       "short_candidate": false,
@@ -311,13 +675,43 @@
         "industry": "Services-Prepackaged Software"
       },
       "trend": {
-        "dates": [],
-        "closes": []
+        "dates": [
+          "2026-07-21",
+          "2026-07-22",
+          "2026-07-23",
+          "2026-07-24",
+          "2026-07-27",
+          "2026-07-28",
+          "2026-07-29",
+          "2026-07-30",
+          "2026-07-31",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07"
+        ],
+        "closes": [
+          79.58,
+          82.64,
+          81.1,
+          71.88,
+          70.79,
+          67.3,
+          60.82,
+          73.9,
+          71.77,
+          85.76,
+          91.9,
+          89.89,
+          85.33,
+          90.67
+        ]
       },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
+      "price_now": 90.67,
+      "price_at_signal": 91.9,
+      "pct_since_signal": -1.34,
+      "pct_14d": 13.94,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -341,39 +735,39 @@
       ],
       "news": [
         {
-          "title": "CoreWeave Stock Jumps\u2014and Can Go Much Higher, Analyst Says - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wNjJic2tkZnNtYUEyamF1WE11NHBMb2pIZEV0eHUyUG1CNzdQVlRGeDF2TnY5cEtwRlViOXY5QjRFZE9Ib3I2WGt3SThCeHh4d3pIdkxpbmtpQkZSVmRxX2FyaUhOa21wT200eg?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Barron's"
-        },
-        {
-          "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for August 11 - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMXdIMGh1dU1iRUlMeXZtdm5qeU9VaGFienQ2akktR1RaTlZfTWliS3N3eGU3amVZcjkxM3NVcVlyd1l5UkZsR3BrRVAxOTVIcmFlWDIwaFhoX1o2OEtGMXdFX2pMQkEwTVlFUDU2NTdRVkw1Z00yOTdkV2VET1pWSkNoeEZlOGdESm9qQ2x5cVVNYjhxWGVMbG13WQ?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "finance.yahoo.com"
-        },
-        {
-          "title": "Nebius Is Still Up 136% This Year. It Is Time to Take Profits and Switch to Cloudflare, CoreWeave, or Snowflake? - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNU2hZd0xBNFc5ak1zWHFtOXVvYjNjOW5mNFg2QktzYzBrR0kyTWV3WkVKRUNLNzBIenNqczBSczBYNldpaExjZm5KRjRnWWJrN01YVmo0VlhHVkE4QlU1UXdlQnNJeXFITkV1N0w4UWFaWmQ5ZHhWdVZmTXhXU0FJTmc5dzRpcmZKa3M5NmtQQXhfVXBSZ1FHQVIwajhkLTZDVGUtNEltSV9YLS0xUTFmb2VqNG5MVXVMNzlpcVJQQjFVTC1INkRBVC1aMXQyVnl5a0RDNzZKUTc0cGlCY2ZUdkxSaXhvdw?oc=5",
+          "title": "Coreweave at $92: The Compelling Bull Case On Offer Right Now - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclNCNlctT3dwM1FQUVBzMmRvZEdJYlJuOWNtMFpJRDJfM2JxZ1VVd1NRb05BalVLd0cwYlBwcEw5Z3Bkb0pTdmItNm42cFdpNUJtQVpnSjJFdl9Rbm90d1FKemRibktGZDJiUS1OR2FnZk0zWjd3TTI2WWtYN0NsN1VZZFJxUXo1SC05aHpRbkgzcmw2YkF5bnkwNkViejg?oc=5",
           "date": "Thu, 06 Aug 2026",
-          "source": "24/7 Wall St."
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Coreweave Draws Attention Ahead of Earnings and New Capacity Plans - benzinga.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkhEazBqaDBuOWJaTnBhQmc1RkR4cUlMam5fOUhsZVREWjl1UldtZFVBdGpWMkZaRHBEbHhpWTRqNEUwZ0RsWWR5Qkkydk5wTnRacWk4ZUdnVFFfUWlyNWpvX1dZLVlhSmg3TXpiZ3RZYU9wWXF3cW9GdU9JVUZxSWUwLS0xQm42Q1l4ZUZ0WG5YS3VucXdZZ29ISS04blRHSmk0amdacHV3UUE3eVgyVlF4T2EyNjVDSU1NS0hHWmYteFRKMlE?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "benzinga.com"
-        },
-        {
-          "title": "Should You Buy CoreWeave Before or After Earnings? The Best Move Might Be Neither. - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM3J6NWxwY3QwWWU3MTZfVzh0Rk11RjFtOVR0RHpWMUU4RmxQMkxyLXVVaE1WUGZGVjlUQXVmMmtzblRaZzJvSHBNQkN2S042QWtVRDRCSHRDYmtoMnhTRlIycnlQcVN1aEtoclR3T3pLOGlGMGJLUG51SmcwaXlQTC14TzFSUDJQbzl4Um9FT1pyY2xSc2EybHREZHhvQQ?oc=5",
+          "title": "CoreWeave's CEO Sells Company Stock Worth $28.2 Million. Here's What That Means for Investors. - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGkzYVoza3hTMS1GbmxXcGc4RFEzblBkbE9hcUNMMDAyaXh1cDBlSXE5dUF4bVpKZnZjYXhnUnVjVGNPTVU1SXJUQTNwRGZYTFl3dnRsWXhINENkeFQzVmlhY21aMlZkU0NXODg3UWI4bmIwZUQ2QnBlNWUzZmJHYjRuTVhaWTY1V3ZpekFidTN5WW5TdkdrbHp2RkhZbG9Xby13MHc1bmtMR1BqajdZWkJHLXd5bzZrTEFfSUdlQkZsTTdVLTVhMWlKYWFsSm80YWZfNTBGYUt1dzlD?oc=5",
           "date": "Fri, 07 Aug 2026",
-          "source": "finance.yahoo.com"
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcF8xSHdUN3NjMFBoRWUtNU53YUV2RGJKZnlhOVY1VkUzcGh6eTd6bzFkaEFyenNtNDkyTlEwV1A1a0dGNC12S0RtQTZTS1dLcERNZW1TYUl4SmNOT0k2WXFnM3NVTEJUcnRWd2tIa0liR1BqN3pob1ZYM05hYy15cXhLamlaMHlWU2licWpaT05ybXdURWk3dFhudkJqaTJsWjNGOTI3VUtOajRlSFBUZF9Eb0pJNnhURTBFMFFvSkgxUQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Here\u2019s How Much Traders See CoreWeave Stock Moving After Earnings - Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaTVGS2NWek5ycUUxMU9DLW5XNl9ZM3VoejV0NHhrdS1FNXJPcGJRc1VKTjNNSjduVWFrVm5lSTZQZjk1VU82MjVyRmFaaDl1SWM3MWhzRkQtNktnY1pseHVKSEZZREZnT1I2Y1E1LUs3bGs1YzFYdmM2cWtDcUNUajluTlVJQ0FPdVZqaS03R0NPODlmMEpRUjJFTmhWUmJna1BCcDFCejladTh1TkI1bkNYcjg?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Investopedia"
+        },
+        {
+          "title": "Dear CoreWeave Stock Fans, Mark Your Calendars for August 11 - Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2VSdVRLX0xuUzd1ejFLWE5QRFNHS3owcXBYZmhIUklJS1JhbVRvcExKZEJhTVB6M0hTYkpNZVpoSldRQVlNaDZCYnZmS2FlTmN6bkt6NE9UUVpQYjY2YndveTJzVEgtTEw0Q21iTUVoRGpnME5vdHVxcU5kN3otWUdwYTh1c3pPQ2FXejlNNTN0QWFlXzJhSUxjS085Sl9yU3pVejBB?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "Barchart.com"
         }
       ],
       "news_flags": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -397,151 +791,6 @@
           "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "JMKE",
-      "call": "WATCH",
-      "short_candidate": false,
-      "buy_score": 37.4,
-      "sell_score": 13.4,
-      "net_score": 24.0,
-      "distinct_buyers": 5,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866",
-        "2026-07-31 OTHER Submarine Buyer LLC SELL $504,772,866"
-      ],
-      "company": {
-        "name": "Jersey Mike's Subs Inc.",
-        "industry": "Retail-Eating  Places"
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-08-04",
-            "summary": "Company entered a material agreement; executive/director departure or appointment; amended bylaws or changed fiscal year.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2127043/000119312526331184/ck0002127043-20260729.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "ALLEN MICHELE",
-          "kind": "CFO",
-          "note": "35 Form 4 filings on record since 2019; 2 buys of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Abu Dhabi Investment Authority",
-          "kind": "10% OWNER",
-          "note": "57 Form 4 filings on record since 2006; 1 sale of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Submarine Buyer LLC",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2026; 2 sales of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Blackstone Holdings II L.P.",
-          "kind": "OTHER",
-          "note": "118 Form 4 filings on record since 2010; 2 sales of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Mercado Betsy",
-          "kind": "OFFICER",
-          "note": "1 Form 4 filings on record since 2026; 1 buy of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Peterson Stacy",
-          "kind": "COO",
-          "note": "27 Form 4 filings on record since 2015; 1 buy of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "SKEHAN ANDREW G",
-          "kind": "OFFICER",
-          "note": "24 Form 4 filings on record since 2002; 1 buy of JMKE in this tracker's ledger"
-        },
-        {
-          "name": "Whalen James J.",
-          "kind": "OFFICER",
-          "note": "65 Form 4 filings on record since 2019; 1 buy of JMKE in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrUlg5WWotbXFUNlFFTElUMjFGWEVyYUJ3b1gwQ1dPYXFxR0thcG9ucjJGa3F5Nnhha3p0N2ozX0ZfZjhIRGlqYkdNbmpuY2VS?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "CNN"
-        },
-        {
-          "title": "Jersey Mike's Subs Inc. (JMKE) Stock Historical Prices & Data - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TLUZ0M3hjU3E3NlhNNXVKU1pJb3p4UFlDZ0lxaWZLVzh6MjdxaTJrOXhxZ1c1LURrc1VITHVmcDM5dmo2Nm9OX29aajBpNFNmcUdmcmZsX2xNamtO?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO - Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzZvVWlXOTlrUEVCWGxoS1ZvZFllUGx2dXhNMXhuZmZtNThsbzdVcmdCV1k3Z0V2eTJVbG1sdFRVeE5icl8yWi1Vbjl1ZzV6dFZBSjdscTlNSmNZTF85YTJyWWFqMjg3NXcyOU5Hc3ZIbmRVMFh2aDJxdG9yZy1UeUdWb3A2TUhZM2hRd0VXR3RQYlZhZXhPVnhPN2VXS3M?oc=5",
-          "date": "Sun, 02 Aug 2026",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "Jersey Mike's (JMKE) Stock Price, News & Analysis - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Vd2lranVCNXIzMzlERGtGbHdGMWxpdUEtS2FjaXNETHR1M3czTEhIa1N5cldMdWRpSF9YM09pcUhjcmxsdmJyU2daV2xOZ3hhNl92c0I4Yw?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Jersey Mike\u2019s IPO: Stock listing date and pricing near for popular sub sandwich chain as road show begins - Fast Company",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNS3hicW9DR2w1T0hWLVNMT1ZUajVKOUdEREdEWkl2OHdmWlMtb295VXV0VDBWQktfM3JDSjVzeTV1M3JxcnVjQWpmSi0xWkV6YlZzWmRlSGdKSXNBeTRFd3BlYnY2UExhOEFXUGg1eVRNb1ZnV2FBU0Vna0U3a3ZuWnNsaHd4YUpSb3lzVFBfX2dVdVNjTGxzb2cyTQ?oc=5",
-          "date": "Tue, 21 Jul 2026",
-          "source": "Fast Company"
-        }
-      ],
-      "news_flags": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cJersey Mike's Subs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Jersey%20Mike%27s%20Subs&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cJersey Mike's Subs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Jersey%20Mike%27s%20Subs&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cRetail-Eating  Places\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Eating%20%20Places&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRetail-Eating  Places\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Eating%20%20Places&source=committeemeetings"
         }
       ]
     }

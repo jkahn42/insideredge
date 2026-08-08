@@ -3,32 +3,37 @@
     "CRWV": {
       "action": "SELL",
       "start_date": "2026-08-03",
-      "start_price": null
+      "start_price": 85.76
     },
     "DRI": {
       "action": "SELL",
       "start_date": "2026-08-03",
-      "start_price": null
+      "start_price": 206.24
     },
     "CRWD": {
       "action": "BUY",
       "start_date": "2026-08-03",
-      "start_price": null
+      "start_price": 202.54
     },
     "MU": {
       "action": "BUY",
       "start_date": "2026-08-03",
-      "start_price": null
+      "start_price": 829.5
     },
     "NXTC": {
       "action": "BUY",
       "start_date": "2026-08-05",
-      "start_price": null
+      "start_price": 5.25
     },
     "JMKE": {
       "action": "BUY",
       "start_date": "2026-08-06",
-      "start_price": null
+      "start_price": 22.89
+    },
+    "GBFH": {
+      "action": "BUY",
+      "start_date": "2026-08-08",
+      "start_price": 20.88
     }
   },
   "rejected": [
