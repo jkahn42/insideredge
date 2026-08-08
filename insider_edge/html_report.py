@@ -148,6 +148,8 @@ def _card(s: dict) -> str:
     nflags = "".join(f'<span class="chip chip-news">\u26a0 News: '
                      f'{html.escape(f)}</span>'
                      for f in s.get("news_flags", [])[:3])
+    themes = "".join(f'<span class="chip chip-theme">{html.escape(t)}</span>'
+                     for t in s.get("themes", []))
     tm = s.get("timing")
     timing = (f'<span class="chip chip-{tm["cls"]}">'
               f'{html.escape(tm["label"])}</span>' if tm else "")
@@ -169,7 +171,7 @@ def _card(s: dict) -> str:
       <div class="stat"><span class="lbl">14 day</span>{_pct(s.get('pct_14d'))}</div>
     </div>
     {_sparkline(closes, color)}
-    <div class="chips">{timing}{short}{earn}{nflags}</div>
+    <div class="chips">{timing}{themes}{short}{earn}{nflags}</div>
     <p class="mut meta">{s['distinct_buyers']} buyer(s) \u00b7 {s['distinct_sellers']} seller(s) \u00b7 score {s['buy_score']} / {s['sell_score']}</p>
     {_buttons(s)}
     <details><summary>Latest news <span class="cnt">{len(s.get('news', []))}</span></summary>
@@ -228,6 +230,65 @@ def _scorecard_section(sc: dict | None) -> str:
             + table + '</div></section>')
 
 
+CHART_COLORS = ["#0E8F6E", "#4C7FE0", "#E15A72", "#CE8A1B", "#7C4DBE",
+                "#17A374", "#B4562F", "#3B8EA5", "#A44FB0", "#5C8A2E"]
+
+
+def _consolidated_chart(tracked: list[dict]) -> str:
+    lines = [t for t in tracked if len(t.get("series") or []) >= 2]
+    if not lines:
+        return ""
+    W, H, L, R, T, B = 660, 250, 46, 60, 16, 30
+    maxd = max(max(len(t["series"]) - 1 for t in lines), 5)
+    vals = [v for t in lines for v in t["series"]] + [0.0]
+    lo, hi = min(vals), max(vals)
+    pad = (hi - lo) * 0.14 or 1.0
+    lo, hi = lo - pad, hi + pad
+
+    def X(i):
+        return L + i * (W - L - R) / maxd
+
+    def Y(v):
+        return T + (hi - v) * (H - T - B) / (hi - lo)
+
+    parts = [f'<line x1="{L}" y1="{Y(0):.1f}" x2="{W - R}" y2="{Y(0):.1f}" '
+             f'stroke="var(--mut)" stroke-dasharray="3 4" stroke-width="1" '
+             f'opacity=".55"/>']
+    for lab, v in (("0%", 0.0), (f"{hi - pad:+.0f}%", hi - pad),
+                   (f"{lo + pad:+.0f}%", lo + pad)):
+        parts.append(f'<text x="{L - 6}" y="{Y(v) + 4:.1f}" text-anchor="end" '
+                     f'font-size="10" fill="var(--mut)">{lab}</text>')
+    parts.append(f'<text x="{(L + W - R) / 2:.0f}" y="{H - 6}" '
+                 f'text-anchor="middle" font-size="10" fill="var(--mut)">'
+                 f'days since decision</text>')
+    legend = ""
+    for n, t in enumerate(lines):
+        col = CHART_COLORS[n % len(CHART_COLORS)]
+        dash = ' stroke-dasharray="6 5"' if t["action"] == "SELL" else ""
+        pts = " ".join(f"{X(i):.1f},{Y(v):.1f}"
+                       for i, v in enumerate(t["series"]))
+        parts.append(f'<polyline points="{pts}" fill="none" stroke="{col}" '
+                     f'stroke-width="2.2" stroke-linecap="round" '
+                     f'stroke-linejoin="round"{dash}/>')
+        lx, ly = X(len(t["series"]) - 1), Y(t["series"][-1])
+        parts.append(f'<text x="{lx + 5:.1f}" y="{ly + 4:.1f}" font-size="11" '
+                     f'font-weight="700" fill="{col}">'
+                     f'{html.escape(t["ticker"])}</text>')
+        cur = t["series"][-1]
+        good = (cur >= 0) if t["action"] == "BUY" else (cur <= 0)
+        legend += (f'<span class="lg"><i style="background:{col}"></i>'
+                   f'{html.escape(t["ticker"])} '
+                   f'<span class="mut">({t["action"].title()})</span> '
+                   f'<b class="{"up" if good else "dn"}">{cur:+.1f}%</b></span>')
+    return (f'<div class="panel chartpanel">'
+            f'<p class="mut tiny" style="margin-bottom:.4rem">All tracked '
+            f'decisions, indexed to 0% on each decision day. Dashed = '
+            f'sell/avoid calls (falling is good).</p>'
+            f'<svg viewBox="0 0 {W} {H}" class="bigchart" role="img" '
+            f'aria-label="Consolidated tracked performance">{"".join(parts)}'
+            f'</svg><div class="legend">{legend}</div></div>')
+
+
 def _tracking_section(tracked: list[dict]) -> str:
     if not tracked:
         return ""
@@ -270,7 +331,8 @@ def _tracking_section(tracked: list[dict]) -> str:
   </div>
 </article>"""
     return ('<section><h2>Your tracked decisions</h2>'
-            f'<div class="grid">{rows}</div></section>')
+            + _consolidated_chart(tracked)
+            + f'<div class="grid">{rows}</div></section>')
 
 
 def _summary_strip(groups: dict, sc: dict | None) -> str:
@@ -289,16 +351,40 @@ def _summary_strip(groups: dict, sc: dict | None) -> str:
             f'{beat}</div>')
 
 
+def _momentum_section(momentum: list[dict] | None) -> str:
+    if not momentum:
+        return ""
+    mx = max(r["weight"] for r in momentum) or 1
+    rows = ""
+    for r in momentum:
+        pct = int(100 * r["weight"] / mx)
+        tks = ", ".join(r["tickers"])
+        rows += (f'<div class="mrow"><div class="mtop">'
+                 f'<span class="mname">{html.escape(r["industry"])}</span>'
+                 f'<span class="mut tiny">{r["buyers"]} distinct buyers \u00b7 '
+                 f'{html.escape(tks)}</span></div>'
+                 f'<div class="prog"><i style="width:{pct}%;'
+                 f'background:var(--brand)"></i></div></div>')
+    return ('<section><h2>Where insiders are herding</h2>'
+            '<div class="panel">'
+            '<p class="mut tiny" style="margin-bottom:.6rem">Industries with '
+            'the heaviest unplanned insider cluster-buying this window \u2014 '
+            'bottom-up trend detection from the people who know first.</p>'
+            + rows + '</div></section>')
+
+
 def build_portal(signals: list[dict], out_path: str,
                  tracked: list[dict] | None = None,
                  rejected: list[str] | None = None,
                  sc: dict | None = None,
-                 banner: str | None = None) -> None:
+                 banner: str | None = None,
+                 momentum: list[dict] | None = None) -> None:
     today = dt.date.today().strftime("%A, %B %d, %Y")
     groups = {"BUY": [], "SELL": [], "WATCH": []}
     for s in signals:
         groups[s["call"]].append(s)
     sections = _summary_strip(groups, sc)
+    sections += _momentum_section(momentum)
     if banner:
         sections += (f'<section><p class="banner">\u26a0 {html.escape(banner)}'
                      '</p></section>')
@@ -394,6 +480,15 @@ border-radius:14px;flex:1;text-align:center;min-width:96px}}
 .browse-head{{margin-top:.55rem;text-transform:uppercase;letter-spacing:.07em;
 font-size:.66rem;font-weight:700;list-style:none}}
 .browse a{{font-weight:400;font-size:.8rem;color:var(--mut)}}
+.chartpanel{{margin-bottom:1rem}}
+.bigchart{{width:100%;height:auto;display:block}}
+.legend{{display:flex;gap:.9rem;flex-wrap:wrap;margin-top:.5rem;font-size:.82rem}}
+.lg{{display:inline-flex;align-items:center;gap:.35rem}}
+.lg i{{width:10px;height:10px;border-radius:3px;display:inline-block}}
+.chip-theme{{background:color-mix(in srgb,var(--brand) 12%,var(--card));color:var(--brand)}}
+.mrow{{margin:.55rem 0}}
+.mtop{{display:flex;justify-content:space-between;gap:.8rem;align-items:baseline;flex-wrap:wrap}}
+.mname{{font-weight:700;font-size:.9rem}}
 .chip-fresh{{background:color-mix(in srgb,var(--buy) 13%,var(--card));color:var(--buy)}}
 .chip-mid{{background:color-mix(in srgb,var(--watch) 14%,var(--card));color:var(--watch)}}
 .chip-spent{{background:color-mix(in srgb,var(--mut) 14%,var(--card));color:var(--mut)}}
