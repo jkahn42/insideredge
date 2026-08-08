@@ -17,7 +17,7 @@ import sys
 from insider_edge import (data_sec, data_congress, scoring, report,
                           enrich, legislation, html_report, notify, trader,
                           tracking, context, scorecard, publish,
-                          news)
+                          news, trends)
 
 REPORT_MD, REPORT_JSON = "daily_report.md", "daily_report.json"
 PORTAL_HTML = "docs/index.html"
@@ -74,6 +74,16 @@ def cmd_report(demo: bool) -> None:
     context.build_actor_notes(signals, ledger, live=not demo,
                               sample_profiles=spf)
     news.annotate(signals, sample=sn)
+    trends.annotate_themes(signals)
+    _icache = {}
+    def _industry(tk):
+        if tk not in _icache:
+            if sc is not None:
+                _icache[tk] = (sc.get(tk) or {}).get("industry", "")
+            else:
+                _icache[tk] = enrich.company_info(tk).get("industry", "")
+        return _icache[tk]
+    momentum = trends.sector_momentum(ins, _industry)
 
     # timing/freshness: insider-following edge decays within weeks
     for s in signals:
@@ -126,6 +136,19 @@ def cmd_report(demo: bool) -> None:
 
     tracked = tracking.tracked_cards(state, lookup, today)
     for t in tracked:
+        _h = ((sp or {}).get(t["ticker"]) if sp is not None
+              else enrich.price_history(t["ticker"], days=45))
+        _h = _h or {"dates": [], "closes": []}
+        _ds, _cs = _h.get("dates", []), _h.get("closes", [])
+        _i = next((i for i, dd in enumerate(_ds)
+                   if dd >= t["start_date"]), None)
+        if _i is not None and _i < len(_cs) and _cs[_i]:
+            _base = _cs[_i]
+            t["series"] = [round(100 * (c / _base - 1), 2)
+                           for c in _cs[_i:]]
+        else:
+            t["series"] = []
+    for t in tracked:
         match = next((s for s in signals if s["ticker"] == t["ticker"]), None)
         if match:
             t["news_flags"] = match.get("news_flags", [])
@@ -137,7 +160,7 @@ def cmd_report(demo: bool) -> None:
     report.build_report(signals, REPORT_MD, REPORT_JSON)
     html_report.build_portal(signals, PORTAL_HTML,
                              tracked=tracked, rejected=state["rejected"],
-                             sc=sc, banner=banner)
+                             sc=sc, banner=banner, momentum=momentum)
     _archive_snapshot(today)
     print(f"Saved: {REPORT_MD}, {REPORT_JSON}, {PORTAL_HTML}")
     notify.send_daily_ping(signals, today.isoformat(), tracked=tracked)
