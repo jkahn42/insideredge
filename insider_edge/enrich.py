@@ -47,8 +47,7 @@ def company_info(ticker: str) -> dict:
     return info
 
 
-def price_history(ticker: str, days: int = 20) -> dict:
-    """Return {dates: [...], closes: [...]} for the last `days` sessions."""
+def _stooq_history(ticker: str, days: int) -> dict:
     url = f"https://stooq.com/q/d/l/?s={ticker.lower()}.us&i=d"
     try:
         rows = list(csv.DictReader(io.StringIO(_get(url).decode())))[-days:]
@@ -56,6 +55,41 @@ def price_history(ticker: str, days: int = 20) -> dict:
                 "closes": [float(r["Close"]) for r in rows]}
     except Exception:
         return {"dates": [], "closes": []}
+
+
+def _parse_yahoo(data: dict, days: int) -> dict:
+    import datetime as _dt
+    r = data["chart"]["result"][0]
+    ts = r.get("timestamp", []) or []
+    closes = r["indicators"]["quote"][0].get("close", []) or []
+    dd, cc = [], []
+    for t, c in zip(ts, closes):
+        if c is None:
+            continue
+        dd.append(_dt.datetime.utcfromtimestamp(t).date().isoformat())
+        cc.append(round(float(c), 4))
+    return {"dates": dd[-days:], "closes": cc[-days:]}
+
+
+def _yahoo_history(ticker: str, days: int) -> dict:
+    url = (f"https://query1.finance.yahoo.com/v8/finance/chart/{ticker}"
+           f"?range=3mo&interval=1d")
+    try:
+        req = Request(url, headers={"User-Agent":
+            "Mozilla/5.0 (compatible; InsiderEdge/14.0)"})
+        with urlopen(req, timeout=25) as r:
+            return _parse_yahoo(json.loads(r.read().decode()), days)
+    except Exception:
+        return {"dates": [], "closes": []}
+
+
+def price_history(ticker: str, days: int = 20) -> dict:
+    """Daily closes with automatic failover: Stooq first, Yahoo backup.
+    (Stooq rate-limits shared cloud IPs like GitHub's runners.)"""
+    h = _stooq_history(ticker, days)
+    if not h["closes"]:
+        h = _yahoo_history(ticker, days)
+    return h
 
 
 def _earliest_evidence_date(signal: dict) -> str:
