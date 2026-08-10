@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-10",
   "signals": [
     {
       "ticker": "GBFH",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -40,10 +39,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          31.73,
           30.44,
           30.26,
           31.0,
@@ -56,13 +55,14 @@
           21.45,
           20.39,
           20.85,
-          20.88
+          20.88,
+          21.215
         ]
       },
-      "price_now": 20.88,
+      "price_now": 21.215,
       "price_at_signal": 21.45,
-      "pct_since_signal": -2.66,
-      "pct_14d": -34.19,
+      "pct_since_signal": -1.1,
+      "pct_14d": -30.31,
       "deep": {
         "recent_filings": [
           {
@@ -127,16 +127,22 @@
       ],
       "news": [
         {
-          "title": "GBank Financial Holdings' Jeffrey Newgard Acquires 161% More Stock - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN203T292ZUhUeGlpeXBPeHNTb1puWVBQdWthSklaUlkzTTZCRXFRSWNiR29ZLTVpZ0d5Z09EQ0pHQXRSMUtkOFM2OExKRzVnbmxDajlrbEVZYzFJUUtGbHBBWEFUVmktUmx2Tll6OU5KbUJMNktRakEtRjBDa3dZaWVMQU95NF9LWjkxSVdIX1VkaVZHanh1ZTJRbWFxdmVieWVPZ2ZEbi1rdW5vZVEyaVBjUzJHNEtUa0xZRnctQnpsek5IMmVZRlNFT1Q0SE1wRGowVElVb9IB3AFBVV95cUxORkhrQTRORll3U0VDcm9OOE5CYVlaZWFDalJGVVJiV3RWVzluT29lYzhEdFhZaTNuX2gzQnk2d3dFQWMzaG9BMkstTnhoZFRuQ3ZadmhqNjR3Z090TDdJSl9faXZWWXdXT2JITk90RVNSWVA4aTNRMkRjTDRROVllcW80elZkLW5kLWozQXR5Ry1CRWY2MW81VWxtaGFfTlVEVUY0WFRDMHdlV1M4NGViWDBuN2NLOERzRzZsTG80VHVWRXMyb0ppNk9oYUZ5ZEVvRlNQc051QnZtOXJP?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "simplywall.st"
+          "title": "GBank Financial Holdings Inc. (NASDAQ:GBFH) Given Consensus Rating of \"Moderate Buy\" by Analysts - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd1FfMlhiQ3VMYXR0SUVIWVdZY3d5Ml91SGZ4cTRmZVdOa0RhTW0wZWIxdk9fOFBiOTRHX3FCdTUwcXlKdF85R3BReEMtOXBCbFYtNlZYNzlrVXRMcXRvYm9WUExsLXdmeU1sRUcxNEViSVljM05DdV9ld1hjX2RTM2lMM3ZUcGVMUkRxUmJaSW94eW1lamZWRldMRjU4UldsYkI2TXh1NXhBQ2liYTBZWmlGdUJxZkV6N2ZFTlR1WUNUUkN5ejVLZHE2b1A2eHpHay04VVJ3S3pCaWNK?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "MarketBeat"
         },
         {
           "title": "GBank Financial Holdings Inc. (GBFH) Q2 Earnings: Taking a Look at Key Metrics Versus Estimates - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnhaejBmb1lYWnFWQkZ3NENtZjR2eWRmOGJjUmtYZUFTcHNHUnhxSXFrSEl4Zlk3bXpoSjNtc0NiYTZUbTZGaGE2aHE2SFNMa3NkSFVqV2VLbDZucjlPRmRlaFA1Ymp3WHM4Rmt1NVR5dzNSNkRjdEpmY29wRURzaTZmYjY2VXdCSmdrWlJGQjMzdlhBZEJGcW81UkZFaE0?oc=5",
           "date": "Wed, 29 Jul 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "GBank Financial Holdings' Jeffrey Newgard Acquires 161% More Stock - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNN203T292ZUhUeGlpeXBPeHNTb1puWVBQdWthSklaUlkzTTZCRXFRSWNiR29ZLTVpZ0d5Z09EQ0pHQXRSMUtkOFM2OExKRzVnbmxDajlrbEVZYzFJUUtGbHBBWEFUVmktUmx2Tll6OU5KbUJMNktRakEtRjBDa3dZaWVMQU95NF9LWjkxSVdIX1VkaVZHanh1ZTJRbWFxdmVieWVPZ2ZEbi1rdW5vZVEyaVBjUzJHNEtUa0xZRnctQnpsek5IMmVZRlNFT1Q0SE1wRGowVElVb9IB3AFBVV95cUxORkhrQTRORll3U0VDcm9OOE5CYVlaZWFDalJGVVJiV3RWVzluT29lYzhEdFhZaTNuX2gzQnk2d3dFQWMzaG9BMkstTnhoZFRuQ3ZadmhqNjR3Z090TDdJSl9faXZWWXdXT2JITk90RVNSWVA4aTNRMkRjTDRROVllcW80elZkLW5kLWozQXR5Ry1CRWY2MW81VWxtaGFfTlVEVUY0WFRDMHdlV1M4NGViWDBuN2NLOERzRzZsTG80VHVWRXMyb0ppNk9oYUZ5ZEVvRlNQc051QnZtOXJP?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "simplywall.st"
         },
         {
           "title": "Why is GBank Financial stock rallying today? - Investing.com",
@@ -149,19 +155,13 @@
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMEwtZmZLSlp1UjV5NWVLRXJ4Q1NoX1VVbDVXMFlNVDZwbkZFdnFiLU1HYklTU3RfUXYzMDJ1UXRXMkctdVYtLVdsUUFRUlBnN2xTMWdKZ2d6WFBMSl9scE9FMW02bW0zTnY4a2F5dzUwa3h4ZlRCMnE4WktrNjB5TjRB?oc=5",
           "date": "Wed, 05 Aug 2026",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "GBank Financial (NASDAQ:GBFH) Director Charles William Jr. Griege Acquires 25,000 Shares - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQemZzZ1pJTmNDNDhoeTBNX1VDTklrQ3pmY2EwSjE4VHFSSFVrZEN0UW9uY0ZiQjU3ek8zbWFseEN0eXdWcjZ3eUdWTi1EbnNTTHVhYU9HcnIzNmg0aXVZYUFDNnZBNWdKb19YZGgzcXVsRVBNTm1LSGxMNEZyektkaHQtSWpKQkk4aXQ5WE52U1U4T240VEJ4WDdLWjlzRENlVURCV2I5VEhnTXBRSVFoMjlHdURPcmhnRlNxeEJWSTBvVGxsZ0Y4MHZ6elR2RGwtelpJ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": true,
       "legislation": [
@@ -189,7 +189,7 @@
     },
     {
       "ticker": "NET",
-      "call": "WATCH",
+      "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
@@ -213,7 +213,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -226,10 +225,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          272.31,
           268.98,
           262.32,
           262.15,
@@ -242,13 +241,14 @@
           301.33,
           292.96,
           284.43,
-          300.27
+          300.27,
+          302.56
         ]
       },
-      "price_now": 300.27,
+      "price_now": 302.56,
       "price_at_signal": 284.43,
-      "pct_since_signal": 5.57,
-      "pct_14d": 10.27,
+      "pct_since_signal": 6.37,
+      "pct_14d": 12.48,
       "deep": {
         "recent_filings": [
           {
@@ -296,16 +296,16 @@
       ],
       "news": [
         {
-          "title": "Cloudflare Stock Jumps After Revenue Soars Past Estimates - barrons.com",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xbGctY2lUczM2R3BUc2VQdENzaWN2Q2VZQkFvRGozZEFBZmlSNmNUaTNvekZyaFNnNktlOURsVVIweTRDZU1nRG05MjdLYXFqWFhkeGRFNWU3NFhkcVpiYlQ0MkliQmI0a2k0dUQ0bGZqRkpIM0x1b055RDZOdw?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "barrons.com"
+          "title": "Atlassian Soars 34%, Twilio Leaps 27%, Cloudflare Advances 9% in Software Stock Surge - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmFkZmluMGNqRklzUV9BN0NSWTV1NlBqTGF3ZDVEME1ncl94b2NIb1pEdk5Kb21rZTl1SUhvZEMtMDh1VFgtLURzWVpNSFV4Y1BGZFczWldZNnlwSE9aNnZkV0J1Wk1VbzFJakx5LTF2ck03OGE0QXBGUzEtejNldEF0X1o3ZmxTNXc0ZENMLVFHWkJVWENJc3pEcmg?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Cloudflare (NYSE:NET) Reports Bullish Q2 CY2026, Stock Jumps 14.9% - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPU3dlT1JGUzNGWlVPOVZ3N2lvSklPcDZkR2NmZVo1WWNSdzN6WnpGNzlqQmlBcU5haG9XZDJyUXd0ODJvY29BQTA4YUp2RmJ1NUU0cmlVeElZdml5ay1oWGtxNjhLZU0yYU5qVlVIYU9kMGRlUEQybUZMWmtySFh2c3lvOVdFRktXREpITW1BWHBVcFM3aUNiQUNIcGVYTTBTOUE?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
+          "title": "Cloudflare Stock Pops After Strong Q2 Results - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVlJUXRUbk42aWlJSkxySlFtRkdvQnBaOWpTSUVjVGw4NUwyZHVRREZWdVZjZ1I1WW1Qd1dpd2hSeVNhM292cml6SXZmN0VHcDVzbi1JR1MwTUktQ3JwRXUxeGNRZHhwblp1YzhQQlJ2Q1hHNEFfSExUR2k5M3hLUHBtbHhQdThnRC16NmVQWkc2cDdPcVZqMEpLblJMZ3VzVVBOdERNOElsQQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Benzinga"
         },
         {
           "title": "Cloudflare\u2019s Huge Endorsement: 8 Key Items Shaping the Stock Market Friday - TheStreet Pro",
@@ -314,23 +314,23 @@
           "source": "TheStreet Pro"
         },
         {
-          "title": "Cathie Wood\u2019s ARK trades: Cloudflare and Roblox stocks in focus - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS2lyTGVmcWNtZjdEVHRMdGw4RC1YVkdTU3hpQXdYNnozYUc4MXdIbklwUTVGQ1Y5NDFDTG8xbGJiN0FyeHZYSFRpRUs3dU1DdGFuYkxKVDE0M0ZCQ1lMTnRHRXRaQzJEell4VXBLWUJBa3FMYldQRUdLZnhZbHg1cUx2bFpYVi1DbVI4N09HWUEzTnA2V0RCdi1vSFNHNlZQN0V1VDNlZkpvQ2J6bzZQSEh4VGFLRUp2Wmc?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Investing.com"
+          "title": "Cloudflare Stock Soars to Record on Strong Earnings - Investopedia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFpZQVFRTTg1M3RrbU5NOEFQUzVkSElOQ2dBZG1VYmlTYTd0ek5XQzAyRy1YdTByLVhfMnZUeTZJTGFWdjc1VV94SEE3LUNSOVdXNFZyNU1KQzctOVllT0ZZXy1qdVhqZGlubS1aalA4TklJVWpERy1BZzBSUnVTN3pybVRjalVsbGZpbG9JSlhHNE15ZkJqeUhiUVdublFhOURqblAydE4yUWs?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Investopedia"
         },
         {
-          "title": "Cloudflare Stock Pops After Strong Q2 Results - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVlJUXRUbk42aWlJSkxySlFtRkdvQnBaOWpTSUVjVGw4NUwyZHVRREZWdVZjZ1I1WW1Qd1dpd2hSeVNhM292cml6SXZmN0VHcDVzbi1JR1MwTUktQ3JwRXUxeGNRZHhwblp1YzhQQlJ2Q1hHNEFfSExUR2k5M3hLUHBtbHhQdThnRC16NmVQWkc2cDdPcVZqMEpLblJMZ3VzVVBOdERNOElsQQ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Benzinga"
+          "title": "Cloudflare's Proposed $2.175B Notes Could Convert to Cash or Shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTmozWTJPY1ZfRFNLSGY3cHVQbVA2Yi1lb3BUR05zREtWZU0xUzNJM1lSdVNKQzV6X2NTODNJNXNqbHpFNG9hYzlYTExQSnQ0SnI0cldPOFNIZUJhOGZFdzFMekFJaFYwN3d3S0xxWFVlWE5XbnpTVW9QY1R4ajRxdkhUOUxWbjdhZDQ0MlRqc0xaNVRRTU5pZW9mVmxpeDlyWnY3ODZ0UTBuTmhSOVN1VU1RZ2VPdVY1Unkyb0JB?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -383,10 +383,12 @@
       "trend": {
         "dates": [
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
           29.8,
+          30.0,
           30.0
         ]
       },
@@ -439,22 +441,10 @@
       ],
       "news": [
         {
-          "title": "Braveheart Bio, Inc. Common Stock (BRVE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ21MZTR3c29vNE9iVnZwWnQ5dFYzRTV3ZThUVHB2NXFPRlFIT1JnSUtIZXI4UTE2R3dmR2ZJdFVNSEo1aEZuN282cUxYUFNhU3c?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Braveheart Bio, Inc. Statistics \u2013 NASDAQ:BRVE - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTV3R0Q5ak5acWZqX01UamNXVzhpX0NFQjhnUXlnaDJIbGIxQ20xT3lEelhsWVRRVGYxa1FHU1dUTUVSMFNyQ2RMRm5fTzNreFRxZm1PSnRYWEpfMzdoelFOSWNybHQyeHp5N1Itb0JmSzFxRHdpLXZwcmdQLVB2OU9SOFZndXpO?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "BRVE Price Today: Braveheart Bio, Inc. Stock Price, Quote & Chart | MEXC - MEXC",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80QlFYVE40a0x5M0VLbTZJVW5vRFVSRl9rZ1pmcEY4SHZ5b0ZlcFczVUVwVkJIenVoS3o2UDl3cUhBbFBnV0czOVhQQ2hBZTA?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "MEXC"
+          "title": "Braveheart Bio, Inc. (BRVE) Stock Forecasts - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcXNqWTdWNUlXdTdxOGR1SFh5M3RLSlRCbWdvNkE2eHR6QThOSDRyd3pwelVXaGVOUUVHdkhpNDV3WWNHd2xFQWpjeXRiNXREMEdWNjhwTlY2WlB2ZlRIMVpKTUxybFkwYnhGNTFGM0ppLU1mUTRVYnlxcGlIU2RwSDJhbktZMDN5QkpyTTItcjRidy1TeWpmcw?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Braveheart Bio's stock skyrockets 65% in IPO debut after raising nearly $400M - The Business Journals",
@@ -463,16 +453,28 @@
           "source": "The Business Journals"
         },
         {
+          "title": "Braveheart Bio, Inc. Statistics \u2013 NASDAQ:BRVE - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSTV3R0Q5ak5acWZqX01UamNXVzhpX0NFQjhnUXlnaDJIbGIxQ20xT3lEelhsWVRRVGYxa1FHU1dUTUVSMFNyQ2RMRm5fTzNreFRxZm1PSnRYWEpfMzdoelFOSWNybHQyeHp5N1Itb0JmSzFxRHdpLXZwcmdQLVB2OU9SOFZndXpO?oc=5",
+          "date": "Sat, 08 Aug 2026",
+          "source": "TradingView"
+        },
+        {
           "title": "Braveheart Bio Shares Begin Nasdaq Trading After $439.9M IPO - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY1VaUlN4UWJmN2M5LWhvc3FKQlZQaFZGd0lJVTVLZ3d6a1pfcDdIZjVRQ1lLNUFiZld5SGNpM3NIRVpIOHRNX1dxbU5vYmZ4d1BuaWlQa3dRNHBiSWw4VzFfVjRTckxTczgycG9kSl9Nc1lhLWp0WHlnVlJDY3d3aXpmMHlzWVh6ZDlLYklmVlFEUzNXZ2Nuak83N01rV3ZiTmxqTFZ6MXVOVFZ3R081NDl0dEZtMktOZmt2VVNYaw?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Braveheart Bio Jumps 68%, Capping $382.5M Nasdaq IPO - Briefs Finance",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ3poSzA2dGM3U2lrNWRGeG43NFRKNFpjSUVDTGhhajFPcHFoR18tdGlMUHgzandMbDZaVzlSWTFCb1ZOczNwLXZ4MjJKMi0yUEE5MmFtUTZpZElFTkFNRG1Iekx6VmVEWnJwd0c1Z1pOcVI1NTRmby0xS05BZW9la2d0OA?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Briefs Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -525,7 +527,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -538,10 +539,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          174.58,
           174.87,
           176.61,
           173.99,
@@ -554,13 +555,14 @@
           190.51,
           197.31,
           192.32,
-          188.67
+          188.67,
+          192.44
         ]
       },
-      "price_now": 188.67,
+      "price_now": 192.44,
       "price_at_signal": 197.31,
-      "pct_since_signal": -4.38,
-      "pct_14d": 8.07,
+      "pct_since_signal": -2.47,
+      "pct_14d": 10.05,
       "deep": {
         "recent_filings": [
           {
@@ -597,34 +599,34 @@
       ],
       "news": [
         {
+          "title": "Arista Networks Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQd0RzODAxM1NHVkdEa1ppak45dDFJSk1Pdy1DYlhaUEpGeXlLdVlOR0hvSWUySnh3eXpBQmZ4N0FsVWk5aElMR040T1p1Slp5dnIzeVFUbk9jWEd5eXhjZHZrcXhxTFVJdEpkU2J0RU1lVi1lTXRXS0pMaEt3Wk03c25oZkJ4bUxwLTJ3ZXhjTHlDT1JNZG1nNk5nbm41Rko2Wk9GLWlFQjk5dUNzYlhlZnRIN18yX016SVFLZHpyaGZPQkNqTWdXZVp0dW5zTWQzSUM3MHRrV1BydEJhc2QzNE5VV1FaZGRm?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "MarketWatch"
+        },
+        {
           "title": "Arista Networks (NYSE:ANET): A Quality Stock That Passes the Test - ChartMill",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVm41bTItaEFHNVZOQkd4NG1MNFlUdElxYVBtU255VDhQZTVqVXd0ekJEcFA3TGhvZFNVWEFVUUxONTJiR1M5V1lqakdPLTJKSG1uRTVwOThsTlNLYWE0cEZHSXlpeEdNcF9DT3Jia2ZKNDJNUUJXdWM0TmExWFc4OTZKWEV4c09wTE01SWRyR1B5UDlIVmlSdktNZUZkck9tcE83UUNzMi1wVzFIOTdFY1l2MA?oc=5",
           "date": "Sat, 08 Aug 2026",
           "source": "ChartMill"
         },
         {
+          "title": "Top Stock Reports for SpaceX, Arista Networks & Boeing - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMDZsTG9wX1pQZTRSU3hGdzhpVDdDQWtadHV2dEdjSGdtRDJPRTBBam9nalZmQVN3VXc1RkxTdGh6NlRsWXN6elY5U0YwSnNxTk84bGp1SFRFTkR3NzZaTmZ5V2xwQWtnVHF1VUU2LThtRk05bmZOMVNTYnhhUDJ2MU8xYlFWc3NfYURZVU12N1VCM3pJcGFaYXFEaWs?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Arista Networks Inc (ANET) Stock News Today - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EYmI0OTlhcHJiOVpXLXkwcmN1b1hpcVA2amVHbjlDQWE2REtGMEFNckNLYW1UR2kwelBuX1V4UE0wckZpaDVEOW1iTVlCZTVCODd0RldMMEh0U182cXFQc29wbzFIUUhGTllxbmJoOXpYZw?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "TradingKey"
+        },
+        {
           "title": "Why Arista Networks Is A Buy Despite Rising Competition - Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTFByVTlKWC1tNmdHWHpmRUU2ajA5OTVQOEJiTkUtbjhlcGstMkhGMDJEdy12TE5URWRJV0ZZSjd1WXprbVV6N3gwbFBDZG1nR1c0MGNBaDd5Mml1ZXdaYTdNWU11VlNnVVdJRXpkYnJWalZFU21ORWg1NElzdXV6UU9uXzJmdll6cGluU3lFT0phcVpRUmt4UWwxbzM?oc=5",
           "date": "Sat, 08 Aug 2026",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "Arista Networks Inc. stock outperforms competitors on strong trading day - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOazhTZjRrdFFYbGZxanF3TWhRR2RQeUtWTU1iVTkzZkl1a1FLX3g5TklVMll4YWJTRnk5X0Q5MHVfNDd0UW1qYXF0Ylk3N0VqRXZnd1lOdlVZM0ZkNWIyQzJHMV9mMk82T2E2NThLQ2o4dGRNVlEyWEI1LVJfZWVLUDliSmp4MWRxN0lLS1I0U29JLXotejh4T3FKa3JCY01PY1dnVkFCWGtmY0otZUNGSElZVVBiRmxxaFRvYXp4S0JDWERXQ0VQV3BLRQ?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Arista Networks stock leaps on strong Q2 beat and raised outlook - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYXh2Tm1CbEhIVUpjcEJWbUZUcjU3LWlPekI5LUlLamdrWDlCSW9sSWRqWklNSXIybmFZOTlTc2g3eUxFbDl3M0xaWVRTcHNqUm9tYTVMVy1xazl2dERqOVZSQkJ4bnVfMVZQR05ReXhQeFkzYmxtZGJBcEFScFZKSWxCWWhXNzd0VDBfaVQwVkN6QzlybHU0T3lXLWw?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Arista Networks, Inc. Reports Second Quarter 2026 Financial Results - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlk4dDBBZEFaR1lJTkwxb0ZTaFA3U1UtQUR0QVRMT1Yzb083ZjdiRThmOHItY1ZFelpsM294U1hBT1BON0hvbms3N0hlNDJWVklVWWhfemZLSGZpT1dGbnhuUC1FMHExYm9TTElmZVROX1hHUnh4Q0lmYm5KQmFnWWZ1SkN4MXlBZUFoSHdfNDFVeXZGaXUweVdPdHlLWHBvbGZjVUFtSUUyV0VPajdiMTc3QUtKTTFkOG04RGNoeVM?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "Business Wire"
         }
       ],
       "news_flags": [],
@@ -632,8 +634,8 @@
         "AI datacenter buildout"
       ],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -685,7 +687,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -698,10 +699,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          79.58,
           82.64,
           81.1,
           71.88,
@@ -714,13 +715,14 @@
           91.9,
           89.89,
           85.33,
-          90.67
+          90.67,
+          90.9406
         ]
       },
-      "price_now": 90.67,
+      "price_now": 90.9406,
       "price_at_signal": 91.9,
-      "pct_since_signal": -1.34,
-      "pct_14d": 13.94,
+      "pct_since_signal": -1.04,
+      "pct_14d": 10.04,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -744,41 +746,41 @@
       ],
       "news": [
         {
-          "title": "Here\u2019s How Much Traders See CoreWeave Stock Moving After Earnings - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYTVobGFtVExNQ2paNmUzTTEtUV92alhsSTlDMElzNHEyazU3b1c0eEdLOC1OSUdZb2IyNnFHeW9nWERGd1p4S05KU2Jnc0N1MHBUaHZWdDgyWTZpT29KbWFqLUoxcHROb0FSelphbWdKRmlaMDBYMkNoZkxxZVlXbVlnRzRnYUNkbnFpZFRWRkdXUDN2dUtLTkc4dlZGdw?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "CoreWeave Faces a 15.5% Earnings Swing as AI Spending Gets Tested - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcF8xSHdUN3NjMFBoRWUtNU53YUV2RGJKZnlhOVY1VkUzcGh6eTd6bzFkaEFyenNtNDkyTlEwV1A1a0dGNC12S0RtQTZTS1dLcERNZW1TYUl4SmNOT0k2WXFnM3NVTEJUcnRWd2tIa0liR1BqN3pob1ZYM05hYy15cXhLamlaMHlWU2licWpaT05ybXdURWk3dFhudkJqaTJsWjNGOTI3VUtOajRlSFBUZF9Eb0pJNnhURTBFMFFvSkgxUQ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Coreweave at $92: The Compelling Bull Case On Offer Right Now - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOclNCNlctT3dwM1FQUVBzMmRvZEdJYlJuOWNtMFpJRDJfM2JxZ1VVd1NRb05BalVLd0cwYlBwcEw5Z3Bkb0pTdmItNm42cFdpNUJtQVpnSjJFdl9Rbm90d1FKemRibktGZDJiUS1OR2FnZk0zWjd3TTI2WWtYN0NsN1VZZFJxUXo1SC05aHpRbkgzcmw2YkF5bnkwNkViejg?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "CoreWeave is Off 20% Over 3 Months: A Prominent Tech Analyst Expects 65% Gains This Cycle - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbnZHRWs3aF90cl9ZQjdySUpvMDFPRWo4cGxLRHhjQjkyNG0yYnBUSlRjMHVpcGQ1MVFILUp1ZUVsR1BWTWQxZGdZdHd6M29oZy1xWFpXbmZ4SlVkeFdQRS1aaUZBSTlvY3JPbG9ydmFrU2JObTlxX1MtbVZVWEN0X053M2F2azBNaEg5ZTZtZDhLZzFNZFBncTFtRTRjMU9LMk4xVUhKbGZITkdnVVQyT1NyX2N1RHV4TTl2WXJFSUstbkxLOVljQmVB?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "24/7 Wall St."
+          "title": "CoreWeave Stock Trades Below Its 200-Day Average Just Ahead of Q2 Earnings - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTFwQV9DUjNXYUhYRk1GRzVXMjE5SVFIV2N0M1BySGNyYy1yUS1DcENWQnZTVTNQUjZ4WjlzOW1VZ3dVQ19oQ1c3bnp2WXU4VzBhME5uVkltWWZlS2pndFo1VTRSZmNHcjdCd2pKazAyVHhjQVBrT3lQMVBpZU1vTVBrOHJidXpSTXloNEYyVXRSOVluWlh5LXJndHZVcjNXanVBd0dLbU96SmJJdldQLW9tcGxYTVhOcjNlUTh3MHY2QWZuX3FMNzZfWEEwTTZx?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Benzinga"
         },
         {
           "title": "CoreWeave's CEO Sells Company Stock Worth $28.2 Million. Here's What That Means for Investors. - The Motley Fool",
           "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTGkzYVoza3hTMS1GbmxXcGc4RFEzblBkbE9hcUNMMDAyaXh1cDBlSXE5dUF4bVpKZnZjYXhnUnVjVGNPTVU1SXJUQTNwRGZYTFl3dnRsWXhINENkeFQzVmlhY21aMlZkU0NXODg3UWI4bmIwZUQ2QnBlNWUzZmJHYjRuTVhaWTY1V3ZpekFidTN5WW5TdkdrbHp2RkhZbG9Xby13MHc1bmtMR1BqajdZWkJHLXd5bzZrTEFfSUdlQkZsTTdVLTVhMWlKYWFsSm80YWZfNTBGYUt1dzlD?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "The Motley Fool"
+        },
+        {
+          "title": "CoreWeave Inc (CRWV) Stock News Today - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yci1JRjVqSXo5ZDRUay03dTgxRUs4ZFZCSGxILXJaTks0QW5naWhXeXZHcmllYlVURm8wOGFXMldIeGF5QkZ3MXNLWFp3UU9TRDdOUHVCSEduRXcyMUN4MA?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "TradingKey"
+        },
+        {
+          "title": "Is CoreWeave, Inc. (CRWV) A Good Stock To Buy Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNlZkc180WmkxNC1nU1JybmNoZzdJaV9EU3NWTl9fMmJvSEo5X2NDUXpqZ2JYUi04ejhGZ2gtWDBOZnR3Qk9jY1FveFEtV0hQay14dWxtRUs0TmhtUVIzY2NwZFJXRTlXMV9CT2g2dXpsak9XLWRRQjd0bXNRY0xuelVqX1RKODlncUdHV211RFRYNDVDQjBmLUxn?oc=5",
+          "date": "Sun, 07 Jun 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Coreweave at $92: The Compelling Bull Case On Offer Right Now - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObUh5ZzdPNEVXVS16eFJUbTZLWWl6a2RYdjVaUFdsZzc5UG5DN0VGUkkzTE1mQXZNUks1WnJYSFFJUmpFWXozZjkwa0RUQlB1Mmh0bmh0Q3VxT1JnREwwOERpTU9QeGkwd2RqWEVWTVZwakdYblptODNnQkk1bEpPYUY1OElxRzZqVU5ETGxRRW1ma3lQY1QwcDlTN2IzYjBabGN4b0ln?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "24/7 Wall St."
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -830,7 +832,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -843,10 +844,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          1.54,
           1.57,
           1.5,
           1.56,
@@ -859,13 +860,14 @@
           1.365,
           1.53,
           1.5,
-          1.636
+          1.636,
+          1.575
         ]
       },
-      "price_now": 1.636,
+      "price_now": 1.575,
       "price_at_signal": 1.03,
-      "pct_since_signal": 58.83,
-      "pct_14d": 6.23,
+      "pct_since_signal": 52.91,
+      "pct_14d": 0.32,
       "deep": {
         "recent_filings": [
           {
@@ -920,8 +922,8 @@
       ],
       "news": [
         {
-          "title": "66,600 MKZR shares bought via trusts at MacKenzie Realty Capital (MKZR) - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT05jd3dpeU8wLUwzcTkwN0UweDhnUWt5ZUpIZkpyZUZpTUptUlVoUDZrQWY2QjJESDltQXZhMFBLV1I5NzZweXNhbFVNUlVvMnRkWEhqU0pLb1laMEo4WHA0Vll2cHJEaFlZM0toN1d0a0lLRS1iZWVYS2ZkNGhieVM4QXc1WVk4VzdJZUozLXM2NnoyeFBJM3pTWWVhc3VjR2NueWVlWV9LNGhIclgyNHdEVlBhRTlYejlSOVNGaVA?oc=5",
+          "title": "MacKenzie Realty Capital (MKZR) trust acquires 66,600 shares at weighted prices - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGVtNjVoZDFOV095NldVRzlQN0dsbDFfRVFrcUZ5UlFPTTBqX21rYmRwREdnYUttNzJfNFhWVmpRN1ZzcVE3WEFEQTNqWlc0OUpxNGgwSi00NHVXN3FuekE4am03cU9COEQ0emszeUNhREk5bG53OXg4clZrQnA3UXE4YUpuQTBWQkctaDJXMVhaLVEzanQyUHdxemdwaEhDVTI4ZERBdlpvOWd0QWEzLVk0M3hDeVlWNmxWeGRpMmI?oc=5",
           "date": "Tue, 04 Aug 2026",
           "source": "Stock Titan"
         },
@@ -932,28 +934,28 @@
           "source": "TradingView"
         },
         {
-          "title": "MacKenzie Realty Capital (MKZR) trust acquires 66,600 shares at weighted prices - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGVtNjVoZDFOV095NldVRzlQN0dsbDFfRVFrcUZ5UlFPTTBqX21rYmRwREdnYUttNzJfNFhWVmpRN1ZzcVE3WEFEQTNqWlc0OUpxNGgwSi00NHVXN3FuekE4am03cU9COEQ0emszeUNhREk5bG53OXg4clZrQnA3UXE4YUpuQTBWQkctaDJXMVhaLVEzanQyUHdxemdwaEhDVTI4ZERBdlpvOWd0QWEzLVk0M3hDeVlWNmxWeGRpMmI?oc=5",
+          "title": "66,600 MKZR shares bought via trusts at MacKenzie Realty Capital (MKZR) - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT05jd3dpeU8wLUwzcTkwN0UweDhnUWt5ZUpIZkpyZUZpTUptUlVoUDZrQWY2QjJESDltQXZhMFBLV1I5NzZweXNhbFVNUlVvMnRkWEhqU0pLb1laMEo4WHA0Vll2cHJEaFlZM0toN1d0a0lLRS1iZWVYS2ZkNGhieVM4QXc1WVk4VzdJZUozLXM2NnoyeFBJM3pTWWVhc3VjR2NueWVlWV9LNGhIclgyNHdEVlBhRTlYejlSOVNGaVA?oc=5",
           "date": "Tue, 04 Aug 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "MacKenzie Realty Capital, Inc. Common Stock (NASDAQ: MKZR) Stock Price, News & Analysis - Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPTDhNaXBvc1ctN1dvNVEwdGZ1TUVFeng5QkJla0NZb0tOV2l4VHhNMWl2RVFYUHdPdVR1a29aTDZ6dE9iU0hjSjMxYUdtTG1pME55dU5R?oc=5",
-          "date": "Mon, 03 Aug 2026",
-          "source": "Kalkine"
         },
         {
           "title": "MacKenzie Realty Capital Secures additional $1 Million Loan for Non-Traded REIT Shares - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOVFTdW9XeElMOUtub3Qzc2pZMHRFOVJyOVJoNjZHRENQREtqUXRIUFNKNW5TVk5HelExOGxnYmh0M2xVS0lrRFVBLUtMejVqaHFZTGlGdXh2bWZISE1PcEU5Q2luSHlleHpTc2hZR3VKVHI5ZGE1enQxY2dRazJacUt0OHhzRVExTnJ2eGJ5c0Vab1U?oc=5",
           "date": "Fri, 06 Mar 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Should I buy Mackenzie Realty Capital, Inc. (MKZR) - Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAydXk1N1R4eGFHcDJaY1pkd3QxMVIxaDhBWDROZ2tZWmdkOGJrb3N0QXJaWnptTk5CSm5GaEhEYXRBQ2V6RTNFRVY3VDdGc1ZGTWY5UlVqT1gyMm1TeHNROU9GQVBFVUhwbC1Uag?oc=5",
+          "date": "Wed, 29 Jul 2026",
+          "source": "Zacks Investment Research"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +59% since disclosure",
+        "label": "Edge partly spent \u2014 already +53% since disclosure",
         "cls": "spent"
       },
       "earnings_soon": true,
@@ -1006,16 +1008,22 @@
       },
       "trend": {
         "dates": [
-          "2026-08-07"
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          20.17
+          21.9,
+          20.38,
+          20.17,
+          19.07
         ]
       },
-      "price_now": 20.17,
-      "price_at_signal": 20.17,
-      "pct_since_signal": 0.0,
-      "pct_14d": null,
+      "price_now": 19.07,
+      "price_at_signal": 20.38,
+      "pct_since_signal": -6.43,
+      "pct_14d": -12.92,
       "deep": {
         "recent_filings": [
           {
@@ -1046,22 +1054,22 @@
       ],
       "news": [
         {
-          "title": "Attovia's CEO aims to scratch itch opportunity and challenge Dupixent with $289M IPO - Fierce Biotech",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNc1FUdmFBOGFJZ3diSTZsS09aVEk5Z0UtcVB5amVSenhaUUVsUEw3VWlzREhSSmF0b0RkdEpPcXBBZjQ3S0pXcE5KeVBqNWdLZzAxSjVRQTUzZEU2ZEk2MGExU29aanlKOWh5ZWU4VV9pYUo4MWRjS3JWRmhZd0dLRU5mNDdaekkyazNFbzI2TWZ4SUxfQjM2c0RTcTB3TVpJd2xZMHpzeHRWWjA?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "Fierce Biotech"
+          "title": "Attovia Therapeutics (ATTO) insider reports initial stock and option holdings - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWUzSXdfM3hZUDJMT214Tkh4bkpPcE5VUjVEQ1lmbk9OVHVqd1R3U0kwTzZLSTNnN2RTYTFoVTJIRUJTZjAxcnpuN0Q0SWIzMGhRcHY1S3lLRThBeDhuaDFqeDhJNHY1Z3B1MkdvX2pMSHhsV0JqZFFLM1N5UUZGaGtJZnZGbWZJNUtRald1ekxIanpqY0l5NVd2dTFJbEZxU0h1SzYxYVVvaENtSFNNRkVadEhwQzRxenNnN2pia1RBWWpfMnYzbzcyTQ?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Stock Titan"
         },
         {
-          "title": "Attovia Therapeutics (ATTO) Stock Trends and Sentiment 2026 $ATTO - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ZFFrUjlKS2lNVnEzMWVBcHg4QTFROUI5bzlwMm0xdWNOS3Nkb2V3d25ySV9zVGxDYndBSklWRmVhaGIzUGgxR3h0MGp0U1QtY2tMNU9sS2xsbWlCQ0tHblF4WVFuZGZEcG9pUnlhX2x5b1BrZHc?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "MarketBeat"
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdXpJUDJydVJvaV9pc2RIeXQ1WVVoQU41WUF4emxtMndfalRCbGpLejlDdWFTYnI5NXZmcXh6akUwaGlsLVpyY3czMTd0U0VQ?oc=5",
+          "date": "Sat, 08 Aug 2026",
+          "source": "CNN"
         },
         {
-          "title": "Attovia Therapeutics Announces Pricing of Upsized Initial Public Offering - GlobeNewswire",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNLWg0RTV2aXlWcHpWaGZmUl9DdERWeU9mYm1RcmVUNHpfMVlKQ3pSMlZMOTZYOGctOEVLWDRwWjlkamZvajBpQ3JwcVRhWU80QjJxdGxwcUV0amRtVzRLWXg1elhTODNRMVYyMGY1V2NaWW43V1lSczR5Rms3REI4OHUwSklaZVBfeUZwaXFyd3JsYTd3ekF2TTBJYXlET2pMdVNRVEtyMHhLM2lyMW5sNGg2VUdQOEZpMmVNSkVvbGJ2bnJVVk9IT3lsWVNmTTRPYllnVjU4OTNycmM2YUE?oc=5",
-          "date": "Wed, 05 Aug 2026",
-          "source": "GlobeNewswire"
+          "title": "Attovia Therapeutics (ATTO) CFO discloses two long-dated stock option grants - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVDdJWWQ1RDhtTlN2MjBRa3RyNExCMGxScE5fRmtiYm9CbjVER2tuSm9LTy1GZ01oU2gzVDA0NUR5NjJrSWlQS3BQZE9QdUdCX01lUXNaTjljN3N1bFl3V0pGY0FvU1NoRk1ZWUxYNUc1MVQyR0haWWRiR2xRenNXZjQ0QmFOWVdaaDgycjRFZGw1NHhqdUJsODY4anRJdmRMbDJmNmwwWHE0TktleHFhOFM4NGZob1owYjZpTWdOZzFfOVN1OXZsM2g2bw?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Stock Titan"
         },
         {
           "title": "Goldman Sachs-backed Attovia eyes $731.5 million valuation in upsized US IPO - Reuters",
@@ -1070,19 +1078,17 @@
           "source": "Reuters"
         },
         {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdXpJUDJydVJvaV9pc2RIeXQ1WVVoQU41WUF4emxtMndfalRCbGpLejlDdWFTYnI5NXZmcXh6akUwaGlsLVpyY3czMTd0U0VQ?oc=5",
+          "title": "Book value per share of Attovia Therapeutics, Inc. \u2013 NASDAQ:ATTO - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFdYbFRYM21KWGRpOHd5cDdzXzBlbmZXRmhsWlhvMUVNbWpTOWY1UE1BQjJNeDhHb1FmRmdiQWJEMGRKaHRmTk9GZWxjVnpnWEtIWlZORzFYQlRPbndxbmE5eXNhYlM3TExvdFRtb0RtaEZubm9uV2FXaFhqRFA4Yk82WkE1aUZWWHdkOW9hYllHdUhHYXdjVlYwaUR4Sjk5NXotcg?oc=5",
           "date": "Thu, 06 Aug 2026",
-          "source": "CNN"
+          "source": "TradingView"
         }
       ],
-      "news_flags": [
-        "share offering (dilution)"
-      ],
+      "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1140,7 +1146,8 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
           21.63,
@@ -1149,13 +1156,14 @@
           23.29,
           23.14,
           22.89,
-          22.91
+          22.91,
+          22.5199
         ]
       },
-      "price_now": 22.91,
+      "price_now": 22.5199,
       "price_at_signal": 23.0,
-      "pct_since_signal": -0.39,
-      "pct_14d": 5.92,
+      "pct_since_signal": -2.09,
+      "pct_14d": 4.11,
       "deep": {
         "recent_filings": [
           {
@@ -1211,41 +1219,41 @@
       ],
       "news": [
         {
-          "title": "Jersey Mike's Subs Inc. SEC Filing (Jul 30, 2026) - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPajVNUE95Tm9SN0N6S2pKUVFQa0IxX3hKSmcwOG1kWjlaMmU2enJiZGg4VDV3amxRNjhfbm1lYmNvUWlXcUFPWHhRX3VHT1NoWVQzb09XQzlacEdobFJ4c2ZqOHl3NHlJOXduLUdLRERUT0VYSDFreXRpMnZfZ0JpbmZESzFfbDRoU0g1d3lXdlJDTll2UWpaVDV6MEdJcFNZbk5RZw?oc=5",
+          "title": "Jersey Mike\u2019s IPO Said to Be More Than 10 Times Oversubscribed - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV0FKU0Q1bjRIR3hiNjY1enp4Sy1RMVUteXN4d0pHOWpLdVBnT2tSQUE3S2tVX05LVk1fbHVjMC0zLUx1Uk1pZVJqMGVFN3dsUEVkRHZnWmVnTDVJd012czhvakR1LVhIbEVxLWgyQzktaUNUbkkyMl9lZ0JqVzVidlg5YWlLOVBtRHNuLTN1OGFXb0Ix?oc=5",
+          "date": "Mon, 27 Jul 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jersey Mike's stock is priced in highly anticipated IPO: Will retail traders have an appetite for it? - Fast Company",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbFNxTnc0YWpIeE4yejVUVkM1Y05keFBTZEhTZVVHbG1NdUdnV0kwSzlvQzVRbFM1ZFRpY1JWdWY2ZGZ5MnRIM2IzRk9ZSGdOZWZwdURfMkxiSHFOMExCMjhYQmpOVnZ3N19fbTVKR0xTV2Qydm5acTNhNE93dTNwLWowTzRMbVVSMlNlM293SFMtV3FfVmNNdjRsSTJXVTJBUzJZcw?oc=5",
+          "date": "Wed, 29 Jul 2026",
+          "source": "Fast Company"
+        },
+        {
+          "title": "The Jersey Mike's Subs IPO is expected to sizzle (JMKE:Pending) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTGNaYVI4bzVBUDVHV1RWTVRhWFFNVGQ2ZWVFZ1ZpVGhwendGQ2RRREtvSldwRk0xWmNkMUFidEJ0UVdTVVlYcDZoenBDcEtXY05ZWXJNbDEwYWxDUlRzanhVQm1NRGw4NDVLdjYxZl85MmxaUkZ5Q1Y5Zlo4Y0MwYkpGNzJZYVR4RHg3c3ZB?oc=5",
+          "date": "Wed, 29 Jul 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "How to Play Jersey Mike\u2019s Subs Stock After the JMKE IPO - barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMzZvVWlXOTlrUEVCWGxoS1ZvZFllUGx2dXhNMXhuZmZtNThsbzdVcmdCV1k3Z0V2eTJVbG1sdFRVeE5icl8yWi1Vbjl1ZzV6dFZBSjdscTlNSmNZTF85YTJyWWFqMjg3NXcyOU5Hc3ZIbmRVMFh2aDJxdG9yZy1UeUdWb3A2TUhZM2hRd0VXR3RQYlZhZXhPVnhPN2VXS3M?oc=5",
+          "date": "Sun, 02 Aug 2026",
+          "source": "barchart.com"
+        },
+        {
+          "title": "Blackstone-Backed Jersey Mike\u2019s Falls 8.7% After $1 Billion IPO - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTV0UlFWOEl3alJ0ZjY4UGd5VXFDcHpkdlkxeFVaZG42VTRGZ19lRzNqdDJuek1sczFXUU5jclZ5QU9EXzh4c1RjMFhWSGJ3R0NJTVJkNVlkR0ktZXQtajA0MHJjTGdpV3lTU3lQRVJ1Z3BmV1pPcmNjZ3JmR0NPX0Z6b25IQ3g0RUdfM3ZUN2ZaSkpUWkhIMlhESmkwZ3dSa3NfM2F0VDVFd1lWRmpaaE1n?oc=5",
           "date": "Thu, 30 Jul 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Jersey Mike's stock falls 6% in public market debut after pricing shares at $23 - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObHhtNkt1anhabVF4Sm1vaGxYa0NHSGRhLUdVR2FEVk5aekd6VTltOTBnZEFBOHFZdUFjVmx2TXE4Ql90R0FPMmRwNUxuMG9GdHlUN2JHbDYzVkZQTERHZEFpUHdVMzBUYm1CWXpWZEhIZENNcjJ4dmR2MG9KLTB5Sk1MNGdvX1k1SkJpeHg0X1JnOGNfOWF6X0g1dG45aEE5dV9KN1RhVdIBrAFBVV95cUxOdHMzeG9Iejc2TlJLN3RUWEo4NklmcWcxS0pnaXNHbTZGYnNQLWMxdjd5MzM2YjQ5c2d2S3RvSHpNYTlLaTJyMVhzbXlZSE5oaDBGSVh0YjVzREUzRl9OMHNTaHJWSGVSYzRpV1M3czRMaGlOV01yaGNRQmVCVGRVVl9lOEVuRFhOeklNMG9Va0RMazVha1cxdExEaFNJZS15Ty1mUHhSbGh3ZkZi?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "CNBC"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBrUlg5WWotbXFUNlFFTElUMjFGWEVyYUJ3b1gwQ1dPYXFxR0thcG9ucjJGa3F5Nnhha3p0N2ozX0ZfZjhIRGlqYkdNbmpuY2VS?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "CNN"
-        },
-        {
-          "title": "Jersey Mike's Subs Inc. (JMKE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nSXlNNHN3cmtkSFMxc0JOMWt4XzBQblZzN2IxSXUyUTYzd0VRMmN1QXYtQmFHZHNSTm1UZnVZOHJuZEFfWUVpTUhvc1doVjNxUHMxVXF1SUZjdUw5MlpXQQ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Benzinga's 'Stock Whisper' Index: 5 Stocks Investors Secretly Monitor But Don't Talk About Yet - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ1dHSFNLcnNuTXVva2JqemM4R0I4ZkFpTmNYUzktR3czUm1GejltbmtzdUZQcGxfNVBIU2dHR2toSnlHbTBjS2FaWWdvbHF1N0pUQ0J6V3k5d01sSGloOTY0M2pYQ3NpSTJDeDhHMHFOMURkMkprZFRyMWswTlowcmJScjVwTWdFdzlPUXp5MXZHWjlVWHNHZWVOTjdIckJZaElfNlJHTTk0cjk1Y2JKVXJTaThLZVd5VWpLdk1qUUItNUlZZGluRF9kMDFfZTRETkJYSUhkTExpbGt6eEJBVHJsTE81N0NRZDBCSWI1Yw?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Benzinga"
+          "source": "Bloomberg.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 8 days ago",
-        "cls": "mid"
+        "label": "Aging \u2014 latest filing 10 days ago; edge decays over weeks",
+        "cls": "spent"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1297,7 +1305,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -1310,10 +1317,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          1.0,
           0.95,
           1.02,
           0.89,
@@ -1326,13 +1333,14 @@
           0.97,
           0.99,
           0.97,
+          1.0,
           1.0
         ]
       },
       "price_now": 1.0,
       "price_at_signal": 1.0,
       "pct_since_signal": 0.0,
-      "pct_14d": 0.0,
+      "pct_14d": 5.26,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -1351,22 +1359,16 @@
       ],
       "news": [
         {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA4eGd5aVJrd0M3Tk00VnVieXpoRjh3YjRNUU5TQ0FvRGQxMVdFVE4tYjMyYnJrd3JfTmt3OHd2RVktbzFJNF9CV2VDT3Jub0Y4?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "CNN"
+          "title": "Tiziana Life Sciences CEO & Executive Director Acquires 18% More Stock - simplywall.st",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaXdKVEVtRFQ0OG02Mk81TkROV0Rld2xPWmxvZDBIc0h2bmVRbVZzdy00QTh6aU5BRnVaSGNNbFZ5VWY5MFpISENLMExhMjhxSGtWTC1lRTRWdnNVR1VEQUcyVVlCbWl3QmxtbVpVT2t6MXZMbHhnRDZuUjVqRkNqZUFsWlE3TlJUcWFFMGZGUzRGQmlsOHdNaHlOUWhMN3poZmx0QkloZThKbDlfVmVKSGVVQ1dXRUcxRTc0ZUZIQVhlSndGLTFvQnhxaUF5SVJPR0RuUFUwdUFQN3VjWWRqRjIxMzJXakcwRm5V0gHwAUFVX3lxTE1iX29zcVNHeFAwU0xKUmtCNXR2cXlwbjRJWHVwc2t3OUFVSVpXcUxaM1JxZDJUOE93STB5WFBMTW1kWDNnQXpWeWp1c2R1YnFnT05JR015Z2dtYzZOLWJPZEVlazhNeUV2d3d6V2FDYVZOajVoTlBUY2ZLQ1pnWDFVaV9rZHFsWHhGRzdhdDJUeHpfRVNrRTBSdEppaVNDNzJQSDg2dUVNNG52WmI0UzZjSFFQNnh1WllGR2NsOUV2cV9ndkhZMGhVNENFdElWQlhGS0ZpWkI1N0dfUUdOV2JVVVMwNm9lZzNXYTBldm8taA?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "simplywall.st"
         },
         {
           "title": "Tiziana Life Sciences Ltd (TLSA) director adds 15,000 shares in open-market buy - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVZFMU8xRUIycjNLdzdqSjd4QVptUm4xbEwzMHlzZEJycGZPR3lJZTRILXVvZFEtdjlMckpVXzVaVG5FUUE1UGpRcUdNUzhHYlNWRVo3b0xDNS1UQzVCZWZfVHZ1TUJ5TE93S1d3bEtyXzlLaHI1ZGpyYlVMZW5LaElSSFRPR3QwbWY4UXlTLU0tVmxUdXczaEJjRW1uQ1dSUzRsVDFQRWlwWmRTSy1aaEExeU1lMTVxYU9mX3NoZW0tRzlUc0RVZg?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "Tiziana Life Sciences CEO & Executive Director Acquires 18% More Stock - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaXdKVEVtRFQ0OG02Mk81TkROV0Rld2xPWmxvZDBIc0h2bmVRbVZzdy00QTh6aU5BRnVaSGNNbFZ5VWY5MFpISENLMExhMjhxSGtWTC1lRTRWdnNVR1VEQUcyVVlCbWl3QmxtbVpVT2t6MXZMbHhnRDZuUjVqRkNqZUFsWlE3TlJUcWFFMGZGUzRGQmlsOHdNaHlOUWhMN3poZmx0QkloZThKbDlfVmVKSGVVQ1dXRUcxRTc0ZUZIQVhlSndGLTFvQnhxaUF5SVJPR0RuUFUwdUFQN3VjWWRqRjIxMzJXakcwRm5V0gHwAUFVX3lxTE1iX29zcVNHeFAwU0xKUmtCNXR2cXlwbjRJWHVwc2t3OUFVSVpXcUxaM1JxZDJUOE93STB5WFBMTW1kWDNnQXpWeWp1c2R1YnFnT05JR015Z2dtYzZOLWJPZEVlazhNeUV2d3d6V2FDYVZOajVoTlBUY2ZLQ1pnWDFVaV9rZHFsWHhGRzdhdDJUeHpfRVNrRTBSdEppaVNDNzJQSDg2dUVNNG52WmI0UzZjSFFQNnh1WllGR2NsOUV2cV9ndkhZMGhVNENFdElWQlhGS0ZpWkI1N0dfUUdOV2JVVVMwNm9lZzNXYTBldm8taA?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "simplywall.st"
         },
         {
           "title": "Tiziana Life Sciences CEO Boosts Stake as Lead MS Therapy Progresses - The Globe and Mail",
@@ -1379,13 +1381,19 @@
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oUXdTNFZ3aXpKSlQ3dVJKM1VzaDB0bkg4aUwydXVfeHlYUTlGTWplVWR2cEc5RE5PSGVZanZwQ0M5cHR3ZVRIZnlJOWNRUENTOWpFR1Y5SHBSdlAx?oc=5",
           "date": "Thu, 06 Aug 2026",
           "source": "Quiver Quantitative"
+        },
+        {
+          "title": "Tiziana Life Sciences : Announces Purchase of Shares by Chief Executive Officer - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW5DMG5ndzRDNjBEb25BT0tfY0w1Ym9xRlR1b0ZyMG1xRVlFeWw4dVFUbG9pR1ZnT016T1NKd0ZqWHgxbDVnSWNNbFFnWGtOSnV0akxEaEZUT3BHb3ZsTUI2Y0NBcjB4WENJWDhodlFnYS1IeEtNYmNvTW03d2Zla1hMbWh2M29xanYwSkJ1bTFUT3VadVdRZ1R3Xzc3WThhY29rcWZuLWNnUk9LRTgxaWlqOHc3aXEzWEZZbGpnYV91Y2dlWHQ3NTBR?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "marketscreener.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1435,7 +1443,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -1448,10 +1455,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          77.25,
           77.55,
           71.41,
           72.19,
@@ -1464,13 +1471,14 @@
           44.05,
           44.15,
           43.93,
-          45.34
+          45.34,
+          47.0
         ]
       },
-      "price_now": 45.34,
+      "price_now": 47.0,
       "price_at_signal": 44.15,
-      "pct_since_signal": 2.7,
-      "pct_14d": -41.31,
+      "pct_since_signal": 6.46,
+      "pct_14d": -39.39,
       "deep": {
         "recent_filings": [
           {
@@ -1538,16 +1546,16 @@
           "source": "GlobeNewswire"
         },
         {
+          "title": "Coastal Financial Corp (CCB) (Q2 2026) Earnings Call Highlights: Record NII and CCBX Growth ... - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDRZSmZ5OFdtbVA1U1hPTkxucVpPaF9PcHVTQmpMa3dMTlNHTTc4TS1JN1piazZmMW5TTE1tVlJmRnFGNFNFd2pnODd2NGlvWXE1NkxNQ3VaTGI0X3l1a01lN0pkQkRYZ194SzN5SGo4Nm9pVlJrZ21iOHlDYnNKalpQaVVWemhMV29Ib1JadTZ4TElPLVJHaWJB?oc=5",
+          "date": "Thu, 30 Jul 2026",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Insider buy: Coastal Financial Corp (CCB) chair purchases 290 shares - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZW4wYmtjbm1jQ19vSkc3Vzh2R2kxNDZ2b1NaTWZaYVVKU1llcC11QkY0NWgyLU1iSmU0ekxwY3RaS3psdlgyZ1BhMk12dGZvMldRakotaC05QkVNdUVYTmQ0OGNXcnNENTRNR3R6RDhiWWFjejJ4SnE1UlFfUUlBTHUxOC1sT2pHcmhpV1RsOHRzVmRNUGphdTFjYXdiMDMwbk14WVB0SHBKTkcycHBuM1ZhSXRMQQ?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "Executive chair Christopher Adams buys $13,093 of Coastal Financial stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRWlDYTdBWXJtQjl2d0VGZ3B1UE5pYVJOTUQ2TFVKb2k4VG50OFl3ZDJoNThpMjFtaVVUNUZaMnJGUXdXeDJOLVZQSnB1ZEZ6VktuUk1SVTFoUUh3LW5xdWo3azBmUGJyenNpOG9TREoxdFZxLVlRbGdhZVl5XzNMSXRVSzJOOEdXcVZpYkpyZnJkQzl4LThfeUtyZkwtVWlRUkdXaVJTOE9RRDJzN21EUFRSal9vbnNDN0NXSVc5cFpfeXZ6el84MXo4eGppdkQ5bEYzWVB1OHZ1NFFk?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Investing.com"
         }
       ],
       "news_flags": [
@@ -1556,8 +1564,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1607,7 +1615,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -1620,10 +1627,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          24.94,
           24.82,
           25.01,
           24.54,
@@ -1636,13 +1643,14 @@
           25.41,
           25.81,
           26.2,
-          26.76
+          26.76,
+          26.875
         ]
       },
-      "price_now": 26.76,
+      "price_now": 26.875,
       "price_at_signal": 25.81,
-      "pct_since_signal": 3.68,
-      "pct_14d": 7.3,
+      "pct_since_signal": 4.13,
+      "pct_14d": 8.28,
       "deep": {
         "recent_filings": [
           {
@@ -1697,10 +1705,16 @@
       ],
       "news": [
         {
-          "title": "Pfizer, Inc. (PFE) Stock Forecasts - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFRVZEdJODZyYzc3MTh4Q2xteVRNaDM2MGsyMDhTbURWS1h6S1F5cE5acFhaVGpTd1NEdUdRY2x6V2N0QmsycEJxZGY0dUU0SWlwWEF5cGp5M3d6Q3pRdHVUZTlGTkpxSUxNbFBZZ0ZxM0ExZUpwWklQdEtkcVNTR1hxaFN4VmEyM0ptYQ?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Yahoo! Finance Canada"
+          "title": "Is Trending Stock Pfizer Inc. (PFE) a Buy Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0NfQzhncmtRN3l1Z0VQRmtwZG9yTXVUbVp4T09qYTlreWJfVjJwNy1TdnhFMUVKMVNHb0hiNldDakFLWERkLS01SHo4TWRuUXpMMzhQTzFGRXF1bnEzYjdITEhwNDNrSVBMejc4ZGdHWWx1d0NjbjFxdnZ4RzVNSnVSMDZvTmR5M3VRVi1lYVBxQXRwRE1XcHpB?oc=5",
+          "date": "Mon, 20 Jul 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Pfizer Inc. stock outperforms competitors on strong trading day - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSHBibXc0d0RuN01yUWR4Sm9JRnpkVTR0RU4xMlRoekRIWjhUSENXTVBZQzNVbVBsT1dhRXJ5el9pQ2FkTl9GMGg0UllxZVNLUm1Ucl9RUzc0d0h6T3VsOG1aU3NmNHhBTjBHVi1RaXNsa0YzWlRYbHZSYk1Id2pZWjZDT1VhRnlBUFNPUGNEc2pHY0dxX0xrOXAxR2NVVTZIeHZnSXZkWlFYbkFHLWZHY0lVbXh1OU5yZEZOUElFYw?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "MarketWatch"
         },
         {
           "title": "Pfizer Reports Second-Quarter Results And Raises Midpoint of 2026 Revenue Guidance - Business Wire",
@@ -1709,29 +1723,23 @@
           "source": "Business Wire"
         },
         {
-          "title": "Pfizer Inc. stock outperforms competitors on strong trading day - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzROdmxBOUF1alFJeFhRZTlOWHVRUE5nblpuTndNajFUbDNpZWVaenBPQXFkNVk2ZDVYNExHR0tMaHM0d1dZX1dUbmlESmRXMXZHdWpKUG5GZ01kdEctZnczd0JQa3NvM3ZlbEo2YktacENkWUdLd0MySFJISklXYkJPa0lNRXdZcEpHTWVrc2ZPNmRpUnp4Vy0xaVJYNV9HakNpdjAydTJtZFVMZjRVTnBmNzdiZ2VjV0xqeXZLaWVVX01rYnFuSW9ieFdFaHZTZGF2SVNzWQ?oc=5",
+          "title": "The New York Stock Exchange | NYSE - NYSE",
+          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE93UWVlU3g1TVNpdTNEcjI2Yk9kSHU2Tnh5Y0stVFBGRWVkLW9wbU1EbHhQaHdIOE56d2V5NXVhSQ?oc=5",
           "date": "Fri, 07 Aug 2026",
-          "source": "MarketWatch"
+          "source": "NYSE"
         },
         {
-          "title": "Insider trades: Microsoft, Meta, Pfizer among notable names (PFE:NYSE) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdXd3aVNma0pLRWFpeTV5OFREa282VmNtaThBaU82Z1VFYm5aTWFJQXhPSHJMajk0QTdveHF5WlJmUW1wUmh3bENpYndwSFh4U1NBS29uVlBOSDRoanBqclZOcjFEMXNoUUxIRURMN2w3UHJlMXRaeWVVNFliaXRmaGgzdWZtVENKLTV3ZGdyaG5FTXVfZEo4VVB3?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Wilsey Asset Management Inc. Boosts Stock Position in Pfizer Inc. $PFE - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUUhJOUl2NEFrcTRlOEgyNEJDaXh4al9ZRTF2eHlpVUsxNmNVdXV4UmpUMk9HZ3U1a3hJbE5MaEJtM0xES0pwSVlRRWtXT0Q1U1FqRmN0Nk9FZS1GNEt0ejBYVlFsLWpuLU5kU1V5MXBONWtBX1ZPblBnTEZRLVNaNmgyT1htQUZnUEJZOF9pMDdubVhPOXVKRl9OaGYzMzBWYnJZQmYwM2VJalZXbHhtMkxRSmFGYjVJLVFLX29OQVNjTTRGQ09Z?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "MarketBeat"
+          "title": "Pfizer (PFE) Stock Faces Pipeline Doubts After Higher Revenue Outlook - Sahm",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWEFMUzNROVVNX01yZkoyMkR6SmEzY0hBXzFrVlJZOUJGMEhkamFHQ3F5SDh1VmNRb0FFOW5SZ2FhMFNMQXV3X2RBbTEzNTI0UnB6VmRlQmpPM1NJUU9VazRXaU9XU0lvSFBLbkRKalF2Z3ZzbERhVUpwMk9BZGkyQXd3V0w3cG9aZGp6RkpscHUwa1hDLVZCYXcxdTFKanh5eTFkc3VndTZKeU5aZHNCSHJmS3ZMR1VxdF80?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "Sahm"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1781,7 +1789,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-21",
           "2026-07-22",
           "2026-07-23",
           "2026-07-24",
@@ -1794,10 +1801,10 @@
           "2026-08-04",
           "2026-08-05",
           "2026-08-06",
-          "2026-08-07"
+          "2026-08-07",
+          "2026-08-10"
         ],
         "closes": [
-          1.44,
           1.52,
           1.48,
           1.55,
@@ -1810,13 +1817,14 @@
           1.64,
           1.57,
           1.535,
-          1.49
+          1.49,
+          1.6
         ]
       },
-      "price_now": 1.49,
+      "price_now": 1.6,
       "price_at_signal": 1.37,
-      "pct_since_signal": 8.76,
-      "pct_14d": 3.47,
+      "pct_since_signal": 16.79,
+      "pct_14d": 5.26,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -1847,10 +1855,10 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "OKYO Pharma (NASDAQ: OKYO) updates 20-F to add clawback policy exhibit - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNel9fYkhrbDYwREh1VVJERGJPYkZrVXN0QllvVEsxS2Z5dV9sa3hTaVZNazNCel80OHBEVExHMndJV2ZyTHBQVHFfOVo3ckRQOUhvMVI5cm1xQzRtNTRJSGwwVGdUYWhoUXRJQjB3ZlR3U1RSWGktREI4bmgwMTB0b2tuZjFFR1F0SDlDcFBCek4zLVRQWFdudTNzeHlsNDNVNkhOZU1kOXFZV1VCSUtiNkE1d05Nelp5WVhCLQ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Stock Titan"
+          "title": "OKYO Pharma Announces Purchase of Shares by Chief Scientific Officer - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY2pMVE5RZVFSM21OUC1BTHNBdmM0NWZJckFxRVJ4NGdNMUExeDFicXZTaXkzTnJfWE1NYzFzcnpZNTl2Y0RlaC1hT2pYbEt6dXptSjBscUZBRGNEMmdSS1NXSmxkSGRaRDZlMWZ4VlpGZEd4eWVVaXJCNlg3YzBmSWVVRklhbm0wSnNhWkdkcE14aGVUbTR0YUlwY0lRTlRxVzY0U3RjakY5ejVJd1k2eDFQNzRIYlVZY1FwZ212R1RteVlRV3c0UHJXbmVyalBtSDJCRHFRRQ?oc=5",
+          "date": "Tue, 28 Jul 2026",
+          "source": "GlobeNewswire"
         },
         {
           "title": "OKYO Pharma Director John Brancaccio Purchases 5,000 Shares on Nasdaq - Quiver Quantitative",
@@ -1859,16 +1867,16 @@
           "source": "Quiver Quantitative"
         },
         {
-          "title": "OKYO Pharma Chief Development Officer Gary S. Jacob Increases Shareholding with Open-Market Purchase - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDA2Q0R0UmNoV2JuTVEtQ3lSM281NFBXU2FuS2ZHTHpZbkxSTktWWHpxSmZEeEE0NmhwbmlGTHdvY1I2azY1SWpVOVdiakJrekUwWmdnMzI3QThPWXViS0lYUEJ4NlFZazVtUnJUZ2dpbFRlOW5YbkhzX2xGcWJ1WFEzS3dCNWNXa25oZHd6UjJOdFNaTTgwckRrXzBNMTE0RE44ampUaUhScmh3eXcwVkhFR1hIaGdEODNDMWRlNDFoX0NXeGV5bldMRXB2dw?oc=5",
-          "date": "Wed, 22 Jul 2026",
-          "source": "Quiver Quantitative"
+          "title": "OKYO Pharma (NASDAQ: OKYO) updates 20-F to add clawback policy exhibit - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNel9fYkhrbDYwREh1VVJERGJPYkZrVXN0QllvVEsxS2Z5dV9sa3hTaVZNazNCel80OHBEVExHMndJV2ZyTHBQVHFfOVo3ckRQOUhvMVI5cm1xQzRtNTRJSGwwVGdUYWhoUXRJQjB3ZlR3U1RSWGktREI4bmgwMTB0b2tuZjFFR1F0SDlDcFBCek4zLVRQWFdudTNzeHlsNDNVNkhOZU1kOXFZV1VCSUtiNkE1d05Nelp5WVhCLQ?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Aging \u2014 latest filing 18 days ago; edge decays over weeks",
+        "label": "Edge partly spent \u2014 already +17% since disclosure",
         "cls": "spent"
       },
       "earnings_soon": false,
@@ -1892,135 +1900,6 @@
           "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "APMD",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 4.4,
-      "sell_score": 0.0,
-      "net_score": 4.4,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-03 OTHER SEKHRI PAUL J BUY $200,000",
-        "2026-08-03 OTHER SEKHRI PAUL J BUY $200,000",
-        "2026-08-03 OTHER Morningside Venture Investments Ltd BUY $5,000,000",
-        "2026-08-03 OTHER Morningside Venture Investments Ltd BUY $5,000,000"
-      ],
-      "company": {
-        "name": "Apnimed, Inc.",
-        "industry": "Pharmaceutical Preparations"
-      },
-      "trend": {
-        "dates": [
-          "2026-07-31",
-          "2026-08-03",
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07"
-        ],
-        "closes": [
-          25.0,
-          25.0,
-          25.71,
-          26.51,
-          27.88,
-          27.0
-        ]
-      },
-      "price_now": 27.0,
-      "price_at_signal": 25.0,
-      "pct_since_signal": 8.0,
-      "pct_14d": 8.0,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-08-03",
-            "summary": "Company amended bylaws or changed fiscal year; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1745648/000119312526330509/apmd-20260803.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Morningside Venture Investments Ltd",
-          "kind": "OTHER",
-          "note": "36 Form 4 filings on record since 2014; 1 buy of APMD in this tracker's ledger"
-        },
-        {
-          "name": "SEKHRI PAUL J",
-          "kind": "OTHER",
-          "note": "95 Form 4 filings on record since 2003; 1 buy of APMD in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Apnimed, Inc. (APMD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwOExCa1hjSE5YWnVvYjNqdWhmUnBlMUtwRGU2RGpsdElxNS1RQTZvWGtNQkFpT1Y5TTBpekRHX2VXMjY4YXFmdjFMeGdWbS1heXc?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Apnimed Announces Pricing of Upsized Initial Public Offering - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaUpROHpNbEh1aUtSYnVCaUFvcGFKNl9rX3o3UjRJaTBKLUxsMHR0bFRRV3dlT20zd1hUalVucktaalk1MFVKZEI0TGFfTnRvZEdFYnplZER1X0lveGhxcW5wWDFEblU3bFFhT3ZTZ2VzLTJ6VnNIQUoycE9raFhsbDJJR0hkVVZqSnZ3ZS1rZHhNVldfTUFRenhLTVpja2hWcUpMbGhBakZTQkFTMndQSlVKb2xKNWs?oc=5",
-          "date": "Fri, 31 Jul 2026",
-          "source": "PR Newswire"
-        },
-        {
-          "title": "Apnimed, Inc. Common Stock (APMD) Stock Price Today | Live Chart & Quote - OKX",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aM2tnT0RSSkc5QXEzTGJPOUlVV25Tbzdqa3Z5VGI1Tmg2TnYtYkV5VktNc01Nd3JyMlJ5Z3p3S0JxREFEZG55TU9Ca1Q0Qy1QOFczX1JSZnduMG96OVVvZW5zUmVYdw?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "OKX"
-        },
-        {
-          "title": "Sleep apnea pill developer Apnimed targets $608 million valuation in US IPO - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbnN2SEgyVGFpTTUtQWtOc2daWG1aclRfYmNBbHEwUHJITEY4LW01djdFMXhvSlNGVk11V2t1NDBRU1dMbEJacGI5WVpNeUtLYS1hS2JkWHBYNjY1T2FvOWxaeEhtVHZYcnhOZDdMNkJNY2xzNVVCU25FNXFUUVdDMlZWWmVsZHJBT0tIY2dzS3oydlhnOTRoRlZYTlgwdmoyNDVMak9idTNsTElHX1JrNFVQR2N6S2U4UGhodUo3bDI5QQ?oc=5",
-          "date": "Mon, 27 Jul 2026",
-          "source": "Reuters"
-        },
-        {
-          "title": "Ameriprise (AMP) discloses 18.9% Apnimed holding via Columbia funds - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTHFNQ3k1NkVteXdjNVNaa09HOE53Uzl2OTRVRjQ5Smh5cU1wQU1oWmtYOVRQZUxYcWFBemFfZzFWZGtkOFRPU0ZRak15cFlwblhTd0lhYm1sem1WMURETlN6V2p5OXFLdXFsUDc0UzhaUUppVEliaHlycW9oVmE0c2s2UGpEclZwUW1wc2stU1lDTWRTRGFsTFppb19IbnZNX24tT0dYcmlXUEthOGxwZ09QRi1zZndI?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Stock Titan"
-        }
-      ],
-      "news_flags": [
-        "share offering (dilution)"
-      ],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cApnimed\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Apnimed&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cApnimed\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Apnimed&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
         }
       ]
     }

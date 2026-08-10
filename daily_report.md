@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-08-08
+# InsiderEdge Daily Report — 2026-08-10
 
-Signals: **1 BUY** / **0 SELL** / **12 WATCH**
+Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 
 ## BUY
 ### GBFH  (net +60.0 | buy 60.0 / sell 0.0 | 5 buyers, 0 sellers)
@@ -14,9 +14,6 @@ Signals: **1 BUY** / **0 SELL** / **12 WATCH**
 - 2026-08-04 OFFICER Nigro Todd Anthony BUY $105,350
 
 ## SELL / AVOID
-_None today — no cluster met the threshold. That is a feature, not a bug._
-
-## WATCHLIST
 ### NET  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 4 sellers)
 - 2026-08-06 DIRECTOR Ledbetter Carl SELL $862,338 (10b5-1 planned sale — discounted)
 - 2026-08-06 DIRECTOR Ledbetter Carl SELL $862,338 (10b5-1 planned sale — discounted)
@@ -27,6 +24,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-06 DIRECTOR Ledbetter Carl SELL $179,731 (10b5-1 planned sale — discounted)
 - 2026-08-06 DIRECTOR Ledbetter Carl SELL $179,731 (10b5-1 planned sale — discounted)
 
+## WATCHLIST
 ### BRVE  (net +53.3 | buy 53.3 / sell 0.0 | 6 buyers, 0 sellers)
 - 2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000
 - 2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $34,560,000
@@ -120,12 +118,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-07-21 DIRECTOR CERRONE GABRIELE M BUY $32,625
 - 2026-07-20 DIRECTOR CERRONE GABRIELE M BUY $35,000
 - 2026-07-20 DIRECTOR CERRONE GABRIELE M BUY $35,000
-
-### APMD  (net +4.4 | buy 4.4 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-03 OTHER SEKHRI PAUL J BUY $200,000
-- 2026-08-03 OTHER SEKHRI PAUL J BUY $200,000
-- 2026-08-03 OTHER Morningside Venture Investments Ltd BUY $5,000,000
-- 2026-08-03 OTHER Morningside Venture Investments Ltd BUY $5,000,000
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.
