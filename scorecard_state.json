@@ -5,6 +5,12 @@
       "issued": "2026-08-08",
       "px_issue": 20.88,
       "spy_issue": 773.26
+    },
+    {
+      "ticker": "BRVE",
+      "issued": "2026-08-12",
+      "px_issue": 25.94,
+      "spy_issue": 773.15
     }
   ]
 }
