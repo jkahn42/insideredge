@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "signals": [
     {
       "ticker": "BRVE",
@@ -30,21 +30,21 @@
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
           29.8,
           30.0,
           27.53,
-          25.01,
-          25.94
+          26.15,
+          25.2
         ]
       },
-      "price_now": 25.94,
+      "price_now": 25.2,
       "price_at_signal": 30.0,
-      "pct_since_signal": -13.53,
-      "pct_14d": -12.95,
+      "pct_since_signal": -16.0,
+      "pct_14d": -15.44,
       "deep": {
         "recent_filings": [
           {
@@ -105,22 +105,16 @@
       ],
       "news": [
         {
-          "title": "Braveheart Bio, Inc. (BRVE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vQ21MZTR3c29vNE9iVnZwWnQ5dFYzRTV3ZThUVHB2NXFPRlFIT1JnSUtIZXI4UTE2R3dmR2ZJdFVNSEo1aEZuN282cUxYUFNhU3c?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Yahoo! Finance Canada"
+          "title": "Braveheart Bio, Inc. Common Stock (BRVE) stock historical prices and data - uk.finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VRmFXWUNmN0lmUWpLekRPdUdTTF9pS1MwNlNaRzJyUEd3WFhSS0YyU1NCZnJRc1B0UmhSaWp5VGRwRVRtNEFkeDAtbDhYTEQwMW1abW53dndyaFpE?oc=5",
+          "date": "Sun, 09 Aug 2026",
+          "source": "uk.finance.yahoo.com"
         },
         {
-          "title": "BRVE SEC Filings - Braveheart Bio, Inc. 10-K, 10-Q, 8-K Forms - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBfc1k1cEZkb19SaS1VQ2JJSXVhVEZGcWdjSmYwdjlMQXF5YU5zRm9SQ0tmVEJaanpwblhXRElYd2VTT3JSZE1XQnlRbndCdE9tV2xUbDNhdw?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Braveheart Bio's stock skyrockets 65% in IPO debut after raising nearly $400M - The Business Journals",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSThJZnN2SjM3VXhHQ0xSdndsSkNJWkc2SmI0blF0djJIZEgxeHh2Nllua2g0c2JieUJOeXBzTlo2MWM1dEJpaEptQTljdzl5bF9vMlpCWWZTUHFYUnZEdXlDUUZHNDZLekR3SF9xbVJvRWJDWHh1N0dYalctcUF6aHprcWpIaVQtMzkzWnlQOWNzcWFKTlFqc0RDUzB0cXpFS1c4S09VQQ?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "The Business Journals"
+          "title": "Braveheart Bio Announces Closing of Upsized Initial Public - GlobeNewswire",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOMS1pTmN0Nm1PbTZDT1hGUmpfX3ZmNjZyYUpPTmZmT3BQcF9zdXB6YmJVX3oyT2FFRmlhZ0ttSW94OF8za0JQamduZVcyZDkwWWZoWVJTWUhFdG5KOFVONXNSemFIcFg1QXJ1akJISmZwU25LSkRCMU9OMnJUdHNtVUhyXzVlaTd6X194T3hWSGx0QTkwT25UbEdfckhFYkhKVEs2RWx3cnJ2MGdScXhrZWtjQUVHVDFlNmdtNml2bW9nUVNGb0ZPLV83dnNyY1p2ZDQ2cEwtQi1MclFSMFE2bnZEMjZpVDE3WEFULWxFUHFxclVrUTF0MU1QczBrNkhFRGNLeFc4UkwwMG1RSUg1aDl5M0J3YXFicG9ZbnB4VVlaRHN3MWw0TXZuYjh4ajIwaFRVdGJTZmNwYnFn?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "GlobeNewswire"
         },
         {
           "title": "Braveheart Bio, Inc. Statistics \u2013 NASDAQ:BRVE - TradingView",
@@ -129,16 +123,22 @@
           "source": "TradingView"
         },
         {
-          "title": "Braveheart Bio, Inc. - Common Stock (Nasdaq:BRVE) Stock Quote - FinancialContent",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45bndseTRRTUVRZmFRcVFGczFMSkp6ZTJUVDRpMVdQZFhHMVRSeGdXOXhHZ0tNcmF2VWhvbmhocjB3NGNGU1FrV3JBTTZsVlAzaE5KaTdISTNrcWNoRXZCTjFLdk0xdGpSQkNDaG05WkUwSHVYdzluS1ZjX1Fodw?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "FinancialContent"
+          "title": "Braveheart Bio's stock skyrockets 65% in IPO debut after raising nearly $400M - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSThJZnN2SjM3VXhHQ0xSdndsSkNJWkc2SmI0blF0djJIZEgxeHh2Nllua2g0c2JieUJOeXBzTlo2MWM1dEJpaEptQTljdzl5bF9vMlpCWWZTUHFYUnZEdXlDUUZHNDZLekR3SF9xbVJvRWJDWHh1N0dYalctcUF6aHprcWpIaVQtMzkzWnlQOWNzcWFKTlFqc0RDUzB0cXpFS1c4S09VQQ?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "The Business Journals"
+        },
+        {
+          "title": "Funding Roundup: Braveheart, Attovia, Vogenx All Announce IPO\u2019s - Pharmaceutical Executive",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaG1ycWlQaV9wVnNMX21zcWUyV0I0VUJvWE96a2VPSmd5SkwwMmtuZzlxVUF5Wm5JWTN5MDk3OUxVcXM4ZkxwWjJ3UnJRLTBpLUt1OXV6ZDAxdUc3bDNXcXVVRnhiNXBuYTk0QjM3VnllSWg1eHE1UGlzU1lFWFBtbU5CRks4ampwOVl4MXNR?oc=5",
+          "date": "Fri, 31 Jul 2026",
+          "source": "Pharmaceutical Executive"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -167,7 +167,7 @@
     },
     {
       "ticker": "CHYM",
-      "call": "SELL",
+      "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
@@ -191,7 +191,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-24",
           "2026-07-27",
           "2026-07-28",
           "2026-07-29",
@@ -204,10 +203,10 @@
           "2026-08-07",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
-          20.69,
           21.86,
           22.37,
           22.42,
@@ -220,13 +219,14 @@
           29.1,
           30.85,
           31.73,
-          31.25
+          31.6,
+          31.9
         ]
       },
-      "price_now": 31.25,
+      "price_now": 31.9,
       "price_at_signal": 29.1,
-      "pct_since_signal": 7.39,
-      "pct_14d": 51.04,
+      "pct_since_signal": 9.62,
+      "pct_14d": 45.93,
       "deep": {
         "recent_filings": [
           {
@@ -291,40 +291,40 @@
       ],
       "news": [
         {
-          "title": "Chime Scholars Foundation Draws Record 9,000+ Applications - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTzMwVFF3Y0lidktwTlpvUk5mWHhmSWxWbEw5aUN6ekI4azRsbEh6Zld2N2ZSbkNDdG9zdm1WcHplcjJjb19Wc1RiWUt4M21VODVwLVdTSFBaVVVMU0lHUE9Ya0VVaFV4ZWRGaGFTd3F1eUVMdENNR2FJMWlMSmIyTFRFdGJId3g3ZDFEUE54YzhCOTJxTTR2blBxTnFFeGJrM0E?oc=5",
+          "title": "Chime Financial, Inc. (CHYM) stock price, news, quote and history - uk.finance.yahoo.com",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EMjBjUFNwdnpHRDJlcTU5SGFzTzdIaUdqSjZMSDZNenBualVSYkI1R2IxaXY3X1ZKSlQ0dl9MNzc3RW55TGljbks1NVZIczU5LWc?oc=5",
           "date": "Wed, 12 Aug 2026",
+          "source": "uk.finance.yahoo.com"
+        },
+        {
+          "title": "The Manufacturers Life Insurance Company Purchases 43,851 Shares of Chime Financial, Inc. $CHYM - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU25oaDdSUDZ0OC02YnFhSm1SM0R2elhUZ2xMQmkzRTdaVUthZmxRejd1ZHRWaTBkcS1UVW84d0JFekJpVzdVd1lLQXlVSkVXaW9vbUE4SE5LWFZ4Mk8yMzlRclFvQnpVaFRMdnZucU1Yb0lQZkUwTlNsX0NCM1pVeC1XRk1VRWhnbW16NlFRQWR3WlBHeXE1ejBnSXBFM2t5WGc3SDJuWnRCRldWUFRBQnpGU3lHVzFCd2lGeVA2NWNDUzZYalgwREhXWHhSTXhRNzNBMko1TG5oalZ2VlAzczJyNE80TWs?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Chime Financial (CHYM) co-founder trades 375,000 shares after converting Class B stock - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVk0MFlCNjJzYjIwQjk3ZEwwRUYwNU1Ea0NaTjBmS1E4Vk1xLXlWcWtqVUx4SGp6S2prNWJKaGZXdWN2UjV0STJLXzk1Vm11ZjljYTgwUGlfanpFMmhGY3BSY1Mxc01YY1l2SWhqOEYyR3dYa1RiU013dkVHMF92YkpzMDd3R3JLbS1MMEYtTXZNS3pkVWVHS0lGS0haYmphR0ExRmViSm5MeXVIZU1xSnZ4TQ?oc=5",
+          "date": "Mon, 10 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Chime's CEO Sold $16.5 Million in Stock. Here's What Long-Term Investors Should Know - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYzJ1NWRyTl9ia2RlU2JhWVd4SjBhRTgtaVhXaHRmcEN3aW9UU29RSV9aTjlKUTIxVE9QY0FQWmxvTE0yeDBzNGNVQzd5MHZQZUowM2lnR05vaTlUX0FmQXBITUoyclBBbGtCR3E3d3d4NTZxM2p1THp0SElsYWNYRXp2a0x6R2NhQXRwLVpLYkZ0bzQ0MERTdi0tOW1QRzhKdnEzSXItUFM0b0c2WG4ycWlSRnJoVkllczJoTTU4eTFMV2hOdlpZMHJZV3haS2JT?oc=5",
+          "title": "Chime financial CFO Newcomb disposes of $1.96m in CHYM stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejNTQjhJLU5fOEptOXRxWktnOFFJVHM3X24yZUxMbnMwcjhFd25abjFiXzdTNVJ2cTg2dVNjb1NScmRVb0NLakVwS2lib2tucnczZUlZT05jZzB6X2tLTG0yZHp2UktRemIxdEFjdVZNUUh6ZVhva2FFQTdySUVhcExDc0VOWkZ5SWVPNDZleWFvSjVETGprX19HclktYzFHcTFxTG9uUVB2c01HM1MzcTlNQ3R5SEllUEY1ZDdVQ2k?oc=5",
           "date": "Tue, 11 Aug 2026",
-          "source": "The Motley Fool"
+          "source": "Investing.com"
         },
         {
           "title": "Chime Financial, Inc. Stock 12\u2011Month Price Target Raised to $32.55, Implies 26% Upside - TradingView",
           "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTWlZUldtTVo5TmloVnMzS0JOVHR6TzVwRDE2LVJ4VUpUMkhuYm1jU0FJVmhvdHZWTEw0TDFvNDl5cHVjN2t0ZW9qOFlSbzZRUWo0STI0aHNubzNTV2hLeXBucy1mbThRRENwaVlsQ3M1OU1FaDdXNWhWNjhHUmMyMDR2WU5IRERiM0Vmc20tX1gybTdROVdORXZpVW5IbE81TFh6WWtiTjZYMXhJMllVUWdGeVVoVS1QU19yQ0JZZVpWV0JWVEt5Yk9tczU2eWZNdDdmRmRIVGNEQTA?oc=5",
           "date": "Thu, 06 Aug 2026",
           "source": "TradingView"
-        },
-        {
-          "title": "Should You Worry That Chime's Founders Are Selling? Here's How to Read It - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcTVDSTRUMXJoNjJwaHQyb01sLUM3RjNaSXROUWYxWE41RHQxZGlmSDRGMmJiYUZVTWV6ZUtRTWhrbWhXeExNU3BnMHo0ZUpUaVNIUzcwUlFta1Ztc2kxTV9FdTUzSG50c2hFSUF1bk4xUEZVZjVjb042Nkc1RlN5bWUxdUR0bFhvUkZ5Ry12UTBhbWpPS1FJYTF2dW9FVVpXTnp5LUw1MTd0X2NLNk9jdWhFc21UNEY3UmVRcEZPOFBtSDNhWk5TRFMtTXZTa2ZocDZDdkROWk9zN0htZUc2bDNaV3p5OWhsT3pCdmE3SQ?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "The Globe and Mail"
-        },
-        {
-          "title": "Chime Financial, Inc. (CHYM) Beats Q2 Earnings and Revenue Estimates - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0hQWlRWMmpIYlFfclBNOHFBZlBpNl8tUGJwUDF6QjhJWExkcG5YUVFRVjVBYXp4aWoxUmhSQWdnUEhma0JiTGg3bWZmNXFUS1pkOEFxY01EWndaZ0RsTldkM21PYk5haHJFTXVJb1MwTHBPNVpHZFRlMTJIQnQxemVEY1IzcEx5bng1NE5MaGRjajQ4a3lfZlJZQQ?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "finance.yahoo.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -377,7 +377,6 @@
       },
       "trend": {
         "dates": [
-          "2026-07-24",
           "2026-07-27",
           "2026-07-28",
           "2026-07-29",
@@ -390,10 +389,10 @@
           "2026-08-07",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
-          20.4,
           20.6,
           20.74,
           20.57,
@@ -406,13 +405,14 @@
           16.38,
           15.77,
           15.99,
-          16.465
+          15.51,
+          15.78
         ]
       },
-      "price_now": 16.465,
+      "price_now": 15.78,
       "price_at_signal": 15.77,
-      "pct_since_signal": 4.41,
-      "pct_14d": -19.29,
+      "pct_since_signal": 0.06,
+      "pct_14d": -23.4,
       "deep": {
         "recent_filings": [
           {
@@ -457,8 +457,8 @@
       ],
       "news": [
         {
-          "title": "Prescott Group discloses 10.9% Nature's Sunshine (NATR) ownership in Schedule 13G/A - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDRYSDhGV2VGNEppVVA0SDBJeW9SdkdqS1kzQkhiNUV3eFNmZS1hOUhoN1ZienY0aW1IODhwenYzTzNsNzJFM1Y3clFMeDJvcDBpU2c0V0hsOUZrWjJvSEs3VWJDWUtNZ0NpVnhqMGp6d0ZGWFN1c2ttSXA4MUVlWGY4clVjSW1kYTZDdWpOMVBsanRZRGEyZER2Uzg1bWd5VjMtZ3Q3UzNMZjdKM29zVzFyRzFOMnkzbllyRGZRWDJjQllLMnUweVdrYw?oc=5",
+          "title": "Nature's Sunshine (NATR): Prescott Group funds add 141,389 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnFtZ0hKVEVDc0x2QkVKSDFrN2dHRXZGNTNtS3ByX0ZMTnRUekxYT21QZDBoSzdWREZ5TnVSNWM0a0xMZDdlMkdSYWF4YWZrVUpWbVRfQjZmdUFoWm1YbTNPTnZVMm1OQ01qWlA5dnlrVnhGc05TY1JWUWV3ZUtFSDRhTVcxN2drTlhpcUhUakF1Vy1BcGc0NVNoZXFxZ3RBVDhudE9ZTVZ4OUF1Mmd1aEI4X2ktby1ZMm9VNDJKbGI?oc=5",
           "date": "Mon, 10 Aug 2026",
           "source": "Stock Titan"
         },
@@ -469,15 +469,15 @@
           "source": "GuruFocus"
         },
         {
-          "title": "Nature's Sunshine (NATR): Prescott Group funds add 141,389 shares - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTnFtZ0hKVEVDc0x2QkVKSDFrN2dHRXZGNTNtS3ByX0ZMTnRUekxYT21QZDBoSzdWREZ5TnVSNWM0a0xMZDdlMkdSYWF4YWZrVUpWbVRfQjZmdUFoWm1YbTNPTnZVMm1OQ01qWlA5dnlrVnhGc05TY1JWUWV3ZUtFSDRhTVcxN2drTlhpcUhUakF1Vy1BcGc0NVNoZXFxZ3RBVDhudE9ZTVZ4OUF1Mmd1aEI4X2ktby1ZMm9VNDJKbGI?oc=5",
+          "title": "Prescott Group discloses 10.9% Nature's Sunshine (NATR) ownership in Schedule 13G/A - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTDRYSDhGV2VGNEppVVA0SDBJeW9SdkdqS1kzQkhiNUV3eFNmZS1hOUhoN1ZienY0aW1IODhwenYzTzNsNzJFM1Y3clFMeDJvcDBpU2c0V0hsOUZrWjJvSEs3VWJDWUtNZ0NpVnhqMGp6d0ZGWFN1c2ttSXA4MUVlWGY4clVjSW1kYTZDdWpOMVBsanRZRGEyZER2Uzg1bWd5VjMtZ3Q3UzNMZjdKM29zVzFyRzFOMnkzbllyRGZRWDJjQllLMnUweVdrYw?oc=5",
           "date": "Mon, 10 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Nature\u2019s Sunshine (Nasdaq: NATR) posts Q2 2026 growth but lower net income - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0pGNUtUZkw4V3dZQmNnX2lhZVBhWDlVZ1lFb1gxTjRlZUE5S1ZyUlZ1SXR5dy1hQ21JdFlPZWQ1ZDMyMEVTRnhlbHZubHdmbkI4ZVBpUGJST1BYTk1EVnJzMGdHZXNsX2xIemV1a3kwN25KdEtBTmVTTUhlQkdvNFpGZURzRDkwYW5Idk9zT0M1Umt0clV2NGV6Q29UVGRSNnlncUMxVWNIVUNPQndNdkVHbFhvM2U2RHhDbTlKMA?oc=5",
-          "date": "Thu, 06 Aug 2026",
+          "title": "Q2 Results Will Come Before Nature\u2019s Sunshine\u2019s Aug. 6 Call - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQc0pLbTFVOXpVZF9mSnJRVzdhUzVsUGVsS25qc2JvUEZCOEkzXzV4TmtIenZ5VVRjZkNna3MtLVdKS0JjSDhfM1VSYkQ1bzVKbnRPU3hDcnVUU09HYUpPUmdicE00azlzbnpjbERDU1VVU2FLU0p0ekNHVTFlclIxOVVoVmRfVV9FRU1TZ05QeEpmVzVwYUk4SWRnamdOMk1BcVpBdG5oMzZ0Skw5cXE0R1F3UGRmYWxp?oc=5",
+          "date": "Thu, 23 Jul 2026",
           "source": "Stock Titan"
         },
         {
@@ -490,7 +490,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -518,143 +518,139 @@
       ]
     },
     {
-      "ticker": "ATTO",
+      "ticker": "PNAQ",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 19.5,
+      "buy_score": 33.3,
       "sell_score": 0.0,
-      "net_score": 19.5,
-      "distinct_buyers": 4,
+      "net_score": 33.3,
+      "distinct_buyers": 6,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984",
-        "2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984",
-        "2026-08-06 OTHER Sanofi BUY $5,100,000",
-        "2026-08-06 OTHER Sanofi BUY $5,100,000",
-        "2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995",
-        "2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995",
-        "2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995",
-        "2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995"
+        "2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000",
+        "2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000",
+        "2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $2,250,000",
+        "2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $2,250,000",
+        "2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $10,000,000",
+        "2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $10,000,000",
+        "2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000",
+        "2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000"
       ],
       "company": {
-        "name": "Attovia Therapeutics, Inc.",
-        "industry": "Biological Products, (No Diagnostic Substances)"
+        "name": "Pinnacle Acquisition Corp",
+        "industry": "Blank Checks"
       },
       "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
-        ],
-        "closes": [
-          21.9,
-          20.38,
-          20.17,
-          19.84,
-          18.65,
-          17.28
-        ]
+        "dates": [],
+        "closes": []
       },
-      "price_now": 17.28,
-      "price_at_signal": 20.38,
-      "pct_since_signal": -15.21,
-      "pct_14d": -21.1,
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
       "deep": {
         "recent_filings": [
           {
             "form": "8-K",
-            "date": "2026-08-06",
-            "summary": "Company amended bylaws or changed fiscal year; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2058707/000119312526338037/d155197d8k.htm"
+            "date": "2026-08-10",
+            "summary": "Company entered a material agreement; unregistered share sale; executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2123955/000121390026087287/ea0301308-8k_pinnacle.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "venBio Global Strategic Fund IV, L.P.",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2021; 1 buy of ATTO in this tracker's ledger"
+          "name": "Brandler Harry",
+          "kind": "DIRECTOR",
+          "note": "19 Form 4 filings on record since 2014; 1 buy of PNAQ in this tracker's ledger"
         },
         {
-          "name": "Redmile Group, LLC",
+          "name": "Hudson Steven Kenneth",
+          "kind": "CEO",
+          "note": "1 Form 4 filings on record since 2026; 2 buys of PNAQ in this tracker's ledger"
+        },
+        {
+          "name": "Martin Karen Lynne",
+          "kind": "DIRECTOR",
+          "note": "1 Form 4 filings on record since 2026; 1 buy of PNAQ in this tracker's ledger"
+        },
+        {
+          "name": "PAC Sponsor, LLC",
           "kind": "10% OWNER",
-          "note": "155 Form 4 filings on record since 2008; 2 buys of ATTO in this tracker's ledger"
+          "note": "1 Form 4 filings on record since 2026; 1 buy of PNAQ in this tracker's ledger"
         },
         {
-          "name": "Sanofi",
-          "kind": "OTHER",
-          "note": "70 Form 4 filings on record since 2010; 1 buy of ATTO in this tracker's ledger"
+          "name": "RECHTSCHAFFEN ANDREW",
+          "kind": "DIRECTOR",
+          "note": "19 Form 4 filings on record since 2008; 2 buys of PNAQ in this tracker's ledger"
         },
         {
-          "name": "Frazier Life Sciences XI, L.P.",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2022; 1 buy of ATTO in this tracker's ledger"
+          "name": "Stoyan Paul J.",
+          "kind": "DIRECTOR",
+          "note": "1 Form 4 filings on record since 2026; 1 buy of PNAQ in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Frazier Life Sciences XI Discloses Investment at Attovia Therapeutics with 13.5% Stake - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZWJWM3VKSmUybEo3MUZqNEYtWkdQMTZnblhjeUJoLTNFWUhHYldLX3dhbzdrSXVhTFBPN1I5T0JET2JPVlIydGJreTRZRkhfNWFpQkZFRWF0cEp1RTd4bHlLS0ZwV05MTEdPTDdxeDdyWE1Kd1BPSmdkRmpvM3JxVVhNeUxQVEx0VGMzWFhNTG0zdnJKZUVFQzBMTjBxMUVTY0pVZVhqRTFWaTR4UFRicWVzdXU1YjhYV0ZoWHUzZ0xpVkZVOUdlVnRPTDcyUVdWbDlya252amg3SjdJTVZkcQ?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Frazier Life Sciences funds (ATTO) detail Attovia stakes and IPO purchases - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbXZsaEpZcmgtakZ0TUVTU3g3YV9EUHFZX1luUy0yYnBDM3FVamZOVjVmY1RDQXJwUTIyZ3k2WWFLYWVic0pVdG9hd2dQc1AyMmtwOU1PZFZyNlZKV1NYd0NQcHFMV0g4ZzZHV3lnYVJEdzZhWm1WRUlid3RVUDBDcWlpX05seTAtTmxYbVBnVktFajAxNC1zVHVydWd6amdqSmtTcl9PMjVkWTJTUDdVR0ZxU3ZxWlRFRlo1b0tCcDJYWnp2OUpIUDQyVQ?oc=5",
-          "date": "Tue, 11 Aug 2026",
+          "title": "Pinnacle Acquisition Corp (PNAQ) director reports 1.23M-share indirect purchase - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNakxTaGFaVEd5bkU5eG1BU09OdXJrQjg5dGdRY0FDQndGaGxYZ2tFMEZadjZrc0dpWWZsNW1qakRvVkV1QWt5RnNYbkZIRFQtTHl6N201VVBYR29xZTRQcUhDaXFoQkZ5cWtjaUpVMU56b1FvaWVEbDEtWHZwNVZyRG9UclF0cHZpYWthbDJlMlE2Y2VBZzRiRTNfVW9pYnRqMDZ1WmFpdGdJYXpFeGI5YlJUSUdIWHZsOS1V?oc=5",
+          "date": "Wed, 12 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdXpJUDJydVJvaV9pc2RIeXQ1WVVoQU41WUF4emxtMndfalRCbGpLejlDdWFTYnI5NXZmcXh6akUwaGlsLVpyY3czMTd0U0VQ?oc=5",
+          "title": "Pinnacle Acquisition (PNAQ.U) Stock Price, News & Analysis - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaUtRTFZHSTI0ZTk2azBSekg0T2xnZTI0cXQwRlk3UWNyblQ0SmlYSGlDRE5TX0wzdGFKM1VPQUdGSEFjdnlnVTNwQmdKQUtNSUhsbVh3S284dw?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Pinnacle Acquisition Corp (PNAQ) director purchases 10,000 Class A shares in IPO - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPelhycmxuaEI1LXpyMHZWMmQtMDZ3MGpjSWFTYmFSSFQzLU1JazNqa3YtMmpNYXNhZllFUVhMeUxZVnByR19WbG12ci1fblRfS0NiVjJuZ3FFbXpfSFA3WExvZ2dmRHoxVGh0V0ZfZzhWVmw2dXhPRkY5MEJuVmFiUzhDYXVoWG9fTEcwU1pBNFoxTHBCcmdIRWkxY2gtN3dLdjdfcF81RjdsNkhYWl9CME15Y1dVaDNIOHpv?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "PINNACLE ACQUISITION CORPORATION Financial Statements \u2013 NYSE:PNAQ.U - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pc2oySVpfRHA0ODNka1k3Wl9mTkthS3ZrSnN1aEpBY3hFcnFLVDd2d2FUaEZ5dDRlYV9EejVWOGtKZi00VXhqby1ZRzhVS0NUenJyR0dVM2ZpTEt4VjVSQnB3NVRLNlNtMkJ6cGstMzVyTTBzT1pj?oc=5",
           "date": "Sat, 08 Aug 2026",
-          "source": "CNN"
+          "source": "TradingView"
         },
         {
-          "title": "Goldman Sachs-backed Attovia eyes $731.5 million valuation in upsized US IPO - reuters.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTVhSFExRmtUTGtLYlNHenNYVTBJQkIzT2dFSzI2eGxXSXdoSGtHcnMwMGxRUmtUQnlza2tSLV8tLVoxRmtzWTdYblRoWUJIdU9mendsUmx4NVh6amo3M2dDUjZzdUhxeHQtVjF1VnExSFlLVllaOXJkbXJHNDdfeVhyMmduRzJHYVNTNk5aUExfZHFKSlkweVRUZGUxZHRtaE9KaUxJN0lka1pLVDlFVlNYcnZPeUtha2QzMHg1WWhDQUd6ZWc?oc=5",
-          "date": "Tue, 04 Aug 2026",
-          "source": "reuters.com"
-        },
-        {
-          "title": "Attovia Therapeutics (ATTO) Stock Price Prediction: How High Can ATTO Stock Go After IPO? - top1markets.com",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSVMzbkpzRTBaUzMzWjBtQTVtM0lFUXhfZUUxZHRMZlo2ekJlOEdidU51dlY2YWVqQTlScUhQQ2k1U1FaZV9TRW96VXlITTAtQ29CWENDdGxzVnJXdEttT2k4dVV2NmVodG10Uk9xQ25DYTFLMUQxZ215Q0hmNXg3MThLLW8xZno3d2tBWGN5SzZiM2pHRnRmMFFrTWNvRllacEJsclhjMG12MjNYdEFrUFF2ckpmUGdNSklkWmtsQ2NlWU94S1NwUw?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "top1markets.com"
+          "title": "Pinnacle Acquisition Corp (PNAQ) director purchases 10,000 Class A IPO shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbHMxbGVjci1hdTd2WU13WTVlaDZNazNwRTVzNlV4UkpKQW5INVVmZVFSM1YwWXdjb0F3alhiWTBLUTdvSXpXVGNidGxVdTdhNW1YdnVrTEs1T0VGc0o4QjRDZUd4alNudmJKb1J6dlJ0NlE4d3o5WHhmY0Z0RDdoRjBobmpIMnJnUnJSVHlzaENyWUJXUGViNzVLMDJhci1HZFlOSjVNYmhaZVVqd0hCeFdoclB5NEJ6UG5r?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
-        "cls": "mid"
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cAttovia Therapeutics\u201d",
+          "label": "Bills mentioning \u201cPinnacle Acquisition\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Attovia%20Therapeutics&source=legislation"
+          "url": "https://www.congress.gov/search?q=Pinnacle%20Acquisition&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cAttovia Therapeutics\u201d",
+          "label": "Hearings mentioning \u201cPinnacle Acquisition\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Attovia%20Therapeutics&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Pinnacle%20Acquisition&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
+          "label": "Bills mentioning \u201cBlank Checks\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
+          "url": "https://www.congress.gov/search?q=Blank%20Checks&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
+          "label": "Hearings mentioning \u201cBlank Checks\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Blank%20Checks&source=committeemeetings"
         }
       ]
     },
@@ -663,10 +659,10 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 17.1,
+      "buy_score": 26.6,
       "sell_score": 0.0,
-      "net_score": 17.1,
-      "distinct_buyers": 3,
+      "net_score": 26.6,
+      "distinct_buyers": 5,
       "distinct_sellers": 0,
       "evidence": [
         "2026-08-10 OTHER Schmid John P. BUY $96,000",
@@ -684,20 +680,22 @@
       },
       "trend": {
         "dates": [
+          "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
+          16.0,
           15.99,
-          16.52,
-          16.575
+          16.24,
+          16.415
         ]
       },
-      "price_now": 16.575,
+      "price_now": 16.415,
       "price_at_signal": 15.99,
-      "pct_since_signal": 3.66,
-      "pct_14d": 3.66,
+      "pct_since_signal": 2.66,
+      "pct_14d": 2.59,
       "deep": {
         "recent_filings": [
           {
@@ -710,6 +708,16 @@
         "about": ""
       },
       "actors": [
+        {
+          "name": "ORBIMED ADVISORS LLC",
+          "kind": "DIRECTOR",
+          "note": "295 Form 4 filings on record since 2017; 1 buy of BLSM in this tracker's ledger"
+        },
+        {
+          "name": "GORDON CARL L",
+          "kind": "DIRECTOR",
+          "note": "120 Form 4 filings on record since 2004; 1 buy of BLSM in this tracker's ledger"
+        },
         {
           "name": "Chen Bihua",
           "kind": "OTHER",
@@ -740,20 +748,20 @@
           "source": "TradingView"
         },
         {
-          "title": "BlossomHill Therapeutics, Inc. Common Stock (BLSM) insider ownership and holdings - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KdURKZ2FhNFJxTzZweWtnWFM0aFc4bHhQM2JIU3BlZi1YZ19Ia0NoNllNYk94SUhqaUpsbXFVelZHbm44WE1fMGJMbmtHV21kRzM0NC1kV015LTdXcE9oOWFNdTY1Zw?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
-          "title": "BlossomHill Therapeutics, Inc. Common Stock (BLSM) cash flow - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEMk1wX3hvWE5sZkkzTzBMUDlEdXBoQ2FJU0NoUkdjbnhTUlRCcUFSM3pLcm5JOFhMZFpqeXBiM2ZyY250SkUzRDRhNU1vbjk0SGYxLU9rRXB1eV9uQldF?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
           "title": "BlossomHill Therapeutics, Inc. Income Statement \u2013 NASDAQ:BLSM - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUlsNW9FRDMtWUt5dVlTeWtwYUtLRkNRRHNreEVqazh1LXdIR0ZWNlR4MXZBczFBTXkyVzFLRktYeDc3cTNYRXdQTkFaSDBrd2NyQllnWVg3VHJYY3RxVDNOM1otZmNaS2V0M1BlZ1F2cWE2ZTU2S1VxZ0QycUE3bUp3?oc=5",
+          "date": "Sat, 08 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Free float of BLOSSOMHILL THERAPEUTICS INC \u2013 NASDAQ:BLSM - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQXzFPQk9femlfUHk2cjByX0RkcVdrejN5RDlWdlpjNGFaYXdWME55b2pqbzNveGtaTmFKNG1HYk9TcWtSWkhMMlRZTnVlSlhxb1o1YmdQNWxRMFVmNkRtNUJNWjY2R1pDTC1MbnFGMzVOSTFVMG1uSmJQWWhxWFpQaGlyY3FMdjBxVG9neWFzdWY4OE1zeG15TTlHVDdSQW9kaE1ISEhFSXJ2dw?oc=5",
+          "date": "Sun, 09 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Number of employees of BlossomHill Therapeutics, Inc. \u2013 NASDAQ:BLSM - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRjhMUk81T1A2RGIyUEZnRmx6SFFvRl9nbnowdjVDSnJydlF2OFdkd2RRYzlGdmJpQnZvVEFxa2pwcUFTMnRNWmNnRnp1Q20xR01mNnNqZ1ExaW15UDNfN0xFbE54S0o4bmRwRXlVTUlIbWJFdlBNQXFiamo5X1JlS09mbnRWZHlnSlVZT1o4WFNJQV9Td2c2V1hNUU1ma0RZamJN?oc=5",
           "date": "Sat, 08 Aug 2026",
           "source": "TradingView"
         }
@@ -761,7 +769,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -789,209 +797,28 @@
       ]
     },
     {
-      "ticker": "KMPR",
+      "ticker": "HEPA",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 13.4,
+      "buy_score": 17.6,
       "sell_score": 0.0,
-      "net_score": 13.4,
-      "distinct_buyers": 4,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-11 OFFICER Evans Carl Thomas Jr. BUY $26,530",
-        "2026-08-11 OFFICER Evans Carl Thomas Jr. BUY $26,530",
-        "2026-08-11 DIRECTOR LADERMAN GERALD BUY $105,960",
-        "2026-08-11 DIRECTOR LADERMAN GERALD BUY $105,960",
-        "2026-08-11 CFO Camden Bradley T BUY $26,340",
-        "2026-08-11 CFO Camden Bradley T BUY $26,340",
-        "2026-08-10 DIRECTOR Gorevic Jason N BUY $129,550",
-        "2026-08-10 DIRECTOR Gorevic Jason N BUY $129,550"
-      ],
-      "company": {
-        "name": "KEMPER Corp",
-        "industry": "Fire, Marine & Casualty Insurance"
-      },
-      "trend": {
-        "dates": [
-          "2026-07-23",
-          "2026-07-24",
-          "2026-07-27",
-          "2026-07-28",
-          "2026-07-29",
-          "2026-07-30",
-          "2026-08-03",
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
-        ],
-        "closes": [
-          27.64,
-          28.81,
-          29.46,
-          30.92,
-          30.8,
-          29.11,
-          29.28,
-          29.41,
-          29.27,
-          29.83,
-          28.51,
-          26.39,
-          26.18,
-          26.84
-        ]
-      },
-      "price_now": 26.84,
-      "price_at_signal": 26.39,
-      "pct_since_signal": 1.71,
-      "pct_14d": -2.89,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-08-05",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000084/kmpr-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-05",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000082/kmpr-20260805.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-21",
-            "summary": "Company executive/director departure or appointment; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000075/kmpr-20260720.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-27",
-            "summary": "Company executive/director departure or appointment; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000056/kmpr-20260521.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-07",
-            "summary": "Company shareholder vote results; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/860748/000086074826000048/kmpr-20260506.htm"
-          }
-        ],
-        "about": "Kemper Corporation is an American insurance provider with corporate headquarters located in Chicago, Illinois. With nearly $13 billion in assets, the Kemper family of companies provides insurance to individuals, families, and businesses."
-      },
-      "actors": [
-        {
-          "name": "Camden Bradley T",
-          "kind": "CFO",
-          "note": "11 Form 4 filings on record since 2023; 1 buy of KMPR in this tracker's ledger"
-        },
-        {
-          "name": "Evans Carl Thomas Jr.",
-          "kind": "OFFICER",
-          "note": "33 Form 4 filings on record since 2015; 1 buy of KMPR in this tracker's ledger"
-        },
-        {
-          "name": "Gorevic Jason N",
-          "kind": "DIRECTOR",
-          "note": "100 Form 4 filings on record since 2003; 1 buy of KMPR in this tracker's ledger"
-        },
-        {
-          "name": "LADERMAN GERALD",
-          "kind": "DIRECTOR",
-          "note": "40 Form 4 filings on record since 2004; 1 buy of KMPR in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Kemper Corp director Jason Gorevic buys $129,550 in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ284bzd1S25NanljNlJubU5OUGI4Q0lNN29xTWpsX0lnLVRQeGNwaWNBakgxc25MU2JoMzF2b1h4SnpnWnhMUDZlQk5oak1wdm9Xa0JuT1NMOHlFTUJpQ3NIcUR0Y2hWQWpQd2drNFhOd1ZvejhkUXkyRlpiZXhBQ0dUSG1uV3RmeDRFZVdndHp4Tmw2Qk5ieUoxX2JLalN2ak4zVFhZRm5ERXBJVGZTdWN6U3dCLTlTRlc1Yg?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "KEMPER Corp (KMPB) EVP Carl Evans Jr. purchases 1,000 common shares at $26.53 - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFVHWkMtT2xLY0o2SGktdFlYQWtBWkZXemFLdUc3V3A0RDhnLTNRWTc4TlhVRGJGREtOQWN1MXUtOXk2NlVlZFpqVk1zcnh6a3pxR0x5QTVqbGxXUG9uanpHaGtuSWZLQlc2UTRrbHFXTVR4blRpUmNqR2RNSXlNeWhObXoxN1J2ZTZ2aEpxLW9wM3U0eVJ2aGdsN0h2ZEwxbUNOR0hxWTE?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Kemper Corp (KMPR) Insider Evans Carl Thomas Jr. Buys 1,000 Shar - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODBXWHlmeVdRRnBHUmlDdU9qcGdNZVNJYmI4MkJNSFpITVhjV3hRbzd4SmxSb3U5UXRTNlNwX1pGRUl2X2ZvanBZbUZ2Z0lxMGZOdk9pZUZPeDAtNHVORWF0Z2JKaFBwdEdRamhFN1ctZC16RTlRSXZhMUJURmdMektOaGZGc0xrT2xBSUF0X3FsZ3NmSVhUY2NBRW5LU2lNcllB?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "KEMPER Corp (KMPB) director acquires 5,000 common shares in open-market trade - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeHhFYXBXQlhCa3A3LTVNbS1oYUdKRVpYY0tNY2RoYzdwaTVtb0pmX2tHbHBUUlFvcDlPaXJWd2w1OTBzYnhZOFJ3REwtcmhrRkFpcVlfMmk4THNhQ2ZLOTNfTWRXVnVxNjdSeVlzVzRHNC1rdEQwRS1lTHNZbWEybkZMZG50MTV2MmVoYlY3Wk4xWmY1c3pDNVp5aUhfOUhacGFUR2duSUc?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Kemper EVP Carl Evans Jr. buys $26,530 of company stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaENUNWJ1clN3UjljaXRGYjZWMGl1azdMbHI4ZURuZVAyWWtCQ2JxNDV6NWxpY3V2bmhPUy1vb3Q3NHhJYl91bTZIRndoYWhxRm5CREtzbENjWUdHbk9vQm5VejVFa1poc3l0R24welROc3l1bldlbjlzcnpFNm9HWWRod0NUTkRNZnFvaVRQWXFoNWhzdlZpdWctM1BjVTlSWDhmUjRqeVZpRmd2eWxsdm96XzB0R3RCaVVkMHlwY3g5bHc?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "Investing.com"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cKEMPER\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=KEMPER&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cKEMPER\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=KEMPER&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cFire, Marine & Casualty Insurance\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Fire%2C%20Marine%20%26%20Casualty%20Insurance&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cFire, Marine & Casualty Insurance\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Fire%2C%20Marine%20%26%20Casualty%20Insurance&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "CC",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 13.4,
-      "sell_score": 0.0,
-      "net_score": 13.4,
+      "net_score": 17.6,
       "distinct_buyers": 5,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-08-07 OTHER Cowan Alister BUY $203,060",
-        "2026-08-07 OTHER Cowan Alister BUY $203,060",
-        "2026-08-07 OTHER CRANSTON MARY B BUY $94,950",
-        "2026-08-07 OTHER CRANSTON MARY B BUY $94,950",
-        "2026-08-07 OFFICER Martinko Joseph T. BUY $30,009",
-        "2026-08-07 OFFICER Martinko Joseph T. BUY $30,009",
-        "2026-08-07 OFFICER Foley Michael Robert BUY $30,000",
-        "2026-08-07 OFFICER Foley Michael Robert BUY $30,000"
+        "2026-08-03 OFFICER LoPriore Vincent S BUY $400,000",
+        "2026-08-03 OFFICER LoPriore Vincent S BUY $400,000",
+        "2026-08-03 OFFICER LoPriore Vincent S BUY $100,000",
+        "2026-08-03 OFFICER LoPriore Vincent S BUY $100,000",
+        "2026-08-03 DIRECTOR Stetz Gary S. II BUY $25,000",
+        "2026-08-03 DIRECTOR Stetz Gary S. II BUY $25,000",
+        "2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000",
+        "2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000"
       ],
       "company": {
-        "name": "Chemours Co",
-        "industry": "Chemicals & Allied Products"
+        "name": "Hepion Pharmaceuticals, Inc.",
+        "industry": "Pharmaceutical Preparations"
       },
       "trend": {
         "dates": [
@@ -1007,181 +834,485 @@
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
-          17.22,
-          16.98,
-          17.07,
-          16.49,
-          17.11,
-          16.61,
-          17.11,
-          17.93,
-          14.59,
-          15.11,
-          15.75,
-          14.59,
-          14.8,
-          15.385
+          0.054,
+          0.065,
+          0.059,
+          0.058,
+          0.046,
+          0.046,
+          0.072,
+          0.059,
+          0.07,
+          0.06,
+          0.048,
+          0.06,
+          0.051,
+          0.051
         ]
       },
-      "price_now": 15.385,
-      "price_at_signal": 15.75,
-      "pct_since_signal": -2.32,
-      "pct_14d": -10.66,
+      "price_now": 0.051,
+      "price_at_signal": 0.072,
+      "pct_since_signal": -29.17,
+      "pct_14d": -5.56,
       "deep": {
         "recent_filings": [
           {
             "form": "10-Q",
-            "date": "2026-08-05",
+            "date": "2026-08-13",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000024/cc-20260630.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226037562/form10-q.htm"
           },
           {
             "form": "8-K",
             "date": "2026-08-04",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000021/cc-20260804.htm"
+            "summary": "Company entered a material agreement; unregistered share sale; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226035940/form8-k.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-06-24",
-            "summary": "Company entered a material agreement; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000017/cc-20260624.htm"
+            "date": "2026-07-02",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226031918/form8-k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-17",
+            "summary": "Company shareholder vote results.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226029085/form8-k.htm"
           },
           {
             "form": "10-Q",
-            "date": "2026-05-05",
+            "date": "2026-05-14",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000011/cc-20260331.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-05",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1627223/000162722326000010/cc-20260505.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1583771/000149315226023136/form10-q.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "CRANSTON MARY B",
-          "kind": "OTHER",
-          "note": "140 Form 4 filings on record since 2000; 1 buy of CC in this tracker's ledger"
+          "name": "Appajosyula Sireesh",
+          "kind": "COO",
+          "note": "13 Form 4 filings on record since 2022; 1 buy of HEPA in this tracker's ledger"
         },
         {
-          "name": "Martinko Joseph T.",
+          "name": "LoPriore Vincent S",
           "kind": "OFFICER",
-          "note": "10 Form 4 filings on record since 2023; 1 buy of CC in this tracker's ledger"
+          "note": "3 Form 4 filings on record since 2015; 2 buys of HEPA in this tracker's ledger"
         },
         {
-          "name": "Foley Michael Robert",
-          "kind": "OFFICER",
-          "note": "2 Form 4 filings on record since 2026; 1 buy of CC in this tracker's ledger"
+          "name": "Purcell Michael J.",
+          "kind": "DIRECTOR",
+          "note": "52 Form 4 filings on record since 2017; 1 buy of HEPA in this tracker's ledger"
         },
         {
-          "name": "Cowan Alister",
-          "kind": "OTHER",
-          "note": "6 Form 4 filings on record since 2023; 1 buy of CC in this tracker's ledger"
+          "name": "Stetz Gary S.",
+          "kind": "CEO",
+          "note": "26 Form 4 filings on record since 2011; 1 buy of HEPA in this tracker's ledger"
         },
         {
-          "name": "HOSTETTER SHANE",
-          "kind": "CFO",
-          "note": "39 Form 4 filings on record since 2013; 1 buy of CC in this tracker's ledger"
+          "name": "Stetz Gary S. II",
+          "kind": "DIRECTOR",
+          "note": "1 Form 4 filings on record since 2026; 1 buy of HEPA in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Chemours (CC) director Alister Cowan acquires 13,000 common shares in open market - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkFYYXJMd3pmMXJoeU1Oc2NLd1JlVGhMdEZzMWxNdkQxQ0hLeWpMWGVOcWlucEQ0RHJ5X3ZVR2pIb2p6VHFDeGNKSFVWU1FqMmt2NlRmQm90dGkzbFNPbGtFUkd3OVVwT05sVHpsdXFqZ211b280N1daRnA0T1VKOUxFd09GRElvUVdMaC1MOHJNYmVQNUFzcWxkZ1p5eDdnYXZFTUd3?oc=5",
-          "date": "Tue, 11 Aug 2026",
+          "title": "Hepion Pharmaceuticals (HEPA) interim CEO Stetz buys 4M shares and warrants - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQ3ZZdW9jYVZodmxQQjVMVVFmbVpTSnZrNzQyR05RRlU4SDNqZFIxLWM3TXEweXdwVzZ3ZHMyLWZZYmlGSEgtMXp3Vm9PVjhtcjNfS1F3U3I1TGJXMmdPQW4zWFR4bElqbGtDM2pXQnZZcEhJRWVYS05wcEVkUllVME80RVljZUlESVhvRE0wOC00Qks0cDVOZDJjVEZ4M3Jjd0dsbmpGX3lsSnNHT0xfYV9GYklMZWlKb1lxQQ?oc=5",
+          "date": "Thu, 13 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Chemours Co (CC) CFO Shane Hostetter Buys 3,350 Shares - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbzd6Yld2dGFIRmtWdWpTUmU5XzdDdC1NbWlYTFhONlVacDd6MGJIME1vLWdoTGQxQm00WGt3ZHJpeExWWjF3blBSTW5zdmx2SFZzMWN3bkN5eGJadmxWSDhaUzRJMjlLRXlXQTR5RkR1aTc4YlNxVmViUEFFSTMzZmptckhwUlYxMC1vcEp3cXF4MTZt?oc=5",
-          "date": "Mon, 10 Aug 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Chemours Co (CC) director Cranston purchases 6,000 shares in open-market trade - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOX2tjUFpJMmJoWmFiN1VzcHgwY1ExeE13dGJTaG9ZRktCd0NNVjRvVTJNd1FJSERaYlhCWVdGT24wR204UHdzd1pqSmpwb0hNSEVCZXVEQjItXzJSNHVIN05LRURDdloteWRJTkFUVW1DYzNaQWo0Q1FMcmVnaW1LQzIxZTZsRU5lSkVSSTBSN3NkaHdPMk1sYkpyRUlkZ3ZEa1hPblFR?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Chemours Co (CC) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVUTNWanBQaXZqUVRPN3VtTkdZY0h6aU5mSTNGZFdfdF9BTXBkMjBtTlFDMFBFZHhYNGU2X2JHYUplVzh5Ni1rRUR6enFRSEZwajlCTmRYNXV0bk9razh5RXJHcw?oc=5",
-          "date": "Sun, 09 Aug 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "Chemours Co stock hits 52-week high at 24.5 USD - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZEREMDVOSXRzcEFZUEtTZ29aVXNIS3dVbm1sOWRmTklzalFSTXhLbVdXRURqb1pvTmJyOUlzZHJsTXRfTjRidDR3eVB3WnhrU3p5Q2N4ckFibjQ2NmF2a1NlYW5tTkx6NkxOS0JKcXE5b1RITmk0bXdJWHp0SnhZQS04YVVBZzJfQmgwRmJGcTNsZ0NEanlrdnlqMWN6YXpLTGxIYQ?oc=5",
-          "date": "Fri, 24 Apr 2026",
+          "title": "Hepion Pharmaceuticals executive chairman LoPriore buys $500,000 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNWFLeEhUYTFibXNkZHZqNnJJaTFGY1RETDRDeE1oX2hoT21wSUtHcnVCTXRNRHNfMkpESmRtS2o3a1pCa2F0aldpbHBXMFZNZjBfQTBlOUgzTHlIZk54TElJa3VqalRYMmRfMkpyZWJmaEh2blVCMlhjSXJwRWhYQm1JRldSMnpVaVNxcVRkNnNXQVozUldnSkRGbmgtMTd2MHNCOFlmOFNrMlB2QTdMSW5keDJvTGpNY1FfbDF2X1JqdFVuTTU2SmtVTG4wUU14bHkwcFFRdmlFblRo?oc=5",
+          "date": "Thu, 13 Aug 2026",
           "source": "Investing.com"
+        },
+        {
+          "title": "Hepion Pharmaceuticals (HEPA) director purchases 500K shares and 500K warrants - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPejRMZWxheFBEdlZFSHRtdTNsTURrdm5OeFY1U1lwVFFjek41T1M5RUJtVFNvUlIwU0E0SlJ1ZE1xdzRqUGJYZ2tPbDZnY1ZVWE5uSWotd2VJcUxoMERrSnNNUnhtTVREbFFOc3otZXhuRU8wNER4SE85NW83QVExVjJyRmhhZXFibjV0OTNqekpqZ1JQSGcwTGFoaFdhMlZnNDB1WVl5TG1aNE92R0lCaHRYQ2pjYjg0S2x6Mg?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Darin Feinstein Discloses Investment at Hepion Pharmaceuticals with 11.1% Stake - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ21LRk1fTFlybDk3Z2w1dVNrTjBGZ0ZIU1FwTDBKekU4bEdYMHJnQndLTksxc2N1Y2t5cF8wWUVSRjVfMEhoLXJkWnpaSmtsaklnWk5SV3gybk9zcGFIbThIR0lkQU0yemdXb0JYcURrU2VDWDU2U0w0ZTNtcFR6Vk13cFp6Z1NTa1k0WmJ5VGN4Yl83eXI4MHcyeXFxaGVIcGQ5ZlRYNUFhOUNDeC15M19BT2pabVpXRmpsS0JyWUxPeVJWeEczcmE1UXRremxyZElVMjV0OA?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Hepion Pharmaceuticals director Stetz buys $25,000 in common stock By Investing.com - Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTmNvVDN6OHlRdW9tdVJYaFlHNGxTOFUxNTZ0bTIzLUZDMHBPalA5S3Z5YWZlemdrOUFDeGNLUDY3SnE4R3A5c0dybms1VE11b3YtT3FqOXpGZnNyYi1yWDFEY2NWLTFvMlh3RkJMR1VfdlhYa0tldUplVXBuaEVzVmdpeElOY3dkVm1Zbnptd3R2RUtYZmhsdVVqcjJ1WURQMm9OMDNTV0dZNWd5Q0FER2gxZ3V5MF82engzaTdpeVMxQ050UGxEN0pnY2VIcC1NN3Y4?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "Investing.com South Africa"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Aging \u2014 latest filing 10 days ago; edge decays over weeks",
+        "cls": "spent"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cHepion Pharmaceuticals\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Hepion%20Pharmaceuticals&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cHepion Pharmaceuticals\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Hepion%20Pharmaceuticals&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "ACDC",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 15.8,
+      "sell_score": 0.0,
+      "net_score": 15.8,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-11 OTHER Wilks Dan H. BUY $1,101,288",
+        "2026-08-11 OTHER Wilks Dan H. BUY $1,101,288",
+        "2026-08-11 OTHER Wilks Dan H. BUY $1,101,288",
+        "2026-08-11 OTHER Wilks Dan H. BUY $1,101,288",
+        "2026-08-11 CEO Wilks Matthew BUY $122,366",
+        "2026-08-11 CEO Wilks Matthew BUY $122,366",
+        "2026-08-10 OTHER Wilks Dan H. BUY $2,515,354",
+        "2026-08-10 OTHER Wilks Dan H. BUY $2,515,354"
+      ],
+      "company": {
+        "name": "ProFrac Holding Corp.",
+        "industry": "Oil & Gas Field Services, NEC"
+      },
+      "trend": {
+        "dates": [
+          "2026-07-24",
+          "2026-07-27",
+          "2026-07-28",
+          "2026-07-29",
+          "2026-07-30",
+          "2026-07-31",
+          "2026-08-03",
+          "2026-08-04",
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-12",
+          "2026-08-13"
+        ],
+        "closes": [
+          4.26,
+          4.01,
+          3.71,
+          3.61,
+          3.71,
+          4.04,
+          4.11,
+          4.23,
+          4.505,
+          4.465,
+          4.32,
+          5.1,
+          5.14,
+          5.31
+        ]
+      },
+      "price_now": 5.31,
+      "price_at_signal": 5.1,
+      "pct_since_signal": 4.12,
+      "pct_14d": 24.65,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-06",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1881487/000119312526337969/acdc-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); executive/director departure or appointment; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1881487/000110465926091463/tm2622356d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-06",
+            "summary": "Company entered a material agreement; terminated a material agreement; took on new debt or obligations.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1881487/000110465926080566/tm2619787d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-01",
+            "summary": "Company shareholder vote results.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1881487/000110465926068890/tm2616017d1_8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-05-08",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1881487/000119312526214605/acdc-20260331.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Wilks Dan H.",
+          "kind": "OTHER",
+          "note": "71 Form 4 filings on record since 2017; 2 buys of ACDC in this tracker's ledger"
+        },
+        {
+          "name": "Wilks Matthew",
+          "kind": "CEO",
+          "note": "28 Form 4 filings on record since 2017; 2 buys of ACDC in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "ProFrac CEO (ACDC) adds 80,000 shares in indirect August buys - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTHF6QnZBOXI5M2puSUxiclRWMGhaOFlUaGFWeTltMlZmQV84M1pOQkVkWG4tb3hKZjUwblk0SXVaN25GZHppZ3cwQmVRT0Y1QU5SUVVfZTBiVHJDYm4wUk1DSGhydFVUZXRaQV9HbkF6NG5GNk9jMDVQX01KRGY0ZnFxRkpCMzRsRmpBcEFtTjhoRmlsdHpFaGl0NkpaWmV5LU1BMjRjeE1BMEZuR1NUcjRJbGpkUQ?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Profrac director Dan Wilks acquires $3.6m in ACDC shares - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTM0aW9QUVM5U01kN28zaWRPQUZmZThCV1lmeXVQNV9UT2JiRmtKWjdfcTdWUERZYlBHamFXQ2R4UEEzWVRTeHBfUjR5Q1JtZkllX2NmMWJSLVFEVktzaWFtMTRRMDZVQVJ6NzdJTzZTalZIbmR1OUpaRE5ZVHhuNngteDM3VmsxS052NElFSzFESGpKNzRKUGFDZlk1SnVva296RG5WTVpIMUY4RGN1UFdZejRnQXdCYU5N?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "ProFrac Holding Corp. (ACDC) Reports Q2 Loss, Tops Revenue Estimates - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1p5eE02YlY2c0xBM2dHRVN0SjhObENwX3ZDdGh5ZXV3YmlIaDdTNjRIZURvTEZ3b1FIeFMxd0I5V2hMWGJYSzI3MlNpc3RmdjVVTmFLWHJ2WEJXVjdwN2xJVU55Q2Q2d3JiTUhWcG9jSmYtMkVrNGttWEVaMW4yWWZWSVRDUkp4bEtxTjRsV3l1UV82UnNEVnhYb1RnNzA?oc=5",
+          "date": "Fri, 07 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "ProFrac (NASDAQ:ACDC) Stock Price Up 10.7% - Time to Buy? - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR256Z0IzMVdFcklxWlUzcU1fWVdNeWNUUEdqQ2RndEpCdVUyaE05aTRFSFlXS0JVWWtzX1RjUDIxMU5lTF9SSUJVRlM5elh1RDQ3c1YxdEZ1Qk9Gc3dBYzlZT2hzOWo3WElxdUduWTBId1UxN3Z6Vy1YcUd2Z0V4cWZRcUt0TUJJbUNLdlBNS3JHa1lGd3dmQm9zNUhwV05QSC1YZDVB?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "ProFrac Holding Corp. (ACDC) Wilks group reports control of 83.1% stake - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbGpwcDM1eDhjYzZOSGRvbk81YThRd3dEa1g0bTNWOEFjZ0JFanl4UWcwWDl0Q2M5UHIzUWtzWDhacHI2UzdsRzhEUk5hR2Q4aFhwSzJzUHByTVRTVUVfLUxOMTFSMmFQZkZPWlotOHpKcW5xZU1NZjNTNzdIQ2Q2WDg2WlhaOFJJaXIwcElyU2UycnY4dFVDaEhjSkw0cjQxOV9ndkJqUXpjQmxNUkZQbWNGMThyUEZEbm54OHRucnphWlU4NWZkTWk5bw?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cProFrac\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=ProFrac&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cProFrac\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=ProFrac&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cOil & Gas Field Services, NEC\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Oil%20%26%20Gas%20Field%20Services%2C%20NEC&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cOil & Gas Field Services, NEC\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Oil%20%26%20Gas%20Field%20Services%2C%20NEC&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "ATTO",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 14.8,
+      "sell_score": 0.0,
+      "net_score": 14.8,
+      "distinct_buyers": 3,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984",
+        "2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984",
+        "2026-08-06 OTHER Sanofi BUY $5,100,000",
+        "2026-08-06 OTHER Sanofi BUY $5,100,000",
+        "2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000",
+        "2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000",
+        "2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000",
+        "2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000"
+      ],
+      "company": {
+        "name": "Attovia Therapeutics, Inc.",
+        "industry": "Biological Products, (No Diagnostic Substances)"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-05",
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-12",
+          "2026-08-13"
+        ],
+        "closes": [
+          21.9,
+          20.38,
+          20.17,
+          19.84,
+          18.06,
+          18.305
+        ]
+      },
+      "price_now": 18.305,
+      "price_at_signal": 20.38,
+      "pct_since_signal": -10.18,
+      "pct_14d": -16.42,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company amended bylaws or changed fiscal year; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2058707/000119312526338037/d155197d8k.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "venBio Global Strategic Fund IV, L.P.",
+          "kind": "OTHER",
+          "note": "1 Form 4 filings on record since 2021; 1 buy of ATTO in this tracker's ledger"
+        },
+        {
+          "name": "Redmile Group, LLC",
+          "kind": "10% OWNER",
+          "note": "155 Form 4 filings on record since 2008; 2 buys of ATTO in this tracker's ledger"
+        },
+        {
+          "name": "Sanofi",
+          "kind": "OTHER",
+          "note": "70 Form 4 filings on record since 2010; 1 buy of ATTO in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfdXpJUDJydVJvaV9pc2RIeXQ1WVVoQU41WUF4emxtMndfalRCbGpLejlDdWFTYnI5NXZmcXh6akUwaGlsLVpyY3czMTd0U0VQ?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "CNN"
+        },
+        {
+          "title": "Deep Track group discloses 7.45% Attovia Therapeutics (ATTO) ownership in 13G - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcFNNbnFxcWhHZ3RMTy1MY21SSk1RSTZ1aURtOS1KUWhKT0dkcGtDa2otSFctLUc5ZUhCUFdwTEpwWnd0OFFzV2NOWkltS2NkRVZBTmQwcUgtamUxYVd0d2tLeTZBek03dXB4T1pxTDRNM2liSWxBX2ljUUpHdWdTdFJsWDhiMTYxcnFYWlh6ZWF3Z254Yk8yMks4Y3A1SnVleWY2MTlLWVprR0RCN1pyeHF2RmZ6bHhtb1U3SnFTQUE0YlFtYmJqTGRBbw?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Frazier Life Sciences XI Discloses Investment at Attovia Therapeutics with 13.5% Stake - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZWJWM3VKSmUybEo3MUZqNEYtWkdQMTZnblhjeUJoLTNFWUhHYldLX3dhbzdrSXVhTFBPN1I5T0JET2JPVlIydGJreTRZRkhfNWFpQkZFRWF0cEp1RTd4bHlLS0ZwV05MTEdPTDdxeDdyWE1Kd1BPSmdkRmpvM3JxVVhNeUxQVEx0VGMzWFhNTG0zdnJKZUVFQzBMTjBxMUVTY0pVZVhqRTFWaTR4UFRicWVzdXU1YjhYV0ZoWHUzZ0xpVkZVOUdlVnRPTDcyUVdWbDlya252amg3SjdJTVZkcQ?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Goldman Sachs-backed Attovia eyes $731.5 million valuation in upsized US IPO - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTVhSFExRmtUTGtLYlNHenNYVTBJQkIzT2dFSzI2eGxXSXdoSGtHcnMwMGxRUmtUQnlza2tSLV8tLVoxRmtzWTdYblRoWUJIdU9mendsUmx4NVh6amo3M2dDUjZzdUhxeHQtVjF1VnExSFlLVllaOXJkbXJHNDdfeVhyMmduRzJHYVNTNk5aUExfZHFKSlkweVRUZGUxZHRtaE9KaUxJN0lka1pLVDlFVlNYcnZPeUtha2QzMHg1WWhDQUd6ZWc?oc=5",
+          "date": "Tue, 04 Aug 2026",
+          "source": "Reuters"
+        },
+        {
+          "title": "Attovia Therapeutics stock soars after IPO, another positive sign for beleaguered biotech sector - The Business Journals",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR1dKTEU3ZTJLUXlURU94QVR3b2EzSWpnQzdCc2RhXzhzM3A1bzJWVFNpWUpVVG1IQ184NDRvYTBudDhqLWJESkFmRjVMNjlwZ2Z4WmFYdm5odXlCblEyZl9CSVNkbmZlNHh1N3l5cHdseWE1cC1tbGdpcUF4YjVRQndhMjNJdGZvcE5wTjdYVjkzUzY3SW9RQW1tcE96MkcwZjVKYVp4R0xGakNRam9V?oc=5",
+          "date": "Tue, 04 Aug 2026",
+          "source": "The Business Journals"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cChemours\u201d",
+          "label": "Bills mentioning \u201cAttovia Therapeutics\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Chemours&source=legislation"
+          "url": "https://www.congress.gov/search?q=Attovia%20Therapeutics&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cChemours\u201d",
+          "label": "Hearings mentioning \u201cAttovia Therapeutics\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Chemours&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Attovia%20Therapeutics&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cChemicals & Allied Products\u201d",
+          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Chemicals%20%26%20Allied%20Products&source=legislation"
+          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cChemicals & Allied Products\u201d",
+          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Chemicals%20%26%20Allied%20Products&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
         }
       ]
     },
     {
-      "ticker": "AMRC",
+      "ticker": "MKZR",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 13.4,
+      "buy_score": 11.5,
       "sell_score": 0.0,
-      "net_score": 13.4,
-      "distinct_buyers": 2,
+      "net_score": 11.5,
+      "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-08-11 CEO Sakellaris George P BUY $25,900",
-        "2026-08-11 CEO Sakellaris George P BUY $25,900",
-        "2026-08-10 DIRECTOR Cox Brian C BUY $995,279",
-        "2026-08-10 DIRECTOR Cox Brian C BUY $995,279",
-        "2026-08-10 CEO Sakellaris George P BUY $25,270",
-        "2026-08-10 CEO Sakellaris George P BUY $25,270",
-        "2026-08-07 CEO Sakellaris George P BUY $129,750",
-        "2026-08-07 CEO Sakellaris George P BUY $129,750"
+        "2026-08-10 OFFICER PATTERSON CHARLES E. II BUY $37,440",
+        "2026-08-10 OFFICER PATTERSON CHARLES E. II BUY $37,440",
+        "2026-08-10 OFFICER FULLER GLEN W BUY $37,440",
+        "2026-08-10 OFFICER FULLER GLEN W BUY $37,440",
+        "2026-08-10 CEO DIXON ROBERT E BUY $37,440",
+        "2026-08-10 CEO DIXON ROBERT E BUY $37,440"
       ],
       "company": {
-        "name": "Ameresco, Inc.",
-        "industry": "Construction - Special Trade Contractors"
+        "name": "MacKenzie Realty Capital, Inc.",
+        "industry": "Real Estate Investment Trusts"
       },
       "trend": {
         "dates": [
-          "2026-07-24",
           "2026-07-27",
           "2026-07-28",
           "2026-07-29",
@@ -1194,135 +1325,141 @@
           "2026-08-07",
           "2026-08-10",
           "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
-          21.75,
-          21.09,
-          19.66,
-          18.51,
-          20.66,
-          21.07,
-          22.73,
-          27.94,
-          25.66,
-          25.55,
-          25.65,
-          25.28,
-          25.89,
-          27.36
+          1.25,
+          1.29,
+          1.26,
+          1.19,
+          1.03,
+          1.25,
+          1.365,
+          1.53,
+          1.5,
+          1.636,
+          1.52,
+          1.51,
+          1.52,
+          1.54
         ]
       },
-      "price_now": 27.36,
-      "price_at_signal": 25.65,
-      "pct_since_signal": 6.67,
-      "pct_14d": 25.79,
+      "price_now": 1.54,
+      "price_at_signal": 1.52,
+      "pct_since_signal": 1.32,
+      "pct_14d": 23.2,
       "deep": {
         "recent_filings": [
           {
+            "form": "8-K",
+            "date": "2026-07-29",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000027/mkzr-20260728.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-14",
+            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000025/mxzr-20260714.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-05-15",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000017/mxzr-20260515.htm"
+          },
+          {
             "form": "10-Q",
-            "date": "2026-08-04",
+            "date": "2026-05-15",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026052190/amrc-20260630.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000114036126021627/ef20070433_10q.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-08-03",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026051825/amrc-20260803.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-27",
-            "summary": "Company executive/director departure or appointment; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026049842/amrc-20260722.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-08",
-            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026041641/amrc-20260604.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-12",
-            "summary": "Company entered a material agreement; completed acquisition or disposal of assets; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026034108/amrc-20260512.htm"
+            "date": "2026-04-16",
+            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1550913/000155091326000013/mrc8k04152026.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "Cox Brian C",
-          "kind": "DIRECTOR",
-          "note": "2 Form 4 filings on record since 2026; 1 buy of AMRC in this tracker's ledger"
+          "name": "DIXON ROBERT E",
+          "kind": "CEO",
+          "note": "49 Form 4 filings on record since 2000; 3 buys of MKZR in this tracker's ledger"
         },
         {
-          "name": "Sakellaris George P",
-          "kind": "CEO",
-          "note": "87 Form 4 filings on record since 2010; 3 buys of AMRC in this tracker's ledger"
+          "name": "FULLER GLEN W",
+          "kind": "OFFICER",
+          "note": "14 Form 4 filings on record since 2000; 3 buys of MKZR in this tracker's ledger"
+        },
+        {
+          "name": "PATTERSON CHARLES E. II",
+          "kind": "OFFICER",
+          "note": "15 Form 4 filings on record since 2013; 3 buys of MKZR in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Ameresco (NYSE:AMRC) CEO Purchases $129,750.00 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb2psclFYZTR1WnlFakxpZjBFUVBScW5ZeHJhdVBFSDhmZ3U2ODk4UURQMXNSUi14allxZmtNOUgwenJ0RzN2aGRMMlN3LVFiTzRwVENVQ2RhSGtzQzRBakJLdW1OX3hlUExUcURaNzFBajJTSlZoMmhraWtNV3gzcDB6UGc1QnZveUNvQnc0UzFzdi1ZSkRJNGo2eC1icjgwRDFYVEhB?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "MarketBeat"
+          "title": "MacKenzie Realty Capital (MKZR) counsel adds 33,400 shares via trust and LPs - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZnFqTzRwc2pDYThRN2pIT1NrS29SQTdxUU1rRUs2SFFid2JvaFB6ZmNHSjY2amEyTGYzRUtxVGoxTW9VcWktU24wNFEwcExCTEQxUHUzLU9VTGhXb0xBU2VsWEw1Z1ZnUHljckl2NWcyYkNmdFU4XzVTbEJFTWNKb1FLcWYzVnFLdnNneTh4Tm9tbVJndUhyMlQ1Um9MVEVubl9PczJGelFBUVV5Q3h6RUl4NFhGd25QbnJpc0FjazY?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Stock Titan"
         },
         {
-          "title": "Ameresco CEO George Sakellaris buys $180,920 in company stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSy15RnFTdGpjRWF6TXNNZjdtN2tMMVlFeGZXWlY0ZmFkWl9YOExxMTBKOFV2ck9reDdOVTFEcUNTVm9KSTNfU3JlU1JzQWVoYTQ3NUpKOTlzY2tocVlqUEZzZDZRZzZndzhZM05UNHpGazZLNktEOG5IZlJDVEdxMTJzYWRxVjJZWFBGVVoxRHNwVHNNVmpDN1pEVEJlTEhSWXVDbG81QmEtN2t3VGJJaVg3ZkZzNmpPOXpRRFJRTEE1UVgwSGJwOXZfaVo?oc=5",
-          "date": "Wed, 12 Aug 2026",
+          "title": "MacKenzie Realty Capital CEO buys $53,340 in company stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTzlpSUhrdTFtMmZvMmxEREp1TE9BOUlnMTlKcWh2NjhsTjUxbGhTX2lwWXBsZHhDamd6UGtJOXFPUy0zYk0tbks2dmRFbFFkV2pZTWROUkdtWkxXSjl3bDhVeHBmWVhxTVFHSjNscVE2bFMzcnc4NmZ0S0ZDVkZsRXlxVEZUY25zckdXT0FDNnItSjRCSk9HNWZDRnN6RjI1X2JSYVp0aUE3Q0xybVhDV0hMRnlfakJNUnNTbFIzWXp6ZGxkVGtwLQ?oc=5",
+          "date": "Mon, 10 Aug 2026",
           "source": "Investing.com"
         },
         {
-          "title": "Is Ameresco, Inc. (AMRC) A Good Stock To Buy Now? - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiczJ4aFBmOHdfbUtValBaUXdDS3A5YWo4SlcxMjZ0MGg4eHNYREF1UmFHcVJUQXd3enpxWUloZE81eWpuWXJUQjBpcXlRX3VqTmEyak1IM1FGQjJ5MmozenExZldPRmN6WlR2V0F4YllOZjRsRWlJc0xCRTRjR28?oc=5",
-          "date": "Wed, 13 May 2026",
-          "source": "finance.yahoo.com"
+          "title": "MacKenzie Realty (MKZR) CEO reports 33,400-share indirect stock buys via trust - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVnFlTWNBczZaNDJCQWtwRkl4dDhhdlg1WFZBOTRMMElLalRCNGpiNjZnYjZETTBQUFlPTUoyeVQ4QWk2Q2ZqWGFYX3ZHQlA1WmRZeTRZQmd4QTZPTncwNWgwN2hhUGNRNXpGVURocWxRNkV2MkFEUnJLX09tSXoxQ0Rwdk5TcXk2WG1uSGkyRFNYZEMtcVFNQngtWVhIb1VfLWk5Z2xzQ21LVjYzX0NERWdva0VzRkt2aW5aZUNWYlQ?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "Stock Titan"
         },
         {
-          "title": "Ameresco, Inc. Stock 12\u2011Month Price Target Raised to $44, Implies 94% Upside - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSUI5R19Db3RwcDQ4NzB1d1lVVjBXNndHS01lUDFyS2NqcGRQVW5tZkZzZlpDcm5pYkhqRjJhelBrTDVJcUZnUDhsWi1YTGFXc0VmdHlNTFZkZXBkZi1XRDJiemFJSFdhZXJ3LXY3b21HYkxpZFhxRlMtZ1dZdkM1dXhrTWQ3X3J1Snp2MHBHUnlpN3dWXy1JTHdET1ZuU2x3T1NaQUduOXdZUmZlWGxXVG9icTE1S2plM2lfbnhaLWE5Y0FzQUx3NUNtRTF3QQ?oc=5",
-          "date": "Tue, 04 Aug 2026",
+          "title": "Enterprise value to EBIT forward of MacKenzie Realty Capital, Inc. \u2013 NASDAQ:MKZR - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZDk1SDdHY3kzRUFnZ3JnZU5mSG0wd0UtOTdVRHpTMUpVLVFfb2tyWjJndHNGTEJ0c1N2NllBUXpHTU5ZZS1JRmdiMTJCdmVSa216Z0ZhOElVZzVINnJNNktrRmtPbWM5b1lhYXlWcUFESlZGYlppMU1wcjBhbjBreS1HQXVzUWR2R2toNFl0ZnE4UW10MGN4LWFUV2FualBoNmJQenZKQWZLcHc?oc=5",
+          "date": "Sun, 02 Aug 2026",
           "source": "TradingView"
         },
         {
-          "title": "Ameresco (NYSE:AMRC) Director Buys 39,700 Shares of Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOb2NrQmV3SDVTellFSF9TMEpQRXNwV191TkFOanhCSDB4UXRzV045b09zU1NUYWoxLTZNU1dCNDg3cGVsMmFBbzFTa0VnM05Zdmt6dm1Rb0s3UzRsZ1BEc1dCSGx3UGdPNHRJVTRqRGtqVGZyZDhZVVl1Rkk5MVZqb1BBSnNmcnhnYmc5MDRxSnNhS0JreWlqUXM3SkNzMWZBQXlUeWlNTmd6MVk?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "MarketBeat"
+          "title": "Mackenzie Realty Capital general counsel buys $53,340 in shares - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFhhS3BFeVEwdm9oRFdYQmhpTXYtaWxfM2s0TEhMNTFBVDBpOXJJNl9qM09ncm9EOURmbmxZRlNkU20zRlJyd1RJZE5jVl92dWsweE13N3VTWi1nRVo2ZGZIeUg4blAyeGhUWEd0dmE1eUJkeUVscVo5TXVtTDltN0ZKeG91akRqTXlLSDdOWl9OZFUwMFQ5dHkweEpRNnVQMVl3UUxmVkxObGNYN3prSWxlSHRKZDgxQ09wc183TlB6elhX?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "Investing.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
-      "earnings_soon": false,
+      "earnings_soon": true,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cAmeresco\u201d",
+          "label": "Bills mentioning \u201cMacKenzie Realty Capital\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Ameresco&source=legislation"
+          "url": "https://www.congress.gov/search?q=MacKenzie%20Realty%20Capital&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cAmeresco\u201d",
+          "label": "Hearings mentioning \u201cMacKenzie Realty Capital\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Ameresco&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=MacKenzie%20Realty%20Capital&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cConstruction - Special Trade Contractors\u201d",
+          "label": "Bills mentioning \u201cReal Estate Investment Trusts\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Construction%20-%20Special%20Trade%20Contractors&source=legislation"
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cConstruction - Special Trade Contractors\u201d",
+          "label": "Hearings mentioning \u201cReal Estate Investment Trusts\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Construction%20-%20Special%20Trade%20Contractors&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=committeemeetings"
         }
       ]
     },
@@ -1354,20 +1491,20 @@
         "dates": [
           "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
           18.25,
           18.56,
-          18.52,
-          19.09
+          19.38,
+          19.4
         ]
       },
-      "price_now": 19.09,
+      "price_now": 19.4,
       "price_at_signal": 18.56,
-      "pct_since_signal": 2.86,
-      "pct_14d": 4.6,
+      "pct_since_signal": 4.53,
+      "pct_14d": 6.3,
       "deep": {
         "recent_filings": [
           {
@@ -1393,13 +1530,13 @@
       ],
       "news": [
         {
-          "title": "Latigo Biotherapeutics, Inc. (LTGO) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rS2p0OE9fYUx5N2RYMHR0UURtVHg2bGlmZTItRGhxdjI0YzVTSXJWODQ1V2JCTmVOb0d1NTZOWWw5R3ZqcFYxMkU1eXpTUm52Y2c?oc=5",
-          "date": "Mon, 10 Aug 2026",
-          "source": "Yahoo Finance UK"
+          "title": "Latigo Biotherapeutics, Inc. (LTGO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hY0doZFQ4Tzl6YkdIVElfXzh4UnZsaUJub2NkQWR4QWRQVFVwZWxscFBicTRQa29LeU9CVzhIbjZCb2Z3ckN0SHZra0REN1ZhYlE?oc=5",
+          "date": "Sat, 08 Aug 2026",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "Number of shareholders of LATIGO BIOTHERAPEUTICS INC \u2013 NASDAQ:LTGO - TradingView",
+          "title": "Number of shareholders of Latigo Biotherapeutics, Inc. \u2013 NASDAQ:LTGO - TradingView",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZWV2aDdLZ0JvblNTVVh6QXpoU1RmUExBYlFFUjVwS3BWY1Z2U2duUGt6NXRnM2NheGtFSGs1VzA3ZGtWMUVYZHJRdG1sY1VpWVR1NXN6amNZbWRBTDhIZmZ1RTRzcGZrTF8tMXRmelhhbGhkcUJtek9Oa0NIbHJNRTZTZi14V1pObnFpQU54S3ZuVW9ZcmpnYXhFVVpKS1hja1hNWEJSdw?oc=5",
           "date": "Sun, 09 Aug 2026",
           "source": "TradingView"
@@ -1411,16 +1548,16 @@
           "source": "GlobeNewswire"
         },
         {
-          "title": "Sanofi Converts Series B Preferred Stock and Convertible Note into Latigo Biotherapeutics Common Shares Following IPO - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNR0xNRG5kR1BESnNlOWdJLXkzNXF2OURPa3I3ZngyZXBhVWxPRkFJYUk0RWRvdnBQUXdxeElLU2lqbW1WdEs1QXhTbWpURjJ0blJrOVlRV3kxN0FFM3J3NGh5ZHljNVl5QUxZdFVjZ2J4UWsxS3otblhFTkljR3EyMEFrUkFONVp1blN6dVB2MEVMZDhYdmZxb1lKTWd6cGQ5bVIySkVPQV9jY1JOR0lubUY5ZlBOMFVCSVA0dHM3RUNMWGpvdWFqY2NCSHJ2bElDTW1jM2kyQkRyV2ZtRE1OX0FCREUtM2k4RVJZR2drdHdFZUNtekk4?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "Kalkine Media"
+          "title": "LTGO Price Today: Latigo Biotherapeutics, Inc. Stock Price, Quote & Chart | MEXC - MEXC",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAtWmZZMDNSSk02SHF4bEZhRS16S2hnYjhTQ1RlQW5kRVEtdHhEbzB1dlZDUTZQampNVVJheFYxbGJRXzhxN1ZB?oc=5",
+          "date": "Mon, 10 Aug 2026",
+          "source": "MEXC"
         },
         {
-          "title": "Latigo Biotherapeutics, Inc (LTGO) Stock Price, News & Analyst Forecast - eToro",
+          "title": "Latigo Biotherapeutics, Inc (LTGO) Stock Price, News & Analyst Forecast - etoro.com",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAtY2hnREpiNERKZVJfZnhoeXI1Xy1Za3hQRlZVX192RHdkanNic29Jd3BVSDhXS213eW5TUC1lel9JRml2ckRYYWFR?oc=5",
           "date": "Sat, 08 Aug 2026",
-          "source": "eToro"
+          "source": "etoro.com"
         }
       ],
       "news_flags": [
@@ -1428,7 +1565,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -1442,144 +1579,6 @@
           "label": "Hearings mentioning \u201cLatigo Biotherapeutics\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Latigo%20Biotherapeutics&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "TLSA",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 7.9,
-      "sell_score": 0.0,
-      "net_score": 7.9,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-05 CEO Elrifi Ivor BUY $237,616",
-        "2026-08-05 CEO Elrifi Ivor BUY $237,616",
-        "2026-08-04 CEO Elrifi Ivor BUY $81,293",
-        "2026-08-04 CEO Elrifi Ivor BUY $81,293",
-        "2026-07-21 DIRECTOR CERRONE GABRIELE M BUY $41,933",
-        "2026-07-21 DIRECTOR CERRONE GABRIELE M BUY $41,933"
-      ],
-      "company": {
-        "name": "Tiziana Life Sciences Ltd",
-        "industry": "Pharmaceutical Preparations"
-      },
-      "trend": {
-        "dates": [
-          "2026-07-24",
-          "2026-07-27",
-          "2026-07-28",
-          "2026-07-29",
-          "2026-07-30",
-          "2026-07-31",
-          "2026-08-03",
-          "2026-08-04",
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
-        ],
-        "closes": [
-          0.89,
-          0.91,
-          0.97,
-          0.96,
-          0.97,
-          1.03,
-          0.97,
-          0.97,
-          0.99,
-          0.97,
-          1.0,
-          1.01,
-          1.01,
-          0.9962
-        ]
-      },
-      "price_now": 0.9962,
-      "price_at_signal": 1.0,
-      "pct_since_signal": -0.38,
-      "pct_14d": 11.93,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "CERRONE GABRIELE M",
-          "kind": "DIRECTOR",
-          "note": "27 Form 4 filings on record since 2001; 1 buy of TLSA in this tracker's ledger"
-        },
-        {
-          "name": "Elrifi Ivor",
-          "kind": "CEO",
-          "note": "2 Form 4 filings on record since 2026; 3 buys of TLSA in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Tiziana Life Sciences Ltd (TLSA) director adds 15,000 shares in open-market buy - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTVZFMU8xRUIycjNLdzdqSjd4QVptUm4xbEwzMHlzZEJycGZPR3lJZTRILXVvZFEtdjlMckpVXzVaVG5FUUE1UGpRcUdNUzhHYlNWRVo3b0xDNS1UQzVCZWZfVHZ1TUJ5TE93S1d3bEtyXzlLaHI1ZGpyYlVMZW5LaElSSFRPR3QwbWY4UXlTLU0tVmxUdXczaEJjRW1uQ1dSUzRsVDFQRWlwWmRTSy1aaEExeU1lMTVxYU9mX3NoZW0tRzlUc0RVZg?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Tiziana Life Sciences CEO & Executive Director Acquires 18% More Stock - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOaXdKVEVtRFQ0OG02Mk81TkROV0Rld2xPWmxvZDBIc0h2bmVRbVZzdy00QTh6aU5BRnVaSGNNbFZ5VWY5MFpISENLMExhMjhxSGtWTC1lRTRWdnNVR1VEQUcyVVlCbWl3QmxtbVpVT2t6MXZMbHhnRDZuUjVqRkNqZUFsWlE3TlJUcWFFMGZGUzRGQmlsOHdNaHlOUWhMN3poZmx0QkloZThKbDlfVmVKSGVVQ1dXRUcxRTc0ZUZIQVhlSndGLTFvQnhxaUF5SVJPR0RuUFUwdUFQN3VjWWRqRjIxMzJXakcwRm5V0gHwAUFVX3lxTE1iX29zcVNHeFAwU0xKUmtCNXR2cXlwbjRJWHVwc2t3OUFVSVpXcUxaM1JxZDJUOE93STB5WFBMTW1kWDNnQXpWeWp1c2R1YnFnT05JR015Z2dtYzZOLWJPZEVlazhNeUV2d3d6V2FDYVZOajVoTlBUY2ZLQ1pnWDFVaV9rZHFsWHhGRzdhdDJUeHpfRVNrRTBSdEppaVNDNzJQSDg2dUVNNG52WmI0UzZjSFFQNnh1WllGR2NsOUV2cV9ndkhZMGhVNENFdElWQlhGS0ZpWkI1N0dfUUdOV2JVVVMwNm9lZzNXYTBldm8taA?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "simplywall.st"
-        },
-        {
-          "title": "Insider Buying: Tiziana Life Sciences (NASDAQ:TLSA) CEO Purchases 83,807 Shares of Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYVhjRVltSk1PLVNvaVFiUzZtWmFvYnhDbE5PWFV4WXBCOTlUTnliSnM5Ml9OX09NWndNb3hjZTJCZFNqUmNUSDY0aUpUcDFsckp1YUpPcU9NbGxlTFNaVjJNZGc3bTJScmptSV9wZTNCdURUQ3R1cmY5RVl4dmhUQ3laeFJhN0NrSnRWSzEwdGZfY0YyRjVyT2EzV3NmZmNnTlYybnRDajRKZXNSQUJnS094MUtpOHoxWlJ1dmJXUFRrZHpla1BuRnJZdmdPZUw0dlRV?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "TLSA | Tiziana Life Sciences Ltd. Insider Trading - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5oUXdTNFZ3aXpKSlQ3dVJKM1VzaDB0bkg4aUwydXVfeHlYUTlGTWplVWR2cEc5RE5PSGVZanZwQ0M5cHR3ZVRIZnlJOWNRUENTOWpFR1Y5SHBSdlAx?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Tiziana Life Sciences : Announces Purchase of Shares by Chief Executive Officer - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMW5DMG5ndzRDNjBEb25BT0tfY0w1Ym9xRlR1b0ZyMG1xRVlFeWw4dVFUbG9pR1ZnT016T1NKd0ZqWHgxbDVnSWNNbFFnWGtOSnV0akxEaEZUT3BHb3ZsTUI2Y0NBcjB4WENJWDhodlFnYS1IeEtNYmNvTW03d2Zla1hMbWh2M29xanYwSkJ1bTFUT3VadVdRZ1R3Xzc3WThhY29rcWZuLWNnUk9LRTgxaWlqOHc3aXEzWEZZbGpnYV91Y2dlWHQ3NTBR?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "marketscreener.com"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cTiziana Life Sciences\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Tiziana%20Life%20Sciences&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cTiziana Life Sciences\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Tiziana%20Life%20Sciences&source=committeemeetings"
         },
         {
           "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
@@ -1627,8 +1626,8 @@
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
           24.91,
@@ -1643,14 +1642,14 @@
           24.2,
           22.12,
           22.28,
-          22.73,
-          21.97
+          22.13,
+          22.505
         ]
       },
-      "price_now": 21.97,
+      "price_now": 22.505,
       "price_at_signal": 22.12,
-      "pct_since_signal": -0.68,
-      "pct_14d": -11.8,
+      "pct_since_signal": 1.74,
+      "pct_14d": -9.65,
       "deep": {
         "recent_filings": [
           {
@@ -1688,14 +1687,20 @@
       ],
       "news": [
         {
+          "title": "Elanco Animal Health Incorporated (ELAN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYLUwwUmVPaDdtd3lVVTRXWXpnblNKV25TZlhWLVR4enhzTEo0ZWpMOUlYbG9jcXpkYlZaOWIxZFdoY1YzXzNJVF94b2c1aU1KZnc?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
           "title": "Elanco Animal Health (NYSE: ELAN) EVP granted new deferred stock units - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRy1OMWFzdzlmSDNMUkY1SkxNLXhRWDJlbG80aU5fWG9KaUsxOWtxZXRfVE5PdzBRNWdxZ1dROVJjTXVyWldPVXBIQy1vaW4yYTExVjdnemdfOVh6SFhzRkVaaWRPTXpsQU1YY2txNzhRb0VTS0Z0VzZtMm4xYjFPbjhELVVlWEJ4akZoVTBDNXREdXlSOGVuSVJ6M2JHdS11aG5DbWdoaTYyNDdFRWQwVXN4aFJhWi14Ymc?oc=5",
           "date": "Mon, 10 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Insider Buying: Elanco Animal Health (NYSE:ELAN) CFO Buys $96,936.00 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSDdwS0d3NjZsaTNGRHpSTHc2dmZzdFNyWGlITjJLMnJhNEUxaFJVemZxSTlLdTBOclhBa0U2QW0yVzB6ZDVLZW1aVk9mc1U3Zk5YQ25kcWxnMFlRWURDdm9pemhfbDN1dFZqSWpmbGE0ZXFmVkdNQm9LTTJYekdZaHRfX2JleXY4OUt4d1FLeENHVkI1Vk5XZjFaNzR1YklMNHpiSHZMTzNJa1UyOF9sMFg3TFNZU081cU9XU0RMbHFwZw?oc=5",
+          "title": "Insider Buying: Elanco Animal Health (NYSE:ELAN) Director Buys 10,000 Shares of Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb0hHZXQ5VVA5UWQ4WFFhdUkwOFdQSnhaNzhPc0dKWThNQU45N2txaHk1a0daYXRncHNXWnQ0RUVsMzRHZ1M3bDRHdGFkdkxrTHZRUWp5NnBLSklocGZTTU1vUWZxU2l5ZS1oYml0ZzZIXzVwYVdlOVdETHN3VHNPaTBaWGJFMXNrZk0zMWRJMU5STVRaWGFzc2RYbE9kRUFFTERuMTZxbUJYWUdyWjhVV3VXWVhqT0dOQ2xVWWZBY2RSOTF0WHE0SUhLbHVHdXM?oc=5",
           "date": "Mon, 10 Aug 2026",
           "source": "MarketBeat"
         },
@@ -1704,12 +1709,6 @@
           "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQR1RIZlZ2UXdYQ1RhMm40NFJPVGxGV0hXZHo2TnZZRWNOSDlZNndTQjl6NEo0cnJCbEVESUsxV1pMS2c2WEpfMFF1eWhpSjFIaUdya1Y0MEN2OGc1clprYXZublFkRUI5US1fRlFiSUhjLV9HZVhydEdtSkpHYVc5SWpIWFNBeW9ZNDhTUVlITHRnaHJtWHBpVkp4Y0p1SEJGWnk5MGdTYzlHYzVQ?oc=5",
           "date": "Sat, 08 Aug 2026",
           "source": "TradingView"
-        },
-        {
-          "title": "elanco animal health inc. Positive Earnings Pre-Announcements - RTTNews",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekswS3pjNXR1T2otRzVLYlZpQjZZOVUxbHhSblFkWFJueFlCUDFUWGxka2FUbF95SHkyc29IS2hJQmg1RFNGWndVTC0xN24xXzY0ZEFyNU5OZDdpN1JpVWFNVXlOeUZmVkgxQ2k4amduVUZsXzBSRHVHd0I5YVlfVjgxd2JZdnAzUVVBZUN3UmZaUWpVZzV5WUNBVFBVQQ?oc=5",
-          "date": "Sat, 08 Aug 2026",
-          "source": "RTTNews"
         },
         {
           "title": "Elanco Animal Health (ELAN) Insider Buying: EVP and CFO Robert V - GuruFocus",
@@ -1721,7 +1720,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1784,8 +1783,8 @@
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
-          "2026-08-11",
-          "2026-08-12"
+          "2026-08-12",
+          "2026-08-13"
         ],
         "closes": [
           1.55,
@@ -1800,14 +1799,14 @@
           1.535,
           1.49,
           1.57,
-          1.52,
-          1.555
+          1.505,
+          1.49
         ]
       },
-      "price_now": 1.555,
+      "price_now": 1.49,
       "price_at_signal": 1.37,
-      "pct_since_signal": 13.5,
-      "pct_14d": 0.32,
+      "pct_since_signal": 8.76,
+      "pct_14d": -3.87,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -1832,10 +1831,10 @@
           "source": "Stock Titan"
         },
         {
-          "title": "OKYO Pharma Announces Purchase of Shares by Director - finance.yahoo.com",
+          "title": "OKYO Pharma Announces Purchase of Shares by Director - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWEEzNGNYLXRqTFhPTHdjVmV2c3RRYTlkaFBzQU9BcnVHYVdDSnQ5dmRwcDFZSUEtTWVWSVVnWTBfRWpyaVNXa0NQVXBtNUdyWWVrdkhHS3B3azRxZG1mUFJPa2N5S3NBeFRNRElUX1JZcW5HRDhuc0JwMHFKenRXZzlPLXMtVTVRaUpwT2MxSElPNkpWczNaSG1IcnplRkU?oc=5",
           "date": "Thu, 23 Jul 2026",
-          "source": "finance.yahoo.com"
+          "source": "Yahoo Finance"
         },
         {
           "title": "OKYO Pharma Announces Purchase of Shares by Chief Scientific Officer - GlobeNewswire",
@@ -1844,22 +1843,22 @@
           "source": "GlobeNewswire"
         },
         {
+          "title": "OKYO Pharma Chief Development Officer Gary S. Jacob Increases Shareholding with Open-Market Purchase - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbDA2Q0R0UmNoV2JuTVEtQ3lSM281NFBXU2FuS2ZHTHpZbkxSTktWWHpxSmZEeEE0NmhwbmlGTHdvY1I2azY1SWpVOVdiakJrekUwWmdnMzI3QThPWXViS0lYUEJ4NlFZazVtUnJUZ2dpbFRlOW5YbkhzX2xGcWJ1WFEzS3dCNWNXa25oZHd6UjJOdFNaTTgwckRrXzBNMTE0RE44ampUaUhScmh3eXcwVkhFR1hIaGdEODNDMWRlNDFoX0NXeGV5bldMRXB2dw?oc=5",
+          "date": "Wed, 22 Jul 2026",
+          "source": "Quiver Quantitative"
+        },
+        {
           "title": "OKYO Pharma (NASDAQ: OKYO) updates 20-F to add clawback policy exhibit - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNel9fYkhrbDYwREh1VVJERGJPYkZrVXN0QllvVEsxS2Z5dV9sa3hTaVZNazNCel80OHBEVExHMndJV2ZyTHBQVHFfOVo3ckRQOUhvMVI5cm1xQzRtNTRJSGwwVGdUYWhoUXRJQjB3ZlR3U1RSWGktREI4bmgwMTB0b2tuZjFFR1F0SDlDcFBCek4zLVRQWFdudTNzeHlsNDNVNkhOZU1kOXFZV1VCSUtiNkE1d05Nelp5WVhCLQ?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "OKYO Pharma Announces Purchase of Shares by Chairman - finance.yahoo.com",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUGxLUUt6Mk1FSmxOa0ZOZTdiekJESE9ZZW5fUTdBY0duOGZIa0RRX2RlYThEbXlyOXZmczRubmltSjZtamtZaUYycjdCWWEwU1NJcm1EUHpHOTZZQ1Y4YUp4dVMtdUZwdFVfeFVMdFQ3bVZFclp6aEZ2X2NqeS16VjZvYVVMc0xvemp5RzJ0WGc4cEM5MzVwSEcxOU1xcDg?oc=5",
-          "date": "Wed, 22 Jul 2026",
-          "source": "finance.yahoo.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +14% since disclosure",
+        "label": "Aging \u2014 latest filing 23 days ago; edge decays over weeks",
         "cls": "spent"
       },
       "earnings_soon": false,

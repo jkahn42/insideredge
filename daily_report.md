@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-08-12
+# InsiderEdge Daily Report — 2026-08-13
 
-Signals: **1 BUY** / **1 SELL** / **10 WATCH**
+Signals: **1 BUY** / **0 SELL** / **11 WATCH**
 
 ## BUY
 ### BRVE  (net +60.0 | buy 60.0 / sell 0.0 | 9 buyers, 0 sellers)
@@ -14,6 +14,9 @@ Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 - 2026-08-07 OTHER Forbion Growth Opportunities Fund III Cooperatief U.A. BUY $30,240,000
 
 ## SELL / AVOID
+_None today — no cluster met the threshold. That is a feature, not a bug._
+
+## WATCHLIST
 ### CHYM  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 5 sellers)
 - 2026-08-10 CEO Britt Christopher R SELL $4,523,490 (10b5-1 planned sale — discounted)
 - 2026-08-10 CEO Britt Christopher R SELL $4,523,490 (10b5-1 planned sale — discounted)
@@ -24,7 +27,6 @@ Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 - 2026-08-07 CEO Britt Christopher R SELL $1,526,452 (10b5-1 planned sale — discounted)
 - 2026-08-07 CEO Britt Christopher R SELL $1,526,452 (10b5-1 planned sale — discounted)
 
-## WATCHLIST
 ### NATR  (net +51.5 | buy 51.5 / sell 0.0 | 1 buyers, 0 sellers)
 - 2026-08-10 10% OWNER PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C. BUY $267,462
 - 2026-08-10 10% OWNER PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C. BUY $267,462
@@ -35,17 +37,17 @@ Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 - 2026-08-10 10% OWNER PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C. BUY $206,276
 - 2026-08-10 10% OWNER PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C. BUY $206,276
 
-### ATTO  (net +19.5 | buy 19.5 / sell 0.0 | 4 buyers, 0 sellers)
-- 2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984
-- 2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984
-- 2026-08-06 OTHER Sanofi BUY $5,100,000
-- 2026-08-06 OTHER Sanofi BUY $5,100,000
-- 2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995
-- 2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995
-- 2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995
-- 2026-08-06 OTHER Frazier Life Sciences XI, L.P. BUY $9,999,995
+### PNAQ  (net +33.3 | buy 33.3 / sell 0.0 | 6 buyers, 0 sellers)
+- 2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000
+- 2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000
+- 2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $2,250,000
+- 2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $2,250,000
+- 2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $10,000,000
+- 2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $10,000,000
+- 2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000
+- 2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000
 
-### BLSM  (net +17.1 | buy 17.1 / sell 0.0 | 3 buyers, 0 sellers)
+### BLSM  (net +26.6 | buy 26.6 / sell 0.0 | 5 buyers, 0 sellers)
 - 2026-08-10 OTHER Schmid John P. BUY $96,000
 - 2026-08-10 OTHER Schmid John P. BUY $96,000
 - 2026-08-10 OTHER Chen Bihua BUY $5,000,000
@@ -55,35 +57,43 @@ Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 - 2026-08-10 OTHER Chen Bihua BUY $5,000,000
 - 2026-08-10 OTHER Chen Bihua BUY $5,000,000
 
-### KMPR  (net +13.4 | buy 13.4 / sell 0.0 | 4 buyers, 0 sellers)
-- 2026-08-11 OFFICER Evans Carl Thomas Jr. BUY $26,530
-- 2026-08-11 OFFICER Evans Carl Thomas Jr. BUY $26,530
-- 2026-08-11 DIRECTOR LADERMAN GERALD BUY $105,960
-- 2026-08-11 DIRECTOR LADERMAN GERALD BUY $105,960
-- 2026-08-11 CFO Camden Bradley T BUY $26,340
-- 2026-08-11 CFO Camden Bradley T BUY $26,340
-- 2026-08-10 DIRECTOR Gorevic Jason N BUY $129,550
-- 2026-08-10 DIRECTOR Gorevic Jason N BUY $129,550
+### HEPA  (net +17.6 | buy 17.6 / sell 0.0 | 5 buyers, 0 sellers)
+- 2026-08-03 OFFICER LoPriore Vincent S BUY $400,000
+- 2026-08-03 OFFICER LoPriore Vincent S BUY $400,000
+- 2026-08-03 OFFICER LoPriore Vincent S BUY $100,000
+- 2026-08-03 OFFICER LoPriore Vincent S BUY $100,000
+- 2026-08-03 DIRECTOR Stetz Gary S. II BUY $25,000
+- 2026-08-03 DIRECTOR Stetz Gary S. II BUY $25,000
+- 2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000
+- 2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000
 
-### CC  (net +13.4 | buy 13.4 / sell 0.0 | 5 buyers, 0 sellers)
-- 2026-08-07 OTHER Cowan Alister BUY $203,060
-- 2026-08-07 OTHER Cowan Alister BUY $203,060
-- 2026-08-07 OTHER CRANSTON MARY B BUY $94,950
-- 2026-08-07 OTHER CRANSTON MARY B BUY $94,950
-- 2026-08-07 OFFICER Martinko Joseph T. BUY $30,009
-- 2026-08-07 OFFICER Martinko Joseph T. BUY $30,009
-- 2026-08-07 OFFICER Foley Michael Robert BUY $30,000
-- 2026-08-07 OFFICER Foley Michael Robert BUY $30,000
+### ACDC  (net +15.8 | buy 15.8 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-08-11 OTHER Wilks Dan H. BUY $1,101,288
+- 2026-08-11 OTHER Wilks Dan H. BUY $1,101,288
+- 2026-08-11 OTHER Wilks Dan H. BUY $1,101,288
+- 2026-08-11 OTHER Wilks Dan H. BUY $1,101,288
+- 2026-08-11 CEO Wilks Matthew BUY $122,366
+- 2026-08-11 CEO Wilks Matthew BUY $122,366
+- 2026-08-10 OTHER Wilks Dan H. BUY $2,515,354
+- 2026-08-10 OTHER Wilks Dan H. BUY $2,515,354
 
-### AMRC  (net +13.4 | buy 13.4 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-11 CEO Sakellaris George P BUY $25,900
-- 2026-08-11 CEO Sakellaris George P BUY $25,900
-- 2026-08-10 DIRECTOR Cox Brian C BUY $995,279
-- 2026-08-10 DIRECTOR Cox Brian C BUY $995,279
-- 2026-08-10 CEO Sakellaris George P BUY $25,270
-- 2026-08-10 CEO Sakellaris George P BUY $25,270
-- 2026-08-07 CEO Sakellaris George P BUY $129,750
-- 2026-08-07 CEO Sakellaris George P BUY $129,750
+### ATTO  (net +14.8 | buy 14.8 / sell 0.0 | 3 buyers, 0 sellers)
+- 2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984
+- 2026-08-06 OTHER venBio Global Strategic Fund IV, L.P. BUY $6,499,984
+- 2026-08-06 OTHER Sanofi BUY $5,100,000
+- 2026-08-06 OTHER Sanofi BUY $5,100,000
+- 2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000
+- 2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000
+- 2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000
+- 2026-08-06 10% OWNER Redmile Group, LLC BUY $6,800,000
+
+### MKZR  (net +11.5 | buy 11.5 / sell 0.0 | 3 buyers, 0 sellers)
+- 2026-08-10 OFFICER PATTERSON CHARLES E. II BUY $37,440
+- 2026-08-10 OFFICER PATTERSON CHARLES E. II BUY $37,440
+- 2026-08-10 OFFICER FULLER GLEN W BUY $37,440
+- 2026-08-10 OFFICER FULLER GLEN W BUY $37,440
+- 2026-08-10 CEO DIXON ROBERT E BUY $37,440
+- 2026-08-10 CEO DIXON ROBERT E BUY $37,440
 
 ### LTGO  (net +9.1 | buy 9.1 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-08-10 OTHER Tananbaum James B. BUY $2,520,000
@@ -94,14 +104,6 @@ Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 - 2026-08-10 10% OWNER Foresite Capital Management V, LLC BUY $2,520,000
 - 2026-08-10 10% OWNER Foresite Capital Management V, LLC BUY $2,520,000
 - 2026-08-10 10% OWNER Foresite Capital Management V, LLC BUY $2,520,000
-
-### TLSA  (net +7.9 | buy 7.9 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-05 CEO Elrifi Ivor BUY $237,616
-- 2026-08-05 CEO Elrifi Ivor BUY $237,616
-- 2026-08-04 CEO Elrifi Ivor BUY $81,293
-- 2026-08-04 CEO Elrifi Ivor BUY $81,293
-- 2026-07-21 DIRECTOR CERRONE GABRIELE M BUY $41,933
-- 2026-07-21 DIRECTOR CERRONE GABRIELE M BUY $41,933
 
 ### ELAN  (net +4.7 | buy 4.7 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-08-07 OTHER Herendeen Paul BUY $236,850
