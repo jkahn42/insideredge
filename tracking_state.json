@@ -42,16 +42,58 @@
     },
     "BRVE": {
       "action": "BUY",
-      "start_date": "2026-08-08",
-      "start_price": 30.0
+      "start_date": "2026-08-14",
+      "start_price": 26.25
     },
     "NET": {
       "action": "BUY",
       "start_date": "2026-08-08",
       "start_price": 300.27
+    },
+    "ELAN": {
+      "action": "SELL",
+      "start_date": "2026-08-14",
+      "start_price": 23.095
+    },
+    "LTGO": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": 19.395
+    },
+    "MKZR": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": 1.63
+    },
+    "ATTO": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": 18.22
+    },
+    "ACDC": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": 5.39
+    },
+    "HEPA": {
+      "action": "SELL",
+      "start_date": "2026-08-14",
+      "start_price": 0.0601
+    },
+    "PNAQ": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": null
+    },
+    "CHYM": {
+      "action": "BUY",
+      "start_date": "2026-08-14",
+      "start_price": 31.9205
     }
   },
   "rejected": [
-    "DCOM"
+    "DCOM",
+    "OKYO",
+    "NATR"
   ]
 }
