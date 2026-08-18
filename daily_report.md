@@ -1,12 +1,20 @@
-# InsiderEdge Daily Report — 2026-08-17
+# InsiderEdge Daily Report — 2026-08-18
 
-Signals: **0 BUY** / **1 SELL** / **10 WATCH**
+Signals: **1 BUY** / **1 SELL** / **10 WATCH**
 
 ## BUY
-_None today — no cluster met the threshold. That is a feature, not a bug._
+### CDNL  (net +60.0 | buy 60.0 / sell 0.0 | 6 buyers, 0 sellers)
+- 2026-08-14 DIRECTOR Zelman Ivy BUY $500,948
+- 2026-08-14 DIRECTOR Zelman Ivy BUY $500,948
+- 2026-08-14 DIRECTOR Wood Anthony Leon Jr. BUY $690,895
+- 2026-08-14 DIRECTOR Wood Anthony Leon Jr. BUY $690,895
+- 2026-08-14 DIRECTOR Wood Anthony Leon Jr. BUY $1,332,184
+- 2026-08-14 DIRECTOR Wood Anthony Leon Jr. BUY $1,332,184
+- 2026-08-14 DIRECTOR Lee Richard Melvin Jr. BUY $987,930
+- 2026-08-14 DIRECTOR Lee Richard Melvin Jr. BUY $987,930
 
 ## SELL / AVOID
-### CRWV  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 4 sellers)
+### CRWV  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 3 sellers)
 - 2026-08-14 10% OWNER Magnetar Financial LLC SELL $929,745
 - 2026-08-14 10% OWNER Magnetar Financial LLC SELL $929,745
 - 2026-08-14 10% OWNER Magnetar Financial LLC SELL $929,745
@@ -17,7 +25,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-14 10% OWNER Magnetar Financial LLC SELL $9,171,333
 
 ## WATCHLIST
-### RSG  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
+### RSG  (net +45.2 | buy 45.2 / sell 0.0 | 1 buyers, 0 sellers)
 - 2026-08-13 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $6,786,480
 - 2026-08-13 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $6,786,480
 - 2026-08-13 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $6,786,480
@@ -27,7 +35,17 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-12 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $942,417
 - 2026-08-12 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $942,417
 
-### PNAQ  (net +41.4 | buy 41.4 / sell 0.0 | 6 buyers, 0 sellers)
+### APLM  (net +33.1 | buy 33.1 / sell 0.0 | 3 buyers, 0 sellers)
+- 2026-08-14 COO Chen Yi-Kuei BUY $300,000
+- 2026-08-14 COO Chen Yi-Kuei BUY $300,000
+- 2026-08-14 CFO LIN PETER KUAN-HOW BUY $400,005
+- 2026-08-14 CFO LIN PETER KUAN-HOW BUY $400,005
+- 2026-08-14 CEO Chen Hung-Wen BUY $4,000,005
+- 2026-08-14 CEO Chen Hung-Wen BUY $4,000,005
+- 2026-08-14 CEO Chen Hung-Wen BUY $2,000,004
+- 2026-08-14 CEO Chen Hung-Wen BUY $2,000,004
+
+### PNAQ  (net +31.2 | buy 31.2 / sell 0.0 | 6 buyers, 0 sellers)
 - 2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000
 - 2026-08-10 DIRECTOR Stoyan Paul J. BUY $350,000
 - 2026-08-10 DIRECTOR RECHTSCHAFFEN ANDREW BUY $2,250,000
@@ -37,17 +55,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000
 - 2026-08-10 DIRECTOR Martin Karen Lynne BUY $100,000
 
-### BRVE  (net +34.1 | buy 34.1 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-08-07 OTHER AH Bio Fund IV, L.P. BUY $19,800,000
-- 2026-08-07 OTHER AH Bio Fund IV, L.P. BUY $19,800,000
-- 2026-08-07 OTHER AH Bio Fund IV, L.P. BUY $19,800,000
-- 2026-08-07 OTHER AH Bio Fund IV, L.P. BUY $19,800,000
-- 2026-08-07 OTHER AH Bio Fund IV, L.P. BUY $19,800,000
-- 2026-08-07 DIRECTOR ORBIMED ADVISORS LLC BUY $4,919,994
-- 2026-08-07 DIRECTOR ORBIMED ADVISORS LLC BUY $4,919,994
-- 2026-08-07 DIRECTOR ORBIMED ADVISORS LLC BUY $4,919,994
-
-### XRN  (net +29.3 | buy 29.3 / sell 0.0 | 3 buyers, 0 sellers)
+### XRN  (net +22.1 | buy 22.1 / sell 0.0 | 3 buyers, 0 sellers)
 - 2026-08-12 COO Roseth Aaron Robert BUY $495,855
 - 2026-08-12 COO Roseth Aaron Robert BUY $495,855
 - 2026-08-11 DIRECTOR Fitzgerald Charles BUY $500,920
@@ -57,7 +65,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-10 DIRECTOR Fitzgerald Charles BUY $991,944
 - 2026-08-10 DIRECTOR Fitzgerald Charles BUY $991,944
 
-### HEPA  (net +22.0 | buy 22.0 / sell 0.0 | 5 buyers, 0 sellers)
+### HEPA  (net +16.6 | buy 16.6 / sell 0.0 | 5 buyers, 0 sellers)
 - 2026-08-03 OFFICER LoPriore Vincent S BUY $400,000
 - 2026-08-03 OFFICER LoPriore Vincent S BUY $400,000
 - 2026-08-03 OFFICER LoPriore Vincent S BUY $100,000
@@ -67,7 +75,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000
 - 2026-08-03 DIRECTOR Purcell Michael J. BUY $100,000
 
-### ATTO  (net +18.5 | buy 23.8 / sell 5.3 | 2 buyers, 2 sellers)
+### ATTO  (net +12.6 | buy 17.9 / sell 5.3 | 2 buyers, 2 sellers)
 - 2026-08-06 OTHER GOLDMAN SACHS GROUP INC BUY $8,500,000
 - 2026-08-06 OTHER GOLDMAN SACHS GROUP INC BUY $8,500,000
 - 2026-08-06 OTHER GOLDMAN SACHS GROUP INC BUY $8,500,000
@@ -77,17 +85,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-06 OTHER GOLDMAN SACHS GROUP INC BUY $8,500,000
 - 2026-08-06 OTHER GOLDMAN SACHS GROUP INC BUY $8,500,000
 
-### LILA  (net +16.1 | buy 16.3 / sell 0.2 | 2 buyers, 1 sellers)
-- 2026-08-13 10% OWNER MALONE JOHN C BUY $239,859
-- 2026-08-13 10% OWNER MALONE JOHN C BUY $239,859
-- 2026-08-11 DIRECTOR BRACKEN CHARLES H R SELL $368,089
-- 2026-08-11 DIRECTOR BRACKEN CHARLES H R SELL $368,089
-- 2026-08-11 DIRECTOR BRACKEN CHARLES H R BUY $364,695
-- 2026-08-11 DIRECTOR BRACKEN CHARLES H R BUY $364,695
-- 2026-08-11 10% OWNER MALONE JOHN C BUY $191,054
-- 2026-08-11 10% OWNER MALONE JOHN C BUY $191,054
-
-### AMH  (net +9.5 | buy 9.5 / sell 0.0 | 2 buyers, 0 sellers)
+### AMH  (net +7.2 | buy 7.2 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-08-11 DIRECTOR BENHAM DOUGLAS N BUY $47,400
 - 2026-08-11 DIRECTOR BENHAM DOUGLAS N BUY $47,400
 - 2026-08-11 DIRECTOR BENHAM DOUGLAS N BUY $33,900
@@ -97,18 +95,24 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-10 DIRECTOR CORRIGAN JACK E BUY $45,580
 - 2026-08-10 DIRECTOR CORRIGAN JACK E BUY $45,580
 
-### BLSM  (net +8.8 | buy 8.8 / sell 0.0 | 2 buyers, 0 sellers)
+### ABCL  (net +6.7 | buy 6.7 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-08-14 CFO Booth Andrew BUY $383,904
+- 2026-08-14 CFO Booth Andrew BUY $383,904
+- 2026-08-12 DIRECTOR Hayden Michael R BUY $481,033
+- 2026-08-12 DIRECTOR Hayden Michael R BUY $481,033
+
+### BLSM  (net +6.6 | buy 6.6 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-08-10 DIRECTOR ORBIMED ADVISORS LLC BUY $10,000,000
 - 2026-08-10 DIRECTOR ORBIMED ADVISORS LLC BUY $10,000,000
 - 2026-08-10 DIRECTOR ORBIMED ADVISORS LLC BUY $10,000,000
 - 2026-08-10 DIRECTOR GORDON CARL L BUY $10,000,000
 - 2026-08-10 DIRECTOR GORDON CARL L BUY $10,000,000
 
-### ABCL  (net +8.8 | buy 8.8 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-14 CFO Booth Andrew BUY $383,904
-- 2026-08-14 CFO Booth Andrew BUY $383,904
-- 2026-08-12 DIRECTOR Hayden Michael R BUY $481,033
-- 2026-08-12 DIRECTOR Hayden Michael R BUY $481,033
+### CHCT  (net +6.5 | buy 6.5 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-08-14 CEO Dupuy David H. BUY $151,300
+- 2026-08-14 CEO Dupuy David H. BUY $151,300
+- 2026-08-11 DIRECTOR Hensley Robert Z BUY $121,680
+- 2026-08-11 DIRECTOR Hensley Robert Z BUY $121,680
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.

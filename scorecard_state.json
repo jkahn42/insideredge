@@ -11,6 +11,12 @@
       "issued": "2026-08-12",
       "px_issue": 25.94,
       "spy_issue": 773.15
+    },
+    {
+      "ticker": "CDNL",
+      "issued": "2026-08-18",
+      "px_issue": 41.9268,
+      "spy_issue": 768.33
     }
   ]
 }
