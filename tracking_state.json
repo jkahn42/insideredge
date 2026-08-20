@@ -1,9 +1,9 @@
 {
   "tracked": {
     "CRWV": {
-      "action": "BUY",
-      "start_date": "2026-08-08",
-      "start_price": 90.67
+      "action": "SELL",
+      "start_date": "2026-08-20",
+      "start_price": 91.6128
     },
     "DRI": {
       "action": "SELL",
@@ -67,8 +67,8 @@
     },
     "ATTO": {
       "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": 18.22
+      "start_date": "2026-08-20",
+      "start_price": 22.19
     },
     "ACDC": {
       "action": "BUY",
@@ -86,9 +86,34 @@
       "start_price": null
     },
     "CHYM": {
+      "action": "BUY",
+      "start_date": "2026-08-20",
+      "start_price": 33.41
+    },
+    "NTHI": {
+      "action": "BUY",
+      "start_date": "2026-08-20",
+      "start_price": 4.44
+    },
+    "CODI": {
+      "action": "BUY",
+      "start_date": "2026-08-20",
+      "start_price": 11.595
+    },
+    "APLM": {
+      "action": "BUY",
+      "start_date": "2026-08-20",
+      "start_price": 23.59
+    },
+    "RSG": {
+      "action": "BUY",
+      "start_date": "2026-08-20",
+      "start_price": 220.875
+    },
+    "CDNL": {
       "action": "SELL",
-      "start_date": "2026-08-17",
-      "start_price": 31.47
+      "start_date": "2026-08-20",
+      "start_price": 41.625
     }
   },
   "rejected": [
