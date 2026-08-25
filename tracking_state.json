@@ -5,21 +5,6 @@
       "start_date": "2026-08-20",
       "start_price": 91.6128
     },
-    "DRI": {
-      "action": "SELL",
-      "start_date": "2026-08-03",
-      "start_price": 206.24
-    },
-    "CRWD": {
-      "action": "BUY",
-      "start_date": "2026-08-03",
-      "start_price": 202.54
-    },
-    "MU": {
-      "action": "BUY",
-      "start_date": "2026-08-03",
-      "start_price": 829.5
-    },
     "NXTC": {
       "action": "BUY",
       "start_date": "2026-08-05",
@@ -114,6 +99,11 @@
       "action": "SELL",
       "start_date": "2026-08-20",
       "start_price": 41.625
+    },
+    "CBRS": {
+      "action": "SELL",
+      "start_date": "2026-08-25",
+      "start_price": 186.775
     }
   },
   "rejected": [

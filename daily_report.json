@@ -1,16 +1,324 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "signals": [
     {
-      "ticker": "CBRS",
-      "call": "SELL",
+      "ticker": "RSG",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 60.0,
+      "sell_score": 0.0,
+      "net_score": 60.0,
+      "distinct_buyers": 1,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,974,625",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,974,625",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,974,625",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $205,667",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $205,667",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $205,667",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,984,630",
+        "2026-08-21 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,984,630"
+      ],
+      "company": {
+        "name": "REPUBLIC SERVICES, INC.",
+        "industry": "Refuse Systems"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25"
+        ],
+        "closes": [
+          209.59,
+          214.56,
+          214.62,
+          215.08,
+          214.26,
+          215.22,
+          214.71,
+          215.26,
+          216.97,
+          221.04,
+          219.5,
+          220.67,
+          223.08,
+          221.535
+        ]
+      },
+      "price_now": 221.535,
+      "price_at_signal": 220.67,
+      "pct_since_signal": 0.39,
+      "pct_14d": 5.7,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-07",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000275/rsg-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000273/rsg-20260806.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-30",
+            "summary": "Company other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000266/rsg-20260728.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-24",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000119312526279862/d168156d8k.htm"
+          }
+        ],
+        "about": "Republic Services, Inc. is a North American waste disposal company whose services include non-hazardous solid waste collection, waste transfer, waste disposal, recycling, and energy services. It is the second largest provider of waste disposal in the United States after Waste Management. Its operations primarily consist of providing collection, transfer, and disposal of non-hazardous solid waste, recovering and recyc"
+      },
+      "actors": [
+        {
+          "name": "CASCADE INVESTMENT, L.L.C.",
+          "kind": "10% OWNER",
+          "note": "476 Form 4 filings on record since 1998; 36 buys of RSG in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Dearborn Partners LLC Acquires New Stake in Republic Services, Inc. $RSG - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVklaTEg1ZG9EVGRLdVI3czVzVVJOQWUtTXByNEk3Tmk2M3NnT19KcjZCc0N2a1BreUVyejh1N25Id3Y1XzFWQWJwM2xncG9vWEo3RUV2Y29CSWk2TURYY2huLUV3a2EwbXdUaW43VGw4Q3ZzNk4zdlFhNW9wVzhJdW1QOFExRXY4dlBCR3VET3dnaGkwTFRESXV2bzdsRVBlMS1JRXVJbEQzX0VncnltVjRrdFU4YnZLTnl6c00xdVc5VUd2aW04WXFn?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Republic Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdjlwUXZPcmtkbDlUM0FxZG16VlBpQ042TVU2ZGpmZ1ZUOS11VHhQd213YmNXSGRfdGQzUFVKelUwbUJ6UHQ3cGVPa0xlY3J1Rl9JQnlPMGVxeFhMbWgxcjdtUTV3ZVo2NU16UWNMTTZvSFhGcmNsZ2wxRC1DRThrRTl2NE1PWk0zRFQzU2R6LTRnRFRlVGZqZ0twYmdKeFRUdDNYOVF2YlNILWhZN2xzZ2xPci1VN0U4QUZqYV9XdmNLcVRycTBVWVVMWGJoTlNqQXJLWmdKcjRrSElIcGpQeTFaaF91UQ?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "10% Owner Investment, Cascade Buys 400,286 Shares of Republic Se - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlRRZUxxdWh4Tmh0dXphTUlHczRXSkVCRG1XTUl5RTZHMEJuUHhHMHlBMWREUVBFcmhXaGMtdERFdV9oY01qM25HMUVDcmpOUHBaY1dxUmlVMU04Si1IQmxrbkI5WlBjOVh2RnQzSUw3emFTZFdvSmN1dFBVNTV3aktjS1FCc3doYjhPbmdxRHhBc3ZDRFZxcTAzMkJqblhFNWNSdS1mX0FXQ1ZJYUxtYjBFT3E?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "GuruFocus"
+        },
+        {
+          "title": "Republic Services (RSG) Beats Q2 Earnings and Revenue Estimates - Eastern Progress",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ2M4V0Q3VVhTUDZna056SGM5RnBBVXB4bm00TW8zdTJYS1RTVnZlaDVxRTRGRDdvS0xKVENWeWxiaUlBb1FLdTZfNkhzbGRHMUpwb3NLSGoyYk9NbjhYUHVLejR6dHVNNHkyQ24xektTblY4Y1FPMEFsczZONDRabzBPQlQ0NU5YUFpmS0NOeVhvcVd1cG5uOGFiVU54N0Z3NlFITHpJc3pUMVAzQnQ4Q08yaW8wbG10MTBpdEktNFZ3VEZXSEFKNVFCcUgxeTF0WE54T3JrZk95Vzg?oc=5",
+          "date": "Sun, 23 Aug 2026",
+          "source": "Eastern Progress"
+        },
+        {
+          "title": "Bill Gates (NYSE: RSG) adds to Republic Services stake with August buys - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRjdWVDNRZ2VCQnZVaU5HOHZpYlRFdXVlUjNWNDhxa29lLXc1SGVLSldKWFZYZEpldFdValRIMFphS3FpczZNYW5QLVFLelp2cmMteWxWOWtYbVNGeEZneHdkek5zQ0ZMSlpXSjV2aHBqX0g0dWRNMlotbkQxWHFEcUwxSm1FMWc0YWJJQ0c1ZTBPOU4xRkpYZVE4VnVTX1BVOC1XSUc3WkVjMWRXZHBLWGtiV04?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cREPUBLIC SERVICES\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=REPUBLIC%20SERVICES&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cREPUBLIC SERVICES\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=REPUBLIC%20SERVICES&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cRefuse Systems\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Refuse%20Systems&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cRefuse Systems\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Refuse%20Systems&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "CHYM",
+      "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
       "sell_score": 60.0,
       "net_score": -60.0,
       "distinct_buyers": 0,
-      "distinct_sellers": 6,
+      "distinct_sellers": 1,
+      "evidence": [
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009",
+        "2026-08-21 OTHER DST Global Advisors Ltd SELL $739,009"
+      ],
+      "company": {
+        "name": "Chime Financial, Inc.",
+        "industry": "Finance Services"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-06",
+          "2026-08-07",
+          "2026-08-10",
+          "2026-08-11",
+          "2026-08-12",
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25"
+        ],
+        "closes": [
+          31.25,
+          29.1,
+          30.85,
+          31.73,
+          31.6,
+          32.18,
+          32.02,
+          31.45,
+          31.91,
+          33.07,
+          31.95,
+          32.78,
+          32.7,
+          32.72
+        ]
+      },
+      "price_now": 32.72,
+      "price_at_signal": 32.78,
+      "pct_since_signal": -0.18,
+      "pct_14d": 4.7,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-06",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1795586/000179558626000048/chym-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-05",
+            "summary": "Company announced results of operations (earnings); exit or disposal costs (restructuring); executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1795586/000179558626000046/chym-20260731.htm"
+          }
+        ],
+        "about": "Chime Financial, Inc. is an American financial technology company based in San Francisco, California. It provides fee-free mobile banking services through partnerships with two national banks, Stride Bank and The Bancorp Bank. The company offers fee-free checking and savings accounts, debit cards, and other financial products through its mobile application."
+      },
+      "actors": [
+        {
+          "name": "DST Global Advisors Ltd",
+          "kind": "OTHER",
+          "note": "14 Form 4 filings on record since 2012; 77 sales of CHYM in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Chime Financial (NASDAQ:CHYM) Major Shareholder Sells $15,494,530.74 in Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa0IxUXF1TG1RYWlSX3BoY3NuTS10My1HdlVIRWR0LXdUQU1VY0pQYXhidG5sclNsaXUzeWtieTdFMjlKVFQ4SFBleElpMGJKTWJqcEJqdDlTSWhuNWxvOC1YaXl3ZktNVkhJakh4ZjVIaVp1REpOWkNYNUJDMnhhOVdfaWZ2cW5oUENtQlRZbjB1WGVHMHJZcjJFWnRoUFZQVUl0UzY0c2R5OGROSjlFZzRRZEU2QVZtWjdTYW1ZZVJmazV5RFg2TzV2aHdzQQ?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Chime Financial, Inc. (CHYM) Is Up 10.03% in One Week: What You Should Know - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFUtRFZ2d3hVWnBWcktwcDJCYmJzVWpXZVJCaVlTdGdmSkJ1eVdvRnBTZzlLSnI3ZFpOUXBxeWg4Sm9EbHUtbGZDNUpkNk5GWkFRcGw3ejVvU3VmWFNXQmpXRU5VcE9hd1lsbE5DLXMwLVJ6RHBVbzBGUFJXUVZoUkZ5QXNBN2g5ZVpsQVJ2cDVWMjRGODJz?oc=5",
+          "date": "Thu, 20 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Chime Financial (NASDAQ: CHYM) trust to sell 25,000 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcmI4UjBfLV9hMHhHSVJpNnFMVGpZN3NHYUxNSWYwclhNRmpCbXdMcnNTbHR4R0pJcHJpNWdNVldBYnVXN1BfM1JHLS0tTThpejhuLW03c2hsOVRqRGhsUjhISWZlUzVjTnJqREk1eGk2SUNlRmVISF9qYUY1M0JMdmEtQ0xxQnA4cUFUZnE0Y25uMDZlWFVpenpHU0s?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Chime financial 10% owner DST Global Advisors sells $28.1 million in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORmpnSkM4NjRCYll3d0pwVDFaUzNhQ1c0d1BEY1JfcC1VemZ3WTZtel9hdWstOTA3d2xTajZKZ0dEVTBJRXdPTXpJY21FaUtSSmRTVUxXVDVVNjFrc0JtRkdqcmtiQ0hVTWwtNVphdXE3MHpzNmV1TGNhV01Wdzc4R1U3d0l4NzVZa1hGU2V1WEM3cjIwNWk4M3JxSkFCVHRTU2dyWGt3UmoxVHV5RzUzOXFoc09lNmRlRXVmVjNpMG1lRUhjRGk3S3JPeXAzUjMzZ3RlZVhRRFJyUF9K?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Consumer Fintech Chime Financial Exec Sells Shares Primarily To Cover Tax Liabilities - Crowdfund Insider",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc2FwUFY0dTc0YnN6YVQwMk01bFpxTFNVLWxDQzZwdFhER2FKUzVCSEJwQUVxNDRncXhnZlNFd1c3QXRIZ3U4MFdDei1odmNoSGNiRlNxVDU0ck5oSWE0RGcxZFlSY2s4NlUxTDNuejlyc1FRT09sTFJic21mTGxKZDY1M0pQekc1Q0NKcWhPZ3NnNWVsc2Y3aWdTTnc0Zm5peUFDYXlFV2w3dkVzVUxQU3M1Ul92UUhFMVJ5Z2pJb3k5ZEJyZUY1OWduUHFLb2s?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "Crowdfund Insider"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cChime Financial\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Chime%20Financial&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cChime Financial\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Chime%20Financial&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cFinance Services\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Finance%20Services&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cFinance Services\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Finance%20Services&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "CBRS",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 41.0,
+      "net_score": -41.0,
+      "distinct_buyers": 0,
+      "distinct_sellers": 5,
       "evidence": [
         "2026-08-21 OFFICER Lie Sean SELL $3,421,693",
         "2026-08-21 OFFICER Lie Sean SELL $3,421,693",
@@ -27,7 +335,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -40,10 +347,10 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          214.3,
           211.3,
           226.73,
           230.01,
@@ -56,13 +363,14 @@
           215.69,
           209.85,
           196.13,
-          188.2301
+          185.43,
+          186.41
         ]
       },
-      "price_now": 188.2301,
+      "price_now": 186.41,
       "price_at_signal": 209.85,
-      "pct_since_signal": -10.3,
-      "pct_14d": -12.17,
+      "pct_since_signal": -11.17,
+      "pct_14d": -11.78,
       "deep": {
         "recent_filings": [
           {
@@ -105,18 +413,13 @@
           "name": "Feldman Andrew D.",
           "kind": "CEO",
           "note": "4 Form 4 filings on record since 2026; 22 sales of CBRS in this tracker's ledger"
-        },
-        {
-          "name": "Vassallo Steven",
-          "kind": "OTHER",
-          "note": "49 Form 4 filings on record since 2013; 5 sales of CBRS in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Cerebras CTO Files To Sell Over $153M Stock, Senior Executives Offload Small Lots - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOEVXXzZSbGVmbmU5QUNwRnVzb3ZWYU05aWdLZjg5aXZJMnpXb2M1bE5xQWhjOUhObkFkbGViNWtnS1BCVzBDY2dBWU42QlgzMnFKQzNQdVBoUTI2R2xveEZEejl0VVhBR0lYSzZCRWpGUHlhOXJlQjJ2bGU4WkdqTkdHSWRJRXN1WExjOVprWkpUMFFJY3ZfUw?oc=5",
-          "date": "Fri, 21 Aug 2026",
+          "title": "Cerebras Systems (CBRS) Revenue Surges: Why Did CBRS Stock Crash, and What About AMD? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNFhsamgwSTdhZnk4U1N2X1Z2cUZGV2hSR0tMVzRDN3FVMFhTb25NTGRYSi1MWW9iV0R1VkdLRVYtVm5sekRmOElIY1F2RWlfV0JDUVlsWGZoQnZlcU9UWmljWlhqamR3VHpFWVVpeHhhSmtpMmEybjlKUjN1dEJnNElQejdqa1lJT1kzUlkwQmhXM3BtRXJlQW5nQVpLQ21ULXlR?oc=5",
+          "date": "Mon, 24 Aug 2026",
           "source": "Yahoo Finance"
         },
         {
@@ -124,6 +427,12 @@
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM3Jkd0JHdm1ORndVUUIxblA1Nk8tYmRVUEExOEVfandPWkI5eE1XNFROOWRhZ3FBbklQQ1BycDY1VC1ucmZlUnZBMUUyNU80QWxtTVNtbkZsS0pGTmpMRTJZMjBpRjFTMkZfM0FiZG45UWY2Q2xYWG9oS3gyTkgxTTQ5eE5qNHRqQWdlaUs4a292Nkd0MXBuNkQ1YWgzbWtNVFNYNQ?oc=5",
           "date": "Mon, 24 Aug 2026",
           "source": "Benzinga"
+        },
+        {
+          "title": "Cerebras System\u2019s Choppy Year Continues But a Wall Street Pro Forecasts 80% Returns Moving Forward - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNUpzUTRNcGg1OGtXOEhhXy1CazZDM3VhTDFDYlZrVlhFTjlzaVdJN0tFQ2w5UmpYUzJ0VzN5UXp1QTN3WWNrOE9xaUpiRXZqbERKeU9XNWNIWjJPcllBby00Q3FIZl9TTWRibEV2RmVfbVVRQmhTS3p4UE9iVHF4Y3NuNDBaX2Ry?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "AOL.com"
         },
         {
           "title": "CBRS Stock Struggles To Hold IPO Momentum Even After Fast-Tracked S&P Indices Inclusion \u2013 NVDA Shadow Grows Larger - Stocktwits",
@@ -136,19 +445,13 @@
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTh0Z2VqMVhFcEYyelBQQTYtSlhKUEloVVBfejRJX1BTbDluemdjc1VKTG9FZXJjRWhDTG1BaF9aZm9mUmFUaWhGTU8wSm9XQ1VJdFJIV1BpdWhxUWluSFJBOGJYNVlyWkdpeC1IUUNGRXZNUkc5UmFsTnVCVWJwLWRrcE9nTUJQY2dfc2ZPeVVvTnZmRUo3S1pnUk56VE02akk2cHcybU9ldTFqcTNUV29TbzJUakVlN2tJ?oc=5",
           "date": "Fri, 21 Aug 2026",
           "source": "TradingView"
-        },
-        {
-          "title": "Cerebras (NASDAQ: CBRS) insider logs $147M sale, plans more - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON0pkZ3hlY0FYWkJjOWNPM3JLeXd4a09hMGpRaEx4UHdjSGxGbTRPRmFzQXV6dEotLWxXMEFBdE1FY0NlRl9uckNqNE4tUnZxbGJtaWJSVDVJSm56M2Z0YTU2VzFVSHBrclhZU1JxeHpNSFZVSkhJbERoSHZZeHBLczBqV1QteHE2X09CMzBmYkl3WkVNd2p6emFQVkxEdw?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -175,677 +478,24 @@
       ]
     },
     {
-      "ticker": "RSG",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 60.0,
-      "sell_score": 0.0,
-      "net_score": 60.0,
-      "distinct_buyers": 1,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $978,658",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $978,658",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $978,658",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $8,695,170",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $8,695,170",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $8,695,170",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $622,509",
-        "2026-08-19 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $622,509"
-      ],
-      "company": {
-        "name": "REPUBLIC SERVICES, INC.",
-        "industry": "Refuse Systems"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24"
-        ],
-        "closes": [
-          207.02,
-          209.59,
-          214.56,
-          214.62,
-          215.08,
-          214.26,
-          215.22,
-          214.71,
-          215.26,
-          216.97,
-          221.04,
-          219.5,
-          220.67,
-          223.63
-        ]
-      },
-      "price_now": 223.63,
-      "price_at_signal": 221.04,
-      "pct_since_signal": 1.17,
-      "pct_14d": 8.02,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-08-07",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000275/rsg-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-06",
-            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000273/rsg-20260806.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-30",
-            "summary": "Company other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000106039126000266/rsg-20260728.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-24",
-            "summary": "Company other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1060391/000119312526279862/d168156d8k.htm"
-          }
-        ],
-        "about": "Republic Services, Inc. is a North American waste disposal company whose services include non-hazardous solid waste collection, waste transfer, waste disposal, recycling, and energy services. It is the second largest provider of waste disposal in the United States after Waste Management. Its operations primarily consist of providing collection, transfer, and disposal of non-hazardous solid waste, recovering and recyc"
-      },
-      "actors": [
-        {
-          "name": "CASCADE INVESTMENT, L.L.C.",
-          "kind": "10% OWNER",
-          "note": "475 Form 4 filings on record since 1998; 30 buys of RSG in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Korea Investment CORP Purchases New Stake in Republic Services, Inc. $RSG - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaDFLMmQ2UVlPNDVFT3VEVW1CNE03OTl4MTNjWU0wald1emVzRGw1UWd5eG53TDFkeEpmUU05ZGwwS25pNWNaSHFSZFU1Nmlaa0Jhbi0tYVMzbmExSkFib25EU2xCdjhiRjN5aUxKbUxKU3lDMW1BY3RiOXZQdTByWXdqa2pRYm9vajh0b3B0ZmNzaXNHZnpGUzhkQ1hXVTdhemhQY2Qtb3hSTm53VWptV2FEMExwMDh1NHl5NU9yN2RJb2NkN2t1ZGZibw?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Republic Services (RSG) Beats Q2 Earnings and Revenue Estimates - Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQ2M4V0Q3VVhTUDZna056SGM5RnBBVXB4bm00TW8zdTJYS1RTVnZlaDVxRTRGRDdvS0xKVENWeWxiaUlBb1FLdTZfNkhzbGRHMUpwb3NLSGoyYk9NbjhYUHVLejR6dHVNNHkyQ24xektTblY4Y1FPMEFsczZONDRabzBPQlQ0NU5YUFpmS0NOeVhvcVd1cG5uOGFiVU54N0Z3NlFITHpJc3pUMVAzQnQ4Q08yaW8wbG10MTBpdEktNFZ3VEZXSEFKNVFCcUgxeTF0WE54T3JrZk95Vzg?oc=5",
-          "date": "Sun, 23 Aug 2026",
-          "source": "Eastern Progress"
-        },
-        {
-          "title": "Republic Services Inc. stock outperforms competitors on strong trading day - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbl9PelduVGt2SWRKY1hPTnk5bmVRYUF5aU5sY2hkekpGSWRIMkMwRmtVZDQ1UzBqbXhqRDh4NWRVSEZDU09ZYTg5Um1kU3pFRmZrS0FiMEFJcVZyV0ZrcGJEeVRKMElkYlY1TDBZYmFCYmVhaXlCUmNqN2x3UHZUN0E5VTN6c0lEamJIby1XMmtQak9fVTNneC1YLXdLV3dtaVBWb1pmakpSaHZ2b25MSVJWWUhvd3BOenljanV2TXVfWXpoWkJaamVvclZDZw?oc=5",
-          "date": "Wed, 19 Aug 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Sanctuary Advisors LLC Takes $13.15 Million Position in Republic Services, Inc. $RSG - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTlVRRDhseHY5VEg4UmtLQ2ZBVmZUU3J3aVdDLWREaUJLMjVLWUNqODVPZXdFaWViU0hMRUtxT2VhRHFNejRWYUNnLVhQSEdSZE00NzNPY2pJUTdYTURZS3FUZ3VIQmpNd3ZobXZHZUNLUUZNc2VFdTdWa2dDUGVoT3MxZ0RkSFZzX0lfRWwxVFNMMHJWdjVrUXNQaS1lX0hwcF9sWnQ0Q3J3QnFsRmdfS0VJaE5sYUZvNE5UMjFKRzU3ZkVMbHRsZTNFaTJjdExoX1dvQ1VnUQ?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Flavin Financial Services Inc. Purchases New Position in Republic Services, Inc. $RSG - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYTV6RGQyVnV2NTZ5V2VESXFPcWotQ2tMdlVaQ29WYVJTVEVsTEtJUnFuUEE4MDJmcDVqU0o1N1JYNmpKRnV6NlNsVzVuMFVXNDRESGZIM1YyakphamwtR2J0S1k2NEVUVHFack1tcXYyUWdCVWRJLWZrQlBFTUFKUDdrUEpNMVdDODdFRFV1NDhLT3pGYTI5d3FaY2lBV21uMVdnRm0wUkZIdDcyWEhYZzlXcEV3aVBZM0xtdTZKcFpTM3Fla0JxR0VGUHk4MmxPNFhXX2RoZ3RXUQ?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "MarketBeat"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cREPUBLIC SERVICES\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=REPUBLIC%20SERVICES&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cREPUBLIC SERVICES\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=REPUBLIC%20SERVICES&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cRefuse Systems\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Refuse%20Systems&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRefuse Systems\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Refuse%20Systems&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "CHYM",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 44.8,
-      "net_score": -44.8,
-      "distinct_buyers": 0,
-      "distinct_sellers": 1,
-      "evidence": [
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197",
-        "2026-08-19 OTHER DST Global Advisors Ltd SELL $9,805,197"
-      ],
-      "company": {
-        "name": "Chime Financial, Inc.",
-        "industry": "Finance Services"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24"
-        ],
-        "closes": [
-          25.92,
-          31.25,
-          29.1,
-          30.85,
-          31.73,
-          31.6,
-          32.18,
-          32.02,
-          31.45,
-          31.91,
-          33.07,
-          31.95,
-          32.78,
-          33.34
-        ]
-      },
-      "price_now": 33.34,
-      "price_at_signal": 33.07,
-      "pct_since_signal": 0.82,
-      "pct_14d": 28.63,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-08-06",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1795586/000179558626000048/chym-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-05",
-            "summary": "Company announced results of operations (earnings); exit or disposal costs (restructuring); executive/director departure or appointment.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1795586/000179558626000046/chym-20260731.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-04",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1795586/000179558626000042/chme-20260602.htm"
-          }
-        ],
-        "about": "Chime Financial, Inc. is an American financial technology company based in San Francisco, California. It provides fee-free mobile banking services through partnerships with two national banks, Stride Bank and The Bancorp Bank. The company offers fee-free checking and savings accounts, debit cards, and other financial products through its mobile application."
-      },
-      "actors": [
-        {
-          "name": "DST Global Advisors Ltd",
-          "kind": "OTHER",
-          "note": "12 Form 4 filings on record since 2012; 57 sales of CHYM in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Chime Financial, Inc. (CHYM) Is Up 10.03% in One Week: What You Should Know - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWFUtRFZ2d3hVWnBWcktwcDJCYmJzVWpXZVJCaVlTdGdmSkJ1eVdvRnBTZzlLSnI3ZFpOUXBxeWg4Sm9EbHUtbGZDNUpkNk5GWkFRcGw3ejVvU3VmWFNXQmpXRU5VcE9hd1lsbE5DLXMwLVJ6RHBVbzBGUFJXUVZoUkZ5QXNBN2g5ZVpsQVJ2cDVWMjRGODJz?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Ranger Investment Management L.P. Invests $24.34 Million in Chime Financial, Inc. $CHYM - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLTJ1WUNVV1ROZFRWd1dscWoxdnEyS0wyeW1JYWhuRXNiZXdsVjVKMllDeHM1SlFGRW9KSS1hN0FJMEZvdTh5YnItdUdsdzF1a3BYWTJJN2VQZU9RZFM3M080bUlPQWZ5Vzg4Nk1ZVThaVkxqSloySmNNVTVFbkxiRF9jbnF6VWw1Rlh5SldVN2ZnXzlJejUwYzRXWTY2WC12UEZSd1VITDRuZ3UzVUxHZlF2aHA1TjNYV2ZqYWRybTVXaHdTY1YwMG82ZEpwaFRyeXRvdm44Qmo?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Chime Financial stock hits 52-week high at 33.53 USD - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVljbWR4YkNSelh6cUZHQnZIQTJnTG1HV25ka1NkRFJQdHE3dy1oeHY1TC1neFZzRl9hQWN2akxjcndlSmpRRVo5VDVCMDI5cl9RWlVYZXJMVDZaNi1aUGt1SU1IVTBPSVZ6YUptMGtITTlPeWlXaWQ0N1dmOEJUb00wcUEzWmp5V2ZMcE50SGZ4MU9wZWktQlNqTTJoak9mdTFTOXp6bVpLaFE?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Wall Street Analysts Think Chime Financial, Inc. (CHYM) Could Surge 71.49%: Read This Before Placing a Bet - Eastern Progress",
-          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTlVMalJPYmtpQVgtbnMtTUZBQmFLMjZQR2tYZDJQQURncG9LSHlYRkkwQktJQVVyeHRZbnFOS29UMFBWZkNwdFB0MGdOS3VvOW0zUkczVHFZcnVOYnU2QVpMWVkzbEVJanllVlo4UFI5QzQ2enc2aVdJYS13LVpqU1FDamtJdGxCLWFOTTlJZXhuNF9TbnV1MVJLUGF4U0o3UXRmQjIyaVpkNV9yU2lwMGxaTW00TEFENFA4c2wxZ0V6TU56ekRxNnA3dzRsYnJ3WEMzQmF6a2tCd1R4V2ppUm4td2s3NWo3ejM5d2hCT24tc0dEMVdGYUR1Wko?oc=5",
-          "date": "Sat, 22 Aug 2026",
-          "source": "Eastern Progress"
-        },
-        {
-          "title": "Chime Financial (CHYM) co-founder moves shares via tax withholding and gifts - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaVRaa3NZUWpaWW1WUjl1RzhTa3JOMk9PZmJ4VDJ4SVRtVGpQQ203NTBWNHFSdHBuTDNfNzc3ODV0OXNnU1VvRkZxd24yandOLUtEU3RPcEh5TFFnYUQ5V3I5Ql96dmFwbkxtVjFtVnViUDlOV1JQM1JldXowaVZRaGJRa2EyVkF4MjZiSFhvMHp1aVpmbk01VWl0NzNxOEtHM0hRS1lMN2h6Ti1SZEVEZGFVbw?oc=5",
-          "date": "Wed, 19 Aug 2026",
-          "source": "Stock Titan"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cChime Financial\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Chime%20Financial&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cChime Financial\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Chime%20Financial&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cFinance Services\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Finance%20Services&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cFinance Services\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Finance%20Services&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "CRWV",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 41.3,
-      "net_score": -41.3,
-      "distinct_buyers": 0,
-      "distinct_sellers": 9,
-      "evidence": [
-        "2026-08-20 OFFICER Venturo Brian M SELL $542,000",
-        "2026-08-20 OFFICER Venturo Brian M SELL $542,000",
-        "2026-08-20 OFFICER McVeety Kristen J SELL $365,682",
-        "2026-08-20 OFFICER McVeety Kristen J SELL $365,682",
-        "2026-08-20 OFFICER McBee Brannin SELL $331,687",
-        "2026-08-20 OFFICER McBee Brannin SELL $331,687",
-        "2026-08-20 OFFICER Goldberg Chen SELL $792,741",
-        "2026-08-20 OFFICER Goldberg Chen SELL $792,741"
-      ],
-      "company": {
-        "name": "CoreWeave, Inc.",
-        "industry": "Services-Prepackaged Software"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24"
-        ],
-        "closes": [
-          89.89,
-          85.33,
-          90.67,
-          88.19,
-          90.32,
-          107.73,
-          106.29,
-          105.26,
-          106.0,
-          93.17,
-          90.87,
-          89.76,
-          87.85,
-          84.14
-        ]
-      },
-      "price_now": 84.14,
-      "price_at_signal": 89.76,
-      "pct_since_signal": -6.26,
-      "pct_14d": -6.4,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Agrawal Nitin",
-          "kind": "CFO",
-          "note": "27 Form 4 filings on record since 2025; 1 sale of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Baker Jeff",
-          "kind": "OFFICER",
-          "note": "46 Form 4 filings on record since 2017; 2 sales of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Goldberg Chen",
-          "kind": "OFFICER",
-          "note": "17 Form 4 filings on record since 2025; 9 sales of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Intrator Michael N",
-          "kind": "CEO",
-          "note": "51 Form 4 filings on record since 2025; 56 sales of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Jain Sachin",
-          "kind": "COO",
-          "note": "12 Form 4 filings on record since 2026; 2 sales of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "McBee Brannin",
-          "kind": "OFFICER",
-          "note": "96 Form 4 filings on record since 2025; 160 sales of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "McVeety Kristen J",
-          "kind": "OFFICER",
-          "note": "17 Form 4 filings on record since 2025; 1 sale of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Venturo Brian M",
-          "kind": "OFFICER",
-          "note": "52 Form 4 filings on record since 2025; 1 sale of CRWV in this tracker's ledger"
-        },
-        {
-          "name": "Magnetar Financial LLC",
-          "kind": "10% OWNER",
-          "note": "149 Form 4 filings on record since 2008; 73 sales of CRWV in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Prediction: CoreWeave Stock Will Double on This Date - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX25fTU1hVEVWZEljVkdjWFRibVJvTjhoajdTdkhWZDVBMDV2dDRqNEF3Ukt0ZGVkU2xpcVpKeTFxWnRMOERPczVXVTlrcTFGVzE3V0IxSl9ocFF2ZndoSXYxNHY1N3VDaGlPUUw1N05ySC1lOWJtT2QybkFYNnVNYlVZYy04TW9PMkYzTk1pNXhzVUluNlZ4cURhaw?oc=5",
-          "date": "Sat, 22 Aug 2026",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "CoreWeave\u2019s Economics Are Finally Starting To Work (NASDAQ:CRWV) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM05rVkVjRDljcUZRbjRtOUdScVEyR1dXeFlYamtxZkhfaHJxMWpHRURQb3dUUzg0WjZBVmdqLUV1Y3poelJOZWJYZUFmNlFfZ1lZYzNlNGRaSXpjOS1oS1VMRk94UkRzVkY1SFJ0MXduS0x2MnhOOGxSQ3dJSEk2NkRGeDd5bzgzd3NsNHRfamVJb2M?oc=5",
-          "date": "Sat, 22 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5KM3VkQ2tDNjBDQnFFdmp6N3dGWjRoZFBkZzRidVFLRTJzSG0yOFlsRWY2aXdzdmRsblFFZkVpWWJkVW5zRHZBVVJjdVZObmNuTmdvcHhTNnlteVZ4cGxaVGRnWnpabnloSUJUbnJNdENKelpmMm5QX3VJT3Rua1UzZ016eU50WlhIQkx4R012OEdpaUdQSnR1ZmVSMTVvWHg0?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "CoreWeave: Nvidia Is Quietly Repricing The Neocloud Window (NASDAQ:CRWV) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSjQtYUhxaEd3UTdUNzMzY21TUElOX2dRMlpoaVdOS1JqOG94bmRTUm95emdyTElwMzFXaEpJNkVTVXFYZDN0dWJEc3ptMURqMTNiNnpvc2U3LWpvdEc1TmxUdDNUYkJ3UVVaUF9VV3dMNE9tRnRJaGtvdzg1MlAwSTJ0MGtJbEwxaks4d3hKMVZmNzI3QUE?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "\u2018Pharma Bro\u2019 Martin Shkreli \u2018Covered\u2019 CoreWeave Short Position: CRWV Stock Slides For Third Session - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZVNCYnI5aXBLTGNuRDRZY0JOWmZUMFNhLVI0Nlo3VUw2bE45MEtQRG1Yc2dicGtxVHNTTmlYN0J0Y3NvTmNiclgxMkc3RTlCV2RLYldPekN1SW9pZXRmQmJxM0k1aWhZMkhMRE53OFpFaWhaMXlmcGIzc2liSjI1QzNIbTR0eWpta0xScWVBaTlWVnBrWDZ4aDVGdjZJU1E?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cCoreWeave\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CoreWeave&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCoreWeave\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CoreWeave&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "ALAB",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 38.1,
-      "net_score": -38.1,
-      "distinct_buyers": 0,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-08-17 OFFICER Mazzara Philip SELL $98,710",
-        "2026-08-17 OFFICER Mazzara Philip SELL $98,710",
-        "2026-08-17 OFFICER Mazzara Philip SELL $93,347",
-        "2026-08-17 OFFICER Mazzara Philip SELL $93,347",
-        "2026-08-17 OFFICER Mazzara Philip SELL $76,419",
-        "2026-08-17 OFFICER Mazzara Philip SELL $76,419",
-        "2026-08-17 OFFICER Mazzara Philip SELL $69,820",
-        "2026-08-17 OFFICER Mazzara Philip SELL $69,820"
-      ],
-      "company": {
-        "name": "Astera Labs, Inc.",
-        "industry": "Semiconductors & Related Devices"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24"
-        ],
-        "closes": [
-          318.43,
-          331.5,
-          334.17,
-          317.23,
-          311.99,
-          318.8,
-          322.78,
-          321.61,
-          320.17,
-          303.44,
-          289.02,
-          290.52,
-          284.97,
-          269.07
-        ]
-      },
-      "price_now": 269.07,
-      "price_at_signal": 320.17,
-      "pct_since_signal": -15.96,
-      "pct_14d": -15.5,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-08-05",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000035/alab-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-04",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000033/alab-20260804.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-08",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000027/alab-20260604.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Mohan Jitendra",
-          "kind": "CEO",
-          "note": "36 Form 4 filings on record since 2024; 18 sales of ALAB in this tracker's ledger"
-        },
-        {
-          "name": "Mazzara Philip",
-          "kind": "OFFICER",
-          "note": "29 Form 4 filings on record since 2024; 17 sales of ALAB in this tracker's ledger"
-        },
-        {
-          "name": "Gajendra Sanjay",
-          "kind": "COO",
-          "note": "25 Form 4 filings on record since 2024; 18 sales of ALAB in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Should Investors Hold on to Astera Labs Stock Post Q2 Earnings? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdV80cXNNcFhfSVdHcjlXUlE4Rm4tZFRaSHlvMGtFaEZXdWNZTDk1dEcza3lVUTZRMmxMeFRuWFV2cW9UMEZYcEZnTnVZZERyNjdRaDVNTVdfMWhqYTRZbGpYSmFuenV3Z2gtQTRnZ01ia0lieHllQ1cyeUdTRHVCTTVndU1DUEhxM2VVVTBHX3VIckVFLXZRaWMtVnoxUQ?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Astera Labs general counsel Philip Mazzara sells $2.31m in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbU0yWWZYbzVTTTVuUTVQLTJvekxXdDVaVmI5MFFmTU5ia0t0QXBaNFNoZTJGcTBVWDJzN3E5SUZWZkUwT0M0c1pMREdDT29kSkdtbWQ4bTd6ZnpJX2xzNkQtS2tLcFJhVUZtSzRvZy1IVzZlcUZoTkxwY3FhYzdHOHZoOGxEWE5RX1BNNER2eUFiMTFObEY2RWNtVnYxY2xLNEhrQ0ZNWTVsM29PMHlLSW51MlFJd0NEbEN2LUZYSVh6TXlzblE?oc=5",
-          "date": "Wed, 19 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Astera Labs: Scorpio Is Becoming The Real Story (NASDAQ:ALAB) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHdjZ0FRdjdEZ0h0MjVid0xOZnRiQzZUVllmT0F1aUtZZng2bkI1WWxhNTc2TEdWUlY2cHpOaG93SUswTTI4TkcwcDFSUHh5N2RObFdsc1FiMEhjMllsWm15YnVmR0szVlZ6UktqTlUtUmpBMzYtRU54ZkF0VXg3YTlBcWZLaHZGcFI4TVJBWQ?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Why Is Astera Labs Stock Surging Monday? - Sahm",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2VyTFY0YUhJX09JQ1U1QlB4QVdMU0JTeUlCREVUZzJfbHVnbjdtRjBibFo2eXlRZ0hOVExFVGhHUHg3Qm8yUEhXMDZESEg2RzZmNHJsNkVCaFBvUkNqd1I0ZkFEZWJTZ2NGRmh5LVZ6RmFmYlBZZHBCd29hSjRIMHMtRzNTSGVzcE5veFljVS1PTmlRY3c?oc=5",
-          "date": "Tue, 18 Aug 2026",
-          "source": "Sahm"
-        },
-        {
-          "title": "Astera Labs Inc Stock (ALAB) Moved Up by 5.30% on Aug 6: Drivers Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZTZNbUl2NVlUMFExZVp1SDJiV2hMeGdrMWt3WDY3SjlaWGpvR2prLU5zLUhwWlAtVDRqb29nbUNYLTAwQXVES01NYXNFOV9uZzlwY3R5QXdDblFrM0RWU2tsdzlHRkFvbjhjTDJiT3Z1a0JfSkFMYmNmMnNBYTh3QWxqWU5zMmxjWFdr?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "TradingKey"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cAstera Labs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Astera%20Labs&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cAstera Labs\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Astera%20Labs&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cSemiconductors & Related Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Semiconductors%20%26%20Related%20Devices&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cSemiconductors & Related Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Semiconductors%20%26%20Related%20Devices&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "LIEN",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 19.2,
+      "buy_score": 20.4,
       "sell_score": 0.0,
-      "net_score": 19.2,
+      "net_score": 20.4,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-08-20 OFFICER Gordon Scott BUY $72,784",
+        "2026-08-20 OFFICER Gordon Scott BUY $72,784",
         "2026-08-19 OFFICER Gordon Scott BUY $78,474",
         "2026-08-19 OFFICER Gordon Scott BUY $78,474",
         "2026-08-18 OFFICER Gordon Scott BUY $167,751",
         "2026-08-18 OFFICER Gordon Scott BUY $167,751",
         "2026-08-17 OTHER Mazarakis John BUY $566,400",
-        "2026-08-17 OTHER Mazarakis John BUY $566,400",
-        "2026-08-17 OFFICER Mahajan Umesh BUY $38,400",
-        "2026-08-17 OFFICER Mahajan Umesh BUY $38,400"
+        "2026-08-17 OTHER Mazarakis John BUY $566,400"
       ],
       "company": {
         "name": "Chicago Atlantic BDC, Inc.",
@@ -853,7 +503,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -866,10 +515,10 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          9.35,
           9.38,
           9.5,
           9.645,
@@ -882,13 +531,14 @@
           9.5,
           9.78,
           10.01,
-          10.07
+          10.15,
+          10.2224
         ]
       },
-      "price_now": 10.07,
+      "price_now": 10.2224,
       "price_at_signal": 9.48,
-      "pct_since_signal": 6.22,
-      "pct_14d": 7.7,
+      "pct_since_signal": 7.83,
+      "pct_14d": 8.98,
       "deep": {
         "recent_filings": [
           {
@@ -926,14 +576,14 @@
       },
       "actors": [
         {
+          "name": "Gordon Scott",
+          "kind": "OFFICER",
+          "note": "17 Form 4 filings on record since 2019; 4 buys of LIEN in this tracker's ledger"
+        },
+        {
           "name": "Mahajan Umesh",
           "kind": "OFFICER",
           "note": "3 Form 4 filings on record since 2023; 1 buy of LIEN in this tracker's ledger"
-        },
-        {
-          "name": "Gordon Scott",
-          "kind": "OFFICER",
-          "note": "16 Form 4 filings on record since 2019; 3 buys of LIEN in this tracker's ledger"
         },
         {
           "name": "Mazarakis John",
@@ -943,9 +593,15 @@
       ],
       "news": [
         {
-          "title": "Chicago Atlantic BDC CAO buys 200 LIEN shares | LIEN Insider Trading - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUnhNUVMtYlJaMGRIbFQwT05tdE9TRF9VZTYwZ1I3aXpwTkVMNk5JUlNTSUlGamo1MTFQLXNyblpVLTMxaWg5WHIyblZFM0tvTWFwbC1hM1Y2LTN3TmlJRnI2VGhlV1NnRHpQMExXaVZxdzZPZUR1b0FBRHY2NG9YRmFYekdJRjZMSGotVlFFSU9hNklmM1lUby1mbmdadWFVSDRTTDhOV01lZktBcWwyVGZpTW1mNGxWMHc?oc=5",
-          "date": "Wed, 19 Aug 2026",
+          "title": "145,336 Shares in Chicago Atlantic BDC, Inc. $LIEN Bought by Partners Capital Investment Group LLP - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaURpLTdmM2N1NXJIQmJwTEprZ2k4eER1NXp3TDBqXzJqZnZOV3hIVExhdFhhcmRKQ3FnMWRTWHNpOHZGNTYtNzRoVkhtLWVxdnpXM0lsVkU3Mm04TzBuVWIzSE9EU0NFTDdtcXBJbFhkc1pSQkVmaEtnQTVXYk9STXBqTWsxYVdJbUVDOVlIeXY3RnphRGdicFFpUm5kcTE4R3JfOFFpOHFwaTNGUUUwMnRvZGd2NXZoYV9kb3FzQ0JyZ0tqbXNnOTA4d1ZLSlN6S213WnllNUdPa18wV3pfSndpcjdGeVBrbzNz?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Chicago Atlantic BDC (NASDAQ: LIEN) may issue up to $500M in securities - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT2NtY1FBVVVWZ1NLenYyY3cwVFpHX29xNmxGS05IV012SEVjWEdDMVBYSmRMN0NtMkZTTnJqM0FaYzVFV3Z5MkNGY05zMlhhdXp5ckdWWnNzWlY4M3VGczRSYVdMMVQwQkkyZFR6WG5odTBla0NlZklxWmdzNnZaNHAwejBQNDhlS2YwMUpBUTFUR0wzTHJmYVZKVnd0a3IzTkFycG9B?oc=5",
+          "date": "Mon, 24 Aug 2026",
           "source": "Stock Titan"
         },
         {
@@ -955,22 +611,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Chicago Atlantic BDC (NASDAQ:LIEN) Major Shareholder Acquires $566,400.00 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRjFDMFVyaEYtdHVfRFlsSUhvUGE3NWYtNnp2ZTJFbS16Q0hnNWg4Z2lGUmJ3SFhBb1Rwd0lDNUFDTUYzdWhTS2RTcENfTGk2dU5IaXZBOXl4S20zMFJiSHJIWW43YXROcVJxVjU0dHVGRTU5U3hoT21NOXJaRktCQ3hkUHRMUGJLUC12bDBKU3ZQNFhSejh5X0tjNWt1N01oNGhmTFprd1FUNVJmTTBWeUpxSkRYWDF6SHhRVS1TdWFVdGI2eEZ1QmpB?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "MarketBeat"
+          "title": "Chicago Atlantic BDC (LIEN) co-CIO Scott Gordon buys 9,215 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzFYT1o2WXNHRVFISV9XajNOb21LT3ZhYTRLdGw5bjlJQTVSOVZyTnNhMWt0aE9LWDI3WTBaZkFfWFJ0ZDdtM3d1alBzaDFDZDBtZVRhNGpyTTZFWXdvakNyRktHQ3ppU1E3MjVvaEMzWTJmbEtHcUJHclUyMjl3NFpNU0FQVFFqR3cxRTJQZ0dPS093MHltWURmRWhmQURmMjVnRUMtSjdVcGtpTVdEUEtoWi0yVkNCd1E?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "Stock Titan"
         },
         {
           "title": "LIEN | Chicago Atlantic BDC, Inc. Financials - Revenue Breakdown - Quiver Quantitative",
           "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45ajV1ZDBYZUdXZWNydTc4akU2MjJ5eVBjNktvTWtVMGtncm5RNThxMEVuZUNPWFhLRV9Eb0xDRjFEcGhVMF9NTnZ4cXZMMk1oVWlmellPaGxRWkxPSWJIUnhNU0JMX0x4VGc3RlQtVTlleFNXZXlV?oc=5",
           "date": "Thu, 20 Aug 2026",
           "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Chicago Atlantic Real Estate Finance, Inc. and Chicago Atlantic BDC, Inc. Announce Definitive Merger Agreement - GlobeNewswire",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX3ZlTzFzVVl6UGRJclVFRU9yQ0Jwblo1V3RrdHdPX2VrRjZmeEt0RnZ0NEhDb1o5NHVBazlRcGRpRi1RNmxCVnF2YTJ6NHUxWWp6akpDSXk5NjdnaDQ0MUpWcEpIem5IT1cxQnVQMTM4UUxYelJCNUJzc0NGN0gyR3BfRGhSQkEwODVSRDBueEZYTUZVZGFxYXhaeWFGOVFuS3NPZlY4OGtHaWhCZkphTWE4eWl3M2c4NE5rSmxiU1J3ZTlaRklkTHBaWVJkVE83V2dwXzZJOEwyay1IbWhRbGNFaW5uVU9sUFJabm1kR2lQTGZHdDBQOUNtd0d2YkQ4UGpVcnRESmJ1dw?oc=5",
-          "date": "Thu, 18 Jun 2026",
-          "source": "GlobeNewswire"
         }
       ],
       "news_flags": [],
@@ -998,9 +648,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 18.8,
+      "buy_score": 16.2,
       "sell_score": 0.0,
-      "net_score": 18.8,
+      "net_score": 16.2,
       "distinct_buyers": 4,
       "distinct_sellers": 0,
       "evidence": [
@@ -1019,7 +669,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -1032,10 +681,10 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          3.42,
           3.48,
           3.435,
           3.37,
@@ -1048,13 +697,14 @@
           1.54,
           1.5,
           1.51,
-          1.475
+          1.37,
+          1.405
         ]
       },
-      "price_now": 1.475,
+      "price_now": 1.405,
       "price_at_signal": 1.5,
-      "pct_since_signal": -1.67,
-      "pct_14d": -56.87,
+      "pct_since_signal": -6.33,
+      "pct_14d": -59.63,
       "deep": {
         "recent_filings": [
           {
@@ -1120,28 +770,28 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Insider Buying: Innventure (NASDAQ:INV) Director Buys 30,000 Shares of Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlpDRDdRNzZkUzVQak9NZXRCWS16VVh2ZFctQlBGQVZRRzA4ODBTTy1CeU9pd3pkNU5NM3ozS0YwOXNNT3pkYkY2RkdXSjBRWFNMdEw0T3pHY3A4RHVrYVpyNENKRlV1MDgtVlZlbnR5eGFOUGFGYnIxTWxqcWdVU0tvdHVkblZVN1hQOEZWUnBFTFlHZnhKNzlmeW42Rjd0NmlPUUU5dndSRloxNFJveGdObURERnlHQ0dWc2liZ1B3OFk?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
           "title": "Innventure (INV) Stock Falls 45% After Hours: What's Going On? - Benzinga",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQ0hmQ09XZlFTYm5UNGYxbklPM0ZFUm1TbzNGRmJ3cmpDWEVPMkJ2cUY5ZVNheTdpR1JyRVhSRWVyOXFEel9uNHItcHZpYmxGb2ZBU2lzVTFvNWQyVlhnQ0ZCcnpxWDY5SWE0WDVPZ1Q2Tm9uOWw3U08wVEVTMS16T21xd0RjejFhQnpJU2RfOVc4WGZtU1Y0?oc=5",
           "date": "Fri, 14 Aug 2026",
           "source": "Benzinga"
         },
         {
-          "title": "Rosen Law Firm Encourages Innventure, Inc. Investors to Inquire About Securities Class Action Investigation \u2013 INV - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQS3VQNDZsM1plbDZubzdUMjhGRzctU21VcllWUGNCcmxvdHZhUEFGaXIzRUZzQXhhN0FuUUw2R0g4Q0ZmTWJtUVFCdkVrQlp5dmFoZFVTT2VtTnJwYUhaMC01ZGM3Nm56NlV5ZzF0LW1OZVByUmlHNS1DYTNidXl2WXNBRVpEaFcyTFVPTVFLcUFtYjF2MlBad0U4SHNpZHlBZldqdE16TkcyZlJwQXNic2NPTHZ3RGlSODlVS2tfMnpDcTJtQjBRSjdKbEZ4dnplS1FrUnpVYTVhVkdXS0M1SURNOVRqcFR4MTJ2VEpudUprQWxDMVo3QklQVQ?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "Business Wire"
+          "title": "Insider Buying: Innventure (NASDAQ:INV) Director Buys 30,000 Shares of Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSlpDRDdRNzZkUzVQak9NZXRCWS16VVh2ZFctQlBGQVZRRzA4ODBTTy1CeU9pd3pkNU5NM3ozS0YwOXNNT3pkYkY2RkdXSjBRWFNMdEw0T3pHY3A4RHVrYVpyNENKRlV1MDgtVlZlbnR5eGFOUGFGYnIxTWxqcWdVU0tvdHVkblZVN1hQOEZWUnBFTFlHZnhKNzlmeW42Rjd0NmlPUUU5dndSRloxNFJveGdObURERnlHQ0dWc2liZ1B3OFk?oc=5",
+          "date": "Fri, 21 Aug 2026",
+          "source": "MarketBeat"
         },
         {
           "title": "Wolf Popper LLP Announces Investigation on Behalf of Innventure, Inc. Investors - GlobeNewswire",
           "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNjJJYW1nTXg3aUhQZHVfcGNvLVl5Wkp0UGhxVUQ4ZXJROVVwbnBGZDVEQVpWVGp2aWhKcXU1RTRZbF9UcE9nY243V29rdkdTRzhLVUMtZzk4WjNoMHZQdWdvdVROSjNCTUg1OEhTRFlvbk1xdmNRR3M5NmJyR3dVdVFOMm9jaFFOSTlCbDltMmFzSXpVSGhQYzRVbkM2VFdIdkswLXpqLWtnRkFsS09SVkFOMklkSXlzWXRER0JsQ181SXJmQm1NRDhiTG5KNVpSN2ZNZDR6b092NjlFY0xjUUFmNA?oc=5",
           "date": "Fri, 21 Aug 2026",
           "source": "GlobeNewswire"
+        },
+        {
+          "title": "Rosen Law Firm Encourages Innventure, Inc. Investors to Inquire About Securities Class Action Investigation \u2013 INV - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQS3VQNDZsM1plbDZubzdUMjhGRzctU21VcllWUGNCcmxvdHZhUEFGaXIzRUZzQXhhN0FuUUw2R0g4Q0ZmTWJtUVFCdkVrQlp5dmFoZFVTT2VtTnJwYUhaMC01ZGM3Nm56NlV5ZzF0LW1OZVByUmlHNS1DYTNidXl2WXNBRVpEaFcyTFVPTVFLcUFtYjF2MlBad0U4SHNpZHlBZldqdE16TkcyZlJwQXNic2NPTHZ3RGlSODlVS2tfMnpDcTJtQjBRSjdKbEZ4dnplS1FrUnpVYTVhVkdXS0M1SURNOVRqcFR4MTJ2VEpudUprQWxDMVo3QklQVQ?oc=5",
+          "date": "Thu, 20 Aug 2026",
+          "source": "Business Wire"
         }
       ],
       "news_flags": [
@@ -1149,7 +799,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1177,32 +827,29 @@
       ]
     },
     {
-      "ticker": "NTHI",
+      "ticker": "ODYS",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 16.3,
+      "buy_score": 10.0,
       "sell_score": 0.0,
-      "net_score": 16.3,
-      "distinct_buyers": 2,
+      "net_score": 10.0,
+      "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-08-18 CEO Heshmatpour Amir F BUY $49,860",
-        "2026-08-18 CEO Heshmatpour Amir F BUY $49,860",
-        "2026-08-18 CEO CHEN THOMAS C BUY $69,998",
-        "2026-08-18 CEO CHEN THOMAS C BUY $69,998",
-        "2026-08-14 OFFICER CHEN THOMAS C BUY $130,002",
-        "2026-08-14 OFFICER CHEN THOMAS C BUY $130,002",
-        "2026-08-14 CEO CHEN THOMAS C BUY $130,002",
-        "2026-08-14 CEO CHEN THOMAS C BUY $130,002"
+        "2026-08-20 DIRECTOR Vurembrand Zeev BUY $100,000",
+        "2026-08-20 DIRECTOR Vurembrand Zeev BUY $100,000",
+        "2026-08-20 DIRECTOR Goldwasser Benad BUY $150,000",
+        "2026-08-20 DIRECTOR Goldwasser Benad BUY $150,000",
+        "2026-08-20 DIRECTOR Arkin Moshe BUY $3,600,000",
+        "2026-08-20 DIRECTOR Arkin Moshe BUY $3,600,000"
       ],
       "company": {
-        "name": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-        "industry": "Pharmaceutical Preparations"
+        "name": "Odysight.ai Inc.",
+        "industry": "Services-Computer Integrated Systems Design"
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -1215,135 +862,143 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          3.5,
-          3.5,
-          3.5,
-          3.5,
-          4.35,
-          3.46,
-          3.21,
-          4.22,
-          4.91,
-          5.53,
-          4.63,
-          4.56,
-          4.675,
-          4.735
+          4.4,
+          4.44,
+          4.24,
+          4.38,
+          4.2,
+          4.07,
+          3.98,
+          3.91,
+          3.94,
+          3.63,
+          3.35,
+          3.4,
+          3.68,
+          3.585
         ]
       },
-      "price_now": 4.735,
-      "price_at_signal": 4.22,
-      "pct_since_signal": 12.2,
-      "pct_14d": 35.29,
+      "price_now": 3.585,
+      "price_at_signal": 3.35,
+      "pct_since_signal": 7.01,
+      "pct_14d": -18.52,
       "deep": {
         "recent_filings": [
           {
             "form": "8-K",
+            "date": "2026-08-21",
+            "summary": "Company entered a material agreement; terminated a material agreement; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226039574/form8-k.htm"
+          },
+          {
+            "form": "8-K",
             "date": "2026-08-20",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626009103/neonctechnologies_8k.htm"
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226039335/form8-k.htm"
           },
           {
             "form": "8-K",
             "date": "2026-08-13",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626008773/neonctechnologies_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-12",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626008654/neonctechnologies_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-10",
-            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626008543/neonctechnologies_8k.htm"
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226037619/form8-k.htm"
           },
           {
             "form": "10-Q",
-            "date": "2026-08-10",
+            "date": "2026-08-13",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1979414/000182912626008512/neonctechnologies_10q.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226037618/form10-q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-05",
+            "summary": "Company entered a material agreement; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1577445/000149315226027515/form8-k.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "CHEN THOMAS C",
-          "kind": "CEO",
-          "note": "8 Form 4 filings on record since 2025; 3 buys of NTHI in this tracker's ledger"
+          "name": "Arkin Moshe",
+          "kind": "DIRECTOR",
+          "note": "99 Form 4 filings on record since 2005; 1 buy of ODYS in this tracker's ledger"
         },
         {
-          "name": "Heshmatpour Amir F",
-          "kind": "CEO",
-          "note": "24 Form 4 filings on record since 2015; 2 buys of NTHI in this tracker's ledger"
+          "name": "Goldwasser Benad",
+          "kind": "DIRECTOR",
+          "note": "5 Form 4 filings on record since 2019; 1 buy of ODYS in this tracker's ledger"
+        },
+        {
+          "name": "Vurembrand Zeev",
+          "kind": "DIRECTOR",
+          "note": "1 Form 4 filings on record since 2025; 1 buy of ODYS in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "NeOnc Technologies Holdings Founder Acquires 1.0% More Stock - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQN2JZeUtIb3ZXMV9lWEpnWklOMEFrQnJteFBseEJjM0ZfQjh6UFFhdkZxUG14SHlfY2R6cDF4WERnT2F5ZTFmY2s2WkwyUEp2ZGU3eDNwcFNQMXdURWktTWtjZEo1Y29DQzdFRzRnZzF6SE9LRk9QLVZ5bVhCbk5QYldKQTZuaG9LMU5PMWVWNjREc0l3YjdfQVhiUl83NFY3QmE0?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "Moomoo"
+          "title": "Odysight.ai (NASDAQ: ODYS) director joins $3.20 stock sale - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYkRfa0o2empraU5sZEF6eGM4QXhKc1FsM3Atb053Zlp4RnZPVGpob3RxenE3MU4xWVJFaXhtTHFxV3dMSXpFM0NLU29DcUxNZ0VBMld3aE9uc2RmY29ndG5Qc2NJb3RXVTFFYi1kZWpuaGl1ZTVCb2dqaF8wUl9TSV85Q0R3M3FBSFhaUlpBbUk2ZGM0Z0doMGJ0UHVtd0lpbzY5ZWtJaUlWTTZYc2c?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "Stock Titan"
         },
         {
-          "title": "NeOnc Technologies (NTHI) director buys more stock in $3.85\u2013$5.17 range - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTlVFeVpidDFHM0xGVG1iRjAwRld4T1lnMHRnSHotR3N3c211d0lHajhRaUtVU2IzcXdSSnB4TEQ2aXBKOVRhbEVQTDJWbWVTLWtwNzZqMjVFN1VKaWdxU19pU0pidVZQZk5MQmx4Tl9vdWdIMTNNYi11NFF1Um9pcWxvQVZTUjJUSEEwaDBPUWxGZzBYZXhZMWZ1cUdRLWgtY3NsMFNUZ0d2MkptejAxMnl2OUNfZmYtREhpbWlPYm04WnB5MEVTNUl6TQ?oc=5",
+          "title": "Odysight.ai Inc. Announces Pricing of $11 million Public Offering of Common Stock - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0NfbEFJMGdyY0M1MGFMMEQ4MWNmVFJQUlUxUGdrZ3lNMU5TTmk4OW1lMXdJY0txNlRZZ3ZpTG9lT0plZTU2UW1MQThOaUVzMGJ6TnFZcnZya2ZENWtmdnNMTjVwSWZlVkpRZzRObzRxb3EtWXRGY1FfVi05M25aV3M1LXFyQ1dfLWc?oc=5",
+          "date": "Thu, 20 Aug 2026",
+          "source": "Yahoo Finance Singapore"
+        },
+        {
+          "title": "Odysight.Ai Inc. Announces Pricing Of $11 Million Public Offering Of Common Stock At $3.20 Per Share - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNN3dHeFFiNjRZalFwbFpLbk9xc0h1U2JLZkZUQmZGcV9RUkViTjdNanZPaW5TeWFSam85ek1Gd1l6d0h5aU1UQVRXcDdXQXB3Mzl5RTZDVktQZEdhdjNvNkV1eFd6Z0s4MVQtT1pJS2VPVEdVc0JfV3hRVU15WGhRWDVOcF9Vbk83MThha01VUnlXdVZRcjZUVWc3cDhEOVR1RHpYMnZuWTNuUi1xNlBOM0RYU3pmNm9kRnpULXpOZkdtQ3JIaG1tcUlfMzVpbjJRNm1uMld4SzJsaEc0c2JoZDhqNVdtYWJqODNIYUtDS2t0bVRDR2Vydl9R?oc=5",
+          "date": "Thu, 20 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Directors and existing investors join Odysight.ai stock sale expected to raise $11M - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2JBVG1VOVFMeDlOMGVLbUFxS2JLeGxTRGx6THFTMVdqNDJfMnliN2x2dnhnTFNnXzhkbHp0S2Y5UXZrXzRWd05TTThPZlZxb3luaUhDMDcyZF9GbzhfcWlhckV6eE56UDdlaGExQ3pGaGlkdkN4NnNKTjZ6allYNXQzOEtxNmZIdTA2cTZQVmJnSHlOQzVUTjlwY09aV0lHbmx4ZjJINGJqY3FVVndYR0hsOUVNcW1UWjRncExB?oc=5",
           "date": "Fri, 21 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Founder of NeOnc Technologies Holdings Thomas Chen Buys 1.0% More Shares - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWVVJQktYSktoazFxZUhibnphYktrdEwwb0g4OFZTaF9BM2FYLUhnUU9jWVNWTUlTRjA2TE1tdU1LeGtOOXF2eTRERGZFQWtKWjFyQV9lbC1fdDZ4azlpM0ptQWlZdmdKT0MzVkF1TE5DU1FlLWpGOElCelA2b0VsRjU4WXp1Nk1NOUxTZ3F1elllU2pRdjR5WlpaTjU0c1FtbnVaOThUemhfcHhia1BCcllzSUlnZFFtdmdtUXBjTzBoak44d3pubnd4YXcxdXFzaTJ0bHB4SDBzZTNZQUtrUkctWmtlUWdpVVFVYUFBQnlLQ1XSAfgBQVVfeXFMUEhGSE0wTURsRkh3TV92RW1fa1FFbUQ1aDBXNHlteHZDLUR1Q2ZEUE5sdkJrbF9tVUxOaEJvUUhqbm9QcUVqdGpmbWNkZl8yem8teS1sQzlWMDZIS1RiWTc0V2pUM0pab0dYcTcxd2RVT1BoY09XVkNRVENNT1NKdEtjMkRoOVlhQW4zZmttRU50N3pwSjFFRXVVem5RY2ltQjVmQzhrbW5MZjBLSVdldnZ1QUZ5X1JhT2NjT3BqOEdkMExYa09kVGJoVUVsLWJKMUdhNmpJSDJnelhYYkNVdU9Ob1gydHlyNzFaYlRMT2wyRFpTNDlLUXk?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "simplywall.st"
-        },
-        {
-          "title": "Neonc Technologies CEO Thomas Chen buys $69,997 in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUdzQ2pBeUliUkZyWlNSYUp5RFFySnkxQUFjZGhWT0RBN1pxS2FicWszS1VBOHRYeWZ1UVBoaHdXdHd0S2dwUmgxWnNjS0JRdXl3M3NJWk9Vd2JBOV9WSlBacDhadFo5Q0FYMFFCWkpvWUJvanVoRW9rRTNySmgwU056aGdldjV3OE5uNWtYUTJ2MVEwOTM5YUFoQ281aXZLX2RnLTE5aWRWVzk4MjZnY1lOc21wLTRwQUV3?oc=5",
-          "date": "Fri, 21 Aug 2026",
+          "title": "Benchmark reiterates Odysight.AI stock rating on Boeing deal - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQd1VRTXJnV3lyaUo1X3kyU2lmMFdmWHBRZFlYV1AzSTBLU19xVklyZ19QU215d1hTWlRKN2NZZV84Vm1Pd1RnSlBBNk0xTnQ4MkZ3cTJqYkVjVzQ5Q2lCdFJ6ZXdRUFRVWDc5MzEwcEllOWwtaVhhZDBKME5ONDZfdVlsMFFZYjhzUk0wY0tSbDBYRE1YSlVvbi1qOGpYOFF4Z242M3ptWWZyV0cxdVplbDNraWU2bDlQUXY0?oc=5",
+          "date": "Mon, 17 Aug 2026",
           "source": "Investing.com"
-        },
-        {
-          "title": "NeOnc Technologies Holds 2026 Annual Stockholder Meeting - The Globe and Mail",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQXlNclBrM1R2N0Y4UzlMSlk0Z2szX01lb0t5d1lBOXFZbFE4STE4RHBzOW1UUEVlWmpiZnE2OVJ5aDhVUG1lUUp1VjhKZ21PYTNpZ1hGUWYxc0tLV3Z5emlnM2QwNUd6RG83YjVEa2lqOUdDMWFqeWtjM04zNUFfdG5TV2VIVjRxREd4SzZnS01xb0xNd2ZYMVV4TUFXekRfZUNxY2xQZ2RjWFdrYmh6Qy1WOVJNYVRjemltbkl4Y2VYTUpMTEJCa0pHRFMwZGxwYlBF?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "The Globe and Mail"
         }
       ],
-      "news_flags": [],
+      "news_flags": [
+        "share offering (dilution)"
+      ],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +12% since disclosure",
-        "cls": "spent"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cNEONC TECHNOLOGIES\u201d",
+          "label": "Bills mentioning \u201cOdysight.ai\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=NEONC%20TECHNOLOGIES&source=legislation"
+          "url": "https://www.congress.gov/search?q=Odysight.ai&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cNEONC TECHNOLOGIES\u201d",
+          "label": "Hearings mentioning \u201cOdysight.ai\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=NEONC%20TECHNOLOGIES&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Odysight.ai&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Bills mentioning \u201cServices-Computer Integrated Systems Design\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+          "url": "https://www.congress.gov/search?q=Services-Computer%20Integrated%20Systems%20Design&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Hearings mentioning \u201cServices-Computer Integrated Systems Design\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Services-Computer%20Integrated%20Systems%20Design&source=committeemeetings"
         }
       ]
     },
@@ -1352,9 +1007,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 9.3,
+      "buy_score": 8.0,
       "sell_score": 0.0,
-      "net_score": 9.3,
+      "net_score": 8.0,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1369,7 +1024,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -1382,10 +1036,10 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          3.93,
           3.82,
           3.88,
           3.4,
@@ -1398,13 +1052,14 @@
           3.25,
           3.37,
           3.32,
-          3.205
+          3.25,
+          3.325
         ]
       },
-      "price_now": 3.205,
+      "price_now": 3.325,
       "price_at_signal": 3.37,
-      "pct_since_signal": -4.9,
-      "pct_14d": -18.45,
+      "pct_since_signal": -1.34,
+      "pct_14d": -12.96,
       "deep": {
         "recent_filings": [
           {
@@ -1460,9 +1115,21 @@
           "source": "Moomoo"
         },
         {
+          "title": "KEEL Stock Plunges On $350M Debt Offering: Retail Just Wants To Buy The Dip - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR3RHY0JjZFpkYkdpOHNFampLVkkzSHZCZkxvLWdubXkzM3lWMXNPc0JBRV92cGRBS1RlVGVEVFo4ZFNwbk1zWVZhYnM2Ykk5RzQ0YS0yd0NmVTJUcGd3WTlzeG9JWjRzSENSaElNUktOQ1FvQjZWM1psTW9QWnBVb1oyQ3RWTlpRcWJ1T084UkJfWHBCc004Z2E0WXhGcHNObFhZdDhFZ3kydkdrSC16RHBVWVdtZ0ZZdGN0MWNkUXVxb2swT0E?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "Stocktwits"
+        },
+        {
+          "title": "KEEL Should I Buy - Intellectia AI",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tMDFqakMtN25rQkVtbWZEUFBfWGdDZERtcGNmVGJQU21XUVcxNWY4U21vV0dadm9kLW8tOTR3bjNFbmpfOHZ1clJuSERCNFRzVDFiM0lfZlM1QkNXUFE?oc=5",
+          "date": "Sat, 22 Aug 2026",
+          "source": "Intellectia AI"
+        },
+        {
           "title": "KEEL Stock Drops Premarket After Upsized Debt Offering \u2013 But Retail Investors Say It\u2019s A Bullish Sign - Stocktwits",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdkN2SjNfX3I0M190cUxpbjRQS2lfQTluYmk2bm1yNDlhU3FIUVc3MTkyVVd3U1BlZnFYTElIa1c0cUMtcnVKTHZIT2hwdXlBT0EzaE1LRWlfUnVuMGJBQUxWTGt1MlRQdHNJWkhIaTN4eTJoX3hkcDFhenJLOS1ROXFFeEYzczg2clQ0WkF6ZjNoRk1vTFhuRU9EbFN1ZXAxY1dSNUljaE81M1BPS3hZakh0bE1oVHF5azhWN0lHQ3Q?oc=5",
-          "date": "Sun, 23 Aug 2026",
+          "date": "Tue, 25 Aug 2026",
           "source": "Stocktwits"
         },
         {
@@ -1470,18 +1137,6 @@
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUV2OWk5TnJtaWUyWlJiNlBNbVg2ZlliYzRhS2h3Z3Uya0V0d1djNkJ5Q3NPRWhQUmYtaFNrWWhBeWZJWUJ6RTcwSTBQZFZlelRaTkxQX0dmeEltck4xMjBrTk80NHRESmgtSEI4cktZdHdjeDRKTWNsMk9MOURCMUpIU25zVnNaNlFZakJzdWdfZVV0dzFMM3VsSDNQMVViTmxBWjgyVjlzWUotYUlVdkdmWUIwOHN6RXc?oc=5",
           "date": "Fri, 21 Aug 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "KEEL Stock Slides As Losses Mount But Cash Pile Stands Out - StocksToTrade",
-          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS09md2JMVnBuNzJJSHZSS25KdV9mZzdDM0dRaGdHNmtCLUZvRTNraG42WGF5dVlTckM0Tm9wS29NQVp4V3gwLXpNYVFBeUZ4SUxZcUhDRzA5a3BFWlMtWVBGVDJQazFTdHBiQkNhMDhOZVdzVWtBZXVOajdFc3dVckM3Zw?oc=5",
-          "date": "Wed, 19 Aug 2026",
-          "source": "StocksToTrade"
-        },
-        {
-          "title": "Bitfarms Glow-Up \u2013 KEEL Stock Tops $6, Nears 4-Year High On Hyperscaler Buzz - Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNjVCQ3hXamNjcEVnVE1vWGlFaUl2el9zV3EzT3RhY1F6cmpqNUFGYmRRSUxNbmFid3dBLUptS0djLVVIQ05vQnhKX3l6MkFNZk8ydldJYXJ1RG5QbVQ2eWk5dTNwQl9udy1MT2tMdDVETXYyZk1MZGItZVNYaURKWXVPS1BsSWQ2OHB5TGd3dDVubWpRd2EweDNNWHRtd2VLQXAxTXJRR3BVWnVuVnNLREM0WUd0T0V4T2VDVWtQTkthU1V5MnlXTlFndVpfMzRyWno3Nw?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "Stocktwits"
         }
       ],
       "news_flags": [
@@ -1489,8 +1144,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1521,9 +1176,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 9.1,
+      "buy_score": 7.8,
       "sell_score": 0.0,
-      "net_score": 9.1,
+      "net_score": 7.8,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1538,7 +1193,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -1551,10 +1205,10 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          3.75,
           3.75,
           3.91,
           3.75,
@@ -1567,13 +1221,14 @@
           3.58,
           3.92,
           4.07,
-          3.97
+          4.0,
+          4.06
         ]
       },
-      "price_now": 3.97,
+      "price_now": 4.06,
       "price_at_signal": 3.58,
-      "pct_since_signal": 10.89,
-      "pct_14d": 5.87,
+      "pct_since_signal": 13.41,
+      "pct_14d": 8.27,
       "deep": {
         "recent_filings": [
           {
@@ -1623,16 +1278,22 @@
       ],
       "news": [
         {
+          "title": "Cerebras Partner Digi Power X Heads For Seventh Week Of Gains: Can Q1 Results Sustain Momentum? - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONTQ5OUJETTBrS3M2TWFfQ1k0RkkzdnZnZjVQSTN6S0htb1BtcGFRaUc5QXVPckoyRVpBeEhyT1pLYTNYZUUtRWhLcmItN2o5YXc5VkVnTmxUUEtHUjZNM2Zvb2oxbkloM1hNOE11dlFhZTRjaThXczBxRnZ3VTJtLWRnWVhnLUVaXzB6T0c4ZTRBQi11SDlDZzl4dEhPeVBmSVZLanNyb25HSy1NYmZ6cU1IVmNtSmdUaXNSNmZKUTR4NFc3T01rdlZUV0YySFpEQlpzWlM1MA?oc=5",
+          "date": "Tue, 25 Aug 2026",
+          "source": "Stocktwits"
+        },
+        {
           "title": "Digi Power X (DGXX) president lifts direct stake to 1.38M shares - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTnBZd1EtMHlTZzFPeWxfSHN4M2RfdUk1MlYycEdWS1V2Q2Y1UVQtNUVJSl9pN21vUEhGWlJVV0VVNFRFanhiWXptaTdPTkxIRzFGb0FwNElnM2prekR6M2U5LUdJNHlFT1ptZVY5eGRfbGp3b1hJQ2RWTVdMbkhlYVBYM1RfZDNlSVAxT0FITnpkaHdkeEFWZXhCN2R2R0x2Q1RLejRtczFWZThlVFpJ?oc=5",
           "date": "Fri, 21 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "DGXX Stock Soars 27% Today \u2013 Everything To Know About The Data Center Agreement With Nvidia-Rival Cerebras - Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOOXJCWEhVQnRhOHNJQVVWMklDVHg4LVR0UER3S0hQN21nZWkyQVJTbnZtUDIxNTkzVU4tS0lXWF9xYnhYb0dLTHV0MUpGUjRXMThieFlYNHc4TzhXTVJtSWlMOXRnYy1DZWFmUUdUU2U4d01OWUZoTW1QaVNkZmwtRmxjbjUycVFWT0FXdmlkT0RBakt0MVZIaDc3aG1IcmJiSWJhbFdGbmtHNGR2aGhZaktzazNNMkpSbVJhajJhb2dJMUQ4UkVtQzRva1BVOWU0dWtEbndLOEd6YmNpdlFlQ3dadU8xZkUtZEdoSmJQQVhDaWZpR2lVLWpQdw?oc=5",
-          "date": "Thu, 20 Aug 2026",
-          "source": "Stocktwits"
+          "title": "Digi Power X Inc.: Top Mutual Funds Holders | DGXX | CA25380B1022 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSHY2ZlFUNVBxTVlxSG9STlVWWGJCay1ZdzZnZE9MZ0JJWXlKRGc0QnpVLU1QVEpvT2gySDJraG8wdFlGM0t0dndGUGJfeEpLMHhnOUpoZ191d2U0cnYtVUFLeVBielVqX0EwNTNFakQ2amFwckJVeFoyeVdqaGVlSmt2LWRaWTg?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "marketscreener.com"
         },
         {
           "title": "Digi Power X increases equity offering program to $175 million By Investing.com - Investing.com Nigeria",
@@ -1645,12 +1306,6 @@
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbElzd3MwbW4tb19WanVJMDcyb0JscXB5d1p3YWRtOE9yQ0VhWHhEODlGVkNtendRZktxemJ5akVOajZlSDZtS0VyTWR1LVJSN1VvX3lhNzQ2NXNSOTZmWXRZRENfMnlBdzVsYklPUVMzVDJweWtWTGR2YXhFQjllc1ZLSmEyMmVKTVhCSw?oc=5",
           "date": "Fri, 14 Aug 2026",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Digi Power X: The Business Improved While Shareholders Were Diluted - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTzFDclBLNzF2bmZwNF9sQmNHQkpuZWhQTGR2SDZLeGlmWGdUYzNBd1lXWTd2VDBVR3l2aGw5RW0yN3ZLN2l4cy1vRVJQTFhlSVI5M0pieENIS2M1LTJQSFFFa0JCLXBxWkoycklPX1NvWnNIZ2Z4LVk4UDM2VVlFdGtoMXVjVG1aX010a2lGQ2ZleUxTdmhsd1Mwb3FBVEp5SG9ZdjFkTQ?oc=5",
-          "date": "Thu, 23 Jul 2026",
-          "source": "Seeking Alpha"
         }
       ],
       "news_flags": [
@@ -1658,7 +1313,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +11% since disclosure",
+        "label": "Edge partly spent \u2014 already +13% since disclosure",
         "cls": "spent"
       },
       "earnings_soon": false,
@@ -1686,28 +1341,29 @@
       ]
     },
     {
-      "ticker": "VRCA",
+      "ticker": "AIAI",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 7.3,
+      "buy_score": 5.4,
       "sell_score": 0.0,
-      "net_score": 7.3,
+      "net_score": 5.4,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-08-17 COO Zawitz David BUY $29,880",
-        "2026-08-17 COO Zawitz David BUY $29,880",
-        "2026-08-14 CEO Rieger Jayson BUY $101,200",
-        "2026-08-14 CEO Rieger Jayson BUY $101,200"
+        "2026-08-21 10% OWNER Carlton Charles Craig BUY $49,910",
+        "2026-08-21 10% OWNER Carlton Charles Craig BUY $49,910",
+        "2026-08-21 10% OWNER Carlton Charles Craig BUY $49,518",
+        "2026-08-21 10% OWNER Carlton Charles Craig BUY $49,518",
+        "2026-08-19 DIRECTOR Affeldt Eric BUY $29,800",
+        "2026-08-19 DIRECTOR Affeldt Eric BUY $29,800"
       ],
       "company": {
-        "name": "Verrica Pharmaceuticals Inc.",
-        "industry": "Pharmaceutical Preparations"
+        "name": "AIAI Holdings Corp",
+        "industry": "Services-Computer Processing & Data Preparation"
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -1720,261 +1376,95 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          5.51,
-          5.36,
-          5.08,
-          5.12,
-          5.22,
-          5.09,
-          4.86,
-          4.97,
-          4.89,
-          4.68,
-          4.99,
-          4.86,
-          4.82,
-          4.76
+          4.02,
+          4.0,
+          4.18,
+          5.4,
+          5.53,
+          5.8,
+          5.88,
+          5.01,
+          5.9,
+          5.23,
+          4.53,
+          6.62,
+          5.31,
+          5.565
         ]
       },
-      "price_now": 4.76,
-      "price_at_signal": 4.97,
-      "pct_since_signal": -4.23,
-      "pct_14d": -13.61,
+      "price_now": 5.565,
+      "price_at_signal": 5.23,
+      "pct_since_signal": 6.41,
+      "pct_14d": 38.43,
       "deep": {
         "recent_filings": [
           {
             "form": "10-Q",
-            "date": "2026-08-06",
+            "date": "2026-08-14",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000025/vrca-20260630.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/2096362/000119312526352653/aiai-20260630.htm"
           },
           {
             "form": "8-K",
             "date": "2026-08-06",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526338273/d13828d8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-09",
-            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526263722/d139416d8k.htm"
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226036355/form8-k.htm"
           },
           {
             "form": "10-Q",
-            "date": "2026-05-12",
+            "date": "2026-06-22",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1660334/000166033426000014/vrca-20260331.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-12",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1660334/000119312526219395/d152529d8k.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/2096362/000119312526277544/aiai-20260331.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "Rieger Jayson",
-          "kind": "CEO",
-          "note": "6 Form 4 filings on record since 2024; 1 buy of VRCA in this tracker's ledger"
+          "name": "Carlton Charles Craig",
+          "kind": "10% OWNER",
+          "note": "3 Form 4 filings on record since 2026; 2 buys of AIAI in this tracker's ledger"
         },
         {
-          "name": "Zawitz David",
-          "kind": "COO",
-          "note": "4 Form 4 filings on record since 2024; 1 buy of VRCA in this tracker's ledger"
+          "name": "Affeldt Eric",
+          "kind": "DIRECTOR",
+          "note": "42 Form 4 filings on record since 2010; 1 buy of AIAI in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Verrica (NASDAQ: VRCA) interim CFO adds 5,000 shares in open-market buy - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOTdCY0w2ZGhQWlY1aWYwampqMXpZd3d2VTVIRHpQb0JyV2p6NTJTQm1pbmhkUVlsQjZEd2Y2TTJvR2tGVno5cDZXZjEyRlBoUHdoYzBVdzhlMHo1M2FmdWE5TnM5YVFfWmdzRWJvQThPbXBDdy1MMnowTHRwaWtqT2N4TmRBeE5rRDVobVZWNlZxXzA1ZUlXM2k2VGVsVVpsQU8zS0ItdWNCZjA1NDE3N2hnb1l0QXY5ekZkN2dB?oc=5",
-          "date": "Tue, 18 Aug 2026",
+          "title": "AIAI Holdings Corp (AIAI) 10% owner adds to 9.2M-share stake - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnAwS1RuV2lwampja3hBblpMT2h2czBQcUNtYlN1Q05mdzlwRjI3bFNrMll0VHpWZ0h0RnFkb1RkTWNYVXBhVEpKblhtdmhYUmxCdDZNYzVTcVBVUFUzazFjT0VlN2lBZ3NKUXlhT2lSNDlUQndZS1p5b1Fpdk1BVXdZTl92NVVDa2NzQm8tczlPMWFmWnFRczVlS2ZmN0dDRnFKX1Njdm9aZ2ExNUN1bjNn?oc=5",
+          "date": "Tue, 25 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Verrica Pharmaceuticals Inc. (VRCA) Reports Q2 Loss, Beats Revenue Estimates - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVZrU05kejRpM2xsM0FhRkw4WjlxUjR2N0pqNXJkMzlHVFRUMnY0UjZvblkyMUpMbEZYRURrZUdxeU5mUDY2dkg0UDhPVmN0RWo1ZmtVNnp1aG1HWnM3emxxYTdBMXNlTC1pQmZ3VWs0d251TU9fTkJsTElidmR2elJzRGYwMHFxY0plelFYR0lmTVU1S2hTUU9BNTNwUnF5UFhv?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "VRCA Forecast \u2014 Price Target \u2014 Prediction for 2027 - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4zUEJHUXZUVmVxSnYyMXBGaWZvRUNucUhEN3RqT2JSR0hCQjVEZm9HZWV0LVc1M2JSWDNqZ3Z5YUZPZnMtQURCaTJrUEhnYU9UQmp1OUQ0OTRyMG0tQWNZMG4zNW9jdTZ1elRtZUVWZDdYdms3QjNyeWdn?oc=5",
-          "date": "Fri, 26 Jun 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Verrica Pharmaceuticals Reports First Quarter 2026 Financial Results - GlobeNewswire",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZlZ3QUlBVzd5clhFTWdaNTNjMC1fZVNZNDF0YnRyREJOVDZlX0hEMVhoVi1mdWxDWEJHRll6YkxWNVl3X2VndVdQY1h4V0JzOHN6Y3NNUkJUbF9nbFJBdmpZV0VkWE1NQjZydVZGTUpaUVJVQUoxN1llLW5jWFR2ZkMzMzhCMTdsR21mdll6UGk0M0hLeHIyMGlUUzhyLXNUZ3VSRnFya0N5ZXh5TmpyN3lzZUdtRUdPMXM1bXJDTDdUZ25vaU03RkRlaXZpYnBpNy1NbE03dw?oc=5",
-          "date": "Tue, 12 May 2026",
-          "source": "GlobeNewswire"
-        },
-        {
-          "title": "Verrica (NASDAQ: VRCA) CEO buys 25,000 shares in August - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGVkX0V5a1MxWGdOZ1RTMS1uNllBQzR1ODkyNU96dVRpQlZMUTFWTHQ0MFB5RkU1bGFNbjU4OTRFOHhRVHY0NWxlbFl3VEJuWTJrVEY0NFQzci1XVG5NVTRVSno0bWhQNWpTbnpiZWtoZGRfek5KS0czcVJUcHlmRC1rUUJFekZENTQ5RG1WOFZzSXgtRVdvNjUyRk9qUmpHLW55NHZXcGc2Y0VJODRTQmc0Y0dMN2NPVWRjS0hR?oc=5",
-          "date": "Tue, 18 Aug 2026",
-          "source": "Stock Titan"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cVerrica Pharmaceuticals\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Verrica%20Pharmaceuticals&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cVerrica Pharmaceuticals\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Verrica%20Pharmaceuticals&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "GWRS",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 6.6,
-      "sell_score": 0.0,
-      "net_score": 6.6,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-20 DIRECTOR Levine Jonathan L BUY $5,766,819",
-        "2026-08-20 DIRECTOR Levine Jonathan L BUY $5,766,819",
-        "2026-08-20 DIRECTOR Cohn Andrew M. BUY $1,233,186",
-        "2026-08-20 DIRECTOR Cohn Andrew M. BUY $1,233,186"
-      ],
-      "company": {
-        "name": "Global Water Resources, Inc.",
-        "industry": "Water Supply"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-05",
-          "2026-08-06",
-          "2026-08-07",
-          "2026-08-10",
-          "2026-08-11",
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24"
-        ],
-        "closes": [
-          7.32,
-          7.46,
-          7.6,
-          7.37,
-          7.61,
-          7.61,
-          8.89,
-          8.6,
-          8.88,
-          8.77,
-          8.91,
-          8.87,
-          8.88,
-          9.295
-        ]
-      },
-      "price_now": 9.295,
-      "price_at_signal": 8.87,
-      "pct_since_signal": 4.79,
-      "pct_14d": 26.98,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-08-21",
-            "summary": "Company entered a material agreement; unregistered share sale.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026058486/gwrs-20260820.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-13",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026056446/gwrs-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-13",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026056434/gwrs-20260812.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Cohn Andrew M.",
-          "kind": "DIRECTOR",
-          "note": "90 Form 4 filings on record since 2017; 1 buy of GWRS in this tracker's ledger"
-        },
-        {
-          "name": "Levine Jonathan L",
-          "kind": "DIRECTOR",
-          "note": "13 Form 4 filings on record since 2021; 1 buy of GWRS in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Andrew Cohn Bought 5.3% More Shares In Global Water Resources - simplywall.st",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdEhFZXVMYzQ0eDY3REI2azNxcVkyVURDdzNqenlHaUZMTEJuUWtlSjhpY3BOc2k3YXRja09UaWFGTWVWTHZxTDlhd2ZSQXBVYVJZbHFFM3hrMW5mRExUTUNWV1JYbHBqazhOa3NiZkZzUTRUMHhzSzRSZThrTjlGdGRPQmJsQUVlS2RJNXVaZnRKd1hTVkVUbHlHVU82RkdKcG9OZF9WWGJOSVl6ODJRcTUwOGtlU2JVOU55OU5vSE4wNE0yR2RKMXRfODVRbUlMTW1LRUZSYk7SAd4BQVVfeXFMUFlaUFhXSFhxWTBvYzNSUlQzOEVxaXpRdi0xLUZwam9DWVVEWEtuYTBPRkM0UTNjY1p4VHc3M3ZhV2VVeUU1SEZVemx5RUh1SEF5aEh5bENRNDFWUkp0dkdiRFYxdkFkWm5obXVycWhwNzBUMUdPSW5vV0F1ZHA5TEZ2NzNOMG5HdWJJemhmNlBVU2dvUXF5MkNtRzBwNnNCWVJaWVNHd01WS01QM1gxYkYwc3VCS3dlcmQ1MWF5Z25lZVlhcy1WY3RtS0pncnpHNUtMUmtPWUdUTXZ2VnFB?oc=5",
+          "title": "AIAI Holdings Director Charles Craig Carlton Acquires 14,250 Shares in August 2026 Open-Market Transactions - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPWjdtV1FuUDI4Nk95bjhDTE1LVWpnR3QtMEVyOW03OFp4SDZNYUQ0ajJZZW9GNDdIOXp2YWRubzI3TGVZa05ONzFpOHBnMDlZdDBqZXpTUlZ0UENaWGp1SC1HSi1oYmRtdWpHaG1JZ3IyWEFBUmFrb3c2ei1aVDlsYkh3QlU3Z0NzRlN4Y3hBemswTTZSaEUtQmRITm1ibmZGRGVlMnFyMDFSSzNPVlNVWGE0LV9rN0hHOE5vVmZHWUZpMWJfZkl4bXdpcFpRU3M5ZXFtcnpBRjk1NnhRZW5BbUVYZnZwcm9D?oc=5",
           "date": "Mon, 24 Aug 2026",
-          "source": "simplywall.st"
+          "source": "Kalkine Media"
         },
         {
-          "title": "Global Water Resources (GWRS) director receives 1,158-share award - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalQxU0FsLTRycVVtZURsUGlIMGh5dW42cnJ5ckUwSm5IdXM3QXlIVUN6WjhGelFoMlF6ellqd2J1Z0h4cG9HUy14STlYMGlDX2F4UWZDUW5lOHh0dVFzNFA0aFlRc2dnMXRRVkI1NjhtbEZkZTFSYkNVcXA1Q1p2allFLXYtTWZzcU5uSGRzZkNDb0FNWlpyYzM2X191aUlZaG5SNmxmSXZqaHZaWUV5WnJrY2thME5vdXdWOQ?oc=5",
-          "date": "Fri, 21 Aug 2026",
+          "title": "Ten percent owner at AIAI Holdings (AIAI) buys 14,250 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmtDcFJzbDhkckxnWXlpQlVsSkhkOGctVDN2eV9Cams2RTdIOV9Dd2x1X0c4WFlNdDNUUno2OU81RUw1Z1VjNGtLcmFoTUFXUkpLLWc3LUhMdU4zeHphLWZRcGNpMmNldGtPYWdLemZBY1B0SmN3eGU0dUNDMkJDUUwtX2czVF9DNlhkeDBmYlExdWltY1VzMDF0dmdyVFUycGtVYTVackhRZjhYVG5YZFBR?oc=5",
+          "date": "Mon, 24 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Global Water Resources Insider Bought Shares Worth $5,766,819, According to a Recent SEC Filing - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOHlwQXBTNUxFOEdDQVFMR1hOeEJOdHFOaXNMYXZ2TWdvaFhMdkswbnVIaVBJV0pTTktkZ1p3ZHpJSmw5X21NdXhmd0Q1R1JrZjBJSDBGUEVHZjBRSUJfYXVkTXdvUlpoTUdqNU1ET3RFdVRHVXo4OGtjdm9rNmhhU19kT0pPTDhiTW1hZDI1UUhPTDdPRG9aa1ZnLW9vUVFUWmlfRy1mdGZEVTJxTFZXdzFjcm5GaWhnUUVSV1RyQi1UMklaWldSM1VGX01RR1BlblpENmtEQUhKcU90UkJv?oc=5",
-          "date": "Mon, 24 Aug 2026",
-          "source": "marketscreener.com"
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vWFQ4Ukl4R3NXWmVua2szQmMxVk9BaTZKcW0zSDl5c3cxaDQ5eVlvZEt0QV83MlVfS3lNNEFIbmN1Z3lpTWFscTFNU1NIQTFF?oc=5",
+          "date": "Sun, 10 May 2026",
+          "source": "CNN"
         },
         {
-          "title": "Global water resources director Cohn buys $1.23m in shares - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmhqV0VjSVRUV3AtUzJsQTZMVVBWMDBuRkFIWkhPVHVkLTNZRHhReG9kb2Jhc0VjbkNtSm5HRWtSZmJJVk9jSUZ6RUZtN2YxWlVDdDZ1YmV1UWZLM05SQjZyWEFjMW15eVZ2Q09LczRVUUhtNEZVOHdOQnlxYXhibmxBeS1naGZYcmxtMldFVTlCTlBvdUFXMnhabVVnSHU1NTBUbDFhR1lwREZ2VUVPMDdPaUVvOWlQT0NFS0J3?oc=5",
-          "date": "Sat, 22 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Global Water Resources, Inc. (GWRS) Q2 Earnings and Revenues Top Estimates - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0JoR3AyYThGbWRRYU1KN3RHWDl0VDFFVnFRaTJ1MXFsRER2OGsyYjZXZ3BpbjhndDM0RldoNkp6MEt6NWVHb3k5VTVBZ010a3dqcjBjalNqTXpoakJBUnk4azA0Q2VfXzVtX2VBTmVzU1cxT1RlcnE5OVFfUzdRLUcxWGlyb0tIQWJzRklTWXFwSkRtZmd6RkxraWk?oc=5",
-          "date": "Wed, 12 Aug 2026",
-          "source": "Yahoo Finance"
+          "title": "AIAI: AIAI Holdings Corp - Ordinary Shares - Class A Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5pa09lVUFab3lLWEpOOVRCaGVrNGhpdF9abFp3ZVdKOGZyRU9mWEgyOW9wVHB2dGgyQXJjWk1Ud0ZTa3J5elBZSzRB?oc=5",
+          "date": "Wed, 13 May 2026",
+          "source": "Stocktwits"
         }
       ],
       "news_flags": [],
@@ -1986,50 +1476,51 @@
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cGlobal Water Resources\u201d",
+          "label": "Bills mentioning \u201cAIAI\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Global%20Water%20Resources&source=legislation"
+          "url": "https://www.congress.gov/search?q=AIAI&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cGlobal Water Resources\u201d",
+          "label": "Hearings mentioning \u201cAIAI\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Global%20Water%20Resources&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=AIAI&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cWater Supply\u201d",
+          "label": "Bills mentioning \u201cServices-Computer Processing & Data Preparation\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Water%20Supply&source=legislation"
+          "url": "https://www.congress.gov/search?q=Services-Computer%20Processing%20%26%20Data%20Preparation&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cWater Supply\u201d",
+          "label": "Hearings mentioning \u201cServices-Computer Processing & Data Preparation\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Water%20Supply&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Services-Computer%20Processing%20%26%20Data%20Preparation&source=committeemeetings"
         }
       ]
     },
     {
-      "ticker": "ELAN",
+      "ticker": "CORZ",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 5.2,
-      "sell_score": 0.0,
-      "net_score": 5.2,
+      "buy_score": 3.1,
+      "sell_score": 0.1,
+      "net_score": 2.9,
       "distinct_buyers": 2,
-      "distinct_sellers": 0,
+      "distinct_sellers": 1,
       "evidence": [
-        "2026-08-20 OTHER Kurzius Lawrence Erik BUY $935,920",
-        "2026-08-20 OTHER Kurzius Lawrence Erik BUY $935,920",
-        "2026-08-18 OFFICER O'Neill Shiv BUY $94,273",
-        "2026-08-18 OFFICER O'Neill Shiv BUY $94,273"
+        "2026-08-20 OTHER CRAIN ELIZABETH BUY $109,994",
+        "2026-08-20 OTHER CRAIN ELIZABETH BUY $109,994",
+        "2026-08-18 OTHER Weiss Eric Stanton BUY $134,358",
+        "2026-08-18 OTHER Weiss Eric Stanton BUY $134,358",
+        "2026-08-17 OFFICER DUCHENE TODD M SELL $200,974 (10b5-1 planned sale \u2014 discounted)",
+        "2026-08-17 OFFICER DUCHENE TODD M SELL $200,974 (10b5-1 planned sale \u2014 discounted)"
       ],
       "company": {
-        "name": "Elanco Animal Health Inc",
-        "industry": "Pharmaceutical Preparations"
+        "name": "Core Scientific, Inc./tx",
+        "industry": "Finance Services"
       },
       "trend": {
         "dates": [
-          "2026-08-05",
           "2026-08-06",
           "2026-08-07",
           "2026-08-10",
@@ -2042,123 +1533,141 @@
           "2026-08-19",
           "2026-08-20",
           "2026-08-21",
-          "2026-08-24"
+          "2026-08-24",
+          "2026-08-25"
         ],
         "closes": [
-          26.22,
-          24.2,
-          22.12,
-          22.28,
-          22.73,
-          22.13,
-          22.51,
-          23.67,
-          23.61,
-          23.64,
-          24.5,
-          23.56,
-          23.97,
-          24.46
+          21.05,
+          21.01,
+          19.44,
+          19.76,
+          20.87,
+          19.78,
+          20.18,
+          20.13,
+          18.85,
+          18.72,
+          18.39,
+          17.81,
+          17.27,
+          17.88
         ]
       },
-      "price_now": 24.46,
-      "price_at_signal": 23.64,
-      "pct_since_signal": 3.47,
-      "pct_14d": -6.71,
+      "price_now": 17.88,
+      "price_at_signal": 20.13,
+      "pct_since_signal": -11.18,
+      "pct_14d": -15.06,
       "deep": {
         "recent_filings": [
           {
+            "form": "8-K",
+            "date": "2026-08-14",
+            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000018/core-20260813.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-29",
+            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000016/core-20260729.htm"
+          },
+          {
             "form": "10-Q",
-            "date": "2026-08-05",
+            "date": "2026-07-28",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000043/elan-20260630.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000014/core-20260630.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-08-05",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1739104/000173910426000040/elan-20260805.htm"
+            "date": "2026-07-28",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000013/core-20260728.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-05-27",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1739104/000110465926067002/tm2615566d1_8k.htm"
+            "date": "2026-07-28",
+            "summary": "Company unregistered share sale; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1839341/000183934126000012/core-20260727.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "Kurzius Lawrence Erik",
+          "name": "CRAIN ELIZABETH",
           "kind": "OTHER",
-          "note": "165 Form 4 filings on record since 2006; 1 buy of ELAN in this tracker's ledger"
+          "note": "81 Form 4 filings on record since 2014; 1 buy of CORZ in this tracker's ledger"
         },
         {
-          "name": "O'Neill Shiv",
+          "name": "Weiss Eric Stanton",
+          "kind": "OTHER",
+          "note": "10 Form 4 filings on record since 2024; 1 buy of CORZ in this tracker's ledger"
+        },
+        {
+          "name": "DUCHENE TODD M",
           "kind": "OFFICER",
-          "note": "8 Form 4 filings on record since 2023; 1 buy of ELAN in this tracker's ledger"
+          "note": "111 Form 4 filings on record since 2003; 6 sales of CORZ in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Elanco (NYSE: ELAN) director buys 40K shares, stake now 188,647 - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVNNV21pWVBBRDIyRkdoQ2RCYTBVRjVYTFdBOVdMNEhqbmlSLWpVNTZ2UkI2d0YtektIX0NsQlRQUmRPYjdxdUpLMXdaUnVzRUI5RHhzZUlaMEs1clhHM2ZYbU5QWTNDM2pFWUVFVkM4Wkg3eWJmT29ZWEFjSXJjQXNSTndqSEltU0ZNVzEyYV85VTZHUjluc2FRbjg3a2p5MVZaU2ZYZjVNdXhKanlteUJpVTIzN2d4NVE?oc=5",
+          "title": "Core Scientific (NASDAQ: CORZ) director now holds 71,348 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWXZQSC1BTDhvenhESHR4eEVsUDlfS3VwVWx5QVpKU0d4SWs4VEtGZ2RQLVFva25FRmMtbjYxdlNZSTV4Sy1nNGswcTl6UmtkZVdCeENVTUwyZ1dFZUdqTzltME1qODFrczF5dWhLOVh4eTFnM3p0UFE5MF95cWFmVVE3REJYMmlXbzA1QjB0SDQ4RnU1VUt2MEJOSUZvYWJ5aHJSbUZ4aDcxbGlKUld2WXhoUFN4X00?oc=5",
+          "date": "Mon, 24 Aug 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Core Scientific (CORZ) director buys 7,000 shares in open market - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN1ZsTkR1dFdnZ2hUVVNFajRSLUpUTUV1ckJRdFZDSTRHLTA3UWsyWmhHRWJuaXpoYkVLRGpmVFlzajh1V2JWSWdaczNxa2RncDZaQnI3eG9GRG9hLVdqWWkxSXptSVlLMzhUYnludkkwaXAyTmU1VFdWTjRWclVmbHJoSi1vMnNtcEp5RzFSZUpJdjlFNzdIS3NRY3VEQ3NiWmtreHlnaTIzdE9ySUJfQk9VMmNGLUE?oc=5",
           "date": "Thu, 20 Aug 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Elanco Animal Health Inc (ELAN) Shares Fall 3.8% -- What GF Scor - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVY0SWJlMkJHbEM2c2NjQ0puTVh1VGdUQTVrU3lVMDk5R21FV1dNeG5IWVVhX0ZwLWhUeGtGRlJPNnJNNU15SjdCdzN3d19LU01PRFpMT0FhSlB2cXJxOEtnc2MwMC0zaklubHFZS0l1T2Q0QnY5cVlfU2p3OWUxLUtuQU9yajRSY3JoZVVhMzhtT0RWek1LaElHbVloamhEYkdXTmJUVk9zVVZhMDBWRXV1T28xVXg3Wk5R?oc=5",
+          "title": "Core Scientific Director Eric Stanton Weiss Acquires 7,000 Shares of CORZ Stock - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVDJJd2lNc0hKb0VlZkNFU2VZYlh5MmdtalNlbTFsaS11WnRYdFQ3cnVwWU5RYXAwcU1TZG9zN2F4ODNRSUk5SW16bUN2RnM2a2FZNlNqd0hSR0hMT2VkSWpjTDV2VFlMTjU1TlRUekw3eXhjMXNBMjRSYXhhdGZhQkozVkNjWjFUWTQ5aEFoUXlrTHJDLUN3RVVVR0tuMFZ4Z2FjSGtrc1N3dHUxSGpyRUU0cDZHQnZRMDczREM2b1RtUlk?oc=5",
           "date": "Thu, 20 Aug 2026",
-          "source": "GuruFocus"
+          "source": "Kalkine Media"
         },
         {
-          "title": "Attention investors: You may be eligible for a $15 million Elanco Animal Health SEC fair fund payment - Claim Depot",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTSzg1c3V1c2tJaFdnQnB2cnRnQnpsekU3WE5oZllEMkJWR0gxOEFSQ05laG9wVVVWQVdITlBDb0JmbDhjOVhkMk04MjgwMjF5NTZXVFhZS2tGTEZQTlNEZnFYcHZ4MGNSVm1kQ3dNN0hQMEdGTUhJNA?oc=5",
+          "title": "Core Scientific (CORZ) legal chief sells 10,000 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNWUtSWpYbHF4ZUh0aENKQlpCUFc2ejc1aFo5Uk5GZVBRU2NzdlBadVhqamRfMWxZc2FhOXI3djJrZ2lYdTVoUEtzOF9vRGwyLVVzQWFVTC1ZN0E1cmZ1RzhpbmpDQVN0ZHZpRENXMGdwaENjanBPcUdIMDJzOS1UbVNHUEZDVlZLQ1Q5aTZHbzVvc042YXNzSXBneThSMkVzSHdqZFA2VE9mSm5IYVVfNWFmZ0RVc1k?oc=5",
           "date": "Wed, 19 Aug 2026",
-          "source": "Claim Depot"
+          "source": "Stock Titan"
         },
         {
-          "title": "Elanco director Kurzius buys $935,920 in company stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdTNkdjJaYm0yMy1pZ1Y5d1ladWJodk9Od240ZG1nal85NDBVbE1ja2NMWXZ6S3c4bmtELWhjeE51NGFKUUpIRnZmbWpQNFdqa1pLb0NtWHdOZHZnU3JrRDk4SEg0Q3lhMTNBRGtadVdWbmw2N1hfVzRUbXV2d3dXS2VDaE9QLWkwYkxPcmt4ZDFNajM3emNQSUw4Qzlibk5oUlJmS2ZZU3E0QmdYSWg3Yk10T05wUlUz?oc=5",
-          "date": "Fri, 21 Aug 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Elanco Animal Health Number of Employees 2026 | Employee Count & Headcount Data - Revelio Labs",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mZFhqZ3VHQ0lyak9jdjBnUVhrVzROODF2X2Q5a1hQWFhRM0tSa3JGT2Rrek0wSG5EX2lfVUVwSkdUcDlOQWZIOENoNkVFR21KbjN5UXVKSDRzX1E2dThRQ0VrZGdqT1JjM3lvUHpEUWRYSjFNYUVV?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Revelio Labs"
+          "title": "Jane Street group discloses 20.1M Core Scientific (CORZ) shares in 13G/A - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcnNHQ016OGVDTlZoc0hYZk1LNTJsZFhBVWpnZjdONEV0aE5xMUNhOEk3dER3UkFUMWluY3pBZy1HcUpzLS1kZDZZX3lKLWl6X2IwaEdZUDd5XzFkUkdDNGwtazdTT21adDN3U0wtT0c5QTBsMXNjcHdMaHZQdHktSFF3NTZ5OFduMUtfalJ2NmV5c3VOVktadUFvOGxmYlgxay1KMHBYaDF2cXF2OXJMUDUzeE1nbC01M2F5Tkx3Q0pqd0hUN0YzNW9sVQ?oc=5",
+          "date": "Wed, 12 Aug 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cElanco Animal Health\u201d",
+          "label": "Bills mentioning \u201cCore Scientific, /tx\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Elanco%20Animal%20Health&source=legislation"
+          "url": "https://www.congress.gov/search?q=Core%20Scientific%2C%20/tx&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cElanco Animal Health\u201d",
+          "label": "Hearings mentioning \u201cCore Scientific, /tx\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Elanco%20Animal%20Health&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Core%20Scientific%2C%20/tx&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Bills mentioning \u201cFinance Services\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+          "url": "https://www.congress.gov/search?q=Finance%20Services&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Hearings mentioning \u201cFinance Services\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Finance%20Services&source=committeemeetings"
         }
       ]
     }
