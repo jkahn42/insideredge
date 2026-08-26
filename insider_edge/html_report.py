@@ -150,11 +150,14 @@ def _card(s: dict) -> str:
                      for f in s.get("news_flags", [])[:3])
     themes = "".join(f'<span class="chip chip-theme">{html.escape(t)}</span>'
                      for t in s.get("themes", []))
+    herd = ('<span class="chip chip-herd">Herding pick \u2014 industry '
+            'cluster, below signal threshold</span>'
+            if s.get("herd_pick") else "")
     tm = s.get("timing")
     timing = (f'<span class="chip chip-{tm["cls"]}">'
               f'{html.escape(tm["label"])}</span>' if tm else "")
     return f"""
-<article class="card" style="--c:{color}">
+<article class="card" id="c-{s['ticker']}" style="--c:{color}">
   <header class="head">
     <span class="pill">{label}</span>
     <div class="title"><span class="tk">{s['ticker']}</span>
@@ -171,7 +174,7 @@ def _card(s: dict) -> str:
       <div class="stat"><span class="lbl">14 day</span>{_pct(s.get('pct_14d'))}</div>
     </div>
     {_sparkline(closes, color)}
-    <div class="chips">{timing}{themes}{short}{earn}{nflags}</div>
+    <div class="chips">{timing}{herd}{themes}{short}{earn}{nflags}</div>
     <p class="mut meta">{s['distinct_buyers']} buyer(s) \u00b7 {s['distinct_sellers']} seller(s) \u00b7 score {s['buy_score']} / {s['sell_score']}</p>
     {_buttons(s)}
     <details><summary>Latest news <span class="cnt">{len(s.get('news', []))}</span></summary>
@@ -308,6 +311,10 @@ def _tracking_section(tracked: list[dict]) -> str:
         sell_note = ('<p class="mut tiny">Sell/avoid call: a falling price '
                      'means the call is working.</p>'
                      if t["action"] == "SELL" else "")
+        act = (f'<div class="chips" style="margin:.1rem 0 .45rem">'
+               f'<span class="chip chip-fresh">\U0001f501 '
+               f'{__import__("html").escape(t["activity"])}</span></div>'
+               if t.get("activity") else "")
         tflags = "".join(f'<span class="chip chip-news">\u26a0 News: '
                          f'{__import__("html").escape(f)}</span>'
                          for f in t.get("news_flags", [])[:3])
@@ -320,7 +327,7 @@ def _tracking_section(tracked: list[dict]) -> str:
     <span class="net">day {t['day']} / {t['days_total']}</span>
   </header>
   <div class="body">
-    {tflags}
+    {tflags}{act}
     <div class="prog"><i style="width:{pctdone}%"></i></div>
     <div class="stats">
       <div class="stat"><span class="lbl">Decision \u00b7 {t['start_date']}</span><span class="num val">{spx}</span></div>
@@ -335,7 +342,14 @@ def _tracking_section(tracked: list[dict]) -> str:
             + f'<div class="grid">{rows}</div></section>')
 
 
-def _summary_strip(groups: dict, sc: dict | None) -> str:
+def _summary_strip(groups: dict, sc: dict | None,
+                   portfolio: float | None = None) -> str:
+    port = ""
+    if portfolio is not None:
+        pc = P["buy"] if portfolio >= 0 else P["sell"]
+        port = (f'<div class="kpi" style="--c:{pc}">'
+                f'<span class="num big">{portfolio:+.1f}%</span>'
+                f'<span class="lbl">your calls \u00b7 avg</span></div>')
     beat = ""
     if sc and sc["summary"]["scored"]:
         beat = (f'<div class="kpi" style="--c:var(--brand)">'
@@ -348,21 +362,25 @@ def _summary_strip(groups: dict, sc: dict | None) -> str:
             f'<span class="num big">{len(groups["SELL"])}</span><span class="lbl">sell / avoid</span></div>'
             f'<div class="kpi" style="--c:{P["watch"]}">'
             f'<span class="num big">{len(groups["WATCH"])}</span><span class="lbl">watchlist</span></div>'
-            f'{beat}</div>')
+            f'{port}{beat}</div>')
 
 
-def _momentum_section(momentum: list[dict] | None) -> str:
+def _momentum_section(momentum: list[dict] | None,
+                      have: set | None = None) -> str:
     if not momentum:
         return ""
+    have = have or set()
     mx = max(r["weight"] for r in momentum) or 1
     rows = ""
     for r in momentum:
         pct = int(100 * r["weight"] / mx)
-        tks = ", ".join(r["tickers"])
+        tks = ", ".join(
+            (f'<a class="mtk" href="#c-{t}">{t}</a>' if t in have else t)
+            for t in r["tickers"])
         rows += (f'<div class="mrow"><div class="mtop">'
                  f'<span class="mname">{html.escape(r["industry"])}</span>'
                  f'<span class="mut tiny">{r["buyers"]} distinct buyers \u00b7 '
-                 f'{html.escape(tks)}</span></div>'
+                 f'{tks}</span></div>'
                  f'<div class="prog"><i style="width:{pct}%;'
                  f'background:var(--brand)"></i></div></div>')
     return ('<section><h2>Where insiders are herding</h2>'
@@ -378,13 +396,15 @@ def build_portal(signals: list[dict], out_path: str,
                  rejected: list[str] | None = None,
                  sc: dict | None = None,
                  banner: str | None = None,
-                 momentum: list[dict] | None = None) -> None:
+                 momentum: list[dict] | None = None,
+                 portfolio: float | None = None) -> None:
     today = dt.date.today().strftime("%A, %B %d, %Y")
     groups = {"BUY": [], "SELL": [], "WATCH": []}
     for s in signals:
         groups[s["call"]].append(s)
-    sections = _summary_strip(groups, sc)
-    sections += _momentum_section(momentum)
+    sections = _summary_strip(groups, sc, portfolio)
+    sections += _momentum_section(momentum,
+                                  have={s["ticker"] for s in signals})
     if banner:
         sections += (f'<section><p class="banner">\u26a0 {html.escape(banner)}'
                      '</p></section>')
@@ -485,6 +505,10 @@ font-size:.66rem;font-weight:700;list-style:none}}
 .legend{{display:flex;gap:.9rem;flex-wrap:wrap;margin-top:.5rem;font-size:.82rem}}
 .lg{{display:inline-flex;align-items:center;gap:.35rem}}
 .lg i{{width:10px;height:10px;border-radius:3px;display:inline-block}}
+.chip-herd{{background:color-mix(in srgb,var(--brand) 9%,var(--card));
+color:var(--brand);border:1px dashed color-mix(in srgb,var(--brand) 45%,var(--card))}}
+.mtk{{color:var(--brand);font-weight:700;text-decoration:none}}
+html{{scroll-behavior:smooth}}
 .chip-theme{{background:color-mix(in srgb,var(--brand) 12%,var(--card));color:var(--brand)}}
 .mrow{{margin:.55rem 0}}
 .mtop{{display:flex;justify-content:space-between;gap:.8rem;align-items:baseline;flex-wrap:wrap}}
