@@ -155,6 +155,23 @@ def cmd_report(demo: bool) -> None:
                            for c in _cs[_i:]]
         else:
             t["series"] = []
+
+    _active = {s["ticker"]: s for s in signals
+               if s["ticker"] in state["tracked"]}
+    signals = [s for s in signals if s["ticker"] not in state["tracked"]]
+    for t in tracked:
+        _m2 = _active.get(t["ticker"])
+        if _m2:
+            t["activity"] = (f"{_m2['call']} signal again today "
+                             f"(net {_m2['net_score']:+.1f}, "
+                             f"{_m2['distinct_buyers']}B/"
+                             f"{_m2['distinct_sellers']}S)")
+            if _m2.get("news_flags"):
+                t["news_flags"] = _m2["news_flags"]
+
+    _adj = [t["pct"] if t["action"] == "BUY" else -t["pct"]
+            for t in tracked if t.get("pct") is not None]
+    portfolio = round(sum(_adj) / len(_adj), 2) if _adj else None
     for t in tracked:
         match = next((s for s in signals if s["ticker"] == t["ticker"]), None)
         if match:
@@ -167,10 +184,12 @@ def cmd_report(demo: bool) -> None:
     report.build_report(signals, REPORT_MD, REPORT_JSON)
     html_report.build_portal(signals, PORTAL_HTML,
                              tracked=tracked, rejected=state["rejected"],
-                             sc=sc, banner=banner, momentum=momentum)
+                             sc=sc, banner=banner, momentum=momentum,
+                             portfolio=portfolio)
     _archive_snapshot(today)
     print(f"Saved: {REPORT_MD}, {REPORT_JSON}, {PORTAL_HTML}")
-    notify.send_daily_ping(signals, today.isoformat(), tracked=tracked)
+    notify.send_daily_ping(signals, today.isoformat(), tracked=tracked,
+                           portfolio=portfolio)
 
 
 def _archive_snapshot(today: dt.date) -> None:
