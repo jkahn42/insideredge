@@ -23,7 +23,8 @@ def _fmt_line(s: dict) -> str:
 
 
 def send_daily_ping(signals: list[dict], date: str,
-                    tracked: list[dict] | None = None) -> bool:
+                    tracked: list[dict] | None = None,
+                    portfolio: float | None = None) -> bool:
     token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
     chat = os.environ.get("TELEGRAM_CHAT_ID", "")
     portal = os.environ.get("PORTAL_URL", "")
@@ -44,6 +45,9 @@ def send_daily_ping(signals: list[dict], date: str,
             tf = " \u26a0 " + ", ".join(t["news_flags"][:2]) if t.get("news_flags") else ""
             lines.append(f"{t['ticker']} day {t['day']}/{t['days_total']}: "
                          f"{t['pct']:+.1f}% since your {t['action']} call{tf}")
+    if portfolio is not None:
+        lines.append(f"\U0001f4c8 Your calls overall: {portfolio:+.1f}% avg "
+                     f"(sell calls inverted)")
     if portal:
         fresh = f"{portal}{'&' if '?' in portal else '?'}d={date}"
         lines += ["", f'<a href="{fresh}">Open full report →</a>']
