@@ -5,25 +5,10 @@
       "start_date": "2026-08-20",
       "start_price": 91.6128
     },
-    "GBFH": {
-      "action": "BUY",
-      "start_date": "2026-08-08",
-      "start_price": 20.88
-    },
-    "ANET": {
-      "action": "BUY",
-      "start_date": "2026-08-08",
-      "start_price": 188.67
-    },
     "BRVE": {
       "action": "BUY",
       "start_date": "2026-08-14",
       "start_price": 26.25
-    },
-    "NET": {
-      "action": "BUY",
-      "start_date": "2026-08-08",
-      "start_price": 300.27
     },
     "ELAN": {
       "action": "SELL",
