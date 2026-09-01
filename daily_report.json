@@ -1,15 +1,15 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "signals": [
     {
       "ticker": "AMRC",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 32.3,
+      "buy_score": 29.1,
       "sell_score": 0.0,
-      "net_score": 32.3,
-      "distinct_buyers": 4,
+      "net_score": 29.1,
+      "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
         "2026-08-27 CEO Sakellaris George P BUY $91,360",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-12",
           "2026-08-13",
           "2026-08-14",
           "2026-08-17",
@@ -40,10 +39,10 @@
           "2026-08-26",
           "2026-08-27",
           "2026-08-28",
-          "2026-08-31"
+          "2026-08-31",
+          "2026-09-01"
         ],
         "closes": [
-          27.61,
           27.79,
           27.9,
           28.5,
@@ -56,13 +55,14 @@
           22.16,
           22.91,
           21.99,
-          22.08
+          22.12,
+          22.36
         ]
       },
-      "price_now": 22.08,
+      "price_now": 22.36,
       "price_at_signal": 20.97,
-      "pct_since_signal": 5.29,
-      "pct_14d": -20.03,
+      "pct_since_signal": 6.63,
+      "pct_14d": -19.54,
       "deep": {
         "recent_filings": [
           {
@@ -102,7 +102,7 @@
         {
           "name": "Sakellaris George P",
           "kind": "CEO",
-          "note": "89 Form 4 filings on record since 2010; 6 buys of AMRC in this tracker's ledger"
+          "note": "90 Form 4 filings on record since 2010; 6 buys of AMRC in this tracker's ledger"
         },
         {
           "name": "Sutton Joseph W.",
@@ -113,18 +113,13 @@
           "name": "Miller Jennifer L",
           "kind": "DIRECTOR",
           "note": "24 Form 4 filings on record since 2015; 1 buy of AMRC in this tracker's ledger"
-        },
-        {
-          "name": "Cox Brian C",
-          "kind": "DIRECTOR",
-          "note": "3 Form 4 filings on record since 2026; 2 buys of AMRC in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "New 5% owner emerges in Ameresco (NYSE: AMRC) after filing - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTNtaHFDcjg3TDBhVlp6NXI1eEFBWUJDTkRmSThhc3d5OG92dVR4bjhHS3IzdmFLSVo1R3RBUDJRTVFCUi10U0x5NklOZmE1eDBkTzhVNldkSXp6b0F1YkJFZU1reVVmTVBzendrMmZDTmQxQUwzbkxIbmx5VVNkbWEwcWY2YUxQSWRoTkhlU0xEOUg0dTE2SUgydGdaRmFkMXh1UWpIbmE2aFgtYWlzSl9rS2wxdW96LUNB?oc=5",
-          "date": "Thu, 27 Aug 2026",
+          "title": "A Nebraska feedlot is expected to turn manure into 1.2 million MMBtu of pipeline gas yearly - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzYwM1p6cU1aUk5LV2o1TFNoM3NIc0JXTm9CSUY0QXRsVUN5cW84dk1CMFpteDloWWZvZTlYRGE2U2VQWGQ2SUFYcG85ejM1LS1MM2lRRTJ2WlFOcE5fSUZpdnlyU1pUOVFmanJqS3hkQV85R09OVWh4MXFUTXhBcTZlSGdmSjl5WHo3b1BmaTh2bl9ZVmdBY3g4QWRya3JQZEsxSFBSSzh4TlNkNzFj?oc=5",
+          "date": "Mon, 31 Aug 2026",
           "source": "Stock Titan"
         },
         {
@@ -134,16 +129,16 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Joseph Sutton Buys 9,700 Shares of Ameresco (NYSE:AMRC) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWUVnRFpWeEx2T0xoMEpXNHp0dXNHTy1UaTVjWldtLU5OTzNFWW9UNXp4Mjgzb2NlLXJoOXc4SVh4Y2tKMGpzMEVwOHYyQnlGNjhEMjhTajJqaDZ1QVhKN2tpcS1uc0ZralFRTHJXb3ZEWWhMS0UyV0V4Mk1WT0xMRVRlVExkaEtONF94M3pmQXljYU1PZ3NYSUdfbWJFaWNUU0d4STQ2dkJBUjhHeG14VXQ5eEw0ampiUlJZSw?oc=5",
+          "date": "Wed, 26 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
           "title": "Ameresco Director Joseph Sutton Buys 9,700 Shares for $202,400. What Should Investors Do? - The Globe and Mail",
           "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORVZIcHRQWmhZVE1Hemw3N3ZwWjB6cUhXbkNJSkdOWnJCV0llOUVuYkF4NlFzZEtJNTllak0xQjBJT2czTTNHaldyZHBmWlFyRk9kMHdmd3l6ei0zNW1VQ014ejlYMFUwa3A1NnpSaDZkYXVNX0NFQjRnWjAwS3VFT2wzNFdRal9iYU81MjhXNDNhQkQwSXFLcVVRX2RmQlJTQ1lGM1ZyYWNDaWJnSzM3RTNFOW40SmlGS3dzSTBWeFdjRmRTeHJTbk5lNGZOVGZPSXVfOHc1R2JLVUtwQkVlWVlteFUtdnlDSURkSE1oMEVBWnZSQi1OYWpUX2tYejhMd3lv?oc=5",
           "date": "Sat, 29 Aug 2026",
           "source": "The Globe and Mail"
-        },
-        {
-          "title": "Insider Buying: Ameresco (NYSE:AMRC) CEO Purchases $21,920.00 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0x3MUlVV3drRmlmazhQNXRCaGlmTTNHekpCVXVORXQtdk9HdElyd1IzaVdWVzNDOEtoRWVBZU5MaWJKbU52LUNMaEZYc19sU2Z4SDIzd3Qyc240b3pOaUdFZFFVRzFkTEpkSXJOU2hiaklGX0ZjSEk5bE1JbXNnZ1VmTHdVZ0pXSmdwVUF6RXcxOUg0NTRVWS0zcXNGZVd5ZzJOMkdnYW8yOHlvdDgybTIxb21oQXI4WllLVDI4c3B2MDRF?oc=5",
-          "date": "Sat, 29 Aug 2026",
-          "source": "MarketBeat"
         },
         {
           "title": "Ameresco Inc (AMRC) Stock Down 3.6% -- Now Undervalued? GF Score: 86/100 - GuruFocus",
@@ -155,7 +150,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -179,6 +174,182 @@
           "label": "Hearings mentioning \u201cConstruction - Special Trade Contractors\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Construction%20-%20Special%20Trade%20Contractors&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "PRTS",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 28.1,
+      "sell_score": 0.0,
+      "net_score": 28.1,
+      "distinct_buyers": 3,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-08-28 COO Huffaker Michael BUY $54,044",
+        "2026-08-28 COO Huffaker Michael BUY $54,044",
+        "2026-08-28 CEO Meniane David BUY $54,072",
+        "2026-08-28 CEO Meniane David BUY $54,072",
+        "2026-08-27 COO Huffaker Michael BUY $31,744",
+        "2026-08-27 COO Huffaker Michael BUY $31,744",
+        "2026-08-27 CEO Meniane David BUY $31,731",
+        "2026-08-27 CEO Meniane David BUY $31,731"
+      ],
+      "company": {
+        "name": "CarParts.com, Inc.",
+        "industry": "Retail-Auto & Home Supply Stores"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-17",
+          "2026-08-18",
+          "2026-08-19",
+          "2026-08-20",
+          "2026-08-21",
+          "2026-08-24",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-08-31",
+          "2026-09-01"
+        ],
+        "closes": [
+          6.54,
+          6.13,
+          6.08,
+          5.96,
+          6.23,
+          6.45,
+          6.58,
+          6.57,
+          6.38,
+          6.38,
+          7.17,
+          7.27,
+          7.23,
+          7.4154
+        ]
+      },
+      "price_now": 7.4154,
+      "price_at_signal": 7.17,
+      "pct_since_signal": 3.42,
+      "pct_14d": 13.39,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-07",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1378950/000137895026000080/prts-20260704x10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1378950/000137895026000078/prts-20260806x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-16",
+            "summary": "Company entered a material agreement; terminated a material agreement; took on new debt or obligations.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126025457/ef20076252_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-09",
+            "summary": "Company other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126024644/ef20075839_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-08",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126024450/ef20075603_8k.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Meniane David",
+          "kind": "CEO",
+          "note": "58 Form 4 filings on record since 2019; 2 buys of PRTS in this tracker's ledger"
+        },
+        {
+          "name": "Huffaker Michael",
+          "kind": "COO",
+          "note": "40 Form 4 filings on record since 2022; 2 buys of PRTS in this tracker's ledger"
+        },
+        {
+          "name": "PHELPS BARRY",
+          "kind": "OTHER",
+          "note": "73 Form 4 filings on record since 2003; 1 buy of PRTS in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "CarParts.com Inc (PRTS) Insider Michael Huffaker Buys 12,162 Sha - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSjMzTlA1Rk5DcFNKYjBZSGgtR096dWlmSjVuSWRIWklxaTlUNEFxMy1VMC1SYWE3czB1ekZhM0hJTFB4U0hkZld3WmdYQ1lYRE53NGpWN0MzRGdHTF92Rm1BNzIwXzVvOExhczVId0MwX2dxQ3JtbUpMaE1zN09EYzA3bUVoUHpNN19KU1JPVlBUR2U5WVc4eXpDZlhSU3FrRXNTTw?oc=5",
+          "date": "Tue, 01 Sep 2026",
+          "source": "GuruFocus"
+        },
+        {
+          "title": "David Meniane Buys 4,612 Shares of CarParts.com (NASDAQ:PRTS) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEpMaUZ6c1dZb3lxeERDM2lVSWo5N3hmakc1TDFmV1ZBVkhGUzJfQ2lqbWxzT2xaMVE0ZWxaM3pyVlpoVUJ3WkIySlBUbjZhazZnN0tFdnktNk5tUHlScVRPQjAyczZESUVLNW40OTF4a3lSTmtzdV80ajBmV3loWnpxalVrQW9pd2pNUmZXZHlCeTVScEh4aWRTdUZrd3hDa3dBamp1NzkzOVZ0RnFtel9mX1VWVU4tLWtmYzFCZHNDNjA?oc=5",
+          "date": "Mon, 31 Aug 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Carparts.com COO Michael Huffaker buys $85,788 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNejE0ZUNqWF80NG5fRlo0RllMZUdaN2tjOVh3VkZ5WHVGWnNzNGpXalpBM3Ytd1RsSkIwQldqUjJaNTBwbjN0ZmpRMXlfUmhLOVV1NnB3S2hGcExNeVIzOHktMnNnQ3oyT1U1S2prcG00TFRxQm1TN3A2Ukt2WHc1YVM0enR2WldreTVBN0pObkxBNlFiWmlCU1A1bW91NmlBRmt3RkxuTUYwc2g4N3dobXZwUmF0TG5nUTN6eF9TbnlERVE?oc=5",
+          "date": "Mon, 31 Aug 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "PRTS | CarParts.com, Inc. Common Stock Financials - Income Statement - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3VnpPSG5YaG9Gc21rbEJWZk1ubmgxV3hLTTloSUNhU2xZdTY1NVAxS2twUE9vYV9EUFFYQ1NYdzN6QWl2ckI4eTZ6cnQwaWRRakJEQXp5UExDaEZzcVVv?oc=5",
+          "date": "Wed, 26 Aug 2026",
+          "source": "Quiver Quantitative"
+        },
+        {
+          "title": "CarParts.com (NASDAQ:PRTS) CEO Buys $54,072.32 in Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2NYNXZvVmVYWERqa2RFMVpvZ1RZZ1NqWDBHXzJZMFpRLV9vOWU2OXpLcFVRZzdMTlRfTGZ2RnphWEJkYU1IempqbkVpWE1Senk5Ty05YjNabjhWNGl0ejgzNU1jMzZuZ21TLUswNU53Nk1LWTNDWk85WS1Fbm5NSlBnamxQYmhWQjNuVGJxc0ZZMEEzeVBId2taR3BOYlVobGhxZUR4Ml9MRG9lWjZoSw?oc=5",
+          "date": "Mon, 31 Aug 2026",
+          "source": "MarketBeat"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cCarParts.com\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=CarParts.com&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cCarParts.com\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=CarParts.com&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cRetail-Auto & Home Supply Stores\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Retail-Auto%20%26%20Home%20Supply%20Stores&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cRetail-Auto & Home Supply Stores\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Retail-Auto%20%26%20Home%20Supply%20Stores&source=committeemeetings"
         }
       ]
     },
@@ -220,8 +391,8 @@
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
-          "2026-08-28",
-          "2026-08-31"
+          "2026-08-31",
+          "2026-09-01"
         ],
         "closes": [
           202.66,
@@ -236,14 +407,14 @@
           124.31,
           129.66,
           131.77,
-          135.09,
-          134.721
+          135.1,
+          132.785
         ]
       },
-      "price_now": 134.721,
+      "price_now": 132.785,
       "price_at_signal": 129.66,
-      "pct_since_signal": 3.9,
-      "pct_14d": -33.52,
+      "pct_since_signal": 2.41,
+      "pct_14d": -34.48,
       "deep": {
         "recent_filings": [
           {
@@ -309,34 +480,34 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "A DICK'S Sporting Goods Director Buys Over 6,000 Shares After the Stock Crashed - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORjRyd2NMSGJnckFyT21qclR6TUF0UlZfNTN4YWg5a1ZKMXVXZVI4VTJIRFFmdjU3anltcHNKeTVnbUhYV1VLUHU5UFJidHpCWWVVekZldUZYRWVTcHJQMWFlWkdIcUxJb1BzWDZUUE85ZmVZUzZwNUhPSjVFdjBQWjhib1RwLVY5OUdrbXE0b0M1Z2doOHZDbzU5MEJXRnRGbXdCTmxYa0JLVGVjTzJuVHgtZ3kwWUJ2eDV0UEh5VTJqcFdNM2ROSA?oc=5",
-          "date": "Sun, 30 Aug 2026",
-          "source": "The Motley Fool"
+          "title": "Dick\u2019s Sporting Goods Directors Buy $3.7 Million of Stock After Shares Plunge - barrons.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ29Kc21mVVZxdldzdG5TRUhJeVlsd3JXbzRKQ0REbUsxQW90WG9uMlZtNmpQY0FQZWZoUEZlZ0RYc0RJb0VwMEd4ZjQ1V0J4TmVGUk90YmRRTERjUkl4ejZnblk2WnZRUERNM2hoa0RWa3U4VTlRbjFjX29VcUoySFdrNG0wTUdLTDhDeTQwci15RG5LWVBISw?oc=5",
+          "date": "Tue, 01 Sep 2026",
+          "source": "barrons.com"
         },
         {
-          "title": "Dick's Sporting Goods stock crash reveals a major problem for struggling Nike - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHl5Ymh3VnVLeFFQRjFPbVY1QlVGcTI5UGxMWDZuSmVkN0RxeWxQbWJVZTRYZXdTamFrZEVQcEx5dExiV3lFcHNpU3lCdGJZQkVmYkNuZE5ZZ0dzX0g4SlRvTldiNE9tUkxWRlhZQXdOWWJjLUp0WU5sam1SZXU3YzA1Q2dMNnRPclF5b1N3NDZDLTNILWRjUURaYkk3aTdFRXhYeldtWEZIaEVRVkEySTBuOWpoSVhlNEZvZF9kb3luUDVYemFheDljTUJ3NTlVODFHOUZRTQ?oc=5",
+          "title": "Dick's Sporting Goods Director Barrenechea Buys 17,000 Shares for $2.2 Million. Should You Buy DKS Too? - fool.com",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQU1EySFJVV0dpaHg3VW5KeElQcnNVMjFjSVJyWE44Zm9iSzNMMWxqc2QtRUVkMFZCb2Q2Zk5JU0ZyS3NQSzRwNEZVYjI2RnFVZFkzYXNjWVBRV2N3UndVTGlIQUh6bmpzaVFadVpPSEdnNk1rZWI0Y2paLUM0YVNqODJ6M0o5aXhYWXVuMVp5SG8yMkFXbHkxUHVJdDFjYTBScm4yS1BCQUZITmtQN2tVRk5WS0l6b1FIamtqa0tNaUQ5NFo1RjFsaGw1NzRxbzU2ckFoNzd4cm9aQ1R1SUlyZG5aY25IOWND?oc=5",
+          "date": "Sat, 29 Aug 2026",
+          "source": "fool.com"
+        },
+        {
+          "title": "Dick's Sporting Goods' Warning Bodes Poorly for Nike and Lululemon Stocks - fool.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY0FLekNTSGxFWlZOaHJydHZHVGZiVDYzSmk5TGxYajNrQVpqTFZoZ2luX2pTOVlYMEpiWUlvSENHMjhJVFVkUllvTU4yak95Q1JQZ09JWjhfVnpNMVlFYW1DLUdjYld4SkJTRVVIakN3bXNTeW9KeTZ0bHpGU3FmeF9OVVJNal9Rc3FuSWlDLWdpUUhySE5rWA?oc=5",
           "date": "Wed, 26 Aug 2026",
-          "source": "Yahoo Finance"
+          "source": "fool.com"
         },
         {
-          "title": "Dick's Sporting Goods stock plunges as retailer warns athleticwear demand is weakening - Fox Business",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhBdzlOMkwzdnVHNTJYYndUX0x3c0lHeV9wUXNfdEJLbjdMcDNQNUNWeEVVaDQ5Z1RlRXljQUtMME9hQjFUem1NVm90OHRCa0JTTlJianVFbllTV1djOUM4VlVfem94SWo0cm1mV055bHR4V3hhQ3RKc01GUWMySDJneFZMTnZIQnFHYjhWeDVLUmc5WDlQQlVFMTRGdjNtZmo1UktkTUxVbVdiN29ZZHAxdnVSQdIBuwFBVV95cUxQTmZzdG1HVkM1RFJzZE03cDV6Y1BGbVRGRkhpckxSWjNzdnBueUVpOW5lNjBUbG96STFRMVkwLU5xTDhNUEhNREhRMV9HOWhEYWJ5Ty1lT0dlMHNpSmFvMjdYMC1MNmxaMjI2eDEzY2pTMExXcGlmS3c0WDZicEh3ZUdWVktfUVBwRTBXLUZlREVQMThXemtpYjVzLU9iUHJVNGd0bnZVT21iRXUwamdSMjR0Z3dLXzY0eWhz?oc=5",
-          "date": "Tue, 25 Aug 2026",
-          "source": "Fox Business"
-        },
-        {
-          "title": "DICK'S Sporting Goods, Inc. Reports Second Quarter Results - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRWpFQ0JBcUJIWWxjQnBkZWhCeWdLUVc0M0tPNWEweXBNSE1HWVA1YVgzWndXTTJ1eVQ3ZVptOGJ0WTFxdTlJa3F4RVlDa2Z1bUJUcW1RZ2ZqRkp4VjhFaDVtQVVuTDk4MnkxSmxuSUUzRjhwZTl2blpOQmUtMnp4QU41bUhnTWQ0SEt3MmZaMzBFU3YxTEJNTGl6bmhjRUk3dm1lcFhuUzNXTDBfMkttTQ?oc=5",
-          "date": "Tue, 25 Aug 2026",
-          "source": "PR Newswire"
+          "title": "Montanova Capital LLC Buys Shares of 151,320 DICK'S Sporting Goods, Inc. $DKS - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRVVVMW9QYVRQNjJndUhob3hjSjBkMTFPTWx1Rmtuc0x6RzBnYmFJX29NNnNZSG9zVFptRFB3clNFeEQyRWpqTllOd3YxSVR4NTZSYkZHTXpUaUlRT2lqX18wMXV2VElzSDFXa013WVgySFp1Zl84TUphSDd0WlAxdjFGb3NMQWFYR0laNnh5MGx3WXVFSFVYUDhYMnljYXNwLXJDYlJjSXI1R2l6dkt0M3pQTlg0QWtzRnN4VmZGb29CTWVLa2l3R3FsekFVQQ?oc=5",
+          "date": "Tue, 01 Sep 2026",
+          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": true,
@@ -360,177 +531,6 @@
           "label": "Hearings mentioning \u201cRetail-Miscellaneous Shopping Goods Stores\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Retail-Miscellaneous%20Shopping%20Goods%20Stores&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "AMR",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 16.7,
-      "sell_score": 0.0,
-      "net_score": 16.7,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-08-25 DIRECTOR Courtis Kenneth S. BUY $630,065",
-        "2026-08-25 DIRECTOR Courtis Kenneth S. BUY $630,065",
-        "2026-08-25 DIRECTOR Courtis Kenneth S. BUY $452,599",
-        "2026-08-25 DIRECTOR Courtis Kenneth S. BUY $452,599",
-        "2026-08-21 DIRECTOR Gorzynski Michael BUY $2,089,169",
-        "2026-08-21 DIRECTOR Gorzynski Michael BUY $2,089,169",
-        "2026-08-21 DIRECTOR Gorzynski Michael BUY $2,089,169",
-        "2026-08-21 DIRECTOR Gorzynski Michael BUY $2,089,169"
-      ],
-      "company": {
-        "name": "Alpha Metallurgical Resources, Inc.",
-        "industry": "Bituminous Coal & Lignite Surface Mining"
-      },
-      "trend": {
-        "dates": [
-          "2026-08-12",
-          "2026-08-13",
-          "2026-08-14",
-          "2026-08-17",
-          "2026-08-18",
-          "2026-08-19",
-          "2026-08-20",
-          "2026-08-21",
-          "2026-08-24",
-          "2026-08-25",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-08-31"
-        ],
-        "closes": [
-          159.52,
-          155.6,
-          166.05,
-          169.01,
-          169.44,
-          194.42,
-          194.3,
-          210.01,
-          209.93,
-          215.63,
-          217.92,
-          227.38,
-          226.23,
-          234.66
-        ]
-      },
-      "price_now": 234.66,
-      "price_at_signal": 210.01,
-      "pct_since_signal": 11.74,
-      "pct_14d": 47.1,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-08-07",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000032/amr-20260807.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-07",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000031/amr-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-07",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000030/amr-20260807.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-27",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000025/amr-20260727.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-18",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1704715/000170471526000023/amr-20260618.htm"
-          }
-        ],
-        "about": "Alpha Metallurgical Resources, formerly Contura Energy, is a leading coal supplier with underground and surface coal mining complexes across Northern and Central Appalachia. Contura owns large coal basins in Pennsylvania, Virginia and West Virginia which supply both metallurgical coal to produce steel and thermal coal to generate power."
-      },
-      "actors": [
-        {
-          "name": "Gorzynski Michael",
-          "kind": "DIRECTOR",
-          "note": "18 Form 4 filings on record since 2020; 1 buy of AMR in this tracker's ledger"
-        },
-        {
-          "name": "Courtis Kenneth S.",
-          "kind": "DIRECTOR",
-          "note": "35 Form 4 filings on record since 2020; 11 buys of AMR in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Alpha Metallurgical Resources (NYSE:AMR) Stock Price Up 4.5% - Here's What Happened - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU196OVlQWGhCMUk2dHQ3aFVTc3A5RkY0M2ZfNmEwb0xrLWRJVFNwdXpNNEYxZFQzZEtEM1Y4UHFaV3dpWDRHVjc2c2N3WFBkTFkyNmdFVDNueWR1LUdYTTdGQjJGVEtNcDlYOVJDSU1mWHMtV01xU0lmMzMwczVoSUdMU2lmbWRKSVJUR3hVVXh3Z0wyX3ZQVGNBWVZnLTZORXRRRjFfa2dlZFhKV0NCR3NGTG5yWTVhZ3ljcU9UelctLVdtUE00c2tTYXRpRl9feVE?oc=5",
-          "date": "Mon, 31 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Empowered Funds LLC Takes $6.24 Million Position in Alpha Metallurgical Resources, Inc. $AMR - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRHduaGoxanZPa3lpM25rTkVBRWhWTUY1Y1dLUmEzOVpmaFowY3JIeHNtQnRrUnJzTjNFME56ZG1wNVBSN2JwUmVlM1d4amhTYzdVTDdwaS0tYVlkU0swYUVWdVZ5WHpucmludl9lSXVhUlc2bkloMmxzWGZsQVJrY0MySFZtQk13dWFvZ0g0MElBbE51Yk1aRmpzRERpX2w1QUNxWTFEdTFkTDNOVVUyMV9vSXJ6aU9DdjkzbUNIbndlSnp0amI1aXJkc2hLVkwtaHFRZGNoQmthRkhybk8xZVNB?oc=5",
-          "date": "Mon, 31 Aug 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Alpha Announces Preliminary Financial Results for Second Quarter 2026 - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVW55aDNNeUdEVklxajZyOWg4dUtGV0FjalF5c2lOckpsaDFXVjV1dGU4RjdNZXVHenMwZGhwXzE4dnA5a05MV0tYREw0ZTltVjJkdGlTZ1JvMXVlNVJzMVZTdG9jdEhkOFA2MU9EX2hrZjNTQUhWc21XelU3UUNLUzhZTWJzdVZ5NDBpRGJEeVhLZl9BWlFmRzczSGozdFF1aDZBMEoxV28zZFhyRk5OZlJGdHBQbGtqcWZ0RGYtV3p3akU?oc=5",
-          "date": "Mon, 27 Jul 2026",
-          "source": "PR Newswire"
-        },
-        {
-          "title": "Alpha Metallurgical Resources Director Courtis Buys Again, This Time $3.2 Million in Shares. Is it Time for Investors to Buy Too? - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZnhwM3B2aVkzSUg2LWhneWQwSDBsREJSY3BiOFBKQ01TTWtRcDBJTmdKLXVRcXlTbzc2U0dyaDNNWXhUMHlaYU94MkFPNlBPLTVaRUgwempMOWM5QXQ4YXlEbnR5d0xkcWNOVjJCeTFENW9lTUNwTmJKM2dwczNBSzBIRmdaWFRObEVYclBDbFN3U3JzbGY0RWlOOWJRS0RMbGZSMmhlRWFvUWNxNUFfLTBYSUlacF95TVdrYkp3SmFGWGs1b25XNGxla1VBRUJFS0pScGkyRmtzekdmZUtnQzBQbXRrZXRNdEh4NFR6bjdad3RBMU9mVXM2TFcwZER4QjNidzlGbnVKdw?oc=5",
-          "date": "Tue, 25 Aug 2026",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Alpha Metallurgical (AMR) director buys 5,000 shares near $216\u2013$217 - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEZFWGdEaHdrZkZuLWVlQjk0WDRFRjVaNUdmcXRKMFBFbmtrRkhETGVGQVJfTmxMbW1iMGtmQ0lGdG5CM09yMnlSSmlvVk1RNXBaMkdyN25XX2JjejhYNG5fOHVNQ1p2cFQwV3BzaExqMnhBWXhpQ05xYmY4b0RiR0JDMXB4YjFSeHN0bVJYOG5EZ21kMWV3dkhCazg4eWdiUG1BSlZocEM3by14amdVRXNUc19EMjBQWFdJcWQwck51aU1G?oc=5",
-          "date": "Tue, 25 Aug 2026",
-          "source": "Stock Titan"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Edge partly spent \u2014 already +12% since disclosure",
-        "cls": "spent"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cAlpha Metallurgical Resources\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Alpha%20Metallurgical%20Resources&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cAlpha Metallurgical Resources\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Alpha%20Metallurgical%20Resources&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cBituminous Coal & Lignite Surface Mining\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bituminous%20Coal%20%26%20Lignite%20Surface%20Mining&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBituminous Coal & Lignite Surface Mining\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bituminous%20Coal%20%26%20Lignite%20Surface%20Mining&source=committeemeetings"
         }
       ]
     }
