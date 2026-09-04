@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-09-03
+# InsiderEdge Daily Report — 2026-09-04
 
-Signals: **0 BUY** / **0 SELL** / **11 WATCH**
+Signals: **0 BUY** / **0 SELL** / **10 WATCH**
 
 ## BUY
 _None today — no cluster met the threshold. That is a feature, not a bug._
@@ -9,7 +9,17 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 _None today — no cluster met the threshold. That is a feature, not a bug._
 
 ## WATCHLIST
-### CRWD  (net -55.1 | buy 0.0 / sell 55.1 | 0 buyers, 2 sellers)
+### UTHR  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 2 sellers)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $96,770 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $96,770 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $82,364 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $82,364 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $77,226 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $77,226 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $739,954 (10b5-1 planned sale — discounted)
+- 2026-09-03 OFFICER MAHON PAUL A SELL $739,954 (10b5-1 planned sale — discounted)
+
+### CRWD  (net -53.2 | buy 0.0 / sell 53.2 | 0 buyers, 2 sellers)
 - 2026-09-01 OTHER GANDHI SAMEER K SELL $98,921 (10b5-1 planned sale — discounted)
 - 2026-09-01 OTHER GANDHI SAMEER K SELL $98,921 (10b5-1 planned sale — discounted)
 - 2026-09-01 OTHER GANDHI SAMEER K SELL $95,028 (10b5-1 planned sale — discounted)
@@ -19,17 +29,27 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-01 OTHER GANDHI SAMEER K SELL $79,727 (10b5-1 planned sale — discounted)
 - 2026-09-01 OTHER GANDHI SAMEER K SELL $79,727 (10b5-1 planned sale — discounted)
 
-### UTHR  (net -46.1 | buy 0.0 / sell 46.1 | 0 buyers, 1 sellers)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $888,721 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $888,721 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $834,272 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $834,272 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $758,049 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $758,049 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $422,359 (10b5-1 planned sale — discounted)
-- 2026-09-01 CEO ROTHBLATT MARTINE A SELL $422,359 (10b5-1 planned sale — discounted)
+### BAND  (net -44.0 | buy 0.0 / sell 44.0 | 0 buyers, 8 sellers)
+- 2026-09-02 OFFICER Ross Kade SELL $99,643 (10b5-1 planned sale — discounted)
+- 2026-09-02 OFFICER Ross Kade SELL $99,643 (10b5-1 planned sale — discounted)
+- 2026-09-02 OFFICER Ross Kade SELL $55,827 (10b5-1 planned sale — discounted)
+- 2026-09-02 OFFICER Ross Kade SELL $55,827 (10b5-1 planned sale — discounted)
+- 2026-09-02 OFFICER Ross Kade SELL $37,115 (10b5-1 planned sale — discounted)
+- 2026-09-02 OFFICER Ross Kade SELL $37,115 (10b5-1 planned sale — discounted)
+- 2026-09-02 CFO Raiford Daryl E SELL $68,582 (10b5-1 planned sale — discounted)
+- 2026-09-02 CFO Raiford Daryl E SELL $68,582 (10b5-1 planned sale — discounted)
 
-### CAT  (net -41.4 | buy 0.0 / sell 41.4 | 0 buyers, 1 sellers)
+### TRDA  (net -42.4 | buy 0.0 / sell 42.4 | 0 buyers, 2 sellers)
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+- 2026-09-03 OTHER MPM BioVentures 2014, L.P. SELL $231,326
+
+### CAT  (net -39.9 | buy 0.0 / sell 39.9 | 0 buyers, 1 sellers)
 - 2026-08-28 CEO Creed Joseph E SELL $602,542
 - 2026-08-28 CEO Creed Joseph E SELL $602,542
 - 2026-08-28 CEO Creed Joseph E SELL $432,594
@@ -39,17 +59,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-28 CEO Creed Joseph E SELL $4,953,460
 - 2026-08-28 CEO Creed Joseph E SELL $4,953,460
 
-### BAND  (net -38.5 | buy 0.0 / sell 38.5 | 0 buyers, 8 sellers)
-- 2026-09-01 OFFICER Krupka Devin M SELL $150,546 (10b5-1 planned sale — discounted)
-- 2026-09-01 OFFICER Krupka Devin M SELL $150,546 (10b5-1 planned sale — discounted)
-- 2026-08-31 OFFICER Ross Kade SELL $46,137
-- 2026-08-31 OFFICER Ross Kade SELL $46,137
-- 2026-08-31 OFFICER Ross Kade SELL $33,283
-- 2026-08-31 OFFICER Ross Kade SELL $33,283
-- 2026-08-31 OFFICER Krupka Devin M SELL $34,811
-- 2026-08-31 OFFICER Krupka Devin M SELL $34,811
-
-### QNRX  (net +24.9 | buy 24.9 / sell 0.0 | 4 buyers, 0 sellers)
+### QNRX  (net +19.4 | buy 19.4 / sell 0.0 | 4 buyers, 0 sellers)
 - 2026-08-31 DIRECTOR Culverwell Anthony James BUY $29,992
 - 2026-08-31 DIRECTOR Culverwell Anthony James BUY $29,992
 - 2026-08-31 COO Carter Denise P. BUY $99,991
@@ -59,17 +69,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-31 CEO Myers Michael BUY $99,991
 - 2026-08-31 CEO Myers Michael BUY $99,991
 
-### DKS  (net +24.2 | buy 24.2 / sell 0.0 | 4 buyers, 0 sellers)
-- 2026-09-01 DIRECTOR COLOMBO WILLIAM J BUY $121,602
-- 2026-09-01 DIRECTOR COLOMBO WILLIAM J BUY $121,602
-- 2026-08-27 DIRECTOR COLOMBO WILLIAM J BUY $141,900
-- 2026-08-27 DIRECTOR COLOMBO WILLIAM J BUY $141,900
-- 2026-08-27 DIRECTOR Barrenechea Mark J BUY $2,222,240
-- 2026-08-27 DIRECTOR Barrenechea Mark J BUY $2,222,240
-- 2026-08-26 DIRECTOR MATHRANI SANDEEP BUY $199,783
-- 2026-08-26 DIRECTOR MATHRANI SANDEEP BUY $199,783
-
-### PRTS  (net +17.5 | buy 17.5 / sell 0.0 | 2 buyers, 0 sellers)
+### PRTS  (net +13.6 | buy 13.6 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-08-28 COO Huffaker Michael BUY $54,044
 - 2026-08-28 COO Huffaker Michael BUY $54,044
 - 2026-08-28 CEO Meniane David BUY $54,072
@@ -79,29 +79,27 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-08-27 CEO Meniane David BUY $31,731
 - 2026-08-27 CEO Meniane David BUY $31,731
 
-### MTDR  (net +9.5 | buy 9.5 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-27 CFO Calvert Christopher P BUY $141,600
-- 2026-08-27 CFO Calvert Christopher P BUY $141,600
-- 2026-08-26 CEO Foran Joseph Wm BUY $30,242
-- 2026-08-26 CEO Foran Joseph Wm BUY $30,242
-
-### AIIR  (net +9.3 | buy 9.3 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-08-27 CFO Lotfy Bassem BUY $35,479
-- 2026-08-27 CFO Lotfy Bassem BUY $35,479
-- 2026-08-27 CEO Brazier Stuart Damon BUY $44,128
-- 2026-08-27 CEO Brazier Stuart Damon BUY $44,128
-
-### GROV  (net +9.2 | buy 9.2 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-01 DIRECTOR Karp Jason H. BUY $56,529
-- 2026-09-01 DIRECTOR Karp Jason H. BUY $56,529
-- 2026-09-01 CEO Yurcisin Jeffrey Michael BUY $94,689
-- 2026-09-01 CEO Yurcisin Jeffrey Michael BUY $94,689
-
-### LUCK  (net +6.2 | buy 6.2 / sell 0.0 | 2 buyers, 0 sellers)
+### LUCK  (net +4.9 | buy 4.9 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-01 DIRECTOR Young John Alan BUY $614,000
 - 2026-09-01 DIRECTOR Young John Alan BUY $614,000
 - 2026-08-28 DIRECTOR MATHRANI SANDEEP BUY $59,957
 - 2026-08-28 DIRECTOR MATHRANI SANDEEP BUY $59,957
+
+### SHMD  (net +2.4 | buy 2.4 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-08-30 DIRECTOR Schmid Anette BUY $218,199
+- 2026-08-30 DIRECTOR Schmid Anette BUY $218,199
+- 2006-08-28 CFO Schuetz Arthur Josef Hermann BUY $49,096
+- 2006-08-28 CFO Schuetz Arthur Josef Hermann BUY $49,096
+
+### WIX  (net -2.3 | buy 18.3 / sell 20.6 | 4 buyers, 7 sellers)
+- 2026-09-01 PRESIDENT Zohar Nir SELL $35,720
+- 2026-09-01 PRESIDENT Zohar Nir SELL $35,720
+- 2026-09-01 PRESIDENT Zohar Nir SELL $25,745
+- 2026-09-01 PRESIDENT Zohar Nir SELL $25,745
+- 2026-09-01 OFFICER Shai Omer SELL $46,550
+- 2026-09-01 OFFICER Shai Omer SELL $46,550
+- 2026-09-01 OFFICER Meyer Shelly B SELL $45,505
+- 2026-09-01 OFFICER Meyer Shelly B SELL $45,505
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.
