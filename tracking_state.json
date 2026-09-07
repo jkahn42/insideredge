@@ -5,45 +5,10 @@
       "start_date": "2026-08-20",
       "start_price": 91.6128
     },
-    "BRVE": {
-      "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": 26.25
-    },
-    "ELAN": {
-      "action": "SELL",
-      "start_date": "2026-08-14",
-      "start_price": 23.095
-    },
-    "LTGO": {
-      "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": 19.395
-    },
-    "MKZR": {
-      "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": 1.63
-    },
     "ATTO": {
       "action": "BUY",
       "start_date": "2026-08-20",
       "start_price": 22.19
-    },
-    "ACDC": {
-      "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": 5.39
-    },
-    "HEPA": {
-      "action": "SELL",
-      "start_date": "2026-08-14",
-      "start_price": 0.0601
-    },
-    "PNAQ": {
-      "action": "BUY",
-      "start_date": "2026-08-14",
-      "start_price": null
     },
     "CHYM": {
       "action": "BUY",
