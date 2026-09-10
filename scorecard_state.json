@@ -17,6 +17,12 @@
       "issued": "2026-08-18",
       "px_issue": 41.9268,
       "spy_issue": 768.33
+    },
+    {
+      "ticker": "INBX",
+      "issued": "2026-09-10",
+      "px_issue": 111.775,
+      "spy_issue": 759.05
     }
   ]
 }
