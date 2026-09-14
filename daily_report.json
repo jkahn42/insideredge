@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-14",
   "signals": [
     {
       "ticker": "DELL",
@@ -12,14 +12,14 @@
       "distinct_buyers": 0,
       "distinct_sellers": 7,
       "evidence": [
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors V, L.P. SELL $29,141",
-        "2026-09-08 OTHER Silver Lake Technology Investors IV, L.P. SELL $64,109",
-        "2026-09-08 OTHER Silver Lake Technology Investors IV, L.P. SELL $64,109"
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $41,740",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $38,109",
+        "2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $38,109"
       ],
       "company": {
         "name": "Dell Technologies Inc.",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -40,10 +39,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          433.19,
           451.5,
           463.82,
           472.26,
@@ -56,13 +55,14 @@
           533.88,
           535.25,
           506.62,
-          558.38
+          567.29,
+          545.31
         ]
       },
-      "price_now": 558.38,
-      "price_at_signal": 533.88,
-      "pct_since_signal": 4.59,
-      "pct_14d": 28.9,
+      "price_now": 545.31,
+      "price_at_signal": 535.25,
+      "pct_since_signal": 1.88,
+      "pct_14d": 20.78,
       "deep": {
         "recent_filings": [
           {
@@ -76,29 +76,29 @@
       },
       "actors": [
         {
-          "name": "Silver Lake Partners IV, L.P.",
-          "kind": "OTHER",
-          "note": "146 Form 4 filings on record since 2012; 78 sales of DELL in this tracker's ledger"
-        },
-        {
           "name": "SL SPV-2, L.P.",
           "kind": "OTHER",
-          "note": "94 Form 4 filings on record since 2019; 67 sales of DELL in this tracker's ledger"
+          "note": "95 Form 4 filings on record since 2019; 84 sales of DELL in this tracker's ledger"
         },
         {
-          "name": "Silver Lake Technology Investors IV, L.P.",
+          "name": "Silver Lake Partners IV, L.P.",
           "kind": "OTHER",
-          "note": "114 Form 4 filings on record since 2016; 43 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "Silver Lake Partners V DE (AIV), L.P.",
-          "kind": "OTHER",
-          "note": "94 Form 4 filings on record since 2018; 67 sales of DELL in this tracker's ledger"
+          "note": "147 Form 4 filings on record since 2012; 98 sales of DELL in this tracker's ledger"
         },
         {
           "name": "Silver Lake Technology Investors V, L.P.",
           "kind": "OTHER",
-          "note": "90 Form 4 filings on record since 2018; 18 sales of DELL in this tracker's ledger"
+          "note": "91 Form 4 filings on record since 2018; 22 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Technology Investors IV, L.P.",
+          "kind": "OTHER",
+          "note": "115 Form 4 filings on record since 2016; 53 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Partners V DE (AIV), L.P.",
+          "kind": "OTHER",
+          "note": "95 Form 4 filings on record since 2018; 84 sales of DELL in this tracker's ledger"
         },
         {
           "name": "Saavedra Jennifer D.",
@@ -113,41 +113,41 @@
       ],
       "news": [
         {
-          "title": "Prediction: DELL Could Be Ready for Another Rally. Here\u2019s Our Price Target - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPckItdkFNOFNoTjdsQ0JMV2dnYjlpdlhYRzlsampmcVJkZ0ZTdHZpQ2NPOWtXeTdWeWx1ektSQU96ZzdTbmtMUmpXSGM0a0RrODVHaU9PenFGX1hPWDMyWnhvNTZlX1hUdUNhWGxWUzBxWU10WHJ0NExfUENUOHZNTFJGcDJEa2V6RmVzZy1BZnI0T2w2YVhuYlN6ZVpWR2c3d3c?oc=5",
-          "date": "Fri, 11 Sep 2026",
+          "title": "Jim Cramer Believes This AI Stock Is The Way To Go Over DRAM Memory - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTG9sMnBOSVRXdjh0YjJkenlEcHdvZnFaSzVGMzdZd0tPQTl6REd6ZW15UWV5b1FYME5nM18xWW1WbDAzMGpVeFdqbUlCQWhValY3bzhQQ3oxOGlEbU5Sc1cxZTI0a25yZnNjNmd2aEVFRjM3MDlJenBsYS12YTJDeDNHZE1vQU8xeWZDSjFRSGhoQWM3ckpj?oc=5",
+          "date": "Mon, 14 Sep 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "AI Server Stocks Slide as Two-Day Run Unwinds: Hewlett Packard Enterprise Sinks 4%, Dell Pulls Back, Super Micro Sits Out the Selloff - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeGlKVDZhai1tWnM2Q3VWTXZ0Z2NtZVBneDFfQ0RQOGF4Z3M1dk9qMENzV2RXTHk5QXp5eEhiQUlINkFuUk52ek5WMTZKN1d0MHJHeUNJeTRPMzFFR1lXZURkdWhrN0hmSWpQTk1rVDliZk53UFR1SE9udGQ2WDJYZl9ibGNUcGNzQkhtZWZXdnhBakNNS3N5ZjRmNlJTTzY1ODhsWEZQMGFpTk5yYkQ2blVVdVJNUW0tdE9SZ1FmRER6YVB1OTRQQlN4NHJaYmVNbGlTbWJWSFAxRVp3b011X2dHTVJoMHpwUnBKUlNDay16LUdmQWllUGhpWlFYY3RQcDVz?oc=5",
-          "date": "Thu, 10 Sep 2026",
-          "source": "24/7 Wall St."
+          "title": "Dell stock jumps on RBC initiation, now up nearly 350% in 2026 - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YZ0tnUW9ySTRrOTkyTUhzU1F4cXN4UGpvSTM5V19kbXpaZnBKdEVVXzhCSkR0VTJCczNlNlZDMTJnLWZPcy1GT0JESVBaR0FhZjRBWk8yQ0x0R0NiaW1MR29lQnY1QjFGWFBMdW0xZ9IBdEFVX3lxTE9KX18zRGZOQlJVdWNERk9SQ0thRlhiSTB5ZjRMZHE0MWVELWZRTjRpQi16di11RkVjWTM4M3hRMndlemRkMk5tV3k1SzE2UDNXWEgycmdhSTFaUnRaQjNiZTFJUTU4VWhDZ21jSG9hOVEydzgx?oc=5",
+          "date": "Fri, 11 Sep 2026",
+          "source": "CNBC"
         },
         {
-          "title": "Dell: AI Boom Is Going Through The Roof (Upgrade) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNlQ1T01EeTkxUElMQmhEaUNpYmZ3U1VmbENqYndvX1Y1WVg3Tk1PM3NINVF4UEN0dlBvZlVGSEt1b3ZqOUJ6X0hMSnJFMWVSZTRWTFBUY2JNb3lMWVhDdmdoaFZfMXRaMWJBeHQ3WjFwdnBkdW1UaFZoZmZUeklydUcxMmlieEpzSjVNNmNYZkw?oc=5",
-          "date": "Thu, 10 Sep 2026",
+          "title": "Dell: Powerhouse AI Stock (NYSE:DELL) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PVnBpSzJTNUkxdDVNeTFIVnRlMFJsbG1DcWZQYWZjRHB4eUhYMDUwdzZwaTVzMGJfOFJ5QnpkQzhDUTB4WHB5LUdra2NwR19zTXlHUEw3VGZUWlA5ZTFzVHpTQThRYmg0cVJ1bnpLako2a1U?oc=5",
+          "date": "Sun, 13 Sep 2026",
           "source": "Seeking Alpha"
         },
         {
-          "title": "Dell Technologies Inc. Cl C stock rises Tuesday, outperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTAzRXBpU1daeHpuTGZRa0ZOU1dUWVk3ZVR1VFh1bXpYUlV4QkNPb3dVWktwdDVHblVlSlhRTkNnb3ZEVWFZNi1ST3FxZzdJRlVzanh6clBLRkdLMU9maVVJTlpJaGw4b3Z0X0VzS0oxaUxha0FPaE1pZ1Fnekl4aUpfUWt6WHpkaEhLeFphN1dxYl80V2E4LWhTRFFWdHJ6Vm1NWHNvSmtIc1piaXR1Q0JxT0doN3VCcVAzMi1WSkE2SVU?oc=5",
-          "date": "Tue, 08 Sep 2026",
-          "source": "MarketWatch"
+          "title": "Why Is Dell Technologies Stock Falling Monday? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnRWM2RUdU01UEZuNmxXd05LVTRNRzJsdmphRDdZSHFINWNBZ25GZHBZdC1lWVdrU2hTM0gzVS1GSGswYmtvWkRIWXRoeEgydEJGemt3VkJZeXVWMldVVjVhZVRJNEtCbnVKMTUxeEh1WDJtb1R1N080bzVINVczQnBnRjdCOG9Vd1Vxa1UycUk4V3dxMURTU1BSak9xajlpZkN6SFNB?oc=5",
+          "date": "Mon, 14 Sep 2026",
+          "source": "Benzinga"
         },
         {
-          "title": "Time to Buy: Wall Street Says Dell Stock Could Climb 38% in a Year - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdlZWOEN4X0dfSmhjUUlMbDAyQi14X05jRlJzbXcxWVB1dWlrbFh4SmRMX1VpRGdVYmg5WkY1VFZaaWVIYkRDa2g4UGtENzh0dzg2d1BOQnFDTmRoajFNY200MkFyRDJaR2pRMzl1b0J2MV9hQzhJejNhNGc2OG5ibEhucG9rQk1OUFJFMHcwUXRxM2t2?oc=5",
-          "date": "Wed, 09 Sep 2026",
-          "source": "Yahoo Finance"
+          "title": "What Did Dell Technologies Say Before Its Stock Quadrupled? - Trefis",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTXNRNW9TVHhvVGxydEM3RHdmbV9FOFN3WW4wN2RoWUpLWmJhMHBwNmpIWkZQbGQ1TFpnMGsyeXBjTGp4Y09DMTFJZWNYM3Vsb2g4NlVnbkMxdURPTVNfRkRvY01hNjQ4MnlxMy12YkZjSTlYcnNrUloxdnVjN0pBWTJ4dm53Sm42OWNYb1dFQS1HQXZiOU11Q2Fpbkk5UzNwTG5DejhsMVF1YWctWTQ4Vmd3cFQ2R1RwZklv?oc=5",
+          "date": "Fri, 11 Sep 2026",
+          "source": "Trefis"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -174,13 +174,179 @@
       ]
     },
     {
-      "ticker": "RSG",
+      "ticker": "GPI",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 60.0,
       "sell_score": 0.0,
       "net_score": 60.0,
+      "distinct_buyers": 1,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $62,823",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $62,823",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $605,414",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $605,414",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $56,866",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $56,866",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $5,118,309",
+        "2026-09-10 OTHER Conifer Management, L.L.C. BUY $5,118,309"
+      ],
+      "company": {
+        "name": "GROUP 1 AUTOMOTIVE INC",
+        "industry": "Retail-Auto Dealers & Gasoline Stations"
+      },
+      "trend": {
+        "dates": [
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-28",
+          "2026-08-31",
+          "2026-09-01",
+          "2026-09-02",
+          "2026-09-03",
+          "2026-09-04",
+          "2026-09-08",
+          "2026-09-09",
+          "2026-09-10",
+          "2026-09-11",
+          "2026-09-14"
+        ],
+        "closes": [
+          264.81,
+          262.63,
+          262.04,
+          263.95,
+          269.54,
+          269.5,
+          276.41,
+          284.33,
+          300.76,
+          281.6,
+          287.72,
+          281.84,
+          278.27,
+          284.6401
+        ]
+      },
+      "price_now": 284.6401,
+      "price_at_signal": 281.84,
+      "pct_since_signal": 0.99,
+      "pct_14d": 7.49,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-09-10",
+            "summary": "Company entered a material agreement; other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526386882/d133710d8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-08",
+            "summary": "Company announced results of operations (earnings); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526384390/d123895d8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-11",
+            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000126/gpi-20260810.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-07-30",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000123/gpi-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-30",
+            "summary": "Company entered a material agreement; announced results of operations (earnings); Reg FD disclosure (investor materials).",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000121/gpi-20260730.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Conifer Management, L.L.C.",
+          "kind": "OTHER",
+          "note": "5 Form 4 filings on record since 2019; 44 buys of GPI in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Group 1 Automotive Reports First Quarter 2026 Financial Results - Group 1 Automotive | Investor Relations",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkNsakV6TUpWTmJ3elpNb1Rvc2lXUVVyazVWU1p5ZmIzNFVMcTJwRmlLMHVhWGNTOHBLUlZCdGtuSXJsMW9WaVp3ckRKdmpsTk94elYxSDVOdjhaQ0owYjUzdDIxQzljSWhIY0U1cFZ4NHAtR1dHZWFZcnlKZU9kSEdjWThiYXY3OGxULXlIU2g2dGhPVVhzbGNSR1loVERjRmdR?oc=5",
+          "date": "Thu, 30 Apr 2026",
+          "source": "Group 1 Automotive | Investor Relations"
+        },
+        {
+          "title": "140K Group 1 Automotive (GPI) shares bought over two days across high-$270s to low-$300s - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnc5YTdyM0xaRXl1Zk5kZmYzYWZXRnc3R3VVbUdvbjl4S3h3V29YNmFBTEJqckVfRUxvVXBBT1lLWW52SFFicGdLS0FLRlhxa1U5NDFZRmZ4YTgxVGR0THRWWl9qVGFQRG1IV19WQlFOV1c1am9TTE1BTzNkTVhrTFJtb0hOcmdBZ2NjRDRWaUNYTVJNcWd0QVpPZmFMX0lnU3BSb3V2M3VaNm5OUnNMYnB4RWdqQQ?oc=5",
+          "date": "Tue, 08 Sep 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Group 1 Q2 Earnings Miss Estimates on Lower Vehicle Volumes - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnJEYWR0a0tTUkV2dXk4M3BQai1DdWRLdDU0YmEtV1Blb3hZSnpxNlV0VEl3UnpSRFQ2TExldFc4RzBwbm9fM29hd04xOENKLVhtVXJSbUR6bFRHQko4a3NfZE01akVRakZFZUpKY2JHaUwwNGRfOC01bUxRbXFVRjhlelhXRkwxUzh0OHdFNUtuMEE?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Conifer Management acquires $40.6m in Group 1 Automotive (GPI) shares - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQnNxODVidzJzb1hvSXpob2RxTXBDN0FlbFowZUk4N3FBWjZjSUhDeVRXNk9fUUI0NFZmTlRBRzZvMlNaSm5KQTJuT0IxMnR5NXFzZXdBSnhMX1FTaXJIR0RIOF9YX3ExaElTVUNjUjVTNTBLc1NPUjE3LXNNcEx5VzFOcXBBcVd5dXQxSjhMT0RsZ3NIbG1iSEMwREdnU2tkRWRXNHMwOUY2WHNxUDZ0OFRXOC16U2tVcDVEQW9KZmFOd1JOZEx2UTZ3?oc=5",
+          "date": "Tue, 08 Sep 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "GPI - Group 1 Automotive Inc Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5TRVdodG9oc0NzWnhNYkxhWTZCcnU2Xy11ZEtkcmdha2lNS0dmZU1mdkJ6blVhVHR3akRnek51Nzd0T2w2?oc=5",
+          "date": "Tue, 26 May 2026",
+          "source": "Finviz"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201c1 AUTOMOTIVE\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=1%20AUTOMOTIVE&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201c1 AUTOMOTIVE\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=1%20AUTOMOTIVE&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cRetail-Auto Dealers & Gasoline Stations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Retail-Auto%20Dealers%20%26%20Gasoline%20Stations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cRetail-Auto Dealers & Gasoline Stations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Retail-Auto%20Dealers%20%26%20Gasoline%20Stations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "RSG",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 43.3,
+      "sell_score": 0.0,
+      "net_score": 43.3,
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
@@ -199,7 +365,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -212,10 +377,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          223.08,
           220.96,
           222.18,
           219.27,
@@ -228,13 +393,14 @@
           221.63,
           222.47,
           221.08,
-          223.175
+          222.74,
+          225.755
         ]
       },
-      "price_now": 223.175,
+      "price_now": 225.755,
       "price_at_signal": 222.47,
-      "pct_since_signal": 0.32,
-      "pct_14d": 0.04,
+      "pct_since_signal": 1.48,
+      "pct_14d": 2.17,
       "deep": {
         "recent_filings": [
           {
@@ -267,9 +433,9 @@
       ],
       "news": [
         {
-          "title": "Cascade Investment, L.L.C. Purchases 311,304 Shares of Republic Services (NYSE:RSG) Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdDVfM2VRQjVfeEN0LWZ5aUtkV2VpNjl4enRTMDdXQlBwOUswLU1CRnBFQmc1Y0ZTN2NURzBYUnJzRlMwcThlV3EtU0haNXk3Nzg2TEhpZHo4dzBUNWVHNmtHc1hweURXcFhTcklTZWI1bVBEZjMwNU8xcU1FZ0ZVUkFaUlJ1SWVWVGlNcjhhckdFakdSV2F2TVJWc0hJTkFEMlRPazYwb1JmSGF2aHlUVUpEZ3ctLVlPR2xpUTBRb2p5ZnMwbVJ2U3BfMy1UejVWTEdxQ2pQY2g4SzVN?oc=5",
-          "date": "Thu, 10 Sep 2026",
+          "title": "Corient Private Wealth LP Grows Stake in Republic Services, Inc. $RSG - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQUhnV3g2Z2M1Sk1zam9PWlJoTkdFNHlhTXFpa0gyMW1YUF8yaWg0eDFwTTBPcXEwSFFsSFZsR000N2RHUnRyY1QtX3hFS2UxcmF6YXhmWDNwblhMVExRRkNONHpGWlVfSjBjMmZoSzNXcVhWalQwZEFqUDB0ZzlJQ3VCUlpVdU5TSHUxWnJDMkdLeXdRRXJVclVqMlhnUVFjQUJmSk1ReGNiZFZzMDVadEFwdnV0ZjduYW1PaGVPZFNDRlNJYUE?oc=5",
+          "date": "Mon, 14 Sep 2026",
           "source": "MarketBeat"
         },
         {
@@ -279,29 +445,29 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Is Republic Services Stock Underperforming the Nasdaq? - Barchart.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeDRlNFZOZ3J3T0JFUUo5T01oODR5Yy1QUHc2OW9DdzBUYjBEZkhKMmFWWWVnQTB2clVmZlp5UzE0MnVjeXQ3a0IwUGJxSk55OVFWWTFkQUFXNEMwS3dxZTZRMHVUNzREd3hvTGFReGlBaEdJTkg0QnMzU1FvbE8ySTJ1SER4MWxvNFUxYmoyZWptUmo0SWVRQnZIRkNaQQ?oc=5",
-          "date": "Mon, 07 Sep 2026",
-          "source": "Barchart.com"
-        },
-        {
-          "title": "10% Owner Investment, Cascade Buys 720,804 Shares of Republic Se - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbk12UW1aaHhqc01IUWdxWVh1dHRiTlZ3WTNHTk11cC1fQVBlSjFZeDRfYS1XRG0yMF9DSXUxbmhlZzdJaTZRSGVEdzJfODhwWFJfVENNTDZZZjI5X1hEU2pnUWd3TzY3MU9MM2lNdEFqYlU5cEZtc0w2eERLcjdhUlZBSlpRT2NHeVROUUhmYlN2bDgtN2RSVG5RRUJsT1pCOHFXblhCQnBwWWdJcmFLX3Zhd2U?oc=5",
-          "date": "Fri, 11 Sep 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Republic Services stock heads into the open after a 0.4 percent gain - ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdnhVZ0lURWRLTFItb0NDX0ROQXVGcF8wWndlNmJpWGxiRFN5UzF1UW5WTGtQUGpXdndFdm91bW1JNHczN3cxYW9Ea2hnbkl6aDJNTE9wTUFaVHY5czI1Wm0wWkFuOUhCUFFlSEpuVGVaNmxvOEM1ZDcycTZLcWcxZGF4MTBhVmw3bl93ODBMSC1JVDc1M3Zad1FJUHZ0WWg2bWppMy0yM05fTTJfTjdha0lPU3N2S1JhSEdqMnFXTGRDWVRubHRHM2RoNA?oc=5",
-          "date": "Fri, 11 Sep 2026",
+          "title": "Republic Services stock heads into the open after a mild gain - ad-hoc-news.de",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVDVjR2w4YVgwN3habU5ZUkUySDB3RmtGb1JQODVtSG1RZXpHYUdGS1l2VDNFMHlObHlRcG1uWEpiUlM3Ym01dG41LWg4ajhkdU1PSnpLeFVKRXFIaHE3X2ZNM05HZmhoanU3WENtV1ZfcWNiVlh4cU5zU0dqVG03RFJpYjZFOTZvZHNzXzRlTVJMWEZDYlp4NUJ6bk96WGc2YjJMRS12X3VadXJkMFZOb285cGp6ZWRjRjVFTVBQR2pIdw?oc=5",
+          "date": "Mon, 14 Sep 2026",
           "source": "ad-hoc-news.de"
+        },
+        {
+          "title": "Republic Services, Inc. Reports Second Quarter 2026 Results - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWTZ6M0VVdktHR2o4RGJESnk3Z2E4SG84VWRtajBDTGxPTktMOHF0dlZ0SDBZLXpCVV9wZm5xOE9VOXp5SWl0cjdXRGFPbld2V2tVZkVZLWgzVk43a2FKa3pZd2VvOXdQdjFzVFl0SmpXbnFPYzFTSWUzMjNmTVZRLTFPajhkZEVwdGhBaWFhVmxjTlVIc2sxeFRJdVkzb2lqYXh4anp0WUE3MC0xRWxKaDRfaw?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "PR Newswire"
+        },
+        {
+          "title": "Is Republic Services, Inc. (RSG) A Good Stock To Buy Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQWxNNzFmWG10cHVSR0xvZ2QyejBVR3lTVlREZE45clhCU1U0Y2cyNktyZ2VDY2RWU1hpM21waXIzcWNkSlM5WmJyRk5jUjNzdzg5ellLcU9kdHkwVzJIbVdDLWt4RkdpSjF4QmFZX3JoSFU2eWs3OWxqRXBPVDQ5RnlHczB1R3VuLUdPTVVLcVR0M2NjRzlYbWNiNA?oc=5",
+          "date": "Fri, 24 Apr 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -332,9 +498,9 @@
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 59.9,
+      "buy_score": 43.2,
       "sell_score": 0.1,
-      "net_score": 59.7,
+      "net_score": 43.1,
       "distinct_buyers": 3,
       "distinct_sellers": 1,
       "evidence": [
@@ -353,7 +519,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -366,10 +531,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          104.94,
           122.72,
           125.34,
           123.93,
@@ -382,13 +547,14 @@
           114.34,
           112.86,
           111.42,
-          110.13
+          109.27,
+          109.715
         ]
       },
-      "price_now": 110.13,
+      "price_now": 109.715,
       "price_at_signal": 114.34,
-      "pct_since_signal": -3.68,
-      "pct_14d": 4.95,
+      "pct_since_signal": -4.04,
+      "pct_14d": -10.6,
       "deep": {
         "recent_filings": [
           {
@@ -448,22 +614,22 @@
       ],
       "news": [
         {
-          "title": "Inhibrx Biosciences director Kimberly Manhard sells $115,467 in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNXc5QVcyR0d4c3J1aF82VnZYY0xycTQtd1FBSk1PaE54VUt5UTBwa0g2eF9aVjU1RGFEZGZiS1NIT1diM0pObEJvNWxJM0VPUWw3NHRpMkdpY0lBNHFnTm1Vc282MmtUSGZvQmdwUkpFb1NDRm1LZFY4R0dtdmgyeXV4eFhJSDNIaDJKLWJ2TGF4VG9rUFFyMkl2TUFOa0FWeTZuUDZIQVJHdWcwdVBjQVpsZENpU0lGLUZJdEFGbEtEanIzVEphSWFSR1dveXlpTkd4SmE0Zw?oc=5",
-          "date": "Fri, 11 Sep 2026",
-          "source": "Investing.com"
-        },
-        {
           "title": "Director\u2019s trust at Inhibrx Biosciences (INBX) sells 1,000 shares in two days - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWEpMWTU0bm95eEpGWFpuRHJUdWM5Z0NHbnpVTFZ6clZ2SnM2ZUNQdzRsV0pLRUhoNUE5MzdVR0hTMTN3LTItUHFuYWZ6U0tndzBfS2hTS2h4Rmp1Q1plUkdQemJBYzh5RjhoVTJDRkRMYmUzZzFKaVYySWlHWGMyM1I5NDBHMFM1UkMwOW5JVGJwRkltQ0UtemwyWkZfUS1mT1JBbEl0cHJyRmFEdU4zSU16Mlo1UjhS?oc=5",
           "date": "Thu, 10 Sep 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Analysts Offer Insights on NA Companies: Evommune, Inc. (EVMN), Inhibrx Biosciences Inc (INBX) and Circle Internet Group, Inc. Class A (CRCL) - theglobeandmail.com",
-          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQVUNEMUJIRi1QZjhhRTJjU0Q1cGpqc3V3TExicldNZmhhZHJnbW1XNW5hR3h2RVNQNWJUbVpIY0VDcDdUb3NoZlVDNUNxNXNSRFlGRjQ4TUt0eGVQYTJWRElSQlJDV0tsSktKcnVZVXJCSUpTeVZ0dU5uLWNRX3U3TnlkU2poZ2s0Unl1b3o4UU9DUjhFOTM2OTA1eGIzSDdIWmw5M1Mzd1VoTE5TN2xzOUM3bFZuU0lUbFhlekJHSXdYcUxhcG82cFFWVW53ZG1UQXZEaVpQdjhPc0pudFJIVWhyLXdVcFVTQXZiOTdrWVVsbVlMVldtb3c1VVA1ekxtbExyVFVVdjFyVS1VNUctUTRzME9KUDJBNHhmaWhzUFlXM0hHeU1wenROeGVjakwyMkx6azlfcE9Edw?oc=5",
-          "date": "Thu, 10 Sep 2026",
-          "source": "theglobeandmail.com"
+          "title": "Founder of Inhibrx Biosciences Mark Lappe Buys 2.7% More Shares - webull.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wdVg0SVFFUFlwNVF5d3dCTVNRU3dZTzhzUXNTUmNxbzh2RUdKTlhKZmZodjNqYU8yc2hlQU9Qd1h5MWUtM0k2cl9DeWdJTXVUOWhnc09CNnM?oc=5",
+          "date": "Sat, 12 Sep 2026",
+          "source": "webull.com"
+        },
+        {
+          "title": "Inhibrx Biosciences director Kimberly Manhard sells $115,467 in stock By Investing.com - Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHdTaHFPaHRhV1dEandXU1FNLWYtQklGZVVCUEU3WndsTkNtZmRMWjZYdXZaNDJ3UHVZTUwwWGNQMWtEVmNBUTQyY2RQa2ZIUWVhdFZ2NUlOd2hKcnFWb3d3YXJpQURiTVJGZ2huYktnR3B6S0VwTkJFb1VFc2E5aHdTM1Vxd05iblFqWGlGRmFfLTlmbEZfTXJZYzJpbm9jb2lUWGtlTkE2aU4tN0FKdWdyNE9NYzdmbFg5SFZTREpXQVQ1RXE4?oc=5",
+          "date": "Sat, 12 Sep 2026",
+          "source": "Investing.com South Africa"
         },
         {
           "title": "Founder of Inhibrx Biosciences Mark Lappe Buys 2.7% More Shares - simplywall.st",
@@ -472,17 +638,17 @@
           "source": "simplywall.st"
         },
         {
-          "title": "Inhibrx stock, Eikon stock rise on insider buying (INBX:NASDAQ) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOVdidHItazdqNThhQ1NFOXdYTjhHcHprSWtYRk5XTUxXb2RsZWt5azNNRE8wc1dEZ3JtX2pYTVNLWVV4TGp2SXZOVEQtU3o1VHlvTjlTTVljTDZ5V3NhTzBkcmVIQ29iNmhxbzB3NWV2U2ozWnEyaExraU1IZmVIU25KOTJtODNnRVJ3?oc=5",
-          "date": "Wed, 09 Sep 2026",
-          "source": "Seeking Alpha"
+          "title": "Inhibrx Announces Amended Loan Agreement with Oxford Finance, Expanding Total Facility to $500.0 Million - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN254dmZNRlhXQzN2S2tJMHVHWXE5UlVHVlZEbmItSnY5WVp1UFpuVVZlRWhKb1UxZjlQeXVXOV9saTlxbU5XQjgtZFF5cjgzTTRHUENZSmc5WVRxTW9RM1FlZmc1aWlUX25MYzUwOUxLWWZQODRoRzVXVlgwRXRPbEJaVUI2VndUazBQbzhJSFlXZFd4cUJBUTFXN01kd01TWUI0N1BmMHc5QVBkT195U2s2ZnJFbzQyaGdzc3hGbGFYQ3ItNWNjOGxaWVZMVVZsSV9qSTk1Ny1YWUYtZk9fdGpTNVVVaXhWZFhRZHNWbw?oc=5",
+          "date": "Thu, 16 Jul 2026",
+          "source": "PR Newswire"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -513,9 +679,9 @@
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 59.7,
+      "buy_score": 43.1,
       "sell_score": 0.0,
-      "net_score": 59.7,
+      "net_score": 43.1,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
@@ -534,7 +700,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -547,10 +712,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          6.57,
           6.38,
           6.38,
           7.17,
@@ -563,13 +728,14 @@
           9.5,
           10.0,
           8.69,
-          9.2522
+          9.31,
+          8.77
         ]
       },
-      "price_now": 9.2522,
+      "price_now": 8.77,
       "price_at_signal": 10.0,
-      "pct_since_signal": -7.48,
-      "pct_14d": 40.82,
+      "pct_since_signal": -12.3,
+      "pct_14d": 37.46,
       "deep": {
         "recent_filings": [
           {
@@ -636,29 +802,29 @@
           "source": "Investing.com"
         },
         {
-          "title": "CarParts.Com Inc (NASDAQ: PRTS) Share Price, PRTS Stock News, PRTS Share Price & Updates - Kalkine",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95RDFORVpDMjUzM3g3MllnUUNUM3NrQlV5eEdWNDBGZDhkdHRmcEprMHBDMkZFOHFseW4zUy16dUxqckYxUmU0N1JlcnludEpNWmFZaU1B?oc=5",
-          "date": "Thu, 10 Sep 2026",
-          "source": "Kalkine"
+          "title": "CarParts.com Reports Second Quarter 2026 Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZm84eFVrTi1iRTB3M3pnenViVUVYZFR1X2hFWkp5d3ZublVqX3pnc2hBZzZwOVJIbDNrNjVxQkJmSEgzUVpEdU1uTVNOTWdhamFvZV9NZ3lzdjFVRzNHazZfNkNuaTQ0TnA3b0Nsd1JiQmpjZHM3ZFlDS2lMeHlMVVpIamxnb09hWFlYOEpOd0ptVjdTck50cGh5YWl6bXVyZWc?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "CarParts.com Regains Compliance with Nasdaq Bid Price Requirement - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcEhvV2JRa3FyRlM5cVhzNWJNeXJmS2VtMkpZYkpUT01WUF9Kdjk4NUtfa0ZaVHpkZWlnZmV5N0JlOGRFTzFvNk1zdjhqZUtwY3BCOTFSN05aTlRyaWMxbjJ1bERja0lodWctZm1FQUlLeGNjQWk4VnFtZFZ3azRiZGZfQWZwSXU1UlFYd01UVGRYR0tyMlRUSTFPS2E5TklnTmZmUlF3TDdYcVE1LVYwT09Md0R5cWxXU1JGbw?oc=5",
-          "date": "Tue, 09 Jun 2026",
-          "source": "PR Newswire"
-        },
-        {
-          "title": "CarParts.com (NASDAQ:PRTS) COO Michael Huffaker Purchases 13,250 Shares - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb0gtZ3lCcmdDNDZqNWp2T3ZPcGNUQTV0bmgydTduOGdkdmZkSDA3Rk1FbldRMDV0UzVnQXBkWWRKR3A4cTZHNi0yaWUtRXdDMDgyZmROVFA5TWVGT19mNWI1TExvV2o3Tmt1VUh5TkFZSjVPbjZ5b2FFZmZ0MFRJdUFFbG52bFpOWlBFdE9uQUViMC1PVkpPWXNVeEl6N0Y4MWpEOUZseHJuRUt5S01GekY2SjREUHBTc05qVVNMSEZqUHpUaEVDVA?oc=5",
-          "date": "Fri, 11 Sep 2026",
+          "title": "Michael Huffaker Purchases 21,160 Shares of CarParts.com (NASDAQ:PRTS) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMTVIcXlmUk9PSWFjLUR0dXJiN2dhd2kwdkI2aU9HRmFNcTZ3bmI0dkZ0cnhFU242MEpEREFmRjRGWFNObFRJamtNNERrVUVQR2IzXzQtUF9EOTkxZWN4ZFRWeEFPM19sVkZaYl9SYjBBay11MllhaG1HcG1KQW9vM0h4TjhpUkV5SDdrdzJZV3QtRWhBSEdiLVAwRHRoU0NXTUtGUUNJUUZCZXh6RDRXamZxT3ZDSnpDLXNCQS1lNlFoUnNCNVJ5aXdXOVNkUE0?oc=5",
+          "date": "Wed, 09 Sep 2026",
           "source": "MarketBeat"
+        },
+        {
+          "title": "PRTS - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqUmpOU0k3dkV4eWwxODBDeV9Mbk1MdWFhcll3N2tQOWF6eDBSY2hQUHNtdVRROG96MkJTSzhDbDhDN0lDQUE?oc=5",
+          "date": "Tue, 26 May 2026",
+          "source": "Finviz"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -685,168 +851,102 @@
       ]
     },
     {
-      "ticker": "GPI",
+      "ticker": "CYBN",
       "call": "WATCH",
-      "herd_pick": false,
+      "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 50.6,
+      "buy_score": 20.8,
       "sell_score": 0.0,
-      "net_score": 50.6,
-      "distinct_buyers": 1,
+      "net_score": 20.8,
+      "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $711,772",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $711,772",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $641,598",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $641,598",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $5,833,311",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $5,833,311",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $47,567",
-        "2026-09-04 OTHER Conifer Management, L.L.C. BUY $47,567"
+        "2026-09-08 OFFICER So Eric H. L. BUY $1,238,670",
+        "2026-09-08 OFFICER So Eric H. L. BUY $1,238,670",
+        "2026-09-08 OFFICER Glavine Paul BUY $1,247,190",
+        "2026-09-08 OFFICER Glavine Paul BUY $1,247,190",
+        "2026-09-08 OFFICER Glavine Paul BUY $1,247,190",
+        "2026-09-08 OFFICER Glavine Paul BUY $1,247,190",
+        "2026-09-04 OFFICER So Eric H. L. BUY $1,208,900",
+        "2026-09-04 OFFICER So Eric H. L. BUY $1,208,900"
       ],
       "company": {
-        "name": "GROUP 1 AUTOMOTIVE INC",
-        "industry": "Retail-Auto Dealers & Gasoline Stations"
+        "name": "CYBN",
+        "industry": ""
       },
       "trend": {
-        "dates": [
-          "2026-08-24",
-          "2026-08-25",
-          "2026-08-26",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-08-31",
-          "2026-09-01",
-          "2026-09-02",
-          "2026-09-03",
-          "2026-09-04",
-          "2026-09-08",
-          "2026-09-09",
-          "2026-09-10",
-          "2026-09-11"
-        ],
-        "closes": [
-          259.38,
-          264.81,
-          262.63,
-          262.04,
-          263.95,
-          269.54,
-          269.5,
-          276.41,
-          284.33,
-          300.76,
-          281.6,
-          287.72,
-          281.84,
-          283.035
-        ]
+        "dates": [],
+        "closes": []
       },
-      "price_now": 283.035,
-      "price_at_signal": 300.76,
-      "pct_since_signal": -5.89,
-      "pct_14d": 9.12,
+      "price_now": null,
+      "price_at_signal": null,
+      "pct_since_signal": null,
+      "pct_14d": null,
       "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-09-10",
-            "summary": "Company entered a material agreement; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526386882/d133710d8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-08",
-            "summary": "Company announced results of operations (earnings); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526384390/d123895d8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-11",
-            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000126/gpi-20260810.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-07-30",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000123/gpi-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-30",
-            "summary": "Company entered a material agreement; announced results of operations (earnings); Reg FD disclosure (investor materials).",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000121/gpi-20260730.htm"
-          }
-        ],
+        "recent_filings": [],
         "about": ""
       },
       "actors": [
         {
-          "name": "Conifer Management, L.L.C.",
-          "kind": "OTHER",
-          "note": "4 Form 4 filings on record since 2019; 31 buys of GPI in this tracker's ledger"
+          "name": "So Eric H. L.",
+          "kind": "OFFICER",
+          "note": "3 Form 4 filings on record since 2026; 3 buys of CYBN in this tracker's ledger"
+        },
+        {
+          "name": "Glavine Paul",
+          "kind": "OFFICER",
+          "note": "4 Form 4 filings on record since 2026; 3 buys of CYBN in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Group 1 Automotive Reports First Quarter 2026 Financial Results - Group 1 Automotive | Investor Relations",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkNsakV6TUpWTmJ3elpNb1Rvc2lXUVVyazVWU1p5ZmIzNFVMcTJwRmlLMHVhWGNTOHBLUlZCdGtuSXJsMW9WaVp3ckRKdmpsTk94elYxSDVOdjhaQ0owYjUzdDIxQzljSWhIY0U1cFZ4NHAtR1dHZWFZcnlKZU9kSEdjWThiYXY3OGxULXlIU2g2dGhPVVhzbGNSR1loVERjRmdR?oc=5",
-          "date": "Thu, 30 Apr 2026",
-          "source": "Group 1 Automotive | Investor Relations"
-        },
-        {
-          "title": "140K Group 1 Automotive (GPI) shares bought over two days across high-$270s to low-$300s - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnc5YTdyM0xaRXl1Zk5kZmYzYWZXRnc3R3VVbUdvbjl4S3h3V29YNmFBTEJqckVfRUxvVXBBT1lLWW52SFFicGdLS0FLRlhxa1U5NDFZRmZ4YTgxVGR0THRWWl9qVGFQRG1IV19WQlFOV1c1am9TTE1BTzNkTVhrTFJtb0hOcmdBZ2NjRDRWaUNYTVJNcWd0QVpPZmFMX0lnU3BSb3V2M3VaNm5OUnNMYnB4RWdqQQ?oc=5",
-          "date": "Tue, 08 Sep 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Group 1 Q2 Earnings Miss Estimates on Lower Vehicle Volumes - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnJEYWR0a0tTUkV2dXk4M3BQai1DdWRLdDU0YmEtV1Blb3hZSnpxNlV0VEl3UnpSRFQ2TExldFc4RzBwbm9fM29hd04xOENKLVhtVXJSbUR6bFRHQko4a3NfZE01akVRakZFZUpKY2JHaUwwNGRfOC01bUxRbXFVRjhlelhXRkwxUzh0OHdFNUtuMEE?oc=5",
-          "date": "Tue, 11 Aug 2026",
+          "title": "Cybin (CYBN) Stock Sees Fair Value Lift As Sector Research Supports Growth Assumptions - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRU90aHY0NllkOVhwSHgtS2Rjd1lPSXdRT3MzWjhqeGpwQWlQZmJEWGduN2JWeGhVZmNpYnNqeGxOcnBlMnpPWDlWakl2NHIzY09RazJxNEFLNXJLSTVpRVFTeGVnU3BoQkxBYVkyQVJjUndHbnhTSHJMNnM4YXVjdDFTaVN1S2w3dDliRjZWSURNU1ZLVlE?oc=5",
+          "date": "Sat, 22 Aug 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Earnings Preview: Group 1 Automotive (GPI) Q2 Earnings Expected to Decline - easternprogress.com",
-          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVd4SDhtaXZidm1XN1lKS2prQzhVblMyMmtydWJTRXlFc2xFN3A5M1pQbDJ2RW4tRlVmX3dNb2FueXVkY2JfYnVtS0t5RU9STWk0VHI1M3FnVExzQmNsbWI0ZGlIb004Y250aDNaZmZrdWtSVmwyVUFNR05xZHpNaGY3czAzSEtNeE9hMERxM0FZTkR6V2R1cExpUjg4bGJ6V3J3Ml9FeGRPVFdOUHVfVjVfOEVtZndXN1NxcTl0WlUzd1d2WS1CRHZydjB5dkdZQlktYkJ1eGRHRWZLSnNtM2NPaklMNTA3?oc=5",
-          "date": "Sun, 06 Sep 2026",
-          "source": "easternprogress.com"
+          "title": "Insider Purchase: Executive Chair of $CYBN Buys 100,000 Shares - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXF3Qlctc3dOeFVScnEzc2UyTWZ5RGkwRk9adV83dTQ5LUFLWUZyYlVyNjNlb3pvUjFyTENZWWRpaUJjNF9TNV9BQlI1NEhfT1g0cU1FNjhvd0RNOEs1cFFja1hKX3kzaTZUMS1BSlpMTXB5TXVoSDFZWXphVGVhZ2dPQktPVDRSVzFyN3kxOS0xOVplZnRXU1JBdFFzLXBKSHJJ?oc=5",
+          "date": "Thu, 10 Sep 2026",
+          "source": "Quiver Quantitative"
         },
         {
-          "title": "Group 1 Automotive stock hits 52-week low at $259.19 - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXJ6ZFdqU0FQM0ctbkhWblgwVmlHQkRDaWsxSmxzaWpxNGxRZjFHRjV1UXlieUFkeEdfVXVMNzFlYWpMaXBERGNSM0ZJckpQRGJKVEd5aFdfdV81ajV4OFRCaUlYdjZSWTA2QVNMNGFMdUU3LWVQQWhjUzlld2xXcXhEVHBBT3JmMzNacUl5V21RWDlTb3N4b0hBTl9ITVFFNHNJMDZhZzBkdw?oc=5",
-          "date": "Mon, 17 Aug 2026",
-          "source": "Investing.com"
+          "title": "Cybin (CYBN) Stock Fair Value Moves Lower As Analysts Rework Psychedelic Sector Assumptions - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWxFTXRPcWlZcXJZeHNFREZ3eUJVQzB3TU5pSzNFMnY5RkJsX0tia0IzMV94R2haSUhwalZNTXNPbWpLaVpPWktUaXJ3eExidUxsU05UUEd4TUh1MVJsckZRTlltRzdNZENzeG05SmdHckFDNVRBb0gtM1RhWHB0SDltWV9zY3N4dnN6OWNKMDlWNEZsNlNr?oc=5",
+          "date": "Sat, 25 Jul 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Insider Stock Purchases: September 11, 2026 - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPN0h6NDVjNnBDbXlhWEZpV2xiYXZLR0VkRnJfMkg3N2xOekpFdGtRQllGcnlCZENRMlc1MjdRcklOb0JqZUZUZ09lY0pXRTZOcU9jbzNfdWxNdTJXZmZFZVJGVXZ4Q3c0dW12QUhIaEhvYmZrVUlDeC12eHlRcDhaN3U2bUhiNk0?oc=5",
+          "date": "Fri, 11 Sep 2026",
+          "source": "Quiver Quantitative"
+        },
+        {
+          "title": "Cybin to Transfer U.S. Stock Exchange Listing to Nasdaq - Thu, 12/18/2025 - 07:30 - Helus Pharma",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPem1lWU9mVklwMEg2Q2dNNnNQRnl5Z0RXRUp0R1JfS1U5Mk5OT1QwYnNFTmpqeF9BMlcwN0pUOHpIZDhXV1ZWWUt6WXRYSnd2V1VPVV9UMTJZNTVteGVCYkU4QlY0cW92Y1hBWXJsWmJ1R1FwVUtVUjUwUGtId0dUREV4OEZWMzRPUWtCSFpsUi1NR3dpZ1hPVmN4cHZITTM0YThUM2RB?oc=5",
+          "date": "Tue, 31 Mar 2026",
+          "source": "Helus Pharma"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201c1 AUTOMOTIVE\u201d",
+          "label": "Bills mentioning \u201cCYBN\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=1%20AUTOMOTIVE&source=legislation"
+          "url": "https://www.congress.gov/search?q=CYBN&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201c1 AUTOMOTIVE\u201d",
+          "label": "Hearings mentioning \u201cCYBN\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=1%20AUTOMOTIVE&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cRetail-Auto Dealers & Gasoline Stations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Auto%20Dealers%20%26%20Gasoline%20Stations&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRetail-Auto Dealers & Gasoline Stations\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Auto%20Dealers%20%26%20Gasoline%20Stations&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=CYBN&source=committeemeetings"
         }
       ]
     },
@@ -855,20 +955,20 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 21.1,
+      "buy_score": 19.2,
       "sell_score": 0.0,
-      "net_score": 21.1,
+      "net_score": 19.2,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-09-11 OFFICER AULT MILTON C III BUY $28,380",
+        "2026-09-11 OFFICER AULT MILTON C III BUY $28,380",
+        "2026-09-11 OFFICER AULT MILTON C III BUY $28,380",
         "2026-09-04 PRESIDENT Nisser Henry Carl BUY $46,775",
         "2026-09-04 PRESIDENT Nisser Henry Carl BUY $46,775",
         "2026-09-04 OFFICER AULT MILTON C III BUY $37,904",
         "2026-09-04 OFFICER AULT MILTON C III BUY $37,904",
-        "2026-09-04 OFFICER AULT MILTON C III BUY $37,904",
-        "2026-09-04 OFFICER AULT MILTON C III BUY $37,904",
-        "2026-09-04 OFFICER AULT MILTON C III BUY $37,904",
-        "2026-09-04 OFFICER AULT MILTON C III BUY $361,496"
+        "2026-09-04 OFFICER AULT MILTON C III BUY $37,904"
       ],
       "company": {
         "name": "Hyperscale Data, Inc.",
@@ -876,7 +976,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -889,10 +988,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          0.45,
           0.4,
           0.37,
           0.33,
@@ -905,13 +1004,14 @@
           0.19,
           0.2,
           0.19,
-          0.1824
+          0.19,
+          0.2008
         ]
       },
-      "price_now": 0.1824,
+      "price_now": 0.2008,
       "price_at_signal": 0.19,
-      "pct_since_signal": -4.0,
-      "pct_14d": -59.47,
+      "pct_since_signal": 5.68,
+      "pct_14d": -49.8,
       "deep": {
         "recent_filings": [
           {
@@ -951,7 +1051,7 @@
         {
           "name": "AULT MILTON C III",
           "kind": "OFFICER",
-          "note": "519 Form 4 filings on record since 2004; 4 buys of GPUS in this tracker's ledger"
+          "note": "520 Form 4 filings on record since 2004; 5 buys of GPUS in this tracker's ledger"
         },
         {
           "name": "Nisser Henry Carl",
@@ -961,10 +1061,16 @@
       ],
       "news": [
         {
-          "title": "Milton Ault adds to Hyperscale Data (GPUS) stake with open\u2011market stock buys - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObzN1TTNZcERnQ001VUN5QWZqeHNvbWxtWVY5Ym50c2h6NE5xUXcwdG0tbHdSVlNPeHo4amkwbmxVbGdnaGFiYWhMTnJPcUhMdzRkOTE4VEdGNFJIbVRYVG9xZzMxbG9PYkNkTWhTOFNPZExHMEstejB1ak9qZTBLeGJVWnEySDUwVnF3bE5fZk5hcmpQUWJjLVAzNlNmMGcxamwzUGxMX1Y3RnpIeHRjeWNMbw?oc=5",
-          "date": "Wed, 09 Sep 2026",
+          "title": "A Michigan data center could generate more than $3B if a customer expands it for 20 years - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbmxxNFhqbGtEakZ4NVJmZ3B3czZibk9uYURhS2EwT2d3bTRrdUpZX2ctdDMwbE9EelViZlhZMHViNzNHNmhNUXpWUG9vRHVOQUMtSE9oR3U0dFA5cTA4WU1FNE9WZk1YeHpyU3FMQl9uVzdkX2wtbHhnNHhYNEtkOGROTzFUcEtWV2Npa1VXcndXTnhlNzlqc0dqZkRXSTZUSkI5NHNpTmt4THJ0Q3V0TXpKWElkUTNUb0FtMVJn?oc=5",
+          "date": "Mon, 14 Sep 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "What's Going On With Hyperscale Data Stock Monday? - Hyperscale Data (AMEX:GPUS) - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1piUll6V04xSF9GMEdvMk1mNHNvYllhLXlkZ3dOWkRXT3ZtUHU5VnpBeTM3Y2hWdk1oZDN0eWNJMUNWRFB2VXFoSE95ekdpQmxCSHg3bTMzT3F3a3NWNzRIeS1wSnJDWmdFLTJreHBEVjJybkM5a3RHRkd5SXVGSkctSE1Obk5MUTJ0SDhQcjgxT3NySjVsSzhWWlV0R24xQUhtU1RvcHdZb3I5RVpwcW5WaXQ1bmJRQl9mYVVVR2ZwTHM?oc=5",
+          "date": "Mon, 14 Sep 2026",
+          "source": "Benzinga"
         },
         {
           "title": "Hyperscale Data Announces Date and Ratio of Reverse Stock Split - PR Newswire",
@@ -973,29 +1079,23 @@
           "source": "PR Newswire"
         },
         {
+          "title": "Hyperscale data executive chairman Ault buys $33,651 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWx6ZnFmYkUtQ1N3cE1PY0RVRWhYUjR3RnJrYkZmQ002YnVJQUZWd2JTbndMTjY0ak0welpZSWVyX3ZaLUIzUXZvbS1nSEE3bGQ0bVVDVlF2dnBic2FxazlqOThram5WbUY1Wk5GYTZxcVVkLXZYQklTVXNyZ3ZTTXBySHhNNks5UjNMaGc0TGxXMzEyaDdkaXQ2NFc0VloybnUxSTd5VG0tZW9CZVJlQU1zYUJoeWRzUHVRZG1EaE1RZw?oc=5",
+          "date": "Sat, 12 Sep 2026",
+          "source": "Investing.com"
+        },
+        {
           "title": "Is Hyperscale Data (GPUS) the Best Crypto Penny Stock to Buy Now? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNy1IV1h2X0Rrc0d5emhKWlhSWXMtd2s2WnUxRkhvTk1MX2VvR3NjeXlOdlN3VE1fcnB2am0zUldFNk83SGNPdThyQmZtWE1jbXdyTWZ1bXA0a1RTZTdDS1RlX2lmN1pGQkZFRTBiN21pU0xMM3Z6cmh1QUNhQVJ2LTBpek9EUnFPUDdkNGV2TEp5LURtOTVRWUplbU5hQQ?oc=5",
           "date": "Thu, 09 Jul 2026",
           "source": "Yahoo Finance"
-        },
-        {
-          "title": "Hyperscale data CEO William Horne buys $31,220 of company stock By Investing.com - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd2VFeTQtNVh1UTUybzZ4dm5BVXEzUUJrZU45QVNielNTVmg5X1cwdnE2cGswSkFhVnRJS2hTWnppWTZWclNHaHM5V1EwekQxNFdzZjFQd1p3NUpES0E4THFTS2czaVZJanFHSkc5N18xVWgxR1VVSGQ0Tmw1SnVDVlNJamdnLWt1aGNJYlcxeWJzVmRSM0VKN0ZKZXk5eFc0SjFFTU5IdHE3OUNVRmcwTVRmd3lDMzhJRzliZjFHcw?oc=5",
-          "date": "Tue, 08 Sep 2026",
-          "source": "Investing.com Nigeria"
-        },
-        {
-          "title": "GPUS Form 4 Filings - Hyperscale Data Inc. SEC Form 4 - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9adU5fS0I0UkpSQzFSeDUzM3I0S1FIeXBINjNwcnFKZGQ3QUNfNDB2RGtKcGprWGIyb1lyR3BhRXc4SUtUVExGdThMbWR6VTRMLTl6TmtSNnZ1aGtCWFN6X0lUMGZjZw?oc=5",
-          "date": "Thu, 10 Sep 2026",
-          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1026,9 +1126,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 19.3,
+      "buy_score": 13.9,
       "sell_score": 0.0,
-      "net_score": 19.3,
+      "net_score": 13.9,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1047,7 +1147,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -1060,10 +1159,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          32.4,
           34.65,
           34.55,
           35.4,
@@ -1076,13 +1175,14 @@
           34.24,
           32.6,
           32.05,
-          32.46
+          32.11,
+          31.43
         ]
       },
-      "price_now": 32.46,
+      "price_now": 31.43,
       "price_at_signal": 32.13,
-      "pct_since_signal": 1.03,
-      "pct_14d": 0.19,
+      "pct_since_signal": -2.18,
+      "pct_14d": -9.29,
       "deep": {
         "recent_filings": [
           {
@@ -1108,16 +1208,16 @@
       ],
       "news": [
         {
+          "title": "Destiny Tech100 Inc. Reports Second Quarter 2026 Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckxFOFMzOTVOQkVUVHRZTDVDWF9uSGpDd0pvOUdMUno4OUFEQ19JWDduM0NieEJpRi1oMWZJZzBNUmJTN1VTQXpjVmxTTW9Iay1yeVlpTnBjWjZNUU5IM05EenVob0RHTDNncnVKT3NGSEc5aGZ4NGJUUnZKLURPVVc2SU5UQXBoQTdGTWJKQmtzQWJWbU8wTkxGWnBvR21k?oc=5",
+          "date": "Fri, 28 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
           "title": "Destiny Tech100 (NYSE: DXYZ) CEO bought thousands of shares; see what he paid - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVpLa0pHUlJTQVFkNFVQd0duV2NUUWdoNHBWQXdmVTJWTmE5X1h4NGd4NUpBbUhyTlZRa3paYmViYkh0MndZbkoxZXpiSUxoTWdpT283RVAwdHI2VHdVLU94eEJ3ZVhLMkVoZVg4cnp1VXkxTGY5ZHljdmhLcDg0NkZUUmN3R2tndG5lYWRzQTZOUUF6ZmtyY2ZhQk1JaGNnZW8tNEhTb0cwVU44M1RsS3JObw?oc=5",
           "date": "Tue, 08 Sep 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "Destiny Tech100 Inc. Reports Second Quarter 2026 Results - Business Wire",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjlma3B1dVRDM3hBT0p5c21tU1lKbXlYX3lIS0pjVDFmcF9ucjY2bGREMzd4Y05fZXRuT1lJUlhKc0pqd2s1ZkY5RENUYXdqenJCczBpcW1FbmI4OGZ5SVFVLXN2Z1hnUG0zQWloeTdMdFNvSHdtaFdTTjZFeW44bXB2T095WTAwUFdmdXNDelQ4bzhkSlVyUGpIV1NkckhZcElEOC1RXzl6YTREWDFycXAzYw?oc=5",
-          "date": "Fri, 28 Aug 2026",
-          "source": "Business Wire"
         },
         {
           "title": "Sohail Prasad Purchases 9,760 Shares of Destiny Tech100 (NYSE:DXYZ) Stock - MarketBeat",
@@ -1132,10 +1232,10 @@
           "source": "Quiver Quantitative"
         },
         {
-          "title": "Destiny Tech100 Stock Soars After SpaceX's Nasdaq IPO Filing - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORmU2N2dWT1BtR3JkLUdmTU1aS2hxOWhJRHRwNXF1WmdmaEUtUWRkc2hmTEpnTDB2VTJTUXQ4ZFRTYlJfelZubldldUoyV1JUVFZrTjMwdzhXa0VMd0RzbTJ2aXBrbEdDbDY5WTlhc2tXRmpTZUwtbmdSNmlVbnVORkZIS1o0Um42bDc4TGxoS0h5M3FCYklzVkJ3dUppZWt4U2o3S2ExRHl4M2IzMzJMMWRIMWo1TGJEaUdSVQ?oc=5",
-          "date": "Thu, 21 May 2026",
-          "source": "Benzinga"
+          "title": "Destiny Tech100 Inc. Reports Fourth Quarter 2025 Results and New Investments - businesswire.com",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX09CeHpJQkh6c0I5Um9jemQzVjVFSXRHMnJwZ3RBWXlYYWc2WFFYdDExb1hpRFBVQzNwTXRTakdqSGZJaVpzMzFFb0MyRWlzS2xnTXlOdjJsRVdZamJmbEZVRHhoTWhMVng2M09ES1E0d2NtbHhENW51MXBIaVBQTWYydzhWcVFYU1lXZDN4QUZPQnY5V2VVb3MyZ1RmNnRMM2l0bkIxZ3JjMzlfMlRXQ0szd0JybzBUclItX2EtblphVVFPZV9VczZuczRpdw?oc=5",
+          "date": "Wed, 11 Feb 2026",
+          "source": "businesswire.com"
         }
       ],
       "news_flags": [
@@ -1143,8 +1243,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 8 days ago",
-        "cls": "mid"
+        "label": "Aging \u2014 latest filing 11 days ago; edge decays over weeks",
+        "cls": "spent"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1165,9 +1265,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 16.4,
+      "buy_score": 11.8,
       "sell_score": 0.0,
-      "net_score": 16.4,
+      "net_score": 11.8,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1186,7 +1286,6 @@
       },
       "trend": {
         "dates": [
-          "2026-08-24",
           "2026-08-25",
           "2026-08-26",
           "2026-08-27",
@@ -1199,10 +1298,10 @@
           "2026-09-08",
           "2026-09-09",
           "2026-09-10",
-          "2026-09-11"
+          "2026-09-11",
+          "2026-09-14"
         ],
         "closes": [
-          66.51,
           65.75,
           65.65,
           66.32,
@@ -1215,13 +1314,14 @@
           66.16,
           66.71,
           67.65,
-          67.835
+          68.57,
+          68.19
         ]
       },
-      "price_now": 67.835,
+      "price_now": 68.19,
       "price_at_signal": 66.16,
-      "pct_since_signal": 2.53,
-      "pct_14d": 1.99,
+      "pct_since_signal": 3.07,
+      "pct_14d": 3.71,
       "deep": {
         "recent_filings": [
           {
@@ -1277,8 +1377,8 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Bankwell Financial Group (BWFG) insider buys 5,266 shares via affiliates - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM0Ixc1VoNmdRMDEyOHJyX2JuUFdibDBfNTQxUy1QODdTQXJSVHo3ZFFzX2xsUU9yZFFRWDBPZ3YtWEJlSUVCUE9qOGFQcTE1VVBpWTNTVW5CMzZnbHhtZXFYeWc4WXQwdXBENUxWMDZwb0pxUHRzUlRfZlV1N1lwWEtoeEdRWjQ1WUxHSWZlZUx5QXZoYVBINUJPTHVCNlhGNnZ2WldGMUZDU2FMcms4azV0TkZyRFl4M2w5eGowVQ?oc=5",
+          "title": "Bankwell Financial Group (NASDAQ: BWFG) director lifts deferred-plan stake to 43,026 shares - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnNSSDNOTjZMcVFlT0tHOFI0MG9PWllSLWE3eXhnRm4zdUtnbG5lYXJqaWxlZ0Z1c0tWWURMVlI0amNWb2VTalJGOFNQLWNWX1hzdkR3MmVGY0JJTThRYTZOTFhHbF91NEo3dktwUWQ2Wm5GNXhVZWJ0RUJWbjBFYXRYc3F6Wjc0cjRIMzV6MGVadE1TTllCLXZCT3ZkdzJTa3ZIUHA0WHl6VXY2cHFqODFVaFBfVU1tckxuUFo1Zw?oc=5",
           "date": "Wed, 09 Sep 2026",
           "source": "Stock Titan"
         },
@@ -1289,23 +1389,23 @@
           "source": "MarketBeat"
         },
         {
-          "title": "Bankwell Financial Group (NASDAQ: BWFG) director lifts deferred-plan stake to 43,026 shares - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZnNSSDNOTjZMcVFlT0tHOFI0MG9PWllSLWE3eXhnRm4zdUtnbG5lYXJqaWxlZ0Z1c0tWWURMVlI0amNWb2VTalJGOFNQLWNWX1hzdkR3MmVGY0JJTThRYTZOTFhHbF91NEo3dktwUWQ2Wm5GNXhVZWJ0RUJWbjBFYXRYc3F6Wjc0cjRIMzV6MGVadE1TTllCLXZCT3ZkdzJTa3ZIUHA0WHl6VXY2cHFqODFVaFBfVU1tckxuUFo1Zw?oc=5",
-          "date": "Wed, 09 Sep 2026",
-          "source": "Stock Titan"
+          "title": "BWFG Stock Price and Chart \u2014 NASDAQ:BWFG - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YWkFONHRmVmpVQXhWWXAwRzQycFhpTElEaDFOU2MwWXU5bEtrSGw3ZzZLemdmUzQtZDN1MEV4ckVvb3F2TndwcEppc2lJX0xwT3ZTZTc1RTNRLVly?oc=5",
+          "date": "Fri, 10 Jul 2026",
+          "source": "TradingView"
         },
         {
-          "title": "Carl Porto Buys 327 Shares of Bankwell Financial Group (NASDAQ:BWFG) Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTm44RHNXV2ZnXzdiaWd5alZhLVJXeWVvSkFxeHRjWU9LQUFaZFRnZ0FnWDZZLXFrdlJDVWtSSHFFWGduWGROVC1KYy1JdG9WTFMtQl8zLXJ1WXBXV3RLUHJfdV9rZnZNSjN0QmVrNXNsS2V5RjhCR05mamQwUTJBWU1mclNLc2Q2OVI0QXhBZ2tHRUVta25LYTZaTlUxWDRZN0pJTFJUa250REdQNVNoSHhWV2puWWpFeS1nUnZzRDAzMWdKajVlQnNRaFhPZEk?oc=5",
+          "title": "Director adds to deferred stock stake at Bankwell (BWFG) - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXVSNXVhd2NTVEFKWUV1VHNGelBXanU1ekgtX3FQYnBfYVBYYjdKMXBqSHB2bEh3Vjc2eGFnX04wX1BzSXNSeDR4bjRJNV9YQ0xxQWdDRzMtbE9GakpVTGZSenVRMFExdHlCSGowTFRqOUItTWtiX2ZsVjkyVWZJTFBoVDAtekFwX2F2a01sbXEyczQ1aFFKTE5GMVdLWUw1dTNjOVBoVS1jbktveUxZbzQtaV90M1JZOE5yYUY2VQ?oc=5",
           "date": "Wed, 09 Sep 2026",
-          "source": "MarketBeat"
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1328,106 +1428,6 @@
           "label": "Hearings mentioning \u201cState Commercial Banks\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=State%20Commercial%20Banks&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "CYBN",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 15.0,
-      "sell_score": 0.0,
-      "net_score": 15.0,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-09-04 OFFICER So Eric H. L. BUY $1,208,900",
-        "2026-09-04 OFFICER So Eric H. L. BUY $1,208,900",
-        "2026-09-03 OFFICER Glavine Paul BUY $1,178,280",
-        "2026-09-03 OFFICER Glavine Paul BUY $1,178,280",
-        "2026-09-01 OFFICER So Eric H. L. BUY $1,121,475",
-        "2026-09-01 OFFICER So Eric H. L. BUY $1,121,475",
-        "2026-08-31 OFFICER Glavine Paul BUY $1,042,677",
-        "2026-08-31 OFFICER Glavine Paul BUY $1,042,677"
-      ],
-      "company": {
-        "name": "CYBN",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Glavine Paul",
-          "kind": "OFFICER",
-          "note": "4 Form 4 filings on record since 2026; 2 buys of CYBN in this tracker's ledger"
-        },
-        {
-          "name": "So Eric H. L.",
-          "kind": "OFFICER",
-          "note": "3 Form 4 filings on record since 2026; 2 buys of CYBN in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Insider Purchase: Executive Chair of $CYBN Buys 100,000 Shares - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVXF3Qlctc3dOeFVScnEzc2UyTWZ5RGkwRk9adV83dTQ5LUFLWUZyYlVyNjNlb3pvUjFyTENZWWRpaUJjNF9TNV9BQlI1NEhfT1g0cU1FNjhvd0RNOEs1cFFja1hKX3kzaTZUMS1BSlpMTXB5TXVoSDFZWXphVGVhZ2dPQktPVDRSVzFyN3kxOS0xOVplZnRXU1JBdFFzLXBKSHJJ?oc=5",
-          "date": "Thu, 10 Sep 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Cybin (CYBN) Stock Sees Fair Value Lift As Sector Research Supports Growth Assumptions - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRU90aHY0NllkOVhwSHgtS2Rjd1lPSXdRT3MzWjhqeGpwQWlQZmJEWGduN2JWeGhVZmNpYnNqeGxOcnBlMnpPWDlWakl2NHIzY09RazJxNEFLNXJLSTVpRVFTeGVnU3BoQkxBYVkyQVJjUndHbnhTSHJMNnM4YXVjdDFTaVN1S2w3dDliRjZWSURNU1ZLVlE?oc=5",
-          "date": "Sat, 22 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Insider Purchase: Chief Growth Officer of $CYBN Buys 90,000 Shares - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUmhmYkVvTUtpaFFJSzYtSmdXcDVha3NWNlQ1SjdVSG15ZVM3ZXEtV3VWdExpN3J0dmlhQXVWdkJkRDNoLWUydXNOa1o0REdfNzRlQy04bE9YYTNPV0ItRTlIcjF3TlE0eU01UnhjM3JuRVVDVW9zYlZGdmk4akg4N1dMNXNXUnpxQ3dVWGVMcVBZOVBqNjdoUWRtZXB1N1JoNGFTZVFwVnc?oc=5",
-          "date": "Wed, 09 Sep 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
-          "title": "Cybin (CYBN) Stock Fair Value Moves Lower As Analysts Rework Psychedelic Sector Assumptions - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNWxFTXRPcWlZcXJZeHNFREZ3eUJVQzB3TU5pSzNFMnY5RkJsX0tia0IzMV94R2haSUhwalZNTXNPbWpLaVpPWktUaXJ3eExidUxsU05UUEd4TUh1MVJsckZRTlltRzdNZENzeG05SmdHckFDNVRBb0gtM1RhWHB0SDltWV9zY3N4dnN6OWNKMDlWNEZsNlNr?oc=5",
-          "date": "Sat, 25 Jul 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Cybin to Transfer U.S. Stock Exchange Listing to Nasdaq - Thu, 12/18/2025 - 07:30 - Helus Pharma",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPem1lWU9mVklwMEg2Q2dNNnNQRnl5Z0RXRUp0R1JfS1U5Mk5OT1QwYnNFTmpqeF9BMlcwN0pUOHpIZDhXV1ZWWUt6WXRYSnd2V1VPVV9UMTJZNTVteGVCYkU4QlY0cW92Y1hBWXJsWmJ1R1FwVUtVUjUwUGtId0dUREV4OEZWMzRPUWtCSFpsUi1NR3dpZ1hPVmN4cHZITTM0YThUM2RB?oc=5",
-          "date": "Tue, 31 Mar 2026",
-          "source": "Helus Pharma"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cCYBN\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CYBN&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCYBN\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CYBN&source=committeemeetings"
         }
       ]
     }
