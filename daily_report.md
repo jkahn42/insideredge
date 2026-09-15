@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-09-14
+# InsiderEdge Daily Report — 2026-09-15
 
-Signals: **0 BUY** / **1 SELL** / **8 WATCH**
+Signals: **0 BUY** / **1 SELL** / **7 WATCH**
 
 ## BUY
 _None today — no cluster met the threshold. That is a feature, not a bug._
@@ -17,37 +17,17 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-09 OTHER Silver Lake Technology Investors V, L.P. SELL $38,109
 
 ## WATCHLIST
-### GPI  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $62,823
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $62,823
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $605,414
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $605,414
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $56,866
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $56,866
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $5,118,309
-- 2026-09-10 OTHER Conifer Management, L.L.C. BUY $5,118,309
+### RSG  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,682,658
+- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,682,658
 
-### RSG  (net +43.3 | buy 43.3 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $7,220,380
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $7,220,380
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $7,220,380
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $47,226,807
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $47,226,807
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $47,226,807
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $14,447,112
-- 2026-09-09 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $14,447,112
-
-### INBX  (net +43.1 | buy 43.2 / sell 0.1 | 3 buyers, 1 sellers)
-- 2026-09-09 DIRECTOR MANHARD KIMBERLY SELL $57,898
-- 2026-09-09 DIRECTOR MANHARD KIMBERLY SELL $57,898
-- 2026-09-08 DIRECTOR MANHARD KIMBERLY SELL $57,570
-- 2026-09-08 DIRECTOR MANHARD KIMBERLY SELL $57,570
-- 2026-09-08 DIRECTOR Kayyem Jon Faiz BUY $567,580
-- 2026-09-08 DIRECTOR Kayyem Jon Faiz BUY $567,580
-- 2026-09-08 DIRECTOR FORSYTH DOUGLAS BUY $286,617
-- 2026-09-08 DIRECTOR FORSYTH DOUGLAS BUY $286,617
-
-### PRTS  (net +43.1 | buy 43.1 / sell 0.0 | 3 buyers, 0 sellers)
+### PRTS  (net +49.5 | buy 49.5 / sell 0.0 | 3 buyers, 0 sellers)
 - 2026-09-10 COO Huffaker Michael BUY $133,295
 - 2026-09-10 COO Huffaker Michael BUY $133,295
 - 2026-09-10 CEO Meniane David BUY $133,295
@@ -57,7 +37,17 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-09 CEO Meniane David BUY $353,239
 - 2026-09-09 CEO Meniane David BUY $353,239
 
-### CYBN  (net +20.8 | buy 20.8 / sell 0.0 | 2 buyers, 0 sellers)
+### GREE  (net +24.1 | buy 24.1 / sell 0.0 | 4 buyers, 0 sellers)
+- 2026-09-10 PRESIDENT Irwin Dale BUY $99,999
+- 2026-09-10 PRESIDENT Irwin Dale BUY $99,999
+- 2026-09-10 DIRECTOR Rogers George Ted III BUY $4,999,999
+- 2026-09-10 DIRECTOR Rogers George Ted III BUY $4,999,999
+- 2026-09-10 CFO Mulvihill Christian BUY $99,999
+- 2026-09-10 CFO Mulvihill Christian BUY $99,999
+- 2026-09-10 CEO Kovler Jordan BUY $99,999
+- 2026-09-10 CEO Kovler Jordan BUY $99,999
+
+### CYBN  (net +23.9 | buy 23.9 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-08 OFFICER So Eric H. L. BUY $1,238,670
 - 2026-09-08 OFFICER So Eric H. L. BUY $1,238,670
 - 2026-09-08 OFFICER Glavine Paul BUY $1,247,190
@@ -67,27 +57,27 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-04 OFFICER So Eric H. L. BUY $1,208,900
 - 2026-09-04 OFFICER So Eric H. L. BUY $1,208,900
 
-### GPUS  (net +19.2 | buy 19.2 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-11 OFFICER AULT MILTON C III BUY $28,380
-- 2026-09-11 OFFICER AULT MILTON C III BUY $28,380
-- 2026-09-11 OFFICER AULT MILTON C III BUY $28,380
-- 2026-09-04 PRESIDENT Nisser Henry Carl BUY $46,775
-- 2026-09-04 PRESIDENT Nisser Henry Carl BUY $46,775
-- 2026-09-04 OFFICER AULT MILTON C III BUY $37,904
-- 2026-09-04 OFFICER AULT MILTON C III BUY $37,904
-- 2026-09-04 OFFICER AULT MILTON C III BUY $37,904
+### RLMD  (net +21.6 | buy 21.6 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-09-10 CFO Shenouda Maged BUY $339,150
+- 2026-09-10 CFO Shenouda Maged BUY $339,150
+- 2026-09-10 CEO TRAVERSA SERGIO BUY $410,000
+- 2026-09-10 CEO TRAVERSA SERGIO BUY $410,000
+- 2026-09-09 CFO Shenouda Maged BUY $504,840
+- 2026-09-09 CFO Shenouda Maged BUY $504,840
+- 2026-09-09 CEO TRAVERSA SERGIO BUY $418,000
+- 2026-09-09 CEO TRAVERSA SERGIO BUY $418,000
 
-### DXYZ  (net +13.9 | buy 13.9 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-03 CEO Prasad Sohail BUY $313,686
-- 2026-09-03 CEO Prasad Sohail BUY $313,686
-- 2026-09-02 CEO Prasad Sohail BUY $417,457
-- 2026-09-02 CEO Prasad Sohail BUY $417,457
-- 2026-09-01 CEO Prasad Sohail BUY $1,036,200
-- 2026-09-01 CEO Prasad Sohail BUY $1,036,200
-- 2026-08-31 COO Silver Ethan BUY $25,000
-- 2026-08-31 COO Silver Ethan BUY $25,000
+### PMTS  (net +19.0 | buy 19.3 / sell 0.3 | 4 buyers, 1 sellers)
+- 2026-09-14 DIRECTOR SHEINBAUM MARC BUY $99,996
+- 2026-09-14 DIRECTOR SHEINBAUM MARC BUY $99,996
+- 2026-09-14 DIRECTOR Riley H Sanford BUY $299,990
+- 2026-09-14 DIRECTOR Riley H Sanford BUY $299,990
+- 2026-09-14 DIRECTOR Peters Nicholas BUY $250,002
+- 2026-09-14 DIRECTOR Peters Nicholas BUY $250,002
+- 2026-09-14 10% OWNER Tricor PMT25 Holdings Inc. BUY $11,287,500
+- 2026-09-14 10% OWNER Tricor PMT25 Holdings Inc. BUY $11,287,500
 
-### BWFG  (net +11.8 | buy 11.8 / sell 0.0 | 2 buyers, 0 sellers)
+### BWFG  (net +13.6 | buy 13.6 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-08 DIRECTOR SEIDMAN LAWRENCE B BUY $87,264
 - 2026-09-08 DIRECTOR SEIDMAN LAWRENCE B BUY $87,264
 - 2026-09-08 DIRECTOR SEIDMAN LAWRENCE B BUY $34,474
