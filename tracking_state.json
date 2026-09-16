@@ -1,11 +1,5 @@
 {
-  "tracked": {
-    "CBRS": {
-      "action": "SELL",
-      "start_date": "2026-08-25",
-      "start_price": 186.775
-    }
-  },
+  "tracked": {},
   "rejected": [
     "DCOM",
     "OKYO",
