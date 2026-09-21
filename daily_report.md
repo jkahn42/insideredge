@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-09-18
+# InsiderEdge Daily Report — 2026-09-21
 
-Signals: **1 BUY** / **0 SELL** / **7 WATCH**
+Signals: **1 BUY** / **1 SELL** / **5 WATCH**
 
 ## BUY
 ### XBP  (net +60.0 | buy 60.0 / sell 0.0 | 4 buyers, 0 sellers)
@@ -14,19 +14,17 @@ Signals: **1 BUY** / **0 SELL** / **7 WATCH**
 - 2026-09-15 OTHER Avenue RP Opportunities Fund, L.P. BUY $920,653
 
 ## SELL / AVOID
-_None today — no cluster met the threshold. That is a feature, not a bug._
+### DELL  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 7 sellers)
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $46,399
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $43,065
+- 2026-09-16 OTHER Silver Lake Technology Investors V, L.P. SELL $43,065
 
 ## WATCHLIST
-### DELL  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 7 sellers)
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $40,166
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $39,993
-- 2026-09-15 OTHER Silver Lake Technology Investors V, L.P. SELL $39,993
-
 ### SBLK  (net +50.5 | buy 50.5 / sell 0.0 | 8 buyers, 0 sellers)
 - 2026-09-15 OTHER Pappas Alexandros BUY $2,103,288
 - 2026-09-15 OTHER Pappas Alexandros BUY $2,103,288
@@ -37,15 +35,15 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-15 DIRECTOR Zagari Raffaele BUY $1,413,500
 - 2026-09-15 DIRECTOR Zagari Raffaele BUY $1,413,500
 
-### RSG  (net +37.1 | buy 37.1 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $39,396,322
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $30,156,762
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,682,658
-- 2026-09-11 10% OWNER CASCADE INVESTMENT, L.L.C. BUY $1,682,658
+### RWT  (net +41.3 | buy 41.3 / sell 0.0 | 4 buyers, 0 sellers)
+- 2026-09-16 PRESIDENT Robinson Dashiell I BUY $251,580
+- 2026-09-16 PRESIDENT Robinson Dashiell I BUY $251,580
+- 2026-09-15 DIRECTOR KUBICEK GREG H BUY $192,560
+- 2026-09-15 DIRECTOR KUBICEK GREG H BUY $192,560
+- 2026-09-15 CFO Carillo Brooke BUY $100,238
+- 2026-09-15 CFO Carillo Brooke BUY $100,238
+- 2026-09-15 CEO Abate Christopher J BUY $383,900
+- 2026-09-15 CEO Abate Christopher J BUY $383,900
 
 ### BWMX  (net +36.8 | buy 36.8 / sell 0.0 | 3 buyers, 0 sellers)
 - 2026-09-16 OFFICER CHEVALLIER SANTIAGO CAMPOS BUY $246,924
@@ -57,7 +55,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-15 DIRECTOR Campos Luis BUY $731,646
 - 2026-09-15 DIRECTOR Campos Luis BUY $731,646
 
-### LMB  (net +32.4 | buy 32.5 / sell 0.1 | 3 buyers, 1 sellers)
+### LMB  (net +32.5 | buy 32.5 / sell 0.1 | 3 buyers, 1 sellers)
 - 2026-09-15 PRESIDENT Sharp Jay SELL $255,770 (10b5-1 planned sale — discounted)
 - 2026-09-15 PRESIDENT Sharp Jay SELL $255,770 (10b5-1 planned sale — discounted)
 - 2026-09-15 DIRECTOR Krzeminski Laurel J BUY $25,288
@@ -66,16 +64,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-15 DIRECTOR Horowitz Joshua BUY $33,928
 - 2026-09-15 DIRECTOR Horowitz Joshua BUY $33,928
 - 2026-09-15 DIRECTOR Horowitz Joshua BUY $169,331
-
-### RWT  (net +31.4 | buy 31.4 / sell 0.0 | 4 buyers, 0 sellers)
-- 2026-09-16 PRESIDENT Robinson Dashiell I BUY $251,580
-- 2026-09-16 PRESIDENT Robinson Dashiell I BUY $251,580
-- 2026-09-15 DIRECTOR KUBICEK GREG H BUY $192,560
-- 2026-09-15 DIRECTOR KUBICEK GREG H BUY $192,560
-- 2026-09-15 CFO Carillo Brooke BUY $100,238
-- 2026-09-15 CFO Carillo Brooke BUY $100,238
-- 2026-09-15 CEO Abate Christopher J BUY $383,900
-- 2026-09-15 CEO Abate Christopher J BUY $383,900
 
 ### ADC  (net +11.9 | buy 11.9 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-16 DIRECTOR RAKOLTA JOHN JR BUY $1,375,600
