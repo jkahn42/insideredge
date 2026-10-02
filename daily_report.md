@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-10-01
+# InsiderEdge Daily Report — 2026-10-02
 
-Signals: **0 BUY** / **1 SELL** / **7 WATCH**
+Signals: **0 BUY** / **1 SELL** / **9 WATCH**
 
 ## BUY
 _None today — no cluster met the threshold. That is a feature, not a bug._
@@ -57,31 +57,44 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-28 PRESIDENT Ruddy Jordan B. BUY $29,975
 - 2026-09-28 PRESIDENT Ruddy Jordan B. BUY $29,975
 
-### FUL  (net +2.0 | buy 2.0 / sell 0.0 | 5 buyers, 0 sellers)
+### FUL  (net +2.4 | buy 2.4 / sell 0.0 | 6 buyers, 0 sellers)
 - 2026-09-29 DIRECTOR Lauber Charles T BUY $99,985
 - 2026-09-29 DIRECTOR Lauber Charles T BUY $99,985
+- 2026-09-29 DIRECTOR Happe Michael J BUY $99,250
+- 2026-09-29 DIRECTOR Happe Michael J BUY $99,250
 - 2026-09-28 DIRECTOR Zaheer Srilata BUY $98,120
 - 2026-09-28 DIRECTOR Zaheer Srilata BUY $98,120
 - 2026-09-28 DIRECTOR Rasmussen Trangsrud Teresa J BUY $75,494
 - 2026-09-28 DIRECTOR Rasmussen Trangsrud Teresa J BUY $75,494
-- 2026-09-28 DIRECTOR HANDLEY THOMAS W BUY $98,820
-- 2026-09-28 DIRECTOR HANDLEY THOMAS W BUY $98,820
 
-### CLPR  (net +0.9 | buy 0.9 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-28 COO Bistricer Jacob BUY $246,225
-- 2026-09-28 COO Bistricer Jacob BUY $246,225
-- 2026-09-24 DIRECTOR Levinson Sam BUY $31,487
-- 2026-09-24 DIRECTOR Levinson Sam BUY $31,487
-- 2026-09-23 DIRECTOR Levinson Sam BUY $45,947
-- 2026-09-23 DIRECTOR Levinson Sam BUY $45,947
+### SPG  (net +2.0 | buy 2.0 / sell 0.0 | 7 buyers, 0 sellers)
+- 2026-09-30 OTHER Smith Daniel C. BUY $70,973
+- 2026-09-30 OTHER Smith Daniel C. BUY $70,973
+- 2026-09-30 OTHER STEWART MARTA R BUY $40,353
+- 2026-09-30 OTHER STEWART MARTA R BUY $40,353
+- 2026-09-30 OTHER SELIG STEFAN M BUY $42,178
+- 2026-09-30 OTHER SELIG STEFAN M BUY $42,178
+- 2026-09-30 OTHER RODKIN GARY M BUY $47,045
+- 2026-09-30 OTHER RODKIN GARY M BUY $47,045
 
-### FTHY  (net +0.7 | buy 0.7 / sell 0.0 | 2 buyers, 0 sellers)
+### XENE  (net +1.4 | buy 1.4 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
+- 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
+- 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
+- 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
+
+### BBASX  (net +0.7 | buy 0.7 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
+- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
+- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
+- 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
+- 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
+
+### FTHY  (net +0.5 | buy 0.5 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162
 - 2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162
 - 2026-09-25 OFFICER MCGAREL DAVID BUY $129,247
 - 2026-09-25 OFFICER MCGAREL DAVID BUY $129,247
-- 2026-09-24 OTHER HOUSEY WILLIAM A JR BUY $64,500
-- 2026-09-24 OTHER HOUSEY WILLIAM A JR BUY $64,500
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.

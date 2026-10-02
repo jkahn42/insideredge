@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "signals": [
     {
       "ticker": "BMBL",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -40,10 +39,10 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          2.97,
           3.02,
           3.0,
           2.96,
@@ -56,13 +55,14 @@
           2.53,
           2.57,
           2.63,
-          2.555
+          2.55,
+          2.54
         ]
       },
-      "price_now": 2.555,
+      "price_now": 2.54,
       "price_at_signal": 2.53,
-      "pct_since_signal": 0.99,
-      "pct_14d": -13.97,
+      "pct_since_signal": 0.4,
+      "pct_14d": -15.89,
       "deep": {
         "recent_filings": [
           {
@@ -121,16 +121,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Form 4 Bumble Inc For: 30 September By Investing.com - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUWRaX0xGMUh4X3hqS0hzWVh4b2FTWktCdUZTMU1CaVRzTEgtT2l5dTVQeXIyVnVMU3lCWVZaaHFMSXFfMnlvOHRnMkw0MWV1bXJueU5zeEtLR0VRUHpjZnFtZmxfcm9JZ3owRmtXalQzS1J4LUpJSEE5OFlWZ3RONU1weVRpSGJwUnpUV0xjelljaF9tR3U4WHJFaw?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "Investing.com Canada"
-        },
-        {
-          "title": "After selling 1.26 million shares, a Bumble (BMBL) holder may sell more under a separate deal. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMTZYajd4V0hvNG9taTJ1MW1pT0syUHV2eGhZOVdhOXVCUkJ6N1JwU016TXptazVpcllZeGZaRTlhTWlUZVMtbWUwOTJpTzFuZUw1M0FIbVk1NnBQWWFMZndWS3Bhckp4S3RHU3ZHYUVDUERVcXJBTm5HdkNqNWNCTEk4NEwxYmp5TmhZRnl3TTY?oc=5",
+          "title": "Shares in a planned Bumble (BMBL) forward sale carry a $16,338.74 aggregate market value. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1NtWldFQW9yMEJKLXZidzR3SVJrc0hwNTJqUVJxdWNlWG8yWGl1WlNvVnJiVUhfR0JQTzltSENtQXhPRGxjOWUzcGtxUjBvUUxzd3c3YTh6YlVkamJfYU5Ld1pnUjNFTlZWMVREREVwX2NlaEJMNE90RUZQTXdQQkxFUWcyOW5tOHIwVEJNVkQ?oc=5",
           "date": "Tue, 29 Sep 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Form 13D/A Bumble Inc. For: 1 October By Investing.com - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb2cxLUJjQmdlYmFnd0tiY0l5TFFGSnpjTFB3MFJfdi1tVnltS2dOM205RkxQQkl0Z0NyTHVzVG51MGdNQUVtMjYxbkRIS25GQkFKaG5tM2dEY2M3TjJRMC02UGIyUkk5M3pNSi12c0ZDM0RCb3p2U3dKcHZQQUp0T1p4REVMUUdLY0h6ekZ3a0czbVA3QmtCckFvUQ?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Investing.com Nigeria"
         },
         {
           "title": "Bumble Inc. (BMBL) Stock Dips While Market Gains: Key Facts - Yahoo Finance",
@@ -148,8 +148,8 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -201,7 +201,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -214,10 +213,10 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          33.14,
           32.99,
           32.77,
           32.85,
@@ -230,13 +229,14 @@
           89.92,
           91.12,
           94.8,
-          99.565
+          98.46,
+          90.44
         ]
       },
-      "price_now": 99.565,
+      "price_now": 90.44,
       "price_at_signal": 91.12,
-      "pct_since_signal": 9.27,
-      "pct_14d": 200.44,
+      "pct_since_signal": -0.75,
+      "pct_14d": 174.14,
       "deep": {
         "recent_filings": [
           {
@@ -287,34 +287,34 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Kodiak Sciences Up 150% At Opening Bell After Drugs Pass Key Trial - Forbes",
+          "title": "Show Me The Money: Kodiak Sciences Shares Deliver More Than 500% Return In Just Over A Year - RTTNews",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjlBVndsdURxbm1jaFdBdW5tSFBKM3ZlUE15bFhEa1B3YUJkX2RnMU96aklDclZiaTBrb3JpcktJeGZYa3paNEhzM2hPaWYwSDF1Yi12eExvYmlaVDdNZm9FUGdPNl80RlNOX01QaDgxZ1EzeDN3b1N0WHNkVEJtY1JVTk1EZVBaSThhaFNMalVkVTdjQ2RBemtXNkxiaVItaUtoNkF5MWZNc25iYUZFTW5PVS1VYVlRemZfcmdyNEpKaWl5?oc=5",
+          "date": "Fri, 02 Oct 2026",
+          "source": "RTTNews"
+        },
+        {
+          "title": "Kodiak Sciences Inc. (KOD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xOTJ0M1RKRnFCT3phb2dtQThZcjQ2dmVaZUpUcWtIMlg2VFNxT3FWdWNQRUlzRU9aUUJJUkVsZExCc2hEVUlsSS16VXMwMTR2?oc=5",
+          "date": "Wed, 30 Sep 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Kodiak Sciences Up 150% At Opening Bell After Drugs Pass Key Trial - forbes.com",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkRCRmUxRW5SNnlEcDZBVUhKeGUyQkMtdS1CYmt2bWVEOU1WZ1l3NEhJVXoyc2YyQUUtMWVJNzhIejRqTWNCeU1ldVBUQVhIS05aV1R2UlNvN0hSYlJMbDMwaUF0MEdGV2E0UHAtSDZMeW9aV0ViQUNNNkplQjRqVnozd3VBUklkT3lCaXpMeFpkZWxQY2lZdEt0LUlVVUs0SnpTbDZHc2tMN1NFa2U5ZUdsc1FzYXFyVzFJN09PMA?oc=5",
           "date": "Mon, 28 Sep 2026",
-          "source": "Forbes"
+          "source": "forbes.com"
         },
         {
-          "title": "MongoDB, Kodiak Sciences, Navitas Semiconductor, Boeing and Nvidia: Why These 5 Stocks Are on Investors' Radars Today - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOUkwzZUo4aDZfSDlzSHRFdnhrdHc5ejIwbURteS1sQnU3TlFZVDBLZ1ZsOWhqTVBwY0xBOGVjZTZURzFwdW40VlZvYUhDMm5BaVpHZGx1c0xLRVFOV185NjJXaDhIUlB3bGx5WmRpZE1WMkI1ZTJwb1ZMZTI0T3VmUnRuNUtyY0MydzE3WERRRmp5S3Q4eHNXOWZJcGVudksyTXQ5RjNQV0VRNndSeHdKc2VISlpUVWtDTEtqUjl2bXU4MW1KNUdOaVprYUZpYTNnUTkwMkNEWU05aTB1MVdoQkcyVEVJNGZOSV9LY0JOWTh1azFTRzRYNGhYQW1FTmIt?oc=5",
-          "date": "Tue, 29 Sep 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Kodiak Stock Gains 183% as New Eye Drugs Take Aim at Regeneron\u2019s Eylea - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkxGVjVidDVxdHRPZk9LcDEzTHViNFNLblBuUHVrSXQyakd0cjhveXVQVUVTNU5JNkMyclVWNXo1VmtwOXg2SE04azhVdmRlN1hZR2psZ3lWa3dVY3J1V0FzV25JcDdVak9kOUxTbi0wUlVJeDdPZ2o5dWI5WDNGU252MnVCTmNo?oc=5",
+          "title": "Kodiak Sciences stock hits 52-week high at 61.28 USD - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV0VVQTQ1bm5reUxsOTFUamJiZW1Ja1JPN1lMMDJlVVFmNFZNSVIyRk5BaHVScy1YdXRHcVJRajRNcFk5bkRFMEZZV0MtLUFCV21ZUEoxSW15VUpfOEI3Q3Y4MUw1Qm01QkhlekNMYWdBTGpZSVQyZU9jT3g4SUc3dnBkbWYwRkFvT0wzTk9nVjZiWkpzRXlzY21mamxMV180WTEtUk1FQl9FSEE?oc=5",
           "date": "Mon, 28 Sep 2026",
-          "source": "Barron's"
-        },
-        {
-          "title": "Kodiak Sciences, AMC Entertainment, Agenus And Other Big Stocks Moving Higher On Monday - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa0JPajNLeDc0bXBBbzJWNXBWdjMwWHZsdlZ5Q0lxUks2NXFoYldTYW5aWmZyREFNNWUyRVRqaklLcjZGelIxSUF1dkNxdlVncjJubWJqck9Gd01yWHFsclZMaFE2X2dneVpYZDcyNEtnaFRENXJKazY1c2FlbXIzeDBObnNKdDVUVHZzWVhyOWVseEZUQmtPM0RLRUY2X0s5M3RiczVGUEthWUVRR09DTjgtOGJfWVFXN0JNeUFqLTBBaG02a2hGWGtmeU1zejlUUEhjZ3hTQWlScjZXVkRN?oc=5",
-          "date": "Mon, 28 Sep 2026",
-          "source": "Benzinga"
+          "source": "Investing.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -371,20 +371,22 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
           19.35,
           20.09,
           20.64,
           19.94,
-          19.41
+          19.54,
+          18.265
         ]
       },
-      "price_now": 19.41,
+      "price_now": 18.265,
       "price_at_signal": 20.09,
-      "pct_since_signal": -3.38,
-      "pct_14d": 0.31,
+      "pct_since_signal": -9.08,
+      "pct_14d": -5.61,
       "deep": {
         "recent_filings": [
           {
@@ -425,22 +427,16 @@
       ],
       "news": [
         {
-          "title": "At $17 a share, OrbiMed Israel Partners II buys 61,516 IPO shares in ADARx Pharmaceuticals (ADRX). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFYbG9uU2hkUjRsS1RHS210RmdDc21oLVJsWVF2U3FwdnV0aWl6Mmc2S1BUZ2drSG04VGhIZDdTVVRzeTBiNzBPckZMWXAyWGp3V2dXeW90ZTFCZzZsNnBxS0phTzd3dDF5ekpqNGdEUVI4RHNTMkpGOEFTVHRtUFRlSzRLOEhxT1hGWi1BRElCdU9qZDFWY3B5eDh2amYzUUpFTHh2eVJ1MXRuaFF5bVJsQ3FHU1VJMUZSdQ?oc=5",
-          "date": "Wed, 30 Sep 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "ADARx Pharmaceuticals Director Reports Preferred Stock Conversions and IPO Share Purchase - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0cxamVMVXhETWxrenR2cFRibkM3dEhudnptbGdlODlPUXBIZjJ0R1RqUnIyOFVWS2l1SmV0d2lKT0owM2N3Tjd2SXJKOENycUlyZnpTek1WejZsTlh0dEdfNDNxdzVVWV9mdUFYT3NMM1VHd3M0YXI4ZWhtWV9iT3cySm9JRmlWZmZTWUhpR1pqYW1EdVVoLW9nOFg0WDhxTHVyWnNURU44QnJmTVplUjRrRE02WXN4Z1gzdVhPVVVQcHVDWEZKNnpneU51UXZsOHc?oc=5",
-          "date": "Wed, 30 Sep 2026",
-          "source": "Kalkine Media"
-        },
-        {
           "title": "ADARx Pharmaceuticals Announces Pricing of Upsized $446.3 Million Initial Public Offering - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMEJWcGkwOG1ZSjFyMXpEN0c5N21waFNxbUt0ZHRpX3NhYWhkYXJwaXliNE5EWVVVRlB0T0c0R040V0hLWGRsLU9kWFhWM1pnWTN2RVRSWWwzTDBHblNyR29fcTl6aVhQbDkzVkZjRjdDSXdUS1FNYVdTWlVIUVFhRXdwYkxhR2xjczUyQ204YjdRa1VDakVIa3doelNaeEhTY2k4dER2b1dpR2JHUGRVdHFB?oc=5",
           "date": "Thu, 24 Sep 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "At $17 a share, OrbiMed Israel Partners II buys 61,516 IPO shares in ADARx Pharmaceuticals (ADRX). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXFYbG9uU2hkUjRsS1RHS210RmdDc21oLVJsWVF2U3FwdnV0aWl6Mmc2S1BUZ2drSG04VGhIZDdTVVRzeTBiNzBPckZMWXAyWGp3V2dXeW90ZTFCZzZsNnBxS0phTzd3dDF5ekpqNGdEUVI4RHNTMkpGOEFTVHRtUFRlSzRLOEhxT1hGWi1BRElCdU9qZDFWY3B5eDh2amYzUUpFTHh2eVJ1MXRuaFF5bVJsQ3FHU1VJMUZSdQ?oc=5",
+          "date": "Wed, 30 Sep 2026",
+          "source": "Stock Titan"
         },
         {
           "title": "Number of employees of ADARx Pharmaceuticals, Inc. \u2013 NASDAQ:ADRX - TradingView",
@@ -449,10 +445,16 @@
           "source": "TradingView"
         },
         {
-          "title": "symbol__ Stock Quote Price and Forecast - cnn.com",
+          "title": "ADARx Pharmaceuticals Announces the Closing of Full Exercise of Underwriters\u2019 Option to Purchase Additional Shares Granted in Its Initial Public Offering - The Manila Times",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPZF9uN29RWVBUQnZBN0NHSnNjUXVocUtxY2EtMlVNRHVSTzQ2NG1DeW43MTFtdHE2Sm1hdG9Wdk5nX3Bxemo0Sk0xMk9ZNEtPQmZBT1IzazhqeTdRbUctMFQ5TjFrU2NHMmwwSk1MWDVhMmRRMFhBRDRIaXhtVlJCZWhvWHpfZVRDRjJFaHZqOHNVQlFvbkUydEtHeDZNS3pQMUppQnhzYU1pMzhhRHZROGdBMFUtSUYtSDNnTUY1MTFobUdscmgxY3gwbHRFZGw3dmV6R2ZHaEVSVENXem5lZmdoXzYzeVRxNHhoZ2JCTl9Da2lpa2xpYWVrSW9JWnZRNXp3aFVOUWdMbFlsSVdKbDhDaDlqZ3VtM1FLQm5iendOTkpHcVpManJ1WFVycWVFb3BxSDYxQklHMVBvY2lxX290YmtsVTA3bVHSAc8CQVVfeXFMUEE2YjZqZ1NCd25fc0t0bXVHbU8xU2pyMXFyT01pM3FjcVp1elhoVTBCQ1lMaUVmM2xGQkRUcWdWVnAxdWlSS1liTEp1VkRoWG5mZDZqUk8wM0ZhUy0xNHlZWUFKN0hkLTdxeU95RTFUZV9TcWdBd3JxbWs1Vk5wYjlqV3g2N2JyQ1BYR2cxbXh2Q00tV0hXVVpPdXhJa3REejg2VklEamVjTDlZaGM3OTdyb09WQW52cEUxWXFDbmZ5V3pVSzhWeWJVeDlqSzlGdm5Ub016VGNQdDA2NExSaDAwOUxfMUEzdUNLQjJfaXRSckdCOTNfd0JPVjRDM2M2Q0RVQndoZWV0NHE5Mmd5eEViODlJZXYxMkZ5RVVDcHVJY0VEUlN5dGhRajgzQWFwZjUyNlhhVkxzRW9iSHplbFBFdUpxdXI3QTNFbWhIems?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "The Manila Times"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CQnJaWkYxNk5saUxWUDE1UTJpMGpSdm94M1A5bkt2ajFtM2RURkl2RFRpU21Gd3B2dlhwZ1BLLTA3VGhpN1YtdjJXUWtxSmRX?oc=5",
           "date": "Tue, 22 Sep 2026",
-          "source": "cnn.com"
+          "source": "CNN"
         }
       ],
       "news_flags": [
@@ -460,8 +462,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -513,7 +515,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -526,10 +527,10 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          46.03,
           45.12,
           42.91,
           43.745,
@@ -542,13 +543,14 @@
           44.66,
           44.57,
           47.71,
-          48.7
+          48.25,
+          49.1
         ]
       },
-      "price_now": 48.7,
+      "price_now": 49.1,
       "price_at_signal": 44.66,
-      "pct_since_signal": 9.05,
-      "pct_14d": 5.8,
+      "pct_since_signal": 9.94,
+      "pct_14d": 8.82,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -557,7 +559,7 @@
         {
           "name": "Nechmad Yair",
           "kind": "CEO",
-          "note": "3 Form 4 filings on record since 2026; 8 buys of NYAX in this tracker's ledger"
+          "note": "4 Form 4 filings on record since 2026; 8 buys of NYAX in this tracker's ledger"
         },
         {
           "name": "Ben-Avi David",
@@ -567,40 +569,40 @@
       ],
       "news": [
         {
-          "title": "Yair Nechmad Takes a Bullish Stance: Acquires $2.11M In Nayax Stock - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaTkxSlRwVEVzREF3dG1KYVE0MTNJQU9BWWdSbFBROTRucUI3LXFqNnVGcHZTMFcwemk2TTRtbmRaX2Y3MmRkOVRHeFoxcERLdkx0N1BZNDNJOXJiUGRvOS1hMlRDUkxxamNIMVA1cExxVGlPSXdoNE80YzBYXzVUd1FvQ0JTV3J0M1E5a2FaNlptN283R3FSUUhSOVFDMHhPcWtiUnBJb2U?oc=5",
-          "date": "Thu, 01 Oct 2026",
+          "title": "Insider Confidence On Display: Yair Nechmad Acquires $2.11M In Nayax Stock - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0t1OEdpVzVUd2d2THA2MTlyUmhWeVRYSEdGamo0Yl9PRmR0SllPeHFSZklIblpFRVhyTm1kYWR2bFBxRXBoUXA0cVp4bG85OW5IZVVoN1dsX0hSMlBjWkFuRlR4VnRiN20zOHJETUJFSE1LZTd4RVM2d08ybDFycGRLTDIyaGtSSlZ5U09DT3VOTjd0bWZMTUVQU01sOUFDaUN2bE5UdHZUWGR3M1lrRA?oc=5",
+          "date": "Fri, 02 Oct 2026",
           "source": "Benzinga"
         },
         {
-          "title": "A Look at Nayax Ltd (NYAX) After 7.0% Gain -- GF Value $54.32 vs Price $47.71 - gurufocus.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEF3S3lDVWdpU1NxZmY2Ym12UGtmbXZ4dS1lVDBaa3Jxc0lIRU9WVnZ5Tm9pYWxjckluMHg5bHFic2k5UlpGQ05aMzRSWXJjdUlOZjBfc3hreFpXMExyNjBsX3JXM0FwSTlYNnZxQ1c1NUNab1BYUTlBSjMyM1RRTU9fYzlZN2VqRlo3UTY1Uk9FdzhRQlRDOGVHN2RaNEcteU9wX25UUXY?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "gurufocus.com"
-        },
-        {
-          "title": "Nayax (NASDAQ:NYAX) CFO Sells $13,126.40 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUEJXTXBtLVE4RzAxclZ0YVdGMDNpaF9haXBjQnIxS1F6Z3pLRV95RXNKbXQtNmdFOGtpeTlvdFdEUnpZbWpqU1ZoYXl0bm9MNElJb19BRk1ELTJqVkZUNnJMdE9uU0Z4emJYX1BfUF9lTTY2RkxpLUR2dEdZb3ZyU3dFZlFmSlRzZnF1QVcwNFpfa20xc2k5UGtrVVF3UkNqNmdiTEdmeVVOZw?oc=5",
-          "date": "Tue, 29 Sep 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "CEO buys 46,935 Nayax (NYAX) shares, including three open-market purchases in Tel Aviv. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOVR6S3BYR3N4TW5oTTVFc1lZcTZzWEVYUWIzMmtzd0lTZ2Zibm1NR2tETy1iMHVTSDhWZWRpOEFrdDU5WkdacnMyb1lXejJsQUlTeXpvaVJlUkZITUJZWFlJZ212VDRiQmg3bG85allxRE5zNXhhaUo4ZV8yUVU3anhyeG5vbG5PTkpPZ2hLODBJM0VMWjdnaVFCQy12RlF2dzNDSWVR?oc=5",
-          "date": "Wed, 30 Sep 2026",
+          "title": "The CEO and co-founder of Nayax (NYAX) buys shares on the Tel Aviv Stock Exchange. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVEpxaC00QUM5M3ByWng3akEzU2E4SHQ1ZzZkdDVBR054RnBkUmROWUdoTGFVc1hUUENROHZSSm5pdXBJMHVKWDJHU25xTzJqVVpUUndPbHVWcGliVVhwdDV5bVBqb3Vnd0ljZHJUSFJjUDZMT0dwb0tfRjRRZUZWNjVLeDRYQVFGNFBmQmV5djBxY1QtcGUyVmNPb0dlVkt0MkdVODN3?oc=5",
+          "date": "Fri, 02 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Is Nayax Ltd. (NYAX) A Good Stock To Buy Now? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNzhqenNJMVU5X2lEck5HVkRGTTlIMkk0OGJPelFGYkJnMWsxdU51RGxIYWZRMzVUbnFIV0NqVzl4TW1qX0l2MS12dllOb0JBaXoxcEFzclZtTERuVURNNGtYY3VtT3QzM2k4eENyVlZwZlU4c2pUQnhzVXYxM1lUQTN6cjRmem9qNGdTMjgxRHZORHhj?oc=5",
-          "date": "Sun, 03 May 2026",
-          "source": "Yahoo Finance"
+          "title": "Nayax (NASDAQ:NYAX) Stock: Insider Yair Nechmad Purchases 44,148 Shares - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNmhhZUN6eWtpdlZnRkJMb1ppa1hXWTFCU2htN0k1NWw0SDd6V3BCTlJrN1luNDN1eWk0Mm9NejFEazZTYkZLRGc2NHJ2YXlYanNraW5TUkxzakhVWVEwdEcyS2ExNUkzaVgzTVZZM2ZHVDBkSWlnWmtiY0tORHA3T2Y0Z2hiblJCcHhQX3RGdzNiWV9CTkhrMW5NOUtySTBjQnpVX2JXS2x0RjlvTlpKSTAyVnhHTjRJZkRYdFd6M2lYN1A3TzRNSA?oc=5",
+          "date": "Fri, 02 Oct 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Nayax CEO Yair Nechmad Acquires 44,148 Shares on Tel Aviv Stock Exchange - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeWFab193ejRGQnpoNHRXY1hYSWpjOW9HVnpEVGJSVlpLdWV4TmdjRVdKSkpIVXEzVHpRamRza3EwSWJqVm1wSzUta2RhVi0ya2pQNFJGeGY4WFFadGd1LUw2MTVhVDV6Y2dUeE04a0UzWTFUSXlDOEQzRUpOMlZfQl9mU0JaaGpXdTA0TE5hS1RKMEg4dXVRcVgxdlpMRG9NSkQ1Qm5uSEcyY1pzNkdaRHVxSldLdm45Z2c?oc=5",
+          "date": "Fri, 02 Oct 2026",
+          "source": "Kalkine Media"
+        },
+        {
+          "title": "A Look at Nayax Ltd (NYAX) After 7.0% Gain -- GF Value $54.32 vs Price $47.71 - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSEF3S3lDVWdpU1NxZmY2Ym12UGtmbXZ4dS1lVDBaa3Jxc0lIRU9WVnZ5Tm9pYWxjckluMHg5bHFic2k5UlpGQ05aMzRSWXJjdUlOZjBfc3hreFpXMExyNjBsX3JXM0FwSTlYNnZxQ1c1NUNab1BYUTlBSjMyM1RRTU9fYzlZN2VqRlo3UTY1Uk9FdzhRQlRDOGVHN2RaNEcteU9wX25UUXY?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "GuruFocus"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -653,7 +655,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -666,10 +667,10 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          11.93,
           11.87,
           12.12,
           12.12,
@@ -682,13 +683,14 @@
           12.49,
           12.5,
           12.54,
-          12.6
+          12.62,
+          12.69
         ]
       },
-      "price_now": 12.6,
+      "price_now": 12.69,
       "price_at_signal": 12.49,
-      "pct_since_signal": 0.88,
-      "pct_14d": 5.62,
+      "pct_since_signal": 1.6,
+      "pct_14d": 6.91,
       "deep": {
         "recent_filings": [
           {
@@ -726,10 +728,10 @@
       ],
       "news": [
         {
-          "title": "Form 4 Bluerock Private Real Estate Fund For: 30 September By Investing.com - Investing.com UK",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkxXc0JLV2VTU2VIUnAxbFA2cGI2NzU0VklGQ2RfelJXOWR3c0twSC1Icnd5eF9RNGlyM1FGYi1wU2U0c3pfcVBGODFHQWktcWVEVWpuOE1TdWlVZUQ2ZFpmOWRFcFNtdGExdHQ5LVZXOG81cW5KanVhLUY2NkJLVjBLV1ZlUXpEZnBYWWF1bEsxX1Q3Y2Ywc21iQURVcnpyeDF1S3FhV2NZTHQ1bFNzaW5uRDI5SlVMcHc?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "Investing.com UK"
+          "title": "BPRE\u2019s extremely large, very huge, getting-bigger NAV discount - Financial Times",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQXFSRl9RWFdyOGpnSkJUMm1BMGF3MVB3Uk9OamhlWE5yVml5ZDEtT3Jtbm1oV2tCdjNHY2s4NmIwUVhjTVY0Szl6d3JMZ2EybzBfLWhqdVFjeDRSQXhJbTNNSE50cTFjY3ZIVWVkS3U?oc=5",
+          "date": "Tue, 15 Sep 2026",
+          "source": "Financial Times"
         },
         {
           "title": "Morris Kandinov LLP Announces Investigation of Bluerock Private Real Estate Fund (NYSE: BPRE) - Business Wire",
@@ -738,22 +740,22 @@
           "source": "Business Wire"
         },
         {
-          "title": "BPRE\u2019s extremely large, very huge, getting-bigger NAV discount - Financial Times",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQXFSRl9RWFdyOGpnSkJUMm1BMGF3MVB3Uk9OamhlWE5yVml5ZDEtT3Jtbm1oV2tCdjNHY2s4NmIwUVhjTVY0Szl6d3JMZ2EybzBfLWhqdVFjeDRSQXhJbTNNSE50cTFjY3ZIVWVkS3U?oc=5",
-          "date": "Tue, 15 Sep 2026",
-          "source": "Financial Times"
+          "title": "Form 4 Bluerock Private Real Estate Fund For: 30 September By Investing.com - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQzYzYVdWU3NXendvVFR3T0tQU1MzNUxfR0RaRC1zVndyckRrbmptdkE4WGVndGVaNFo1WEZjRGpQdUxQcVJ4T29LenJacTZTeFFPamJSZWxERmpEaWU5M2ZmLU4yS0s3NFRrUmI1T2RFNVE1QUdrSXV2MW9kOHMySWNNWHNvVkN2Vzd1SjFGczZYV3dnOTVZaXRtNDZqYWhvWFRJMmQtZnhIWV9oVm9FMDNXbHVRdVZMYnc?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Investing.com Nigeria"
         },
         {
-          "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for September 2026 - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTW9GTEFJUEN2elJuQUwxU01Rc2YtRDNWVFhtaDdIU096VXh0ZnB3VGdzX0JUY0I1bnZ4U2Z6Ulc2X3VKM28yY2U4X0xIWGhMYTY3NkJFRmZ2RHJNc0NJUUpacGhwLVVOc0VjTWdXWVA1RlJsa2JlbWprbEpOa2wtZTdxRElaZnJfMW1ITWhDbGhsM2dXVEN6TFJidUhGdHJWcVlpZEktVWNkcTV0dHg2dlFCY3Q4ck81UUtTTlhrSmx0R0pHdWxxU1B3ZEZsZU9XSHNaOVhB?oc=5",
-          "date": "Thu, 03 Sep 2026",
+          "title": "Bluerock Private Real Estate Fund Announces Monthly Distribution for August 2026 - PR Newswire",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMVhyREJiVXZhaEtPNWNsOFJoam1GTlR3OXNfbEZwOHpQdVZUUXUyTGxNLWFiWVJ4MDFlekxrMkxnTDBwYktwSUU2SWdLS0xrZXV5cUdzVVBQNVA3M3owQkFFM3hobHc4VXE2Y1VsaUZGS256Wno4c1NFVjBqYXNUUHQtVDB6X1ROc2lRbWtERF93a2w4eVFtQkxIY3djS3Y2WTNJVWx6dVRLc21lakhMRVdsR1hCZDEtaDFtbUg1dElYaXVnZ2s0WUVyU2VNT24wUXc?oc=5",
+          "date": "Wed, 05 Aug 2026",
           "source": "PR Newswire"
         },
         {
-          "title": "A Unique Opportunity In BPRE (NYSE:BPRE) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kaG8yaUE3VjlvMjQ0cFZJdVNXSkswMG03aXkyOTNKMm1mTE1uUXhXdk83NG94S2tydGlHR0VybW4zZUNUTWZIOFBieU1jLWhHYlZqUk0xdGpJTjl5dndwMzZqYUR4ZG5UamVhY2FGcmpraVcyZE1HVQ?oc=5",
-          "date": "Tue, 28 Jul 2026",
-          "source": "Seeking Alpha"
+          "title": "Nareit Welcomes New Member Bluerock Private Real Estate Fund - Nareit",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcmJ5b002Y2poVERrOExTZVhHNWJ2ZEs1OHN1Q1BIWkdDME5odGdKNk9XdWVFRFp2ZUpSZlJmU196NzJDNW00WFhSa0l0TV9KTWYwREtnUXNMUHBZdWZHU3dkTHlUZWwyMUhpazIwMnUwVnl0X1BjWjhIS0ZrWjNmWFpPVmFxNy1tX1lPTm9mRGJEVHlULVJrck9Jc0FfMDRUTDJCWnk4dVIwMDFLWU5qeA?oc=5",
+          "date": "Thu, 04 Jun 2026",
+          "source": "Nareit"
         }
       ],
       "news_flags": [
@@ -761,7 +763,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -783,20 +785,20 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 2.0,
+      "buy_score": 2.4,
       "sell_score": 0.0,
-      "net_score": 2.0,
-      "distinct_buyers": 5,
+      "net_score": 2.4,
+      "distinct_buyers": 6,
       "distinct_sellers": 0,
       "evidence": [
         "2026-09-29 DIRECTOR Lauber Charles T BUY $99,985",
         "2026-09-29 DIRECTOR Lauber Charles T BUY $99,985",
+        "2026-09-29 DIRECTOR Happe Michael J BUY $99,250",
+        "2026-09-29 DIRECTOR Happe Michael J BUY $99,250",
         "2026-09-28 DIRECTOR Zaheer Srilata BUY $98,120",
         "2026-09-28 DIRECTOR Zaheer Srilata BUY $98,120",
         "2026-09-28 DIRECTOR Rasmussen Trangsrud Teresa J BUY $75,494",
-        "2026-09-28 DIRECTOR Rasmussen Trangsrud Teresa J BUY $75,494",
-        "2026-09-28 DIRECTOR HANDLEY THOMAS W BUY $98,820",
-        "2026-09-28 DIRECTOR HANDLEY THOMAS W BUY $98,820"
+        "2026-09-28 DIRECTOR Rasmussen Trangsrud Teresa J BUY $75,494"
       ],
       "company": {
         "name": "FULLER H B CO",
@@ -804,7 +806,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -817,10 +818,10 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          50.97,
           50.89,
           50.83,
           50.41,
@@ -833,13 +834,14 @@
           49.37,
           49.6,
           49.47,
-          50.355
+          50.23,
+          50.41
         ]
       },
-      "price_now": 50.355,
+      "price_now": 50.41,
       "price_at_signal": 49.37,
-      "pct_since_signal": 2.0,
-      "pct_14d": -1.21,
+      "pct_since_signal": 2.11,
+      "pct_14d": -0.94,
       "deep": {
         "recent_filings": [
           {
@@ -871,6 +873,11 @@
       },
       "actors": [
         {
+          "name": "Happe Michael J",
+          "kind": "DIRECTOR",
+          "note": "97 Form 4 filings on record since 2006; 1 buy of FUL in this tracker's ledger"
+        },
+        {
           "name": "FLORNESS DANIEL L",
           "kind": "DIRECTOR",
           "note": "102 Form 4 filings on record since 2003; 1 buy of FUL in this tracker's ledger"
@@ -898,16 +905,16 @@
       ],
       "news": [
         {
-          "title": "At $49.625 a share, H.B. Fuller (FUL) director Michael J. Happe buys 2,000 shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3RFaFdKclhRV2d3eG5adVhjcWotWm8wZ3ViLUIwTklaVlVTUHRpaXJXM0pFTHhuZXJINjVTSmZ3aVI0Y21faDBVcVdwLW9kcEFhUE9VWWhCRTBIVzQxMy00V0d1Vm1BTHFJeFd6NGZESDBaRlRiTWwxZ2phZk4tUVlVaXBjTmRGb1Q1ZmN6QzFCZUFwNWUtYWQxaXZiX2JLQlhvaGM5SHludw?oc=5",
-          "date": "Thu, 01 Oct 2026",
+          "title": "A 1,300-unit stock grant goes to Fuller H B Co (FUL) director R. Jeffrey Bailly. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT0FRc3BzTFBjeWF5bkFuaW9HOVhDSzRpVExpUGxuT3BCbUdPSTQtazFXd19vbm96bk1MeVc1b05sbXhYMC0tY1Fvczg5QW9vZDNZSkZyc3RCRmFEREg0UzdFREpfWlRJNE1DSUszamZsUmJtYmYwMGJMYjZMazNvcHJZdFhBdE9Od3lTR05aRmRWSWVWZVVrVmVRS0pFZEtaMEU4cjRHeVpxZw?oc=5",
+          "date": "Fri, 02 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Fuller H B Co director Martin acquires $22,997 of common stock By Investing.com - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUnN5cWhubjRjUkdoWU1nd1UxeFRGTUdDNXFxNTl6OWdTYzdlYks0NGxNb285Qkx0eEpBNWtXTTM1Y1NzNXFnYlcwLVlPTmI3MnMtVnJ0VHFxTUh1eW0wMWtkQldIWlVoYWI2YVhIbkNNd3RFMmkxWVNETlREYVBIaU96TnUyMnB5cmZqTV81UkZBRFEzbGQ4bUFUNFpqX01pa2Z3ampPVXlfWFJIaFBNVVI4TU9sR2M1aXhyWUp3?oc=5",
+          "title": "Fuller H B Co director Martin acquires $22,997 of common stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRVpzTUw4WWlKb1ZHdTlGY2hMelpZeFRQalhqaV9QaC01bVRHUUZaT1RObkk3MEJ2N2NnLS0tbDQwOVFNN3Jlb0tfZlZ0WW81MWp6WWwyR3BIaWItR2tfUUQzMy1qaHJJTzVvbkotRDNSc05DQjlTRURSaDBOQXVhM2ozQ3lycC1jTUYyQ2dJcDZzdTJJOFVXWFpORmRNR19ROWtZTTlVLTVBN0U5LTBqMEVyR2JfcUFIR3hILWhaSl9mOEE?oc=5",
           "date": "Thu, 01 Oct 2026",
-          "source": "Investing.com Canada"
+          "source": "Investing.com"
         },
         {
           "title": "At $49.50 per share, H.B. Fuller (FUL) director Martin buys 464.599 shares. - Stock Titan",
@@ -916,14 +923,14 @@
           "source": "Stock Titan"
         },
         {
-          "title": "A director buys 1,542 and 500 shares through a revocable trust at Fuller H B Co (FUL). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNC1lbzlDcV9PUzlXeElieHpvY3k3TDNKcGx1S25zeG5OZ3FIejRtSWtUdkpkSXJUc215RnJRak9fUnA0Z1V0WmgyemU1YndUNXduajZHQVFGLXFmX3owMTBjYnhLZVJvbUdXM2x0YWhBYzRxcGJBYU9MMGdhU1YyR3JGRjNSUi1BdkhTdFRwSUQycXk3bnhkYmJvOF9XOU5YenRlRGxqUExOdw?oc=5",
-          "date": "Wed, 30 Sep 2026",
+          "title": "At $49.625 a share, H.B. Fuller (FUL) director Michael J. Happe buys 2,000 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3RFaFdKclhRV2d3eG5adVhjcWotWm8wZ3ViLUIwTklaVlVTUHRpaXJXM0pFTHhuZXJINjVTSmZ3aVI0Y21faDBVcVdwLW9kcEFhUE9VWWhCRTBIVzQxMy00V0d1Vm1BTHFJeFd6NGZESDBaRlRiTWwxZ2phZk4tUVlVaXBjTmRGb1Q1ZmN6QzFCZUFwNWUtYWQxaXZiX2JLQlhvaGM5SHludw?oc=5",
+          "date": "Thu, 01 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Director Handley buys 2,000 Fuller H B Co (FUL) shares through a trust at $49.41 each. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkxQWS01ODdfV2pNRWVuZXdlRkx6a0s3QjlGd3BjM0E0WkcyUWQ2cUNHdVBxSnFkempfQm1sNnVYVnVCa2N4R0szcnBHV2I3ZUUyNm1ZWV9vOVlZVmpMYjB0LTZhNVFTNFlneWRCQ241UFdPWDh1LTd0QzRIZzVEdGl5UWxYd1hmWm9hd0pRdElJc1VNMVdQcThja3FuYXlZcWN4cnVEVUlIUQ?oc=5",
+          "title": "A director buys 1,542 and 500 shares through a revocable trust at Fuller H B Co (FUL). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNC1lbzlDcV9PUzlXeElieHpvY3k3TDNKcGx1S25zeG5OZ3FIejRtSWtUdkpkSXJUc215RnJRak9fUnA0Z1V0WmgyemU1YndUNXduajZHQVFGLXFmX3owMTBjYnhLZVJvbUdXM2x0YWhBYzRxcGJBYU9MMGdhU1YyR3JGRjNSUi1BdkhTdFRwSUQycXk3bnhkYmJvOF9XOU5YenRlRGxqUExOdw?oc=5",
           "date": "Wed, 30 Sep 2026",
           "source": "Stock Titan"
         }
@@ -931,7 +938,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -959,30 +966,31 @@
       ]
     },
     {
-      "ticker": "CLPR",
+      "ticker": "SPG",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 0.9,
+      "buy_score": 2.0,
       "sell_score": 0.0,
-      "net_score": 0.9,
-      "distinct_buyers": 2,
+      "net_score": 2.0,
+      "distinct_buyers": 7,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-09-28 COO Bistricer Jacob BUY $246,225",
-        "2026-09-28 COO Bistricer Jacob BUY $246,225",
-        "2026-09-24 DIRECTOR Levinson Sam BUY $31,487",
-        "2026-09-24 DIRECTOR Levinson Sam BUY $31,487",
-        "2026-09-23 DIRECTOR Levinson Sam BUY $45,947",
-        "2026-09-23 DIRECTOR Levinson Sam BUY $45,947"
+        "2026-09-30 OTHER Smith Daniel C. BUY $70,973",
+        "2026-09-30 OTHER Smith Daniel C. BUY $70,973",
+        "2026-09-30 OTHER STEWART MARTA R BUY $40,353",
+        "2026-09-30 OTHER STEWART MARTA R BUY $40,353",
+        "2026-09-30 OTHER SELIG STEFAN M BUY $42,178",
+        "2026-09-30 OTHER SELIG STEFAN M BUY $42,178",
+        "2026-09-30 OTHER RODKIN GARY M BUY $47,045",
+        "2026-09-30 OTHER RODKIN GARY M BUY $47,045"
       ],
       "company": {
-        "name": "Clipper Realty Inc.",
+        "name": "SIMON PROPERTY GROUP INC.",
         "industry": "Real Estate Investment Trusts"
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -995,125 +1003,133 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
-          "2026-10-01"
+          "2026-10-01",
+          "2026-10-02"
         ],
         "closes": [
-          3.36,
-          3.35,
-          3.42,
-          3.41,
-          3.41,
-          3.29,
-          3.45,
-          3.45,
-          3.41,
-          3.32,
-          3.28,
-          3.22,
-          3.15,
-          3.1192
+          204.1,
+          202.94,
+          204.47,
+          205.32,
+          204.98,
+          205.95,
+          204.16,
+          204.7,
+          204.82,
+          204.53,
+          204.28,
+          200.76,
+          200.81,
+          200.99
         ]
       },
-      "price_now": 3.1192,
-      "price_at_signal": 3.45,
-      "pct_since_signal": -9.59,
-      "pct_14d": -7.17,
+      "price_now": 200.99,
+      "price_at_signal": 200.76,
+      "pct_since_signal": 0.11,
+      "pct_14d": -1.52,
       "deep": {
         "recent_filings": [
           {
-            "form": "8-K",
-            "date": "2026-08-06",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1649096/000143774926026253/clpr20260805_8k.htm"
-          },
-          {
             "form": "10-Q",
-            "date": "2026-08-06",
+            "date": "2026-08-10",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1649096/000143774926026249/clpr20260630_10q.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926093360/spg-20260630x10q.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-07-02",
-            "summary": "Company other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1649096/000143774926022495/clpr20260630_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-06-18",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1649096/000143774926021171/clpr20260617_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-14",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1649096/000143774926017039/clpr20260513_8k.htm"
+            "date": "2026-08-10",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1063761/000110465926093361/tm2620726d2_8k.htm"
           }
         ],
-        "about": ""
+        "about": "Simon Property Group, Inc. is an American real estate investment trust that invests in shopping malls, outlet centers, and community/lifestyle centers. It is the largest owner of shopping malls in the United States and is headquartered in Indianapolis, Indiana. As of June 9, 2026, it owned interests in 235 properties."
       },
       "actors": [
         {
-          "name": "Bistricer Jacob",
-          "kind": "COO",
-          "note": "12 Form 4 filings on record since 2017; 1 buy of CLPR in this tracker's ledger"
+          "name": "Aeppel Glyn",
+          "kind": "OTHER",
+          "note": "73 Form 4 filings on record since 2005; 1 buy of SPG in this tracker's ledger"
         },
         {
-          "name": "Levinson Sam",
-          "kind": "DIRECTOR",
-          "note": "69 Form 4 filings on record since 2013; 7 buys of CLPR in this tracker's ledger"
+          "name": "GLASSCOCK LARRY C",
+          "kind": "OTHER",
+          "note": "272 Form 4 filings on record since 2003; 1 buy of SPG in this tracker's ledger"
+        },
+        {
+          "name": "LEIBOWITZ REUBEN S",
+          "kind": "OTHER",
+          "note": "61 Form 4 filings on record since 2003; 1 buy of SPG in this tracker's ledger"
+        },
+        {
+          "name": "RODKIN GARY M",
+          "kind": "OTHER",
+          "note": "114 Form 4 filings on record since 2003; 1 buy of SPG in this tracker's ledger"
+        },
+        {
+          "name": "SELIG STEFAN M",
+          "kind": "OTHER",
+          "note": "51 Form 4 filings on record since 2017; 1 buy of SPG in this tracker's ledger"
+        },
+        {
+          "name": "STEWART MARTA R",
+          "kind": "OTHER",
+          "note": "99 Form 4 filings on record since 2003; 1 buy of SPG in this tracker's ledger"
+        },
+        {
+          "name": "Smith Daniel C.",
+          "kind": "OTHER",
+          "note": "50 Form 4 filings on record since 2009; 1 buy of SPG in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "At $3.35 a share, Clipper Realty (CLPR) COO Jacob Bistricer buys 73,500 shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXl0bkJhaUViNElhcVR5b0xTSGo0bk1zX3hYd2xrdUR4Z0RKU0lSYUdDLTNSVXYySXZFcXZHcDVVYXpPaWVWT0p3Nzl1Y0pWTVlFX29UUlFSRW1OTXRBemNVTm9XR2h6a1Z4NTlIc0NTaWs4RTBvbHBYazFpcUwxdC1qYXpoMUR0eGt2V2RuTTQ3MnI2SkpiRHNMMThETzdVYVZWUTNGZlRybHl2UUJWT1hR?oc=5",
-          "date": "Wed, 30 Sep 2026",
-          "source": "Stock Titan"
+          "title": "Simon Property Group, Inc. (SPG) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE50cWZDVzRGVmVQMzVzYWFsdUVISmdUTTc4SVVWZFREeVF3SzJIWmlqakRHbDlwcy1ndldGbmQ0YnhMOHJ3dDhkM1Bvd0I1ZWV4?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "Clipper Realty (NYSE:CLPR) COO Jacob Bistricer Purchases 73,500 Shares of Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORGVIOUc4TlZ6b2htdGhZbGx6YklSbVZHV0syd2dUMk9VZkd6RU5UemdlVHhjclBSNndVTmdJRDUwUTFuZVJZd1FkeEhxR3I3a0g5aEI0Qmdfek1Ub1BGZ2IxSXVtbDY1LWZuZVNNck5qckhnVHJ3VmdhZnVlRzlENzRsaHNwRU93bjI4Mm9NZERkOGIzdmtkSG5MdFJzMFdkdzh3UXNVQnduT2FBS0stZ3FvRWJpbFA3bmJLREZkTjRyX0NmMXZTQkpvckxhYUpFbXFtTA?oc=5",
-          "date": "Wed, 30 Sep 2026",
+          "title": "Insider Buying: Simon Property Group (NYSE:SPG) Director Buys $13,180.70 in Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTBsUy1NVnRvXzNuZFV1Q2VxX1NWc3Zvb09pMWdKZ0RjTHpEWm5GRmJyRjZuTElKTEpNdTRvbkhuVE1RNldHUjVSSWFpa2l3SjlET0k4eEd4blFWRWtIMUJBX1FjY1ROUnZ0MkJWclBxYVktYTRDTWIzRGdhR1QzeDYtSDlreE9HU2d4N05yQy0zWWY4dUFMeHZaRE05alVwVFBzc2dpeVJuU0FwVzVFcTk4X3d6OGFGMXpnQ2lnRGdRTzRMc0RSMVNDa3JrTkNFVDlV?oc=5",
+          "date": "Thu, 01 Oct 2026",
           "source": "MarketBeat"
         },
         {
-          "title": "Clipper Realty COO Jacob Bistricer buys $246k in stock By Investing.com - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUVFndm5GNWxKV2NJY2pJNDRGdmkwS3pwbGdRQWxvVzJUcnU4QnRxU2JueFZzNndvcklJRzRTTFdGUGFTdnI5cFpxM193N1lNVHVCWHZvWWo1c1JQTFpNUFh4a3U5c0lfVHpXaUhxVk0xTTNBNHRJZEZ5WW0zbDMzMUVCdW1JWFFiZU9iR0Rka0tFczBwaWZDWDVtaXZ4aFRfNlY3ZEMyVm1lRWNXdWVLdjdoaWY?oc=5",
+          "title": "Reinvested dividends add 65 shares to Simon Property Group (SPG) director Randall J. Lewis\u2019s holdings. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkRlcENETHAyZHdRc2U2ZjRFejhDWWlnbVV6LVNFczhZYnNmNHktVlQ5V3dFMGtxM3dOTXhPdmk4eWp5N0Z0dWpjMnBGZzlwNlZWN096Z2NlYzlVZGV1cEw4MU5WSTVMcEhpcWh1RnVzdWdRa1MwY3BXczNNSngwcnNQWXZwcEpTb09xNjhFYXFFSHFlY1N3aFFxSm5OT1N3OVdTd25HaXg0OVVwYmV0NmJvZFN1elUy?oc=5",
           "date": "Thu, 01 Oct 2026",
-          "source": "Investing.com Nigeria"
+          "source": "Stock Titan"
         },
         {
-          "title": "Clipper Realty: Attractively Valued Despite Fundamental Pressures (NYSE:CLPR) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSXQ3clloV0pJUzlPLTI3U3ZLeW1ialBfNkxDemtvcFE5RUNabER2OVhTMWlxWUhqeEJ5Nk43R3JBZE1OMDhVLVBsUGZ6VzliSWkyWHVzWGVHbTNCMmdoQUpXbXdDclR0alQ1Y1ktU0JINVZvLWdON0NmT2dmbDUxRVdrdks2RTN6b25OTlpaZGVmbl9aMk9ZZTFUR2FSdHVpbkp6VkFibVM?oc=5",
-          "date": "Tue, 19 May 2026",
-          "source": "Seeking Alpha"
+          "title": "Simon Property Group, Inc. Revenue Breakdown \u2013 NYSE:SPG - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5lanNVQno5ZXJWRUpDeUlyY1VYQkZubU1OYVZzcmNiS3FxYlZWRmNPRmdSWXpxZlBvbklSTFNjb3VQdXlQMndla3Jxd2hTamN1dU9GczlrVTdLVVUwVTl3dU85cEFVd0UtMjZGS1U4d0prekE?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "TradingView"
         },
         {
-          "title": "Clipper Realty Inc. (CLPR) Q2 FFO Surpass Estimates - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb2x3cUc5VkNBTFRSSlVsdmNLa0liWG85eDhwX0lKcEJhUFM5eHlVT2pWUmhDaDAzM1NULUpjcEhlSk5DUjhfazdnQTBkWUh1RXRad3VMUDJCYUFUWTJQd2VIWV9lMXpzUTVRSFhyWUZLWENxMEx0YmdOVkVvd200Q2dzRGFtUUFPTGl0TVN4TGZXN0NmY2c?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
+          "title": "Director Peggy Roe Buys 88 Shares of Simon Property Group Inc (S - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzI3cDB5a0g5bXNjMF9kVGdzYUJfVnBoWmpiSXpIMEprWDAwMElkbEwxRjhwR0kxQmtiaTRvUzdjc1ZRdzVTS3FORS1kUlZST0hDbzJuVnAyOERrLWZ2LTVGekx1QW55SXVvd29zZlB6NG1qcDN3TzVVa045Q1IyQk95bV9vUVNjQW1CVDR0UmljR1MtX3paWTRGNEtfUUF2ZTI0V0tONA?oc=5",
+          "date": "Fri, 02 Oct 2026",
+          "source": "GuruFocus"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cClipper Realty\u201d",
+          "label": "Bills mentioning \u201cSIMON PROPERTY\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Clipper%20Realty&source=legislation"
+          "url": "https://www.congress.gov/search?q=SIMON%20PROPERTY&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cClipper Realty\u201d",
+          "label": "Hearings mentioning \u201cSIMON PROPERTY\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Clipper%20Realty&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=SIMON%20PROPERTY&source=committeemeetings"
         },
         {
           "label": "Bills mentioning \u201cReal Estate Investment Trusts\u201d",
@@ -1128,30 +1144,27 @@
       ]
     },
     {
-      "ticker": "FTHY",
+      "ticker": "XENE",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 0.7,
+      "buy_score": 1.4,
       "sell_score": 0.0,
-      "net_score": 0.7,
+      "net_score": 1.4,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162",
-        "2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162",
-        "2026-09-25 OFFICER MCGAREL DAVID BUY $129,247",
-        "2026-09-25 OFFICER MCGAREL DAVID BUY $129,247",
-        "2026-09-24 OTHER HOUSEY WILLIAM A JR BUY $64,500",
-        "2026-09-24 OTHER HOUSEY WILLIAM A JR BUY $64,500"
+        "2026-09-30 CFO Kelly Thomas Patrick BUY $559,740",
+        "2026-09-30 CFO Kelly Thomas Patrick BUY $559,740",
+        "2026-09-30 CEO MORTIMER IAN BUY $1,121,400",
+        "2026-09-30 CEO MORTIMER IAN BUY $1,121,400"
       ],
       "company": {
-        "name": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
-        "industry": ""
+        "name": "Xenon Pharmaceuticals Inc.",
+        "industry": "Pharmaceutical Preparations"
       },
       "trend": {
         "dates": [
-          "2026-09-14",
           "2026-09-15",
           "2026-09-16",
           "2026-09-17",
@@ -1164,10 +1177,267 @@
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
+          "2026-10-01",
+          "2026-10-02"
+        ],
+        "closes": [
+          56.28,
+          56.76,
+          57.35,
+          39.75,
+          38.99,
+          39.09,
+          36.56,
+          38.06,
+          36.94,
+          36.72,
+          37.25,
+          37.19,
+          38.93,
+          37.38
+        ]
+      },
+      "price_now": 37.38,
+      "price_at_signal": 37.19,
+      "pct_since_signal": 0.51,
+      "pct_14d": -33.58,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-06",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526338244/xene-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526338019/xene-20260806.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-06-03",
+            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526255396/xene-20260602.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-05-07",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1582313/000119312526212153/xene-20260331.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Kelly Thomas Patrick",
+          "kind": "CFO",
+          "note": "37 Form 4 filings on record since 2007; 1 buy of XENE in this tracker's ledger"
+        },
+        {
+          "name": "MORTIMER IAN",
+          "kind": "CEO",
+          "note": "26 Form 4 filings on record since 2014; 1 buy of XENE in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Xenon Pharmaceuticals Inc. (XENE) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yMnp4VzR1UU8yWUhHdDJoQzhYV2FhUFlxTVVjd0JEdzl5cnp6MGV5Nkl5X2lPVGIyZ0prV2FhVlVxdHQ3dkRjSEJHSE5jaG92VkE?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "At $37.316 each, CFO Kelly buys 15,000 Xenon Pharmaceuticals (XENE) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzZuTk1ya3A1OUN3dlE2ZzFfNDhDdmc1ZDVzQTFVbi13UWpCQ3U0a0dKUVNOV2ptNm9XaVFVY2JpZjYxTzZQTkVlZjN4QVUwSjIzcGdMcWJnZHJKbHJSbVFmSGtiSHRpRHhETzNoN1VBdkFFUDZZWjJmSFc3ZkZUYUhmQjl2MjdKVUlIenM3eGVickxNMXZPN0VmTkpTaURYUlNFbEF2ZVM2dFdqUDJHN3J3UDVFNGNlQVhr?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Gross margin % of Xenon Pharmaceuticals Inc. \u2013 HAN:XP0 - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGdES2xHVnZac2pJRmpFUEpxRTRTczhPVGNZcnh4M2E2dHVRaHpCdUlkSm1pUmQ4TUVVT21ZWGVPM3BOTWVFbnNIOG56Q3FDOHRZam93TE1TdzFBMEU4OTA1SVRscTg5UWpmM1pGRTRPQnpZdXFqQkVVWUV1V2huVDBCamE0ektWc3otOE5wVC1VNDRq?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Xenon rises on insider buys from CEO and CFO (XENE:NASDAQ) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9pamwxbEtELTlkbXA4dDd6VDMtVm55ZHBvYzg4UzltYm1pMUJTS3FTQ0hBUHl3enVYNkxKZklPQUZhZVBGQ2dxaVJKOEpaTllfbGNJZGxUdnVlZm9YM1NCSFE5a2FudENNbnFaQ2JwTm1sN0M1emEwaDZn?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Xenon Pharmaceuticals (XENE) Shares Rise After CEO and CFO Buy $1.7M in Stock - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamNZbjQ3NWEzMjdINmZuQkQ1eFhnQklpdFVQSHQwaUJwRGxFb3ROU3p6WmZ0aC1FTWxNU3oyUE12b2RPTmdVSnVlYVZ4OVhMVVV5VjJVYm9VOTN1VkJUQS1vTUl3a1VndkpXTTdwY1ZpTE02UjRtRkl2ZVdBdG0tQlh1czNQcTJqVTlDX0hvSFpTQ2hFMUVCSTBNQnFBeGp3N25TS3R2RmVmS1NjOU1WMkVB?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "GuruFocus"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cXenon Pharmaceuticals\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Xenon%20Pharmaceuticals&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cXenon Pharmaceuticals\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Xenon%20Pharmaceuticals&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "BBASX",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 0.7,
+      "sell_score": 0.0,
+      "net_score": 0.7,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000",
+        "2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000",
+        "2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000",
+        "2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000",
+        "2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000"
+      ],
+      "company": {
+        "name": "BBASX",
+        "industry": ""
+      },
+      "trend": {
+        "dates": [
+          "2026-09-04",
+          "2026-09-08",
+          "2026-09-09",
+          "2026-09-10",
+          "2026-09-11",
+          "2026-09-14",
+          "2026-09-15",
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-22",
+          "2026-09-25",
+          "2026-09-28",
           "2026-10-01"
         ],
         "closes": [
-          12.96,
+          11.23,
+          11.24,
+          11.25,
+          11.25,
+          11.27,
+          11.28,
+          11.28,
+          11.28,
+          11.29,
+          11.29,
+          11.32,
+          11.36,
+          11.38,
+          11.4
+        ]
+      },
+      "price_now": 11.4,
+      "price_at_signal": 11.4,
+      "pct_since_signal": 0.0,
+      "pct_14d": 1.51,
+      "deep": {
+        "recent_filings": [],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "AMG New York Holdings Corp.",
+          "kind": "OTHER",
+          "note": "5 Form 4 filings on record since 2025; 2 buys of BBASX in this tracker's ledger"
+        },
+        {
+          "name": "BROWN BROTHERS HARRIMAN & CO",
+          "kind": "OTHER",
+          "note": "22 Form 4 filings on record since 1997; 1 buy of BBASX in this tracker's ledger"
+        }
+      ],
+      "news": [],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBBASX\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=BBASX&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBBASX\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=BBASX&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "FTHY",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 0.5,
+      "sell_score": 0.0,
+      "net_score": 0.5,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162",
+        "2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162",
+        "2026-09-25 OFFICER MCGAREL DAVID BUY $129,247",
+        "2026-09-25 OFFICER MCGAREL DAVID BUY $129,247"
+      ],
+      "company": {
+        "name": "FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND",
+        "industry": ""
+      },
+      "trend": {
+        "dates": [
+          "2026-09-15",
+          "2026-09-16",
+          "2026-09-17",
+          "2026-09-18",
+          "2026-09-21",
+          "2026-09-22",
+          "2026-09-23",
+          "2026-09-24",
+          "2026-09-25",
+          "2026-09-28",
+          "2026-09-29",
+          "2026-09-30",
+          "2026-10-01",
+          "2026-10-02"
+        ],
+        "closes": [
           12.93,
           13.0,
           13.07,
@@ -1180,13 +1450,14 @@
           12.85,
           12.9,
           12.85,
-          12.615
+          12.58,
+          12.62
         ]
       },
-      "price_now": 12.615,
-      "price_at_signal": 12.89,
-      "pct_since_signal": -2.13,
-      "pct_14d": -2.66,
+      "price_now": 12.62,
+      "price_at_signal": 13.0,
+      "pct_since_signal": -2.92,
+      "pct_14d": -2.4,
       "deep": {
         "recent_filings": [
           {
@@ -1230,16 +1501,16 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "FTHY | First Trust High Yield Stock Data, Price & News - Quiver Quantitative",
+          "title": "FTHY | First Trust High Yield Stock Data, Price & News - quiverquant.com",
           "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9xRzl4RzVLVmlWLXJsZ2FsOUZqSFozamhtRlhDNGk5Sjl4VmYzZzBDSkhtODVzRFlnMk1lUGJOUkg4WVkzSWVMY19BVnBlMTBl?oc=5",
           "date": "Mon, 28 Sep 2026",
-          "source": "Quiver Quantitative"
+          "source": "quiverquant.com"
         },
         {
-          "title": "Insider Buying: Officer and Portfolio Manager William A. Housey - gurufocus.com",
+          "title": "Insider Buying: Officer and Portfolio Manager William A. Housey - GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRC1FMnc1ZXNmV0VWcGUta2xNdlY1c0RaRjJwSVNlSTZ2LTNyTTk0UXplMDBaaUVSMHI0X1lBX3lzc09EOUthOUNWU2MxbGxzTHJETWZSYzRPUDlzWG1vN19WTTlLeGYtcFYzNmdGR205N0lJVFZ3SmVSUTJWYmZSbEZFUkhsNFJfeUxYZVhzVnI4ZVBDelhQT2ZOZjZrVVhzRk05VzVCVE5yaTBPQkxkV28xMXFPbmhpMTUtT2g4Q1FrSHJqZG95THJyWUptWEZzVWRmelVqZGNJcnM2dHBBbEVsUkc3Rk1aTHExMjhYSFBycHpMbFdzbno3ME1Ob3NDeHJPU2d5eThiT0wtUncwak55UQ?oc=5",
           "date": "Tue, 29 Sep 2026",
-          "source": "gurufocus.com"
+          "source": "GuruFocus"
         },
         {
           "title": "Insider Purchase Filed: First Trust High Yield Opportunities 2027 Term Fund Portfolio Manager Acquires Shares - Kalkine Media",
@@ -1248,17 +1519,17 @@
           "source": "Kalkine Media"
         },
         {
-          "title": "Form 4 FIRST TRUST HIGH YIELD OPPORTUNITIES 2027 TERM FUND For: 26 September - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU1VzUFh0VVY2c25QcmVmTWlqVDlsSmlJQWhtV2NsWUs0YVkwaFNqM1ZnMWFnRVlyY1dVNGxLLVhZM1NhZUJyeklvWFlwNHpBV1pXR0VTSWp5QUFWbS1iTU9fVGNFYmVHUHlWUmtocmJBazBaY3ZaR3A2NWRTUWU5TkV6cUI1bGJZbm9QMFFZNjk3U25sSTF2VWFoVV9FS0U3UUMwM19XM0tpVlFTbVd2RzFpTzBlVzdTREVCT1lsbkNLakxtaHBaUEwyemtDaXpWZEE?oc=5",
-          "date": "Sat, 26 Sep 2026",
-          "source": "Investing.com Nigeria"
+          "title": "Trading Systems Reacting to (FTHY) Volatility - Stock Traders Daily",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGJmdWs5Rmh3NTRHcnVNM2QtVVctXzRuN3o3b2RsbTJuQVFWdTJabFFlUHZYMXlJQjZodXNXTnN3bVJrVTVyeDlENmQzOGNLbHNwWnZpNVQ4TXpuQXFRUmRxX3plVUtNWGJXMTAzeW8tLWVjV0c4RFRzTnR3VUhQWUtxUEp3a2poNTY1TWpDOFZMZnJXS0ZmTDMxbngxRF9JNzhmM2w3Z1hhQXdtczA1TTBGX19GOGJCV0tHdjZITUk?oc=5",
+          "date": "Thu, 01 Oct 2026",
+          "source": "Stock Traders Daily"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
