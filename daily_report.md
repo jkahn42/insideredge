@@ -1,4 +1,4 @@
-# InsiderEdge Daily Report — 2026-10-02
+# InsiderEdge Daily Report — 2026-10-05
 
 Signals: **0 BUY** / **1 SELL** / **9 WATCH**
 
@@ -37,15 +37,15 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-28 OTHER George Simeon BUY $7,051,838
 - 2026-09-28 OTHER George Simeon BUY $7,051,838
 
-### NYAX  (net +5.0 | buy 5.0 / sell 0.0 | 2 buyers, 0 sellers)
+### NYAX  (net +7.2 | buy 7.2 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-09-30 CEO Nechmad Yair BUY $888,935
+- 2026-09-30 CEO Nechmad Yair BUY $888,935
+- 2026-09-30 CEO Nechmad Yair BUY $777,100
+- 2026-09-30 CEO Nechmad Yair BUY $777,100
+- 2026-09-30 CEO Nechmad Yair BUY $446,048
+- 2026-09-30 CEO Nechmad Yair BUY $446,048
 - 2026-09-29 CEO Nechmad Yair BUY $851,111
 - 2026-09-29 CEO Nechmad Yair BUY $851,111
-- 2026-09-29 CEO Nechmad Yair BUY $45,490
-- 2026-09-29 CEO Nechmad Yair BUY $45,490
-- 2026-09-29 CEO Nechmad Yair BUY $124,134
-- 2026-09-29 CEO Nechmad Yair BUY $124,134
-- 2026-09-28 CEO Nechmad Yair BUY $45,486
-- 2026-09-28 CEO Nechmad Yair BUY $45,486
 
 ### BPRE  (net +3.9 | buy 3.9 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-30 PRESIDENT Ruddy Jordan B. BUY $29,988
@@ -77,24 +77,28 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-30 OTHER RODKIN GARY M BUY $47,045
 - 2026-09-30 OTHER RODKIN GARY M BUY $47,045
 
+### PORT.U  (net +1.6 | buy 1.6 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
+- 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
+- 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
+- 2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000
+- 2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000
+
 ### XENE  (net +1.4 | buy 1.4 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
 - 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
 - 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
 - 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
 
-### BBASX  (net +0.7 | buy 0.7 / sell 0.0 | 2 buyers, 0 sellers)
+### BBASX  (net +0.9 | buy 0.9 / sell 0.0 | 3 buyers, 0 sellers)
 - 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
 - 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
 - 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
 - 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
 - 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
-
-### FTHY  (net +0.5 | buy 0.5 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162
-- 2026-09-28 OTHER HOUSEY WILLIAM A JR BUY $32,162
-- 2026-09-25 OFFICER MCGAREL DAVID BUY $129,247
-- 2026-09-25 OFFICER MCGAREL DAVID BUY $129,247
+- 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
+- 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
+- 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.
