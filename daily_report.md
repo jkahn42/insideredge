@@ -1,4 +1,4 @@
-# InsiderEdge Daily Report — 2026-10-06
+# InsiderEdge Daily Report — 2026-10-07
 
 Signals: **0 BUY** / **1 SELL** / **9 WATCH**
 
@@ -6,58 +6,28 @@ Signals: **0 BUY** / **1 SELL** / **9 WATCH**
 _None today — no cluster met the threshold. That is a feature, not a bug._
 
 ## SELL / AVOID
-### BMBL  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 5 sellers)
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
-- 2026-09-28 OTHER Blackstone Holdings III GP Management L.L.C. SELL $599,693
+### UTHR  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 2 sellers)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $686,187 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $686,187 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $671,120 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $671,120 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $555,633 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $555,633 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $502,279 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO ROTHBLATT MARTINE A SELL $502,279 (10b5-1 planned sale — discounted)
 
 ## WATCHLIST
-### KOD  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $874,517
-- 2026-09-29 OTHER BAKER BROS. ADVISORS LP BUY $52,146
+### LEN  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $35,118,616
+- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $35,118,616
 
-### ADRX  (net +6.8 | buy 6.8 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $9,999,995
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $5,104,233
-- 2026-09-28 DIRECTOR ORBIMED ADVISORS LLC BUY $5,104,233
-
-### BPRE  (net +5.0 | buy 5.0 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
-- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
-- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
-- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
-- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
-- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
-- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
-- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
-
-### BBD  (net +3.4 | buy 3.4 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-28 OFFICER Di Marcello Francesco BUY $1,002,520
-- 2026-09-28 OFFICER Di Marcello Francesco BUY $1,002,520
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $826,630
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $826,630
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $63,492
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $63,492
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $58,276
-- 2026-08-31 DIRECTOR Alvarez Denise Aguiar BUY $58,276
-
-### ACCV  (net +2.6 | buy 3.9 / sell 1.4 | 5 buyers, 1 sellers)
+### ACCV  (net +37.8 | buy 40.6 / sell 2.8 | 5 buyers, 1 sellers)
 - 2026-10-01 DIRECTOR JONES GINGER M BUY $180,000
 - 2026-10-01 DIRECTOR JONES GINGER M BUY $180,000
 - 2026-10-01 DIRECTOR HECKES HOWARD C BUY $90,000
@@ -67,7 +37,27 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-01 COO Jewell Brent C BUY $45,000
 - 2026-10-01 COO Jewell Brent C BUY $45,000
 
-### SPG  (net +2.0 | buy 2.0 / sell 0.0 | 7 buyers, 0 sellers)
+### CRWD  (net -37.1 | buy 0.0 / sell 37.1 | 0 buyers, 4 sellers)
+- 2026-10-05 CEO Kurtz George SELL $815,587 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $815,587 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $207,495 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $207,495 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $194,623 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $194,623 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $107,760 (10b5-1 planned sale — discounted)
+- 2026-10-05 CEO Kurtz George SELL $107,760 (10b5-1 planned sale — discounted)
+
+### PRHI  (net +23.9 | buy 23.9 / sell 0.0 | 5 buyers, 0 sellers)
+- 2026-09-30 OTHER Smith James Grant BUY $48,935
+- 2026-09-30 OTHER Smith James Grant BUY $48,935
+- 2026-09-30 OTHER SARAFA JOSEPH D BUY $74,247
+- 2026-09-30 OTHER SARAFA JOSEPH D BUY $74,247
+- 2026-09-30 OTHER O'Hanlon Isolde BUY $48,935
+- 2026-09-30 OTHER O'Hanlon Isolde BUY $48,935
+- 2026-09-30 CFO MELOCHE HAROLD J BUY $26,138
+- 2026-09-30 CFO MELOCHE HAROLD J BUY $26,138
+
+### SPG  (net +20.4 | buy 20.4 / sell 0.0 | 7 buyers, 0 sellers)
 - 2026-09-30 OTHER Smith Daniel C. BUY $70,973
 - 2026-09-30 OTHER Smith Daniel C. BUY $70,973
 - 2026-09-30 OTHER STEWART MARTA R BUY $40,353
@@ -77,25 +67,37 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-09-30 OTHER RODKIN GARY M BUY $47,045
 - 2026-09-30 OTHER RODKIN GARY M BUY $47,045
 
-### PORT.U  (net +1.6 | buy 1.6 / sell 0.0 | 2 buyers, 0 sellers)
+### PORT.U  (net +16.5 | buy 16.5 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
 - 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
 - 2026-09-30 CEO SPENCER JEB S. BUY $5,000,000
 - 2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000
 - 2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000
 
-### XENE  (net +1.4 | buy 1.4 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
-- 2026-09-30 CFO Kelly Thomas Patrick BUY $559,740
-- 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
-- 2026-09-30 CEO MORTIMER IAN BUY $1,121,400
+### BPRE  (net +16.2 | buy 16.2 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
+- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
+- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
+- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
+- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
+- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
+- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
+- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
 
-### BBASX  (net +0.9 | buy 0.9 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
-- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
-- 2026-09-29 OTHER BROWN BROTHERS HARRIMAN & CO BUY $800,000
+### GME  (net +11.6 | buy 13.6 / sell 2.0 | 2 buyers, 2 sellers)
+- 2026-10-05 OFFICER Robinson Mark Haymond SELL $98,673 (10b5-1 planned sale — discounted)
+- 2026-10-05 OFFICER Robinson Mark Haymond SELL $98,673 (10b5-1 planned sale — discounted)
+- 2026-10-02 CEO Cohen Ryan BUY $17,084,270
+- 2026-10-02 CEO Cohen Ryan BUY $17,084,270
+- 2026-10-01 OFFICER Robinson Mark Haymond SELL $177,001 (10b5-1 planned sale — discounted)
+- 2026-10-01 OFFICER Robinson Mark Haymond SELL $177,001 (10b5-1 planned sale — discounted)
+- 2026-10-01 OFFICER Moore Daniel William SELL $177,025
+- 2026-10-01 OFFICER Moore Daniel William SELL $177,025
+
+### BBASX  (net +3.1 | buy 3.1 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
 - 2026-09-29 OTHER AMG New York Holdings Corp. BUY $3,200,000
+- 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
 - 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
 - 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
 - 2026-07-01 OTHER Hohmann Neil Martin BUY $45,000
