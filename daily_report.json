@@ -1,33 +1,32 @@
 {
-  "date": "2026-10-08",
+  "date": "2026-10-09",
   "signals": [
     {
-      "ticker": "UTHR",
-      "call": "WATCH",
+      "ticker": "DELL",
+      "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
       "sell_score": 60.0,
       "net_score": -60.0,
       "distinct_buyers": 0,
-      "distinct_sellers": 1,
+      "distinct_sellers": 5,
       "evidence": [
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $89,228 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $89,228 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $866,718 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $866,718 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $71,498 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $71,498 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $65,099 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-06 CEO ROTHBLATT MARTINE A SELL $65,099 (10b5-1 planned sale \u2014 discounted)"
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376",
+        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376"
       ],
       "company": {
-        "name": "UNITED THERAPEUTICS Corp",
-        "industry": "Pharmaceutical Preparations"
+        "name": "Dell Technologies Inc.",
+        "industry": "Electronic Computers"
       },
       "trend": {
         "dates": [
-          "2026-09-21",
           "2026-09-22",
           "2026-09-23",
           "2026-09-24",
@@ -40,106 +39,120 @@
           "2026-10-05",
           "2026-10-06",
           "2026-10-07",
-          "2026-10-08"
+          "2026-10-08",
+          "2026-10-09"
         ],
         "closes": [
-          493.1,
-          497.59,
-          489.42,
-          472.21,
-          475.45,
-          485.54,
-          481.47,
-          541.89,
-          571.38,
-          541.7,
-          536.4,
-          541.62,
-          545.0,
-          539.335
+          548.92,
+          549.83,
+          536.02,
+          562.89,
+          543.43,
+          539.59,
+          537.95,
+          541.74,
+          562.52,
+          552.29,
+          574.0,
+          578.96,
+          574.55,
+          586.125
         ]
       },
-      "price_now": 539.335,
-      "price_at_signal": 541.62,
-      "pct_since_signal": -0.42,
-      "pct_14d": 9.38,
+      "price_now": 586.125,
+      "price_at_signal": 574.0,
+      "pct_since_signal": 2.11,
+      "pct_14d": 6.78,
       "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-09-08",
-            "summary": "Company entered a material agreement; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926105953/tm2624887d1_8k.htm"
-          }
-        ],
-        "about": "United Therapeutics Corporation is an American biotechnology company that develops pharmaceuticals and technologies related to organ transplantation, including xenotransplantation. Many of the company's products are focused towards lung disease and organ manufacturing. United Therapeutics is co-headquartered in Silver Spring, Maryland and Research Triangle Park, North Carolina, with additional facilities in Magog and"
+        "recent_filings": [],
+        "about": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell Inc. and EMC Corporation. Dell Technologies ranked 44th on the 2025 Fortune 500 rankings of the largest United States corporations based on its 2024 revenue; its products include personal computers, servers, monitors, comput"
       },
       "actors": [
         {
-          "name": "ROTHBLATT MARTINE A",
-          "kind": "CEO",
-          "note": "912 Form 4 filings on record since 2008; 557 sales of UTHR in this tracker's ledger"
+          "name": "Silver Lake Technology Investors IV, L.P.",
+          "kind": "OTHER",
+          "note": "121 Form 4 filings on record since 2016; 102 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Partners V DE (AIV), L.P.",
+          "kind": "OTHER",
+          "note": "102 Form 4 filings on record since 2018; 178 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "SL SPV-2, L.P.",
+          "kind": "OTHER",
+          "note": "102 Form 4 filings on record since 2019; 178 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Technology Investors V, L.P.",
+          "kind": "OTHER",
+          "note": "97 Form 4 filings on record since 2018; 47 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Partners IV, L.P.",
+          "kind": "OTHER",
+          "note": "155 Form 4 filings on record since 2012; 210 sales of DELL in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Family trusts sell 9,500 United Therapeutics (UTHR) shares under a pre-arranged trading plan. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWEVhM1JjNy0zcnBENjAySVJ4VjRyaWlNSHhTc2FkSmJzUDJrSjlxWXVDdHl5R2l1U2ZRU2VsS3AyRUhMb0s3dlZkbk5STy1QOE1tcXNfQW03UUIyNTNvVEF3MndvNG9nWVYwRmdWLXZ4OV93UVU2Y3E1UldFbms3eFBXWmNpdUlLYUM1RjQ1ckF4VHQ5c2RXV2U5WDZMZ09VeWVDYTU2RFNOa1FnMFZaMkxxdllFc2RFSlE?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Liquidia shares crater after court rules for United Therapeutics - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNWJCNmNUQXlyVFU0VnJoM3l5OUtKaU5KbW0xS1kxRThrbFVwdUF3akFzRF8yU3k3dDl5ZFR5VU4wVUlMdGU4N0NQWjUtVGlSaVpHWU5nb20tdFo2NkhIRWRxSDNES2MwYUdXR1dvSTU1cHZqQ3JPT1NOMWNsT2Y1QkwxaTBsYlJoT3Q5NWpvZTZLTGhpR2dwbVYxMTdkZ0M1?oc=5",
-          "date": "Wed, 30 Sep 2026",
+          "title": "Trump keeps telling Americans to \u2018buy a Dell.\u2019 His latest filing reveals his account sold up to $1M of Dell stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM2wwajFDVXhvckI2cHRFYU9KOWo3YmxPMmlwX3Jmb3REQmJvQnJHdWcyRFUyUVhJZEZLMF9YQXJZTGVCSmdnMEVKcDh6akYzNjB3c2h0c0IxaDVxNjdkRFNsTVFzdklIeWtiN3lFelA1RE9WTmFjTjVpQ1JKeGJTS2NCZl9GNmlzVkJLVmNfeGdjOTVYVGFfbE1OQjJkOVE?oc=5",
+          "date": "Thu, 08 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "MannKind Stock Plummets After Partner United Therapeutics Unveils New \u2018Category Killer Product\u2019 - Stocktwits",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQX2cyYnVaVExIWG1QRjNUMVdkQ1Y2eW5VRzJ2WE13ckJXenVLV3F6ZFR4SEcyR2lsc2pveERra0ZxV3ZUUDZTNndrcXZ3aXFGenRmUkZacnM2THRPaTZ2dXdQR3k5ZDh6Q3dpUEV5cll0cUw3c1o2bTZmX2hvXzJkZEhaeDAxYV9id2hodTlQUUt2VWVtNzdMbzhKSFJTd3JXSVNwVGVRZWYxR0Q3aTJwT2ZrYThYU1ZvV2dIRlgzaXhGSzk5dndObW0wclU5QW9zQW5CeDhqQ0JuSm16Wlk5QlZ6aVdVdW0zNVh5MTJn?oc=5",
-          "date": "Sun, 04 Oct 2026",
-          "source": "Stocktwits"
+          "title": "Michael Dell\u2019s Net Worth Soars After Stock Market Gains\u2014Closing The Gap With Google\u2019s Larry Page - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRzNhZzBBa3dfNG95REtWRDktZmdJd3JSTm1LcUx3YXRNN0hNOFdfcndsQ2cwYjRWRzhzdGpndW90T0dYdE8wSmdvQ21VWWM4NTFTeGJlTldDT2NpM2lBcmczSmV6eThNQjFKdzk2UzFOZFR4eW5MZm05bGkzc3BCUmJjaG1vanVTV3BoWDE3NjVKU1piVENMZS15YTM0ODhaQzFmcjdEZEF4TXBkS3NiNEsycGVrRE16MkpOSTBySHBacW5KckNvUHlTMGNOZ29KdzNpWlNwaTlNcGtPaWpTSg?oc=5",
+          "date": "Tue, 06 Oct 2026",
+          "source": "Forbes"
         },
         {
-          "title": "United Therapeutics Corp Stock (UTHR) Moved Up by 7.26% on Oct 1: What Investors Need To Know - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMVFuM2YzcDlTaWlVYXVvcGFjTE1rcE5DYXhicHJpbzl6dFBhVkM0UHFodzFKM25Kel9GNlFLZTgzbVZpbzlGZTBPY0FWN2FOdHJkSmdWNjZHOTBGWGdJVlNtd1lCYmJfOFNiXzNHRDRnSkJXOEpNdm5WLUdaT0dvTXJIVnNjRzhrWXcw?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "TradingKey"
+          "title": "These 3 Stocks Got the Most Love From Analysts in September - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYS1kYnJEdlpuaHpnaVh6NjJVajFkcnpuVTNpNDBLNEEtNmUtNURLQXNySy1mLUpUVGVLSWZXc3lubzVkMVNucTFUVzh6VkZhLVJVcnpQbW9aSXJrQU9veUhUdFZPLVB4azRZSXR0Q0NSRWpIMUhVNGRENl9EN3YxWElVd1Jyc1VrOWwyZHB3OERvemxMUW5UQXpLLTI?oc=5",
+          "date": "Tue, 06 Oct 2026",
+          "source": "MarketBeat"
         },
         {
-          "title": "United Therapeutics (NASDAQ:UTHR) Screens as a High-Quality, Debt-Free Stock - ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQWI4dVJvSTB3cWkyUG1EdmRmSGplVldFRmdoX251dzd3Rks2Q01PeWhOZHoyQlVmcTl5N2hxV1FvamFWM3hReVd0aGcwNDF4cFdMSFk4OFVtMnNUTUFleE1qUXQ2M1lNMk9jSEJyMUNkSUNGbkt4eXJkMm5xTGxVQXRMeFMwRFo2SVdxajNocWlYWW1TZUt0VlY4MWtLS19iZUFwR255dEh2UUlEcmRHZjZweUxORWprYkdzRkE2MkNHdw?oc=5",
-          "date": "Mon, 21 Sep 2026",
-          "source": "ChartMill"
+          "title": "Michael Dell defends Trump Accounts' shift to individual company stocks - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUc2LWVJN2UtOGcxOTJRaUladUJVWE9KenltV01jQzJfS18wU3BXbWJ5Z01KTW9JWjBLUy1mUUZxTTU4UzVSNGtDZ3VFWnpBdTQ2TzNFSi1lVkNBSlRpWHZHV0p2bzlia0Q4YnE1SmtzN1BhMV82Sjl1R1g2U0o0X3lCRndheUNnUmNvT19wMTNkZUR5S0lLYVQwRkRuWG1aQ1E0VzFIOFhQZUs5Y3VRdkZuS21DWnRTdk9WY2dINmRodjBRNHc?oc=5",
+          "date": "Wed, 07 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Super Micro Edges Higher as Server Makers Rise Against a Falling Tech Tape; Hewlett Packard Enterprise Adds 3%, Dell Ticks Up - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGJXTk1EbU9lSm9UNmhyUHdOMUlMRWJKeFgwVm1tZlZYTlZRbTlpcHZDOW92TG1mbnlqUW5qOEZjcTJJOG90SU5MOFhJYUJxVmM5NWxfVjBScUtSM0xDeWdjV2c2T19nV2d4RlBNSTRlaUNteE5JS1FFRE5SV0d0WldTMVhnemIwRFVUb245ZVhlZnZ2YURMdGtSek1pZE0?oc=5",
+          "date": "Wed, 07 Oct 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "label": "Bills mentioning \u201cDell Technologies\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=legislation"
+          "url": "https://www.congress.gov/search?q=Dell%20Technologies&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "label": "Hearings mentioning \u201cDell Technologies\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Dell%20Technologies&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Bills mentioning \u201cElectronic Computers\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+          "url": "https://www.congress.gov/search?q=Electronic%20Computers&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "label": "Hearings mentioning \u201cElectronic Computers\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Electronic%20Computers&source=committeemeetings"
         }
       ]
     },
@@ -169,7 +182,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-21",
           "2026-09-22",
           "2026-09-23",
           "2026-09-24",
@@ -182,10 +194,10 @@
           "2026-10-05",
           "2026-10-06",
           "2026-10-07",
-          "2026-10-08"
+          "2026-10-08",
+          "2026-10-09"
         ],
         "closes": [
-          78.08,
           83.06,
           81.52,
           81.47,
@@ -198,13 +210,14 @@
           74.44,
           77.41,
           76.13,
-          77.07
+          77.6,
+          76.225
         ]
       },
-      "price_now": 77.07,
+      "price_now": 76.225,
       "price_at_signal": 79.81,
-      "pct_since_signal": -3.43,
-      "pct_14d": -1.29,
+      "pct_since_signal": -4.49,
+      "pct_14d": -8.23,
       "deep": {
         "recent_filings": [
           {
@@ -261,9 +274,9 @@
           "source": "Quiver Quantitative"
         },
         {
-          "title": "Berkshire, a 10% owner, buys Lennar (LEN) shares through subsidiaries. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORXI1UVh0bXhhbjExc0taVkZNcTl6TGoxQk82ZXRCR2tKaENieFFpZEJfV2xCOXM3VGMtR21TRlFYcXhqQ2NWM1czY0R4Vjg0NTA1cW0xTVJWN2duTDU4Szluam9GNTJKalU2c0U2bWotalJBWGZsY3h6eUdJMXFFc1NHOUFCS056RzU2T0RKZG11S2xCLWkzOHhsb2hJcE9ZbHpHcHBOQVFpSVh1?oc=5",
-          "date": "Tue, 06 Oct 2026",
+          "title": "Berkshire Hathaway buys both share classes of Lennar (LEN). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0FPejdhN0x0aV8tOE92SlJJb0RDdU80Nk5uUnF0Z3dBUGtmMnhvbnZfREdnRjFWME11UU9PRFN2V3ctSzZ6ODZsS3F4WkxRczk2Uy15WG5RaXplWGdIWDE0c3dVZDZLTE44VzJtbXJ1b2hFUkI4UUpOMTJRZnJyYkZNOUlPamZ1bVkzWjZQOVBfN29DalBJRDNmQ2dEQWtqRUhCU0QzeDBPV3Yw?oc=5",
+          "date": "Wed, 30 Sep 2026",
           "source": "Stock Titan"
         },
         {
@@ -273,16 +286,16 @@
           "source": "Quiver Quantitative"
         },
         {
-          "title": "Berkshire Hathaway buys both share classes of Lennar (LEN). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNN0FPejdhN0x0aV8tOE92SlJJb0RDdU80Nk5uUnF0Z3dBUGtmMnhvbnZfREdnRjFWME11UU9PRFN2V3ctSzZ6ODZsS3F4WkxRczk2Uy15WG5RaXplWGdIWDE0c3dVZDZLTE44VzJtbXJ1b2hFUkI4UUpOMTJRZnJyYkZNOUlPamZ1bVkzWjZQOVBfN29DalBJRDNmQ2dEQWtqRUhCU0QzeDBPV3Yw?oc=5",
-          "date": "Wed, 30 Sep 2026",
+          "title": "Profit slumps as Lennar (NYSE: LEN) cuts 2026 home delivery target - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdVduaGllNnlWQVczek5BRFU2VEVOcVBxNTVsNWgxNWhJUEpPQ1FmVnZabUc4VmpvWFk4aFZjNkEtRjVMVjdRaGNaaHRNZEZIZm1LdC1RSjU3RG5hMlNBMmlEX29EVWtPZFFUZkdkWmVpZkQySEpMdkVSTlNhNGFOdGpqWHNQSUZTY3hYelh2dEd0cm02ZmFEdUgzNGtoUURfcW51TzBn?oc=5",
+          "date": "Wed, 16 Sep 2026",
           "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -335,7 +348,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-21",
           "2026-09-22",
           "2026-09-23",
           "2026-09-24",
@@ -348,10 +360,10 @@
           "2026-10-05",
           "2026-10-06",
           "2026-10-07",
-          "2026-10-08"
+          "2026-10-08",
+          "2026-10-09"
         ],
         "closes": [
-          11.7,
           11.49,
           10.77,
           10.58,
@@ -364,13 +376,14 @@
           8.69,
           8.84,
           8.8,
-          9.33
+          9.22,
+          9.09
         ]
       },
-      "price_now": 9.33,
+      "price_now": 9.09,
       "price_at_signal": 8.84,
-      "pct_since_signal": 5.54,
-      "pct_14d": -20.26,
+      "pct_since_signal": 2.83,
+      "pct_14d": -20.89,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -379,7 +392,7 @@
         {
           "name": "Epstein David R",
           "kind": "DIRECTOR",
-          "note": "98 Form 4 filings on record since 2008; 2 buys of AGMB in this tracker's ledger"
+          "note": "99 Form 4 filings on record since 2008; 2 buys of AGMB in this tracker's ledger"
         },
         {
           "name": "Kemula Pierre Thadee Victor",
@@ -394,16 +407,22 @@
       ],
       "news": [
         {
+          "title": "At $8.90 a share, director David R. Epstein buys 5,000 AgomAb Therapeutics (AGMB) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQVBNeEZWTF9UN2VoRndCQUVnem4wTkYxZ09pRG94eXBBUDN2bjg4bExkVmUwSUdkNmhWaTRtU0RzZlRBNGdjZENnWmJ5aGVPd3lqTjlKeEJPVVdWMEl2S3l6UzJpRnlOeXI1c3dDYTZ3TDJTZHZleG53V1lIeGlyODUzXzFLZGxtOHg1M2xjblBUUmpicU9hRi1nM2NVZlNMdERBSUxOV0o2NnBTd0EydU9SbmxhbktX?oc=5",
+          "date": "Fri, 09 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
           "title": "AgomAb Therapeutics NV (AGMB) Stock Forecasts - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3BVeDFBai1fVlFlNkJjS0REY3IxYW9EaTd2X3dSVXM1UFFrZXQ4TWJ4SGNVYlJsVDVNVXZjUHlaYl9ZX2NqUzkwc1ZrRFgzeHJkUlVsQnhaM1IxdXg4TGVzc19kRklLaGs2dmsxb0g3ZVdmbnQ2b0I1eURralNPY0JPcU05NE1UUU1NcWFuX1YtQVhjVjFlQg?oc=5",
           "date": "Thu, 08 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Across three purchases, AgomAb Therapeutics (AGMB) CFO buys 10,000 shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1FRV0xYeFBVNFhRcXhBRjRYS3ZKME82RGp6blVHM0FMQnBIZGM4VkNIbGJHUzRKZ1dMOENoRTkzX2lqcF82Ukt6YUw2SElkMkF3SDM2b3hvNU82RGVIQXJNUVdLYU8tY2xEUE1hX2NkUEhNdU9oNkFUUF90ckdqemZGUzBEeHBjQ1FXZl9WREVQMGNfd0licFdIN0pNQUxTNmNCc3FfLW9oVkVib2RucXZpR0QzQUNv?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "Stock Titan"
+          "title": "AgomAb Director David R. Epstein Purchases 5,000 Shares at $8.90 Each on October 8, 2026 - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDAydG1HV3RLNjJZZnNNQ2FOekZIamoyLVNNQkctNUJ5VHJ0TnVkUExKX0R5UnFRTmtwVWlDRHlZSWlGNVlXV3lYV1RHWi01MmFFc01UUVBrZlV5aDh4dEpYMmpGY1dIelZFZFM4MU9MM3hha3RuNVdiN0xpMzY3OW9pd3I4SW9mREM3REpqS3ltTTJHbFVqZDRUSjdXZ0hQeTJybFRRcjMyNU1fZDVjcF9qT1NneVJQOTdvNFpwNTd3OGV4SFhjNWtR?oc=5",
+          "date": "Fri, 09 Oct 2026",
+          "source": "Kalkine Media"
         },
         {
           "title": "Why is Agomab Therapeutics stock sliding today? - Investing.com",
@@ -412,22 +431,16 @@
           "source": "Investing.com"
         },
         {
-          "title": "Director David R. Epstein bought 5,000 shares twice in AgomAb Therapeutics (AGMB). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTFkTFpHdXBKYjUxUnVYZGRkWF90QkpYYXg5UWtiWHBXVG53ekhpU2JIdGo5RDhWcFp4bmNNREt4SDZvQ0tHSXZkTFBEMjQxcDZoNzJ0TnBjczhkajFxdnZTc1llbExXcVBSMjFES0NqRUdBbEdxTzQ3UFdoYk5wOEsxV3A1dWRyUVNrODl4bDZodGJuZU1FdHJSSmlXTTFLV09TSW9xNlY0TlhRNEpJTWtpQV9VMmhj?oc=5",
+          "title": "Across three purchases, AgomAb Therapeutics (AGMB) CFO buys 10,000 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb1FRV0xYeFBVNFhRcXhBRjRYS3ZKME82RGp6blVHM0FMQnBIZGM4VkNIbGJHUzRKZ1dMOENoRTkzX2lqcF82Ukt6YUw2SElkMkF3SDM2b3hvNU82RGVIQXJNUVdLYU8tY2xEUE1hX2NkUEhNdU9oNkFUUF90ckdqemZGUzBEeHBjQ1FXZl9WREVQMGNfd0licFdIN0pNQUxTNmNCc3FfLW9oVkVib2RucXZpR0QzQUNv?oc=5",
           "date": "Wed, 07 Oct 2026",
           "source": "Stock Titan"
-        },
-        {
-          "title": "AgomAb Therapeutics CFO Pierre Kemula Acquires 10,000 Shares at Prices Up to $8.67 - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTi1oalk0UTFvOVd2NUFmUFZMWXVnN2x3SUlaV0xZZ19RczAwYTh3QTN2U2N1cEtiRk54WWp2Qm11RHZFei10cWwwTTFVTE1OY1dodl9mUURKUkUyeko3d21vUEl2SWZMcFh6cXZiRGwyRWowSG0wa2tRUHJrWUhCSEpLVVNJM05KRWNkc196cVpWX0dzZWl4WlUxSnViSEpZeFBpblhTb3MxakJzM3VzbkZSVlBxNThkQ0ZJdjFRU2JHZU12?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "Kalkine Media"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -455,317 +468,13 @@
       ]
     },
     {
-      "ticker": "CRWD",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 44.1,
-      "net_score": -44.1,
-      "distinct_buyers": 0,
-      "distinct_sellers": 4,
-      "evidence": [
-        "2026-10-05 CEO Kurtz George SELL $815,587 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $815,587 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $207,495 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $207,495 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $194,623 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $194,623 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $107,760 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-05 CEO Kurtz George SELL $107,760 (10b5-1 planned sale \u2014 discounted)"
-      ],
-      "company": {
-        "name": "CrowdStrike Holdings, Inc.",
-        "industry": "Services-Prepackaged Software"
-      },
-      "trend": {
-        "dates": [
-          "2026-09-21",
-          "2026-09-22",
-          "2026-09-23",
-          "2026-09-24",
-          "2026-09-25",
-          "2026-09-28",
-          "2026-09-29",
-          "2026-09-30",
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08"
-        ],
-        "closes": [
-          249.35,
-          250.06,
-          262.49,
-          259.67,
-          252.13,
-          259.25,
-          262.74,
-          264.75,
-          266.09,
-          270.04,
-          272.67,
-          278.86,
-          265.44,
-          262.7
-        ]
-      },
-      "price_now": 262.7,
-      "price_at_signal": 272.67,
-      "pct_since_signal": -3.66,
-      "pct_14d": 5.35,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Kurtz George",
-          "kind": "CEO",
-          "note": "191 Form 4 filings on record since 2019; 440 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "GANDHI SAMEER K",
-          "kind": "OTHER",
-          "note": "117 Form 4 filings on record since 2007; 32 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "Saha Anurag",
-          "kind": "OFFICER",
-          "note": "30 Form 4 filings on record since 2022; 8 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "Sentonas Michael",
-          "kind": "PRESIDENT",
-          "note": "32 Form 4 filings on record since 2023; 8 sales of CRWD in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "CrowdStrike Stock Rises Amid Tech Turbulence: What's Going On? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNDJoSGRnYUR6c1FfNkl5WkhESWJQbEdEREpuaGRMMFkyay1fbS1GY0J5NFdRM1c1UGhORU1UMk5UZGtyaTVmYXIyWERBRWJrNGV1dHpkblpfV3FYakRiRi02bWNra2tZdWRtVmFuZ2FuNHhjWEdyckNxVUNzZXlDR3lkTWxCbUItQzE5VUVkbUxKZnp0SHpYdVQydmhuMjdzNEtXUGhhdlZ4elJINU11eHIwOGpEYkxBdGlCdA?oc=5",
-          "date": "Thu, 08 Oct 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc. Cl A stock falls Wednesday, underperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNG1mVVpzSlA1M0V5WHRGNmJsSDdHaXY3M29NQ1hjdHpBb0x3V1Vld0hNWUoyVUhOWTk2NVJSeXd5RjJ1aXA3LVVIWlVwNlVZQkllMEhvWHhhRXFHS1BORWJNODk5ekh2Y1NPMGVPRU56bVRYZ3RwYThmZnR6MDFacVRDbDdpa2dmRmVQTUNxbEJBV0RXMUxTVVZzOUVTNkdwa2FSU1pPc3VfQ0pFZXZ1RlctZENfN1hHTkpJQzR1TkdaTG9LMkxGV1BJaTI?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Down by 3.12% on Oct 7: Drivers Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdFdfcUk5dXo2NnZUa3VMdTRibWRrRTdaOEZnN1YtNFp1ekRpaWlCUWdZTWIxVXU5dlFQQjJNalNvLVQ1ZFEzNWhJN3BGWGd0eFZPbGdSOFdYQkd5czQtT0sxUFJJWnNOaXlBTDRNX1kydXNIVkZLM1NPRkJuZUVpa1BOeUp1MGZHWVZJ?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "CrowdStrike Holdings, Inc. (CRWD) Stock Forecasts - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSllOa25JTVJUN1BjNTZNTUtmTVN0X1FNVmFZTjVPVXVaQm41c0NOTFlJNHN4aFRHSlgxaDhvRzZURlRxRU91SE15LTNac1BSR0paek1YbmV1TzJGU2psVUVZUUhYbTh5YS1RRVVVYW9keUZib3Foc0o2bkp5TnVIMlJrdE02R2dzNXNfTUxyMEM?oc=5",
-          "date": "Tue, 06 Oct 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Zscaler Soars 45% in 3 Months: Hold the Stock or Book Profits? - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGdMdXg3em1XRzBxY0V3RnlTbTdFeXQ3eUhZaDJpMGFvdGktRExGVlRUeEdET1g4SG1TWnBhd3VvbHdURi05M1VfMnBQYjcxUkVka0R1TjVJMkQ3Rld3QmFtelZUWXVicWw2VkdxWVhBTW5wd28yUXJrWkd0YW1rTWxhdjFnbEFIekcyeGdlWUk3LWVuVWQ3V1B2b0dtSnZZcFdlaU1zbFMwT2VXejBxVmFBRnRFQQ?oc=5",
-          "date": "Thu, 08 Oct 2026",
-          "source": "TradingView"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "STX",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 38.7,
-      "net_score": -38.7,
-      "distinct_buyers": 0,
-      "distinct_sellers": 1,
-      "evidence": [
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $999,953 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $999,953 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $933,110 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $933,110 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $910,023 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $910,023 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $878,408 (10b5-1 planned sale \u2014 discounted)",
-        "2026-10-01 CEO MOSLEY WILLIAM D SELL $878,408 (10b5-1 planned sale \u2014 discounted)"
-      ],
-      "company": {
-        "name": "Seagate Technology Holdings plc",
-        "industry": "Computer Storage Devices"
-      },
-      "trend": {
-        "dates": [
-          "2026-09-21",
-          "2026-09-22",
-          "2026-09-23",
-          "2026-09-24",
-          "2026-09-25",
-          "2026-09-28",
-          "2026-09-29",
-          "2026-09-30",
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08"
-        ],
-        "closes": [
-          877.33,
-          919.84,
-          923.86,
-          905.92,
-          916.83,
-          921.51,
-          913.45,
-          922.34,
-          945.57,
-          848.99,
-          887.09,
-          805.63,
-          807.57,
-          774.685
-        ]
-      },
-      "price_now": 774.685,
-      "price_at_signal": 945.57,
-      "pct_since_signal": -18.07,
-      "pct_14d": -11.7,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-09-09",
-            "summary": "Company unregistered share sale; Reg FD disclosure (investor materials); other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000119312526385961/d109585d8k.htm"
-          },
-          {
-            "form": "DEF 14A",
-            "date": "2026-09-08",
-            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000207/stx-20260908.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-04",
-            "summary": "Company executive/director departure or appointment.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1137789/000113778926000201/stx-20260902.htm"
-          }
-        ],
-        "about": "Seagate Technology Holdings plc is an Irish-domiciled data storage company. It was incorporated in 1978 as Shugart Technology and commenced business in 1979. Since 2010, the company has been incorporated in Dublin, Ireland, with operational headquarters in Fremont, California, United States."
-      },
-      "actors": [
-        {
-          "name": "MOSLEY WILLIAM D",
-          "kind": "CEO",
-          "note": "137 Form 4 filings on record since 2007; 125 sales of STX in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Seagate Technology Holdings (STX) Stock Is Trending After Hours: Here's Why - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSmFfMVh0MWZDVm1Pc1ZPUUJvV2g4eS1oQzVPVVV6QXB0a2hBWlo1bzFrbU02enhDcHB5ckE4aElEMUxfR3BRR3hkWU1hbDYzN2pPVmZOLUtfUnh4OC1fd3J4eXc0aWlHOWRtQXNvc0JETl92QzA4ZDJnb0VBbUExOGhZQ0Rwb3A2SkZ5MGlBbUtyb1ZTeFhNS011eVRMYXZ4MWw5TGxSSUs1WXlxTzc1M0JVNzVMTmM?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "A Look at Seagate Technology Holdings PLC (STX) After 9.2% Decli - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbjUwdVF2ZHhlRndkbXgtWWRmOHFoeTJQZzFnN2VoOGFSWmRHcTFvell1emcxR3FRdTNLc0w4NlA3YkRybnM0RzFKbkNqcUdFZnFXWnA5ZnhtUndWU1FWX2ZuM0x2MlhHRU5OMWJmeGMzdWRqY1NPUGtVOG85ZFhESi1LUzdjeG5DbmRNRzlhX1Vla21PTmxIZHI0S2N3anZtNl9ZN1huMHM3eE5lOHFrTmNWTGFNVVVsSnhxN1V5Q3NpdkJHaXpteWhXMA?oc=5",
-          "date": "Tue, 06 Oct 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Seagate Technology Holdings PLC Stock (STX) Moved Down by 3.64% on Oct 8: Drivers Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNb2FPY3pqcGNJcGNEdllaZ1RJUkdobFdCOUFNYUlhYzhYRm9NOHNySWJmNVBjQ3JRWm1wajRJVnhyN1NrTm5PSFUwbFBubW80ZUR2VXI1T2xzUE5hdC00cFVQSWd4bTJ0WU5uN1h5VnNPTVQ5cVZzSDdFckhHNWhwemVkWk9XT2pwcVE?oc=5",
-          "date": "Thu, 08 Oct 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "Is Seagate (STX) a Buy After Recent Declines? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHpaWUJxV1Rpd0FjOEtiTzByNGphWEsxQVJsQ1huQ080NHR5SDZNTWd3VFRnay1Sekh6VnFTb2hKQ0ZMbm1LWTNmaUNHTU1ubFFtVWEtLUdmeVYtOFA0cGczdTBhWWdYbEpiZ3RxdzdhSlpyd2RsWDFEZUZjZ2NQYndBTjNPRENEaEIzZ1F4Q0JRcE5HZ2ZNeWppSDE?oc=5",
-          "date": "Tue, 06 Oct 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Seagate Technology falls 9% in sector-wide decline (STX:NASDAQ) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWHFKbE1YSWcxcEpaaFpGV19sUjBMN2lKQ2w2dThfd1EyTGc0Qnp0MTJiZUpOd19KMWhYMXRJNlhVTS05TmNXVVE1WGhOaWFKTTF6Mi1KRFJoamJ3TWZSTHFFQUNLVmh1enExNTJGblBJUUtlUTYwQVBZVHBobjg1aTBaWTJmdzB6dk5DSGZRLS0?oc=5",
-          "date": "Tue, 06 Oct 2026",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cSeagate Technology\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cSeagate Technology\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Seagate%20Technology&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cComputer Storage Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cComputer Storage Devices\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Computer%20Storage%20Devices&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "ACCV",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 40.6,
-      "sell_score": 3.3,
-      "net_score": 37.3,
+      "sell_score": 1.1,
+      "net_score": 39.5,
       "distinct_buyers": 5,
       "distinct_sellers": 1,
       "evidence": [
@@ -786,18 +495,20 @@
         "dates": [
           "2026-10-06",
           "2026-10-07",
-          "2026-10-08"
+          "2026-10-08",
+          "2026-10-09"
         ],
         "closes": [
           16.4,
           15.19,
-          15.45
+          15.66,
+          16.4
         ]
       },
-      "price_now": 15.45,
+      "price_now": 16.4,
       "price_at_signal": 16.4,
-      "pct_since_signal": -5.79,
-      "pct_14d": -5.79,
+      "pct_since_signal": 0.0,
+      "pct_14d": 0.0,
       "deep": {
         "recent_filings": [
           {
@@ -843,8 +554,8 @@
       ],
       "news": [
         {
-          "title": "Director Jones buys IPO shares at $18 each in Accelevation Holdings (ACCV). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnZXTk5mMDNiMmk4dFFaVmZPWFBCeXR0V2lLc1Y3ZlZ3WnZzb1F3Q2NBRXlrd0dKNUtQXzNFYVMxaW5UdkllYjdxOXFXWHh0WHl3ZUxlSERnWTNHSm1Tc3l2NmFZUkxLSGhDVmpkcHJYdjFwT1BXUlNiLUtLWDZnT1k4M0ZOX2trc2IwMWlYbXZxZFhmTERXVVNaQW90NTZubjVvWWlZandNbmRNV0RLb2ZXakgzNzNiRHA2Mw?oc=5",
+          "title": "A director buys IPO shares at $18 in Accelevation Holdings (ACCV). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV25CbjluQ01tR01JM2Y5M3lLc2hzRXN3ZkxYaGdZcGoyYnhkWkpibXd2ZXFHVEt6SVhGbWc5SlZNSjdhTVM4Yk1mSk13RGJZQlNlZ21WUkZ6WUxZZGsyUHQwSEtqb0owTXNCaXIySnVwa1J5NGNMcE9UZThHNjBjeHo1M2VDaXFEUFpKY1c1VER5V0ZZNG5FekU4T2FTcndQdm5oWTE0eERSZDhUTE5lOVRwMHJWMVBaM182Vg?oc=5",
           "date": "Tue, 06 Oct 2026",
           "source": "Stock Titan"
         },
@@ -867,16 +578,16 @@
           "source": "Reuters"
         },
         {
-          "title": "Accelevation Holdings: A Cautious Take But Interesting Name (NASDAQ:ACCV) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUlBKeUNCTDktZk45bDZQcDA1RTV0eDM1ck5xME9CZzVqU21CVVdBekF6QXBmOU9wZzJIMU1CNlRnUUZoa1Jja1NDQVNwU1lpSUVhNzFQVGN0VlhjY0loYUhNeE9EZEFGUmtyV0tQTmtXeThiakRnSERGWE5qYjVqanhRYW14ZVljWjI0d3BoLU5nX0F1QjBpemNUZ3h3XzZ2?oc=5",
+          "title": "Accelevation Holdings Corp. Class A: ACCV Stock Price Quote & News - Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5SWk0xSjRYaDRFR3Y4ZTI2UXh0V1hmbllFZTRIYTQzeUVscU5wQ2hoU2xFb0IyQVFLaDI1a1dpVHhNQmJaMkVRdVlmZktOSUVVSlE?oc=5",
           "date": "Fri, 02 Oct 2026",
-          "source": "Seeking Alpha"
+          "source": "Robinhood"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
+        "label": "Recent \u2014 latest filing 8 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -900,103 +611,6 @@
           "label": "Hearings mentioning \u201cElectrical Industrial Apparatus\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Electrical%20Industrial%20Apparatus&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "PORT.U",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 16.5,
-      "sell_score": 0.0,
-      "net_score": 16.5,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-09-30 CEO SPENCER JEB S. BUY $5,000,000",
-        "2026-09-30 CEO SPENCER JEB S. BUY $5,000,000",
-        "2026-09-30 CEO SPENCER JEB S. BUY $5,000,000",
-        "2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000",
-        "2026-09-30 10% OWNER SOUTHPORT ACQUISITION SPONSOR II LLC BUY $5,000,000"
-      ],
-      "company": {
-        "name": "PORT.U",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [],
-        "closes": []
-      },
-      "price_now": null,
-      "price_at_signal": null,
-      "pct_since_signal": null,
-      "pct_14d": null,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "SOUTHPORT ACQUISITION SPONSOR II LLC",
-          "kind": "10% OWNER",
-          "note": "1 Form 4 filings on record since 2026; 1 buy of PORT.U in this tracker's ledger"
-        },
-        {
-          "name": "SPENCER JEB S.",
-          "kind": "CEO",
-          "note": "14 Form 4 filings on record since 2011; 1 buy of PORT.U in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Southport Acquisition Corp. II (PORT.U) Stock Chart and Price History 2026 - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92aUdDZW1pa1VtSXgwTlVmbnFGUXJILS15S1JjRi1Sd2pHUGI4VElUWVFZb1RkZ1FWN1BWUmJfZVNBUXJzSWtnUW5yZjY2enNROVdIYXEzT3IzdXh6YTVZeEtn?oc=5",
-          "date": "Mon, 05 Oct 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Free float of Southport Acquisition Corp. II \u2013 NYSE:PORT.U - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcXpHcWpfWU9wbDh6TmFsLWFYQmM0MXI4WDg1VmxadDVCSThoY2I2NWMxRWo0clJMT1NuTllQWXI5NnVMeS1pN2VDWVYzc3ZWYVV3Y3FieUFfVllWTWE3Wnowblc3cDQzOFVGdWVFNW16UG5scEoyX2xhV0V1aG9YR09WeW1pajl2X1dMY3NSS1JSUHUtQ0NLNnVpQS1Ea3NsUTRmNk9pc20tdw?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Southport Acquisition Corp. II (PORT.U) Stock Price, News & Analysis - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IZ2h1M1dTNVlvNEV2TmFLTkhxdFNiXzZXRUdQeVItYkN6X0E1Ym8zN1lST0p0eTkxWFc0OGFTU1lLWW4yOVVPUjFVcnNHWVBIZVFHUDhVM09xUQ?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "Southport Acquisition Corp. II (PORT.U) 10K Form and Latest SEC Filings 2026 - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2RXN4SHZjTVhWZGp0dzY5d3FOcl9Oa3Naa1Vmcmw2VXYxeHUtZlhmMHg4cTAwVkljaXZ4X21pTlFHT0tEUUtncjQ2MEE5aVhVdG1kQUJIeExvaVE3RWJyUnFLTHZLYWwzdWc?oc=5",
-          "date": "Sat, 03 Oct 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "PortuGOAL Figure of the Week: Iv\u00e1n Jaime stunners see the Spaniard\u2019s stock soar - portugoal.net",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLTk4Z0xWTmgtYmppcTJ6c2Z3WUcxODgtQk1meDFMSGFvVHR6OVBwYXJRZUxHbUpYQi1fNTl4S1VucWhVczJRVGRJMDMyNTU2bUtlMXk3cUFuVUVTdFJiQ1JSNzc1YmJTSnFtNldrN1BFTS1pMFVFZ0o2YTA1b3lFTkFrS05Ea0VSZW1LREUzaUZncTJDZW5Ya09vazkzOGlUNXloMk8wMlhxYlowX0JfX3I4Y3BzUQ?oc=5",
-          "date": "Tue, 11 Apr 2023",
-          "source": "portugoal.net"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 8 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cPORT.U\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=PORT.U&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cPORT.U\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=PORT.U&source=committeemeetings"
         }
       ]
     },
@@ -1026,7 +640,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-21",
           "2026-09-22",
           "2026-09-23",
           "2026-09-24",
@@ -1039,10 +652,10 @@
           "2026-10-05",
           "2026-10-06",
           "2026-10-07",
-          "2026-10-08"
+          "2026-10-08",
+          "2026-10-09"
         ],
         "closes": [
-          11.92,
           12.17,
           12.37,
           12.3,
@@ -1055,13 +668,14 @@
           12.73,
           13.09,
           12.8,
-          12.9808
+          13.01,
+          13.1972
         ]
       },
-      "price_now": 12.9808,
+      "price_now": 13.1972,
       "price_at_signal": 12.62,
-      "pct_since_signal": 2.86,
-      "pct_14d": 8.9,
+      "pct_since_signal": 4.57,
+      "pct_14d": 8.44,
       "deep": {
         "recent_filings": [
           {
@@ -1111,22 +725,22 @@
           "source": "Business Wire"
         },
         {
-          "title": "Form 4 Bluerock Private Real Estate Fund For: 6 October By Investing.com - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTFyR0staC1NdkYzN3BKVWJoVmI0c3p4WXRJemNGelBlTldLYW9JaklNWWFsSjBMekM2cW0zOFA2UklBdjdiOEVyNHBWaFBCMFg2a2xNbnJtbm9Jb1c0Rm1rN1hMUlBTZ090V2syTW5pUnY0V014TnJqYl9ZYmVJa1o1QUEyNHdyZndSLUphQ2VRaEFGWFBoZGdfVVJpVEk0RU16Qjdyb0xrdTB3bTZPcFdLc0U3dw?oc=5",
-          "date": "Tue, 06 Oct 2026",
-          "source": "Investing.com Nigeria"
-        },
-        {
           "title": "BPRE\u2019s extremely large, very huge, getting-bigger NAV discount - Financial Times",
           "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQXFSRl9RWFdyOGpnSkJUMm1BMGF3MVB3Uk9OamhlWE5yVml5ZDEtT3Jtbm1oV2tCdjNHY2s4NmIwUVhjTVY0Szl6d3JMZ2EybzBfLWhqdVFjeDRSQXhJbTNNSE50cTFjY3ZIVWVkS3U?oc=5",
           "date": "Tue, 15 Sep 2026",
           "source": "Financial Times"
         },
         {
-          "title": "BLUEROCK PRIVATE REAL ESTATE FUND(BPRE.US) Director Buys US$5.35 Million in Common Stock - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdks5akI5OWZ5SGliMG03NmdYMEQzVE1Sd29HNTRvRnBod1I1a0hlQnJ1M2VsbW5CcWZCX2J1SlYweXJCd1ZwNzJhZ0lnRlVMVVhFRXotUk9VQVlvdTRTU3BqWjF0SUlRZFEza0o0V2xhSUV1OWFLQXdGeHBrNk9DS2ZvMklxdWRKQjhscVRjNWY1MXllQjNnZVBDLVdxTGdyS21rOFRn?oc=5",
-          "date": "Thu, 01 Oct 2026",
-          "source": "Moomoo"
+          "title": "Form 4 Bluerock Private Real Estate Fund For: 6 October By Investing.com - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTFyR0staC1NdkYzN3BKVWJoVmI0c3p4WXRJemNGelBlTldLYW9JaklNWWFsSjBMekM2cW0zOFA2UklBdjdiOEVyNHBWaFBCMFg2a2xNbnJtbm9Jb1c0Rm1rN1hMUlBTZ090V2syTW5pUnY0V014TnJqYl9ZYmVJa1o1QUEyNHdyZndSLUphQ2VRaEFGWFBoZGdfVVJpVEk0RU16Qjdyb0xrdTB3bTZPcFdLc0U3dw?oc=5",
+          "date": "Tue, 06 Oct 2026",
+          "source": "Investing.com Nigeria"
+        },
+        {
+          "title": "A Unique Opportunity In BPRE (NYSE:BPRE) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kaG8yaUE3VjlvMjQ0cFZJdVNXSkswMG03aXkyOTNKMm1mTE1uUXhXdk83NG94S2tydGlHR0VybW4zZUNUTWZIOFBieU1jLWhHYlZqUk0xdGpJTjl5dndwMzZqYUR4ZG5UamVhY2FGcmpraVcyZE1HVQ?oc=5",
+          "date": "Tue, 28 Jul 2026",
+          "source": "Seeking Alpha"
         }
       ],
       "news_flags": [
@@ -1134,8 +748,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
