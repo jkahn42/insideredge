@@ -1,9 +1,17 @@
-# InsiderEdge Daily Report — 2026-10-09
+# InsiderEdge Daily Report — 2026-10-12
 
-Signals: **0 BUY** / **1 SELL** / **4 WATCH**
+Signals: **1 BUY** / **1 SELL** / **3 WATCH**
 
 ## BUY
-_None today — no cluster met the threshold. That is a feature, not a bug._
+### AGMB  (net +60.0 | buy 60.0 / sell 0.0 | 3 buyers, 0 sellers)
+- 2026-10-08 DIRECTOR Epstein David R BUY $44,500
+- 2026-10-08 DIRECTOR Epstein David R BUY $44,500
+- 2026-10-06 DIRECTOR Epstein David R BUY $43,500
+- 2026-10-06 DIRECTOR Epstein David R BUY $43,500
+- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $42,850
+- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $42,850
+- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $26,010
+- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $26,010
 
 ## SELL / AVOID
 ### DELL  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 5 sellers)
@@ -17,45 +25,31 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376
 
 ## WATCHLIST
-### LEN  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $67,453,950
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $404,484
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $35,118,616
-- 2026-10-02 OTHER BERKSHIRE HATHAWAY INC BUY $35,118,616
+### COE  (net +36.9 | buy 36.9 / sell 0.0 | 1 buyers, 0 sellers)
+- 2026-09-25 CEO Huang Jack Jiajia BUY $14,117,400
+- 2026-09-25 CEO Huang Jack Jiajia BUY $14,117,400
+- 2026-09-24 CEO Huang Jack Jiajia BUY $33,120
+- 2026-09-24 CEO Huang Jack Jiajia BUY $33,120
+- 2026-09-23 CEO Huang Jack Jiajia BUY $10,318,950
+- 2026-09-23 CEO Huang Jack Jiajia BUY $10,318,950
+- 2026-09-22 CEO Huang Jack Jiajia BUY $4,351,830
+- 2026-09-22 CEO Huang Jack Jiajia BUY $4,351,830
 
-### AGMB  (net +46.7 | buy 46.7 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-10-06 DIRECTOR Epstein David R BUY $43,500
-- 2026-10-06 DIRECTOR Epstein David R BUY $43,500
-- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $42,850
-- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $42,850
-- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $26,010
-- 2026-10-06 CFO Kemula Pierre Thadee Victor BUY $26,010
-- 2026-10-06 CEO Knotnerus Tim Jasper BUY $43,500
-- 2026-10-06 CEO Knotnerus Tim Jasper BUY $43,500
+### LWAY  (net +36.3 | buy 36.3 / sell 0.0 | 1 buyers, 0 sellers)
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
+- 2026-10-05 10% OWNER Divisadero Street Capital Management, LP BUY $760,535
+- 2026-10-05 10% OWNER Divisadero Street Capital Management, LP BUY $760,535
 
-### ACCV  (net +39.5 | buy 40.6 / sell 1.1 | 5 buyers, 1 sellers)
-- 2026-10-01 DIRECTOR JONES GINGER M BUY $180,000
-- 2026-10-01 DIRECTOR JONES GINGER M BUY $180,000
-- 2026-10-01 DIRECTOR HECKES HOWARD C BUY $90,000
-- 2026-10-01 DIRECTOR HECKES HOWARD C BUY $90,000
-- 2026-10-01 DIRECTOR Donahue Paul D BUY $126,000
-- 2026-10-01 DIRECTOR Donahue Paul D BUY $126,000
-- 2026-10-01 COO Jewell Brent C BUY $45,000
-- 2026-10-01 COO Jewell Brent C BUY $45,000
-
-### BPRE  (net +16.2 | buy 16.2 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
-- 2026-10-05 DIRECTOR KAMFAR RAMIN BUY $1,191,308
-- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
-- 2026-10-02 DIRECTOR MacDonald Ryan S BUY $85,090
-- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
-- 2026-10-02 DIRECTOR KAMFAR RAMIN BUY $646,207
-- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
-- 2026-10-01 DIRECTOR KAMFAR RAMIN BUY $1,570,678
+### REF  (net +1.1 | buy 1.1 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000
+- 2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000
+- 2026-07-31 DIRECTOR Allen Zipporah BUY $52,500
+- 2026-07-31 DIRECTOR Allen Zipporah BUY $52,500
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.

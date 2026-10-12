@@ -35,6 +35,12 @@
       "issued": "2026-09-24",
       "px_issue": 3.375,
       "spy_issue": 766.55
+    },
+    {
+      "ticker": "AGMB",
+      "issued": "2026-10-12",
+      "px_issue": 9.09,
+      "spy_issue": 778.1
     }
   ]
 }
