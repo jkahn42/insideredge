@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-10-12
+# InsiderEdge Daily Report — 2026-10-13
 
-Signals: **1 BUY** / **1 SELL** / **3 WATCH**
+Signals: **1 BUY** / **1 SELL** / **2 WATCH**
 
 ## BUY
 ### AGMB  (net +60.0 | buy 60.0 / sell 0.0 | 3 buyers, 0 sellers)
@@ -34,16 +34,6 @@ Signals: **1 BUY** / **1 SELL** / **3 WATCH**
 - 2026-09-23 CEO Huang Jack Jiajia BUY $10,318,950
 - 2026-09-22 CEO Huang Jack Jiajia BUY $4,351,830
 - 2026-09-22 CEO Huang Jack Jiajia BUY $4,351,830
-
-### LWAY  (net +36.3 | buy 36.3 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-06 10% OWNER Divisadero Street Capital Management, LP BUY $1,040,190
-- 2026-10-05 10% OWNER Divisadero Street Capital Management, LP BUY $760,535
-- 2026-10-05 10% OWNER Divisadero Street Capital Management, LP BUY $760,535
 
 ### REF  (net +1.1 | buy 1.1 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000
