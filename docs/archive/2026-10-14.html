@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>InsiderEdge — Wednesday, October 14, 2026</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#F1F7F3;--card:#FFFFFF;--ink:#183B31;--mut:#5F7A6E;
+--line:#DCE8DF;--brand:#0E8F6E;--buy:#17A374;--sell:#E15A72;
+--watch:#CE8A1B}
+@media (prefers-color-scheme:dark){
+:root{--bg:#0E1F1A;--card:#163028;--ink:#E9F2EC;--mut:#93AC9F;
+--line:#25443A;--brand:#4FC79E;--buy:#3BC48F;--sell:#F2848F;--watch:#E4B45C}
+.card,.kpi,.panel{box-shadow:0 1px 2px rgba(0,0,0,.28),0 10px 28px rgba(0,0,0,.24)}
+body{-webkit-font-smoothing:antialiased}}
+*{box-sizing:border-box;margin:0}
+body{background:var(--bg);color:var(--ink);
+font:15.5px/1.6 Nunito,system-ui,sans-serif;padding:1.1rem;
+-webkit-font-smoothing:antialiased}
+.wrap{max-width:1060px;margin:0 auto}
+.masthead{display:flex;align-items:center;gap:.8rem;padding:.4rem 0 1.1rem}
+.logo{font:700 1.35rem 'Quicksand',sans-serif;letter-spacing:-.02em}
+.logo b{color:var(--brand)}
+.date{color:var(--mut);font-size:.85rem}
+.arch{margin-left:auto;font-size:.82rem;font-weight:600;color:var(--brand);
+text-decoration:none;background:color-mix(in srgb,var(--brand) 10%,var(--card));
+padding:.4rem .8rem;border-radius:999px}
+.num{font-family:'Quicksand',sans-serif;font-variant-numeric:tabular-nums}
+.strip{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));
+gap:.7rem;margin-bottom:1.4rem}
+.kpi{background:var(--card);border:1px solid var(--line);border-radius:20px;
+padding:.85rem 1rem;display:flex;flex-direction:column;gap:.1rem;
+box-shadow:0 1px 2px rgba(23,32,43,.05)}
+.kpi .big{font-size:1.7rem;font-weight:700;color:var(--c)}
+.kpi .lbl{color:var(--mut);font-size:.76rem;text-transform:uppercase;
+letter-spacing:.07em;font-weight:600}
+section{margin:0 0 1.8rem}
+h2{font:700 1.02rem 'Quicksand',sans-serif;margin:0 0 .8rem;
+letter-spacing:-.01em}
+.cnt{color:var(--mut);font-weight:500;font-size:.9rem}
+.grid{display:grid;gap:.9rem;grid-template-columns:repeat(auto-fill,minmax(320px,1fr))}
+.card{background:var(--card);border:1px solid var(--line);border-radius:22px;
+box-shadow:0 1px 2px rgba(23,32,43,.05),0 10px 28px rgba(23,32,43,.05);
+overflow:hidden}
+.head{display:flex;align-items:center;gap:.7rem;padding:.85rem 1rem;
+background:color-mix(in srgb,var(--c) 7%,var(--card));
+border-bottom:1px solid color-mix(in srgb,var(--c) 18%,var(--line))}
+.pill{background:var(--c);color:#fff;font:700 .72rem Nunito;
+padding:.28rem .65rem;border-radius:999px;white-space:nowrap}
+.title{display:flex;flex-direction:column;min-width:0}
+.tk{font:700 1.12rem 'Quicksand',sans-serif;letter-spacing:-.01em}
+.co{color:var(--mut);font-size:.78rem;white-space:nowrap;overflow:hidden;
+text-overflow:ellipsis}
+.net{margin-left:auto;color:var(--mut);font-size:.82rem}
+.body{padding:.95rem 1rem 1.05rem}
+.ind{font-size:.78rem;margin-bottom:.35rem}
+.about{font-size:.85rem;color:color-mix(in srgb,var(--ink) 82%,var(--mut));margin:.2rem 0 .65rem}
+.stats{display:flex;gap:1.15rem;flex-wrap:wrap;margin:.4rem 0 .5rem}
+.stat{display:flex;flex-direction:column;gap:.05rem}
+.lbl{font-size:.68rem;text-transform:uppercase;letter-spacing:.07em;
+color:var(--mut);font-weight:600}
+.val{font-size:.98rem;font-weight:500}
+.up{color:var(--buy)}.dn{color:var(--sell)}
+.spark{width:100%;height:52px;margin:.25rem 0;display:block}
+.chips{display:flex;gap:.45rem;flex-wrap:wrap}
+.chip{font:700 .72rem Nunito;padding:.3rem .6rem;border-radius:999px}
+.chip-short{background:color-mix(in srgb,var(--sell) 12%,var(--card));color:var(--sell)}
+.chip-earn{background:color-mix(in srgb,var(--watch) 14%,var(--card));color:var(--watch)}
+.meta{font-size:.8rem;margin:.45rem 0 .1rem}
+.mut{color:var(--mut)}
+.tiny{font-size:.73rem;margin-top:.3rem}
+.btns{display:flex;gap:.5rem;margin:.7rem 0 .1rem;flex-wrap:wrap}
+.btn{font:800 .84rem Nunito;text-decoration:none;padding:.55rem 1rem;
+border-radius:14px;flex:1;text-align:center;min-width:96px}
+.bt-buy{background:color-mix(in srgb,var(--buy) 13%,var(--card));color:var(--buy)}
+.bt-sell{background:color-mix(in srgb,var(--sell) 12%,var(--card));color:var(--sell)}
+.bt-skip{background:color-mix(in srgb,var(--mut) 12%,var(--card));color:var(--mut)}
+.bt-ask{background:var(--brand);color:#fff}
+.browse-head{margin-top:.55rem;text-transform:uppercase;letter-spacing:.07em;
+font-size:.66rem;font-weight:700;list-style:none}
+.browse a{font-weight:400;font-size:.8rem;color:var(--mut)}
+.chartpanel{margin-bottom:1rem}
+.bigchart{width:100%;height:auto;display:block}
+.legend{display:flex;gap:.9rem;flex-wrap:wrap;margin-top:.5rem;font-size:.82rem}
+.lg{display:inline-flex;align-items:center;gap:.35rem}
+.lg i{width:10px;height:10px;border-radius:3px;display:inline-block}
+.chip-herd{background:color-mix(in srgb,var(--brand) 9%,var(--card));
+color:var(--brand);border:1px dashed color-mix(in srgb,var(--brand) 45%,var(--card))}
+.mtk{color:var(--brand);font-weight:700;text-decoration:none}
+html{scroll-behavior:smooth}
+.chip-theme{background:color-mix(in srgb,var(--brand) 12%,var(--card));color:var(--brand)}
+.mrow{margin:.55rem 0}
+.mtop{display:flex;justify-content:space-between;gap:.8rem;align-items:baseline;flex-wrap:wrap}
+.mname{font-weight:700;font-size:.9rem}
+.chip-fresh{background:color-mix(in srgb,var(--buy) 13%,var(--card));color:var(--buy)}
+.chip-mid{background:color-mix(in srgb,var(--watch) 14%,var(--card));color:var(--watch)}
+.chip-spent{background:color-mix(in srgb,var(--mut) 14%,var(--card));color:var(--mut)}
+.chip-news{background:color-mix(in srgb,var(--sell) 10%,var(--card));
+color:var(--sell);border:1px dashed color-mix(in srgb,var(--sell) 45%,var(--card))}
+.btn:focus-visible,summary:focus-visible{outline:2px solid var(--brand);
+outline-offset:2px}
+details{border-top:1px solid var(--line);margin-top:.7rem;padding-top:.6rem}
+summary{cursor:pointer;font-size:.86rem;font-weight:600;color:var(--brand);
+list-style:none;display:flex;align-items:center;gap:.4rem}
+summary::before{content:"›";display:inline-block;transition:transform .15s;
+font-size:1rem;color:var(--mut)}
+details[open] summary::before{transform:rotate(90deg)}
+.mono li{font-family:'Quicksand',sans-serif;font-size:.76rem;margin:.3rem 0}
+.mono,.list{margin:.5rem 0 0 1.15rem;font-size:.83rem;padding:0}
+.list li{margin:.4rem 0}
+.list a{color:var(--ink);font-weight:500}
+.empty{padding:.4rem 0}
+.banner{background:color-mix(in srgb,var(--watch) 12%,var(--card));
+border:1px solid color-mix(in srgb,var(--watch) 40%,var(--card));border-radius:14px;
+padding:.75rem 1rem;color:color-mix(in srgb,var(--watch) 70%,var(--ink));font-size:.88rem}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:22px;
+padding:1rem 1.1rem;box-shadow:0 1px 2px rgba(23,32,43,.05)}
+.verdict{font-size:.92rem;margin-bottom:.7rem}
+.tablewrap{overflow-x:auto}
+.sc{width:100%;border-collapse:collapse;font-size:.82rem}
+.sc th{text-align:left;color:var(--mut);font-weight:600;font-size:.68rem;
+text-transform:uppercase;letter-spacing:.07em;padding:.35rem .55rem;
+border-bottom:1px solid var(--line)}
+.sc td{padding:.42rem .55rem;border-bottom:1px solid var(--line)}
+.tkr{font-weight:600}
+.prog{height:6px;background:color-mix(in srgb,var(--mut) 12%,var(--card));border-radius:999px;margin:.2rem 0 .6rem;
+overflow:hidden}
+.prog i{display:block;height:100%;background:var(--c);border-radius:999px}
+.slim .body{padding-top:.7rem}
+footer{border-top:1px solid var(--line);padding-top:1rem;margin-top:1.5rem;
+color:var(--mut);font-size:.76rem}
+@media (prefers-reduced-motion:no-preference){
+.card{transition:box-shadow .18s,transform .18s}
+.card:hover{box-shadow:0 2px 4px rgba(23,32,43,.06),0 16px 36px rgba(23,32,43,.09)}}
+</style></head><body><div class="wrap">
+<header class="masthead"><span class="logo">Insider<b>Edge</b></span>
+<span class="date">Wednesday, October 14, 2026 · 3 hidden by your not-interested list</span>
+<a class="arch" href="archive/">Archive</a></header>
+<div class="strip"><div class="kpi" style="--c:#17A374"><span class="num big">0</span><span class="lbl">buy</span></div><div class="kpi" style="--c:#E15A72"><span class="num big">0</span><span class="lbl">sell / avoid</span></div><div class="kpi" style="--c:#CE8A1B"><span class="num big">5</span><span class="lbl">watchlist</span></div><div class="kpi" style="--c:var(--brand)"><span class="num big">16.7%</span><span class="lbl">beat SPY</span></div></div><section><h2>Where insiders are herding</h2><div class="panel"><p class="mut tiny" style="margin-bottom:.6rem">Industries with the heaviest unplanned insider cluster-buying this window — bottom-up trend detection from the people who know first.</p><div class="mrow"><div class="mtop"><span class="mname">Services-Commercial Physical &amp; Biological Research</span><span class="mut tiny">2 distinct buyers · <a class="mtk" href="#c-ONMD">ONMD</a></span></div><div class="prog"><i style="width:100%;background:var(--brand)"></i></div></div><div class="mrow"><div class="mtop"><span class="mname">Women&#x27;s, Misses&#x27;:  and Juniors Outerwear</span><span class="mut tiny">2 distinct buyers · <a class="mtk" href="#c-REF">REF</a></span></div><div class="prog"><i style="width:99%;background:var(--brand)"></i></div></div><div class="mrow"><div class="mtop"><span class="mname">Pharmaceutical Preparations</span><span class="mut tiny">2 distinct buyers · <a class="mtk" href="#c-RTSN">RTSN</a></span></div><div class="prog"><i style="width:93%;background:var(--brand)"></i></div></div></div></section><section><h2>Buy signals <span class="cnt">0</span></h2><div class="grid"><p class="mut empty">No names met the threshold today. Sitting out is a position.</p></div></section><section><h2>Sell / avoid <span class="cnt">0</span></h2><div class="grid"><p class="mut empty">No names met the threshold today. Sitting out is a position.</p></div></section><section><h2>Watchlist <span class="cnt">5</span></h2><div class="grid">
+<article class="card" id="c-DELL" style="--c:#CE8A1B">
+  <header class="head">
+    <span class="pill">Watch</span>
+    <div class="title"><span class="tk">DELL</span>
+      <span class="co">Dell Technologies Inc.</span></div>
+    <span class="net num">net -60.0</span>
+  </header>
+  <div class="body">
+    <p class="mut ind">Electronic Computers</p>
+    <p class="about">Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell Inc. and EMC Corporation. Dell Technologies ranked 44th on the 2025 Fortune 500 rankings of the largest United States corporations based on its 2024 revenue; its products include personal computers, servers, monitors, comput</p>
+    <div class="stats">
+      <div class="stat"><span class="lbl">Now</span><span class="num val">$505.50</span></div>
+      <div class="stat"><span class="lbl">At signal</span><span class="num val">$574.00</span></div>
+      <div class="stat"><span class="lbl">Since signal</span><span class="num dn">-11.9%</span></div>
+      <div class="stat"><span class="lbl">14 day</span><span class="num dn">-10.2%</span></div>
+    </div>
+    <svg viewBox="0 0 200 52" class="spark" role="img" aria-label="14 day price trend"><defs><linearGradient id="g56775" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CE8A1B" stop-opacity=".22"/><stop offset="1" stop-color="#CE8A1B" stop-opacity="0"/></linearGradient></defs><polygon points="0,52 0.0,17.5 15.4,27.2 30.8,29.1 46.2,29.9 61.5,28.0 76.9,17.7 92.3,22.8 107.7,12.0 123.1,9.5 138.5,11.7 153.8,6.0 169.2,10.6 184.6,12.7 200.0,46.0 200,52" fill="url(#g56775)"/><polyline points="0.0,17.5 15.4,27.2 30.8,29.1 46.2,29.9 61.5,28.0 76.9,17.7 92.3,22.8 107.7,12.0 123.1,9.5 138.5,11.7 153.8,6.0 169.2,10.6 184.6,12.7 200.0,46.0" fill="none" stroke="#CE8A1B" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div class="chips"><span class="chip chip-mid">Recent — latest filing 8 days ago</span></div>
+    <p class="mut meta">0 buyer(s) · 5 seller(s) · score 0.0 / 60.0</p>
+    <div class="btns"><a class="btn bt-buy" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+BUY+DELL&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll buy</a><a class="btn bt-sell" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+SELL+DELL&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll sell</a><a class="btn bt-ask" href="https://claude.ai/new?q=Research%20DELL%20%28Dell%20Technologies%20Inc.%29%20for%20me.%20My%20InsiderEdge%20bot%20flagged%20it%20WATCH%20today%20based%20on%20insider/congressional%20trading%20clusters%20%280%20buyers%2C%205%20sellers%2C%20net%20score%20-60.0%29.%20Please%20check%20today%27s%20news%2C%20recent%20earnings%2C%20analyst%20moves%2C%20and%20any%20red%20flags%2C%20then%20give%20me%20the%20case%20FOR%20and%20AGAINST%20acting%20on%20this%20signal." target="_blank" rel="noopener">Ask Claude</a><a class="btn bt-skip" href="https://github.com/jkahn42/insideredge/issues/new?title=REJECT+DELL&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">Not interested</a></div><p class="mut tiny">Opens a pre-filled note — tap “Submit new issue” to confirm. Tomorrow starts a 21-day tracker (or hides it).</p>
+    <details><summary>Latest news <span class="cnt">5</span></summary>
+      <ul class="list"><li><a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzI1RXRBMHZxNU5PUWgyWHlXSlhTdUlNMGZwdU4yc0l1SnBCby1VLUFicEc3cklQeFk0d1FncjhzNkQwaG9xTGItemd2Y2VQOUlrQmUzVFhzRWMxMk1vWEdweno5TVNkOW0yT1FOcDlsUDFHXzJQZk9sUHRVYldIWndRbUxfZm83U2VJdFM5TjI3N19rUXdiT3NaOUlkamFsN0xYc0E0ZkhCUQ?oc=5" target="_blank" rel="noopener">Why is Dell Technologies stock sliding today? - Investing.com</a><div class="mut tiny">Investing.com · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlZ1Wm1QZ2NsYU1HY3FTSUJRVUNaYWFXLThrc01UaUlXUjk3bTRDdERUMTBXR2RWS0pFSV8wQy1tLUYyekNMS05XTmZPT1RfVmZCUmtkRGZna3hZNmgwSGFqXzc5OE5pT2VJUkZoZm5HTXVpM1VvalpWZjVFM0lGbElWZEN1QlRSRk5wN29UNGJXUlROOV9VcG9TTmJQUmFwWWVrRXYyNTMtdzlhUEMtdjMtRF9LRzVHRWpidU1uajFLNXNIekhzeXB30gHPAUFVX3lxTFBrOTh5MkxsRl92UlI4OGlTQU8ydkpxUlo5Zm5jVUN0eG5FeW9JNnZHN2VHZEpmbXVaR2EwNm1JYjVyMEJnRVhYdzVRZEVGRnBQS1NZaU9aNEhOcjNYaEJpbkdrTlBxempHUkxRZ2hza3VWcmNfQ0lxeXlKY0NOYTR1VUNGMmQtdUNpRlF6enM2TkctUDZ2dHNWeVdqdTdrUjhXM2hLR25KNkw0SE53YlhSa2RPLXBwRFpSVDBHM0k2b0ozNkN4RFoyOUZDdmZUZw?oc=5" target="_blank" rel="noopener">Dell Technologies (DELL) Stock Looks Near Fair Value Despite Its 10x Run - Simply Wall Street</a><div class="mut tiny">Simply Wall Street · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFlEUk02NjN0TjU0dEhoaEdGU0pTOG1sR3FDbUdwVGZjb2syd2ZFaERBcWhLOVJ2eGpEdFZmYThFNWk0ZmxaMVpfY3lLUy0xODVrTThBS0xOUXd6WWhMakN6Mkt4OEk3cDh1TFpTdk03aDlfTFNZaFRVV0RYVGpuMkxSZW1mUkVldkVB?oc=5" target="_blank" rel="noopener">Dell Technologies Inc Stock (DELL) Opened Down by 6.89% on Oct 14: Facts Behind the Movement - TradingKey</a><div class="mut tiny">TradingKey · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0ZGWUNNY09NSXVIejBMdWVvMG85ZF8xd3QydkFXVXYzYWJEa2xVd2ctdFhOcFQ2d0RQUkVOeFI5R2ZxSUR5R3JxdC1WSnUwRzhwSVNyS3I0ZmkxQm4xQTRXRXgtaXA0aU5HemV6Sl9LLVR2VW4zV0Q3RkV5T294RTZxWVJuWjU0UkRyS3lmUWlDel9KNkxHR0lBcHViMGRIaEE?oc=5" target="_blank" rel="noopener">Dell Technologies Inc. (DELL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance</a><div class="mut tiny">Yahoo Finance · Tue, 13 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX201a1hITE9pY3NvaHpDRzhlODR6S1hlSnQ4R2MzM0NOTGJ0eFpYUmIxdmt6UTFjdVp0Wi1WS0VKTFh6WDVZVlZRdXBMNk9CdXhLa1pyOGRac1Z4aUFiRU02Ykt3ZEhlV2VNZDZzTzQzdFNjb05PNGZTQk1QS3R3Tm5BaGNGN0tkSEFKbGo3RXdzcThGbUF5VlBZOWw0M3JBa2VielZOQk9MNWV6NUZUelY1a0RWV3VtQ2YyT1JmbjNqZ1JGSVliZw?oc=5" target="_blank" rel="noopener">4,015 Dell Technologies Inc. $DELL Shares Bought by Courier Capital LLC - MarketBeat</a><div class="mut tiny">MarketBeat · Tue, 13 Oct 2026</div></li></ul>
+      <p class="mut tiny">Headlines are auto-fetched; risk chips are keyword matches, not judgment — use Ask Claude for the read.</p></details>
+    <details><summary>Disclosed trades <span class="cnt">8</span></summary>
+      <ul class="mono"><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376</li><li>2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376</li></ul></details>
+    <details><summary>Who’s trading — history <span class="cnt">5</span></summary>
+      <ul class="list"><li><b>Silver Lake Technology Investors IV, L.P.</b> <span class="mut">(OTHER)</span><div class="mut tiny">121 Form 4 filings on record since 2016; 102 sales of DELL in this tracker&#x27;s ledger</div></li><li><b>Silver Lake Partners V DE (AIV), L.P.</b> <span class="mut">(OTHER)</span><div class="mut tiny">102 Form 4 filings on record since 2018; 178 sales of DELL in this tracker&#x27;s ledger</div></li><li><b>SL SPV-2, L.P.</b> <span class="mut">(OTHER)</span><div class="mut tiny">102 Form 4 filings on record since 2019; 178 sales of DELL in this tracker&#x27;s ledger</div></li><li><b>Silver Lake Technology Investors V, L.P.</b> <span class="mut">(OTHER)</span><div class="mut tiny">97 Form 4 filings on record since 2018; 47 sales of DELL in this tracker&#x27;s ledger</div></li><li><b>Silver Lake Partners IV, L.P.</b> <span class="mut">(OTHER)</span><div class="mut tiny">155 Form 4 filings on record since 2012; 210 sales of DELL in this tracker&#x27;s ledger</div></li></ul></details>
+    <details><summary>Recent SEC filings</summary>
+      <ul class="list"><li class="mut">None fetched.</li></ul></details>
+    <details><summary>Related legislative activity</summary>
+      <ul class="list"><li class="mut">No bills matched this company by keyword — matched bills with plain-English summaries appear here once your Congress.gov API key is set (setup Part 6).</li><li class="mut tiny browse-head">Browse congress.gov:</li><li class="browse"><a href="https://www.congress.gov/search?q=Dell%20Technologies&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Dell Technologies”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Dell%20Technologies&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Dell Technologies”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Electronic%20Computers&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Electronic Computers”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Electronic%20Computers&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Electronic Computers”</a></li></ul>
+      <p class="mut tiny">Keyword matches for context only — not evidence a trade was motivated by any bill.</p></details>
+  </div>
+</article>
+<article class="card" id="c-API" style="--c:#CE8A1B">
+  <header class="head">
+    <span class="pill">Watch</span>
+    <div class="title"><span class="tk">API</span>
+      <span class="co">Agora, Inc.</span></div>
+    <span class="net num">net +60.0</span>
+  </header>
+  <div class="body">
+    <p class="mut ind">Services-Prepackaged Software</p>
+    <p class="about">Agora, Inc. is a Baltimore, Maryland-based network for over thirty companies in the publishing, information services, and real estate industries. Agora was founded in 1978, in the Mount Vernon neighborhood of Baltimore, Maryland. The Agora Companies operate independently from cities around the world.</p>
+    <div class="stats">
+      <div class="stat"><span class="lbl">Now</span><span class="num val">$4.28</span></div>
+      <div class="stat"><span class="lbl">At signal</span><span class="num val">$4.15</span></div>
+      <div class="stat"><span class="lbl">Since signal</span><span class="num up">+3.0%</span></div>
+      <div class="stat"><span class="lbl">14 day</span><span class="num up">+1.5%</span></div>
+    </div>
+    <svg viewBox="0 0 200 52" class="spark" role="img" aria-label="14 day price trend"><defs><linearGradient id="g98854" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CE8A1B" stop-opacity=".22"/><stop offset="1" stop-color="#CE8A1B" stop-opacity="0"/></linearGradient></defs><polygon points="0,52 0.0,28.1 15.4,34.4 30.8,34.4 46.2,31.3 61.5,35.5 76.9,41.8 92.3,34.4 107.7,37.6 123.1,34.4 138.5,46.0 153.8,41.8 169.2,38.6 184.6,6.0 200.0,21.3 200,52" fill="url(#g98854)"/><polyline points="0.0,28.1 15.4,34.4 30.8,34.4 46.2,31.3 61.5,35.5 76.9,41.8 92.3,34.4 107.7,37.6 123.1,34.4 138.5,46.0 153.8,41.8 169.2,38.6 184.6,6.0 200.0,21.3" fill="none" stroke="#CE8A1B" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div class="chips"><span class="chip chip-mid">Recent — latest filing 6 days ago</span></div>
+    <p class="mut meta">1 buyer(s) · 0 seller(s) · score 60.0 / 0.0</p>
+    <div class="btns"><a class="btn bt-buy" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+BUY+API&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll buy</a><a class="btn bt-sell" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+SELL+API&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll sell</a><a class="btn bt-ask" href="https://claude.ai/new?q=Research%20API%20%28Agora%2C%20Inc.%29%20for%20me.%20My%20InsiderEdge%20bot%20flagged%20it%20WATCH%20today%20based%20on%20insider/congressional%20trading%20clusters%20%281%20buyers%2C%200%20sellers%2C%20net%20score%20%2B60.0%29.%20Please%20check%20today%27s%20news%2C%20recent%20earnings%2C%20analyst%20moves%2C%20and%20any%20red%20flags%2C%20then%20give%20me%20the%20case%20FOR%20and%20AGAINST%20acting%20on%20this%20signal." target="_blank" rel="noopener">Ask Claude</a><a class="btn bt-skip" href="https://github.com/jkahn42/insideredge/issues/new?title=REJECT+API&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">Not interested</a></div><p class="mut tiny">Opens a pre-filled note — tap “Submit new issue” to confirm. Tomorrow starts a 21-day tracker (or hides it).</p>
+    <details><summary>Latest news <span class="cnt">5</span></summary>
+      <ul class="list"><li><a href="https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTR1d0OU1BQUxBSTA5UnRxdUdDTkJUZ21fM21EVlhOTG5YbXpMakt2X0JZZV9mSFRXZmlFeDFrbWM0N3VLeHpJ?oc=5" target="_blank" rel="noopener">Agora Stock Price Forecast. Should You Buy API? - StockInvest.us</a><div class="mut tiny">StockInvest.us · Fri, 09 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUlkaGg2U3kxOElrWTE1T1dwTVJhUzluQUZobUgtVVc2VU84bmx1ckJFbVdKemdLd18yRUwwaEZUT2tZd3B0SGpNNkliZThpSTdwQUs5MWJzMmcwMThLNjBNa0ZtQXNmb1FzZXlQVy0zS1FVTlBzVjRSYmhhUXgtOThZSnplSEJCMWJfcWx6VDhsNGxCUjJTRkdDcUpseEtHdnVWcQ?oc=5" target="_blank" rel="noopener">Stock grants vest for Agora (API) director Eric He: 1,592 depositary shares received, 89,345 held directly. - Stock Titan</a><div class="mut tiny">Stock Titan · Fri, 02 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUVDVEw3NlV4ZGJSMFZ1dXFXS2NSWlVJVkZIdndLYTdEbVd3SENLTUQyQWRKQk5CXy1iMzZNdHh5ZWdDUXdpUTZ2SnJldU1xZXNNUkZCdWtyMmhueEUzVV9GLVBNYmJXUzJyVVN5WlVnZXpfX0pjWHMxdWlvS05kUDQyU21NZVdzTG9WWGJWSTZaaHhXTGluTkpaUGw?oc=5" target="_blank" rel="noopener">Agora, Inc. Reports Second Quarter 2026 Financial Results - Yahoo Finance</a><div class="mut tiny">Yahoo Finance · Thu, 13 Aug 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0ZERVBaMklFQVJlbEM2M04wTExwUUpxaFluTnlucG1NbDMwa2RrRW1xcUo2WWpWNWp5YWJMM3NYWGFJNW9CMlV4QVVYaHhpeTB3MGVXUElNYkc4RDlYbGNzRUEwcjNQWUZuNjY2ZHVTMFVLcVloY3Vkb3phcTloa3M4aWV2ZGs?oc=5" target="_blank" rel="noopener">Agora: Worth A Bet At Current Valuations (NASDAQ:API) - Seeking Alpha</a><div class="mut tiny">Seeking Alpha · Wed, 26 Aug 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMickFVX3lxTE5uRVVBYUZfbWd0ZEMteHRzU09Tb1JqNlN2eUNYbFdnQUJSQmhQVWw4WFVPTlMxM25oLVROaWQzWWlkNlFRNUtDZFZ5eEtMWnhDQ1lVa1hFQ0RKYnU4Uno5bWZsNmExWFdxSjlDWW5MbllKQQ?oc=5" target="_blank" rel="noopener">Agora (NasdaqGS:API) Stock Forecast &amp; Analyst Predictions - Simply Wall Street</a><div class="mut tiny">Simply Wall Street · Fri, 14 Aug 2026</div></li></ul>
+      <p class="mut tiny">Headlines are auto-fetched; risk chips are keyword matches, not judgment — use Ask Claude for the read.</p></details>
+    <details><summary>Disclosed trades <span class="cnt">8</span></summary>
+      <ul class="mono"><li>2026-10-08 CEO Zhao Bin BUY $40,439</li><li>2026-10-08 CEO Zhao Bin BUY $40,439</li><li>2026-10-07 CEO Zhao Bin BUY $40,623</li><li>2026-10-07 CEO Zhao Bin BUY $40,623</li><li>2026-10-06 CEO Zhao Bin BUY $40,981</li><li>2026-10-06 CEO Zhao Bin BUY $40,981</li><li>2026-10-05 CEO Zhao Bin BUY $40,563</li><li>2026-10-05 CEO Zhao Bin BUY $40,563</li></ul></details>
+    <details><summary>Who’s trading — history <span class="cnt">1</span></summary>
+      <ul class="list"><li><b>Zhao Bin</b> <span class="mut">(CEO)</span><div class="mut tiny">1 Form 4 filings on record since 2021; 16 buys of API in this tracker&#x27;s ledger</div></li></ul></details>
+    <details><summary>Recent SEC filings</summary>
+      <ul class="list"><li class="mut">None fetched.</li></ul></details>
+    <details><summary>Related legislative activity</summary>
+      <ul class="list"><li class="mut">No bills matched this company by keyword — matched bills with plain-English summaries appear here once your Congress.gov API key is set (setup Part 6).</li><li class="mut tiny browse-head">Browse congress.gov:</li><li class="browse"><a href="https://www.congress.gov/search?q=Agora&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Agora”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Agora&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Agora”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Services-Prepackaged%20Software&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Services-Prepackaged Software”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Services-Prepackaged%20Software&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Services-Prepackaged Software”</a></li></ul>
+      <p class="mut tiny">Keyword matches for context only — not evidence a trade was motivated by any bill.</p></details>
+  </div>
+</article>
+<article class="card" id="c-RTSN" style="--c:#CE8A1B">
+  <header class="head">
+    <span class="pill">Watch</span>
+    <div class="title"><span class="tk">RTSN</span>
+      <span class="co">Retension Pharmaceuticals, Inc.</span></div>
+    <span class="net num">net +10.4</span>
+  </header>
+  <div class="body">
+    <p class="mut ind">Pharmaceutical Preparations</p>
+    
+    <div class="stats">
+      <div class="stat"><span class="lbl">Now</span><span class="num val">$11.40</span></div>
+      <div class="stat"><span class="lbl">At signal</span><span class="num val">$11.63</span></div>
+      <div class="stat"><span class="lbl">Since signal</span><span class="num dn">-2.0%</span></div>
+      <div class="stat"><span class="lbl">14 day</span><span class="num up">+8.3%</span></div>
+    </div>
+    <svg viewBox="0 0 200 52" class="spark" role="img" aria-label="14 day price trend"><defs><linearGradient id="g283" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CE8A1B" stop-opacity=".22"/><stop offset="1" stop-color="#CE8A1B" stop-opacity="0"/></linearGradient></defs><polygon points="0,52 0.0,46.0 66.7,17.3 133.3,6.0 200.0,14.4 200,52" fill="url(#g283)"/><polyline points="0.0,46.0 66.7,17.3 133.3,6.0 200.0,14.4" fill="none" stroke="#CE8A1B" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div class="chips"><span class="chip chip-fresh">Fresh — latest filing 1 day(s) ago</span><span class="chip chip-herd">Herding pick — industry cluster, below signal threshold</span></div>
+    <p class="mut meta">2 buyer(s) · 0 seller(s) · score 10.4 / 0.0</p>
+    <div class="btns"><a class="btn bt-buy" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+BUY+RTSN&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll buy</a><a class="btn bt-sell" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+SELL+RTSN&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll sell</a><a class="btn bt-ask" href="https://claude.ai/new?q=Research%20RTSN%20%28Retension%20Pharmaceuticals%2C%20Inc.%29%20for%20me.%20My%20InsiderEdge%20bot%20flagged%20it%20WATCH%20today%20based%20on%20insider/congressional%20trading%20clusters%20%282%20buyers%2C%200%20sellers%2C%20net%20score%20%2B10.4%29.%20Please%20check%20today%27s%20news%2C%20recent%20earnings%2C%20analyst%20moves%2C%20and%20any%20red%20flags%2C%20then%20give%20me%20the%20case%20FOR%20and%20AGAINST%20acting%20on%20this%20signal." target="_blank" rel="noopener">Ask Claude</a><a class="btn bt-skip" href="https://github.com/jkahn42/insideredge/issues/new?title=REJECT+RTSN&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">Not interested</a></div><p class="mut tiny">Opens a pre-filled note — tap “Submit new issue” to confirm. Tomorrow starts a 21-day tracker (or hides it).</p>
+    <details><summary>Latest news <span class="cnt">5</span></summary>
+      <ul class="list"><li><a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQdk9zWUljaS1RZmFhZmZsLUtrMEhQcVFUNk5GYzFiQlQ4OVgyUHF3MlVKWGMybWVVYndONUJjRjFuTWdkd1UwdEMybmE1TENIelZtc3dCSjVFcXBjc2VnSnd5VUdVSGNjTGFLQ3ZNQXg3QTZrZUZid2kxeUNMS1FpZ3JnbGZhVkNWQUdIWlU0T3c3Z1J2OWtN?oc=5" target="_blank" rel="noopener">Preferred dividends of Retension Pharmaceuticals Inc – FWB:TL4 - TradingView</a><div class="mut tiny">TradingView · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFQ2bVRHdVRFSnh3UGlIZThLWll2b3ViRWg5QklWYlRVSlJUenhHUndIUzRGcG5FV0U4VlRwOVZORmZ3R3N6U1kyLTZFVVZaa0dOUFF1b09NU1RsYkUyQUVETnNiOEw3MUljNW1FMkNyV1RIbFY1bXBQbW02UW50NTVsaEtjdUZacFVPQUVhREZrZTFKU3BHb1dsZElfcjI2NlNuWlFWNjN1QmxIeV9Ec2hHVUN0bTZ3VXVWR3ZkaGw?oc=5" target="_blank" rel="noopener">Director Pavan Cheruvu receives 5,636 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan</a><div class="mut tiny">Stock Titan · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TeW4xd3VFdVVWdDgyUkpSQWtmZzk5OENpWmxENTRwbW9OYXgyczhzWEk2UjJuc204Q1JzcGE0Um5halZJU1NzRDdGdjh2elA2TjdVS3h2Ml8tU2VCdnZKMg?oc=5" target="_blank" rel="noopener">Retension Pharmaceuticals, Inc. (RTSN) stock price, news, quote and history - Yahoo Finance UK</a><div class="mut tiny">Yahoo Finance UK · Sun, 11 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEQwT3ZOdFVmanRlbEhjV2QzMW1hMjlPTGpYbVFsMmdrXzk3eHRrQkxmLTFuM29ETkVzU2I4ODZXbklBRzliX2lRYUpBT3d4VDZ4WUhhdXFnR3R6N2hWOGltUFJjZ3pVWnNtck90SHdHdWhxNkVvZFotUWlvRGs5Ul9sdFF5OHlmYjZoOHFpVFUyN3NpekdDZWFVQU9XeVlBbjY5S1VGR0FtS3dQZ0ZlbS1qeXpwSjJMa0xLRDhmbFI?oc=5" target="_blank" rel="noopener">CEO buys 20,800 shares and receives 255,174 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan</a><div class="mut tiny">Stock Titan · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tSHh6NVVrOXVUcjBGX244OEc2VUkwRzN1eE5iWDB2NTRLZlFoVWplZDVJeXZxZEhpM1BwUzQyQlIxSGpvM2xEQ2JmSjdOXzV4dDlpY0RneTI?oc=5" target="_blank" rel="noopener">Retension Pharmaceuticals, Inc. (RTSN) Latest Stock News &amp; Headlines - Yahoo! Finance Canada</a><div class="mut tiny">Yahoo! Finance Canada · Sat, 10 Oct 2026</div></li></ul>
+      <p class="mut tiny">Headlines are auto-fetched; risk chips are keyword matches, not judgment — use Ask Claude for the read.</p></details>
+    <details><summary>Disclosed trades <span class="cnt">4</span></summary>
+      <ul class="mono"><li>2026-10-13 DIRECTOR BERGER FRANKLIN M BUY $120,000</li><li>2026-10-13 DIRECTOR BERGER FRANKLIN M BUY $120,000</li><li>2026-10-13 CEO Keller Eric L. BUY $249,600</li><li>2026-10-13 CEO Keller Eric L. BUY $249,600</li></ul></details>
+    <details><summary>Who’s trading — history <span class="cnt">2</span></summary>
+      <ul class="list"><li><b>BERGER FRANKLIN M</b> <span class="mut">(DIRECTOR)</span><div class="mut tiny">128 Form 4 filings on record since 2003; 1 buy of RTSN in this tracker&#x27;s ledger</div></li><li><b>Keller Eric L.</b> <span class="mut">(CEO)</span><div class="mut tiny">1 Form 4 filings on record since 2026; 1 buy of RTSN in this tracker&#x27;s ledger</div></li></ul></details>
+    <details><summary>Recent SEC filings</summary>
+      <ul class="list"><li><a href="https://www.sec.gov/Archives/edgar/data/2002988/000121390026109024/ea0308462-8k_retension.htm" target="_blank" rel="noopener">8-K · 2026-10-13</a><div class="mut tiny">Company amended bylaws or changed fiscal year; exhibits/financial statements attached.</div></li></ul></details>
+    <details><summary>Related legislative activity</summary>
+      <ul class="list"><li class="mut">No bills matched this company by keyword — matched bills with plain-English summaries appear here once your Congress.gov API key is set (setup Part 6).</li><li class="mut tiny browse-head">Browse congress.gov:</li><li class="browse"><a href="https://www.congress.gov/search?q=Retension%20Pharmaceuticals&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Retension Pharmaceuticals”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Retension%20Pharmaceuticals&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Retension Pharmaceuticals”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Pharmaceutical%20Preparations&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Pharmaceutical Preparations”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Pharmaceutical%20Preparations&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Pharmaceutical Preparations”</a></li></ul>
+      <p class="mut tiny">Keyword matches for context only — not evidence a trade was motivated by any bill.</p></details>
+  </div>
+</article>
+<article class="card" id="c-ONMD" style="--c:#CE8A1B">
+  <header class="head">
+    <span class="pill">Watch</span>
+    <div class="title"><span class="tk">ONMD</span>
+      <span class="co">OneMedNet Corp</span></div>
+    <span class="net num">net +6.8</span>
+  </header>
+  <div class="body">
+    <p class="mut ind">Services-Commercial Physical &amp; Biological Research</p>
+    
+    <div class="stats">
+      <div class="stat"><span class="lbl">Now</span><span class="num val">$4.58</span></div>
+      <div class="stat"><span class="lbl">At signal</span><span class="num val">$6.50</span></div>
+      <div class="stat"><span class="lbl">Since signal</span><span class="num dn">-29.6%</span></div>
+      <div class="stat"><span class="lbl">14 day</span><span class="num dn">-29.6%</span></div>
+    </div>
+    <svg viewBox="0 0 200 52" class="spark" role="img" aria-label="14 day price trend"><defs><linearGradient id="g88884" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CE8A1B" stop-opacity=".22"/><stop offset="1" stop-color="#CE8A1B" stop-opacity="0"/></linearGradient></defs><polygon points="0,52 0.0,6.0 15.4,8.6 30.8,26.1 46.2,17.1 61.5,21.6 76.9,23.3 92.3,27.6 107.7,29.8 123.1,30.7 138.5,32.1 153.8,40.2 169.2,46.0 184.6,44.6 200.0,36.0 200,52" fill="url(#g88884)"/><polyline points="0.0,6.0 15.4,8.6 30.8,26.1 46.2,17.1 61.5,21.6 76.9,23.3 92.3,27.6 107.7,29.8 123.1,30.7 138.5,32.1 153.8,40.2 169.2,46.0 184.6,44.6 200.0,36.0" fill="none" stroke="#CE8A1B" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div class="chips"><span class="chip chip-mid">Recent — latest filing 5 days ago</span><span class="chip chip-herd">Herding pick — industry cluster, below signal threshold</span></div>
+    <p class="mut meta">2 buyer(s) · 1 seller(s) · score 7.2 / 0.4</p>
+    <div class="btns"><a class="btn bt-buy" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+BUY+ONMD&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll buy</a><a class="btn bt-sell" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+SELL+ONMD&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll sell</a><a class="btn bt-ask" href="https://claude.ai/new?q=Research%20ONMD%20%28OneMedNet%20Corp%29%20for%20me.%20My%20InsiderEdge%20bot%20flagged%20it%20WATCH%20today%20based%20on%20insider/congressional%20trading%20clusters%20%282%20buyers%2C%201%20sellers%2C%20net%20score%20%2B6.8%29.%20Please%20check%20today%27s%20news%2C%20recent%20earnings%2C%20analyst%20moves%2C%20and%20any%20red%20flags%2C%20then%20give%20me%20the%20case%20FOR%20and%20AGAINST%20acting%20on%20this%20signal." target="_blank" rel="noopener">Ask Claude</a><a class="btn bt-skip" href="https://github.com/jkahn42/insideredge/issues/new?title=REJECT+ONMD&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">Not interested</a></div><p class="mut tiny">Opens a pre-filled note — tap “Submit new issue” to confirm. Tomorrow starts a 21-day tracker (or hides it).</p>
+    <details><summary>Latest news <span class="cnt">5</span></summary>
+      <ul class="list"><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUY5cHpHcG02aEYyRjg0cktqYkJ0OWdISEJsV2VKZFZoLVpYclJYR3lwQ2F6eG8xS0hyTXNGUGFadHdIcjBMcGFnLWYzVC1oZmRrWXhUWWNtYzFZQjZuaFdxRlJVZXR6TVNPdDhZNmVBN3kzREcycDdJRFJqMVl3RmxldVlpOFdnbmFJcWdLenRZM2pGSEhTbEZ0N2cyYzNab2pCQ0RNZWJCanozNEJz?oc=5" target="_blank" rel="noopener">Chief medical officer buys 45,126 OneMedNet (ONMD) shares valued at $5.54 each. - Stock Titan</a><div class="mut tiny">Stock Titan · Wed, 14 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG5zYW5CeGFPaFIyWlM2WEtJSVMyVWtsaFRHVTZINGZHVGRkY2dGN3hPaW11QUFORktaTklSUy1nZ0FlZ1U3ekJQT1Zha3Q1bnBrQVMzMy04S3NaeFJ2RTJKank4V2NaSzRJNXNJTWVKakdSYlNFbUpiZzlZckFrUkc1Um1wdUpfSnlrdjJ5eU9Cbm5kWkZWWU1HaGFtamlNNmg0RDY3SkdCcHFhQ2gxbmJB?oc=5" target="_blank" rel="noopener">Onemednet CEO Aaron Green sells $47,762 in shares - Investing.com</a><div class="mut tiny">Investing.com · Sun, 11 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxNSk00UWROTlZEMkFJaVltdjlYNE5sWDdVWjZwQ3NPSEd0SFVDRzdFYnlvaDF0cEJ2dWdQY29STUVKUmFvTHlkMXhWcTZYTlk2a2M0WUpGVnpXTUtuUkdmcEJHa05xUmdILXdZVmZVejg5cUlCRjRxd3VNcXZmWGhZd2J0RTFhaDZtNzBLRWlQMXBWZlNmMzgzX0Q2QkNlRXJKQzdET0VOUWdkVjRKTWc?oc=5" target="_blank" rel="noopener">Enterprise value to revenue forward of OneMedNet Corp – NASDAQ:ONMDW - TradingView</a><div class="mut tiny">TradingView · Mon, 12 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOWjQ4RjBGblhBR0FJQXVFZE56R3paVk9kWTVjN19XSEYyRzZKOXRLX2xud0ZQRUVna2F6SmhHa1dHbG1NLTVxMlFWZWlnaDF1OF91SXZJN3VhS0hXb09vU0xBb2Zaa3FNdUZraXBodEF4QVU0ejJYVG9LaWluSVQ3SGlrb3h2NGJIRExhWngzVGtISEl3Z19jUThVUHdtMWV4S1ZWMDNOR243TmVwdEVV?oc=5" target="_blank" rel="noopener">Tax-covering sales total 8,500 shares for OneMedNet (ONMD) CFO, who also reported stock grants. - Stock Titan</a><div class="mut tiny">Stock Titan · Sat, 10 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkNGUjBYckdDQ0JfLVpocnpIQ1RGaUR0dnp1c0laT0FmbEpHZ2xZVk1nak1NblllVXg3dXFJS1Z1a0pIWWRIWFQ4ZFVuZ0d2cFBzQnBiZHRKbTJQVUlvQ2J5YnZDSEJ3XzIyeW1WdUsxQUNsbkZ2blJod0daaEtnR1VRekhfUm41YzBjVXpXVEdKMk13djYwcFU3R0FjelN2NUFQTGdRb0pvMUNHTkJ1TTJSS3lUZ21fakNZ?oc=5" target="_blank" rel="noopener">Onemednet CEO Aaron Green sells $47,762 in company stock - Investing.com</a><div class="mut tiny">Investing.com · Sun, 11 Oct 2026</div></li></ul>
+      <p class="mut tiny">Headlines are auto-fetched; risk chips are keyword matches, not judgment — use Ask Claude for the read.</p></details>
+    <details><summary>Disclosed trades <span class="cnt">6</span></summary>
+      <ul class="mono"><li>2026-10-09 OFFICER Yu Jeffrey BUY $249,998</li><li>2026-10-09 OFFICER Yu Jeffrey BUY $249,998</li><li>2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001</li><li>2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001</li><li>2026-09-22 CEO Green Aaron SELL $36,960</li><li>2026-09-22 CEO Green Aaron SELL $36,960</li></ul></details>
+    <details><summary>Who’s trading — history <span class="cnt">3</span></summary>
+      <ul class="list"><li><b>Kosasa Thomas</b> <span class="mut">(DIRECTOR)</span><div class="mut tiny">6 Form 4 filings on record since 2023; 2 buys of ONMD in this tracker&#x27;s ledger</div></li><li><b>Yu Jeffrey</b> <span class="mut">(OFFICER)</span><div class="mut tiny">8 Form 4 filings on record since 2025; 2 buys of ONMD in this tracker&#x27;s ledger</div></li><li><b>Green Aaron</b> <span class="mut">(CEO)</span><div class="mut tiny">5 Form 4 filings on record since 2025; 1 sale of ONMD in this tracker&#x27;s ledger</div></li></ul></details>
+    <details><summary>Recent SEC filings</summary>
+      <ul class="list"><li><a href="https://www.sec.gov/Archives/edgar/data/1849380/000149315226046931/form8-k.htm" target="_blank" rel="noopener">8-K · 2026-10-14</a><div class="mut tiny">Company other notable events.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1849380/000149315226044801/form8-k.htm" target="_blank" rel="noopener">8-K · 2026-09-29</a><div class="mut tiny">Company amended bylaws or changed fiscal year; exhibits/financial statements attached.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1849380/000149315226043943/form8-k.htm" target="_blank" rel="noopener">8-K · 2026-09-23</a><div class="mut tiny">Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1849380/000149315226039206/formdef14a.htm" target="_blank" rel="noopener">DEF 14A · 2026-08-19</a><div class="mut tiny">Proxy statement: executive pay, board slate, shareholder votes.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1849380/000149315226038461/form10-q.htm" target="_blank" rel="noopener">10-Q · 2026-08-14</a><div class="mut tiny">Quarterly report: unaudited quarterly financials.</div></li></ul></details>
+    <details><summary>Related legislative activity</summary>
+      <ul class="list"><li class="mut">No bills matched this company by keyword — matched bills with plain-English summaries appear here once your Congress.gov API key is set (setup Part 6).</li><li class="mut tiny browse-head">Browse congress.gov:</li><li class="browse"><a href="https://www.congress.gov/search?q=OneMedNet&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “OneMedNet”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=OneMedNet&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “OneMedNet”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Services-Commercial%20Physical%20%26%20Biological%20Research&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Services-Commercial Physical &amp; Biological Research”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Services-Commercial%20Physical%20%26%20Biological%20Research&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Services-Commercial Physical &amp; Biological Research”</a></li></ul>
+      <p class="mut tiny">Keyword matches for context only — not evidence a trade was motivated by any bill.</p></details>
+  </div>
+</article>
+<article class="card" id="c-REF" style="--c:#CE8A1B">
+  <header class="head">
+    <span class="pill">Watch</span>
+    <div class="title"><span class="tk">REF</span>
+      <span class="co">Reformation Inc.</span></div>
+    <span class="net num">net +0.6</span>
+  </header>
+  <div class="body">
+    <p class="mut ind">Women&#x27;s, Misses&#x27;:  and Juniors Outerwear</p>
+    
+    <div class="stats">
+      <div class="stat"><span class="lbl">Now</span><span class="num val">$13.59</span></div>
+      <div class="stat"><span class="lbl">At signal</span><span class="num val">$15.31</span></div>
+      <div class="stat"><span class="lbl">Since signal</span><span class="num dn">-11.2%</span></div>
+      <div class="stat"><span class="lbl">14 day</span><span class="num up">+9.9%</span></div>
+    </div>
+    <svg viewBox="0 0 200 52" class="spark" role="img" aria-label="14 day price trend"><defs><linearGradient id="g87531" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#CE8A1B" stop-opacity=".22"/><stop offset="1" stop-color="#CE8A1B" stop-opacity="0"/></linearGradient></defs><polygon points="0,52 0.0,39.5 15.4,39.9 30.8,41.5 46.2,46.0 61.5,33.1 76.9,30.1 92.3,26.8 107.7,23.5 123.1,25.6 138.5,19.3 153.8,14.2 169.2,6.0 184.6,12.1 200.0,15.6 200,52" fill="url(#g87531)"/><polyline points="0.0,39.5 15.4,39.9 30.8,41.5 46.2,46.0 61.5,33.1 76.9,30.1 92.3,26.8 107.7,23.5 123.1,25.6 138.5,19.3 153.8,14.2 169.2,6.0 184.6,12.1 200.0,15.6" fill="none" stroke="#CE8A1B" stroke-width="2.25" stroke-linecap="round" stroke-linejoin="round"/></svg>
+    <div class="chips"><span class="chip chip-spent">Aging — latest filing 75 days ago; edge decays over weeks</span><span class="chip chip-herd">Herding pick — industry cluster, below signal threshold</span></div>
+    <p class="mut meta">2 buyer(s) · 0 seller(s) · score 0.6 / 0.0</p>
+    <div class="btns"><a class="btn bt-buy" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+BUY+REF&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll buy</a><a class="btn bt-sell" href="https://github.com/jkahn42/insideredge/issues/new?title=TRACK+SELL+REF&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">I’ll sell</a><a class="btn bt-ask" href="https://claude.ai/new?q=Research%20REF%20%28Reformation%20Inc.%29%20for%20me.%20My%20InsiderEdge%20bot%20flagged%20it%20WATCH%20today%20based%20on%20insider/congressional%20trading%20clusters%20%282%20buyers%2C%200%20sellers%2C%20net%20score%20%2B0.6%29.%20Please%20check%20today%27s%20news%2C%20recent%20earnings%2C%20analyst%20moves%2C%20and%20any%20red%20flags%2C%20then%20give%20me%20the%20case%20FOR%20and%20AGAINST%20acting%20on%20this%20signal." target="_blank" rel="noopener">Ask Claude</a><a class="btn bt-skip" href="https://github.com/jkahn42/insideredge/issues/new?title=REJECT+REF&body=Decision+from+portal+on+2026-10-14.+Tap+Submit.">Not interested</a></div><p class="mut tiny">Opens a pre-filled note — tap “Submit new issue” to confirm. Tomorrow starts a 21-day tracker (or hides it).</p>
+    <details><summary>Latest news <span class="cnt">5</span></summary>
+      <ul class="list"><li><a href="https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVBiM2Fyamx3VWZ5ZEJrTEN3SkdhRS1YTjlOWjhTUHkxeUxuZEExMjZWeDBUakNtQmtyZWVjS3JfdXJuS1prLTRSRVNmWTd5MUVFdV9VaFVHdXNUbWljalhGSUI4Z3lhaDZiNjBuX0VqNUplYXMzNjRROEJSOEJORDhYNk1PV1VWVUNUSm5BREp0TGQ3MVBwcC0yS2xtcDN6OTl5cW9wcHE4dEpuSzVKaktOb3hSLXoxM2xjZ1VvcGlQVFlsNWpyTlVvODZCRXZVUlV6UmpCZXFLZE1NQTIxcVVMdmFDQQ?oc=5" target="_blank" rel="noopener">Reformation Inc. (NYSE:REF) Stock Has Average Target Price of $19.25 According to Brokerages - MarketBeat</a><div class="mut tiny">MarketBeat · Tue, 13 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmE0SW9aYUpkYS1TYkNqMmYtT25fdzZEQ2c0T01pOE1NUjFhTm43bUVCWHYwdFFreUd4emVpbmZJZFVaelpGMFVRTHRVdVZubHVkdmFkME92b3JXSmZrV1VmaEdBQ0F5MExIUXJWMkJOc0JGVlBlSWl3aGN6d3RwNE12a05uRUhQaTlwR3lfT2x3b3p0em8tNkVFMFVnZGNteEtOeXVSUDF4NmdxUks2QjhmZ2l6cGVvSGc?oc=5" target="_blank" rel="noopener">A director bought 3,500 IPO shares at $15 each; Reformation (REF) adds the omitted purchase. - Stock Titan</a><div class="mut tiny">Stock Titan · Sat, 10 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkowLV9uRXpXRFJFUVZIOWNwbmgycGNTb1lOaGtORHQ1NHdpWUpyTkF2VWlXOVBWMmJBYUgwZjJLNk9wUC1fWHk3Q1AxTkUtYnBBeXcyc3daaTNXbW1BRUt6MF9fa0lMa2FsWFZoeVFjektJRGJYRXBCeGZUN2VWdU0tVEpaN2sySElTamdpMA?oc=5" target="_blank" rel="noopener">tm2513004-10_s1.htm - SEC.gov</a><div class="mut tiny">SEC.gov · Mon, 20 Jul 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBUd0s3eGRJMThBUlpDbTNoSkVrU2o0X0hnTWxVZi1sV1Y1OHd1RWxuUGttV1NlR2wyaWY3MU83eTRCbXdWVEZiSW9uUVZfTzd2dmZGVEFmSHRlYXV2bFFPX1lwZHpPc2dlaG9JdlhvYTUwWTI4bC1JMA?oc=5" target="_blank" rel="noopener">Reformation, Inc. Balance Sheet – HAM:GU3 - TradingView</a><div class="mut tiny">TradingView · Tue, 13 Oct 2026</div></li><li><a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NTkhRTXJqWEVmYnpVeWFwdm9vYjFqZnBQYkxtc1dSbDQweVdJTEN5MGdPVW9hWW5KaG1Najhkb3pDWVBUVkp3cjdFREpIV2djMVd2VmhteXBfNGhLaXc?oc=5" target="_blank" rel="noopener">Reformation Inc. (GU3.F) stock major holders - Yahoo Finance UK</a><div class="mut tiny">Yahoo Finance UK · Thu, 08 Oct 2026</div></li></ul>
+      <p class="mut tiny">Headlines are auto-fetched; risk chips are keyword matches, not judgment — use Ask Claude for the read.</p></details>
+    <details><summary>Disclosed trades <span class="cnt">4</span></summary>
+      <ul class="mono"><li>2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000</li><li>2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000</li><li>2026-07-31 DIRECTOR Allen Zipporah BUY $52,500</li><li>2026-07-31 DIRECTOR Allen Zipporah BUY $52,500</li></ul></details>
+    <details><summary>Who’s trading — history <span class="cnt">2</span></summary>
+      <ul class="list"><li><b>Allen Zipporah</b> <span class="mut">(DIRECTOR)</span><div class="mut tiny">2 Form 4 filings on record since 2026; 1 buy of REF in this tracker&#x27;s ledger</div></li><li><b>Coyle John Joseph</b> <span class="mut">(DIRECTOR)</span><div class="mut tiny">2 Form 4 filings on record since 2026; 1 buy of REF in this tracker&#x27;s ledger</div></li></ul></details>
+    <details><summary>Recent SEC filings</summary>
+      <ul class="list"><li><a href="https://www.sec.gov/Archives/edgar/data/1787117/000162828026061594/lymi-20260627.htm" target="_blank" rel="noopener">10-Q · 2026-09-11</a><div class="mut tiny">Quarterly report: unaudited quarterly financials.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1787117/000162828026061327/lymi-20260910.htm" target="_blank" rel="noopener">8-K · 2026-09-10</a><div class="mut tiny">Company announced results of operations (earnings); exhibits/financial statements attached.</div></li><li><a href="https://www.sec.gov/Archives/edgar/data/1787117/000110465926089857/tm2513004d22_8k.htm" target="_blank" rel="noopener">8-K · 2026-08-03</a><div class="mut tiny">Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.</div></li></ul></details>
+    <details><summary>Related legislative activity</summary>
+      <ul class="list"><li class="mut">No bills matched this company by keyword — matched bills with plain-English summaries appear here once your Congress.gov API key is set (setup Part 6).</li><li class="mut tiny browse-head">Browse congress.gov:</li><li class="browse"><a href="https://www.congress.gov/search?q=Reformation&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Reformation”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Reformation&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Reformation”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Women%27s%2C%20Misses%27%3A%20%20and%20Juniors%20Outerwear&amp;source=legislation" target="_blank" rel="noopener">Bills mentioning “Women&#x27;s, Misses&#x27;:  and Juniors Outerwear”</a></li><li class="browse"><a href="https://www.congress.gov/search?q=Women%27s%2C%20Misses%27%3A%20%20and%20Juniors%20Outerwear&amp;source=committeemeetings" target="_blank" rel="noopener">Hearings mentioning “Women&#x27;s, Misses&#x27;:  and Juniors Outerwear”</a></li></ul>
+      <p class="mut tiny">Keyword matches for context only — not evidence a trade was motivated by any bill.</p></details>
+  </div>
+</article></div></section><section><h2>Signal scorecard</h2><div class="panel"><p class="verdict">7 buy signals issued · 6 scored · <b>16.7% beat SPY</b> · avg excess -20.00%</p><div class="tablewrap"><table class="sc"><thead><tr><th>Ticker</th><th>Issued</th><th>Age</th><th>Return</th><th>SPY</th><th>Excess</th></tr></thead><tbody><tr><td class="tkr">AGMB</td><td>2026-10-12</td><td class="num">2d</td><td class="num">-4.3%</td><td class="num">-1.3%</td><td class="num dn">-3.0%</td></tr><tr><td class="tkr">BBD</td><td>2026-09-24</td><td class="num">20d</td><td class="num">+23.1%</td><td class="num">+0.2%</td><td class="num up">+22.9%</td></tr><tr><td class="tkr">XBP</td><td>2026-09-18</td><td class="num">26d</td><td class="num">-13.1%</td><td class="num">+1.1%</td><td class="num dn">-14.2%</td></tr><tr><td class="tkr">INBX</td><td>2026-09-10</td><td class="num">34d</td><td class="num">-23.4%</td><td class="num">+1.2%</td><td class="num dn">-24.6%</td></tr><tr><td class="tkr">CDNL</td><td>2026-08-18</td><td class="num">57d</td><td class="num">-61.3%</td><td class="num">-0.0%</td><td class="num dn">-61.2%</td></tr><tr><td class="tkr">BRVE</td><td>2026-08-12</td><td class="num">63d</td><td class="num">-25.1%</td><td class="num">-0.7%</td><td class="num dn">-24.5%</td></tr><tr><td class="tkr">GBFH</td><td>2026-08-08</td><td class="num">67d</td><td class="num">-19.1%</td><td class="num">-0.7%</td><td class="num dn">-18.4%</td></tr></tbody></table></div></div></section>
+<footer>Form 4 filings lag trades by up to 2 business days; congressional
+disclosures by up to 45 days; 13D filings within 5 business days of crossing
+5%. Political amounts are range midpoints. “Since signal” measures drift
+after the earliest disclosed trade — a big positive number means the edge is
+partly spent. Research tooling, not financial advice.</footer>
+</div></body></html>
