@@ -1,6 +1,6 @@
-# InsiderEdge Daily Report — 2026-10-14
+# InsiderEdge Daily Report — 2026-10-15
 
-Signals: **0 BUY** / **0 SELL** / **5 WATCH**
+Signals: **0 BUY** / **0 SELL** / **6 WATCH**
 
 ## BUY
 _None today — no cluster met the threshold. That is a feature, not a bug._
@@ -10,14 +10,14 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 
 ## WATCHLIST
 ### DELL  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 5 sellers)
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376
-- 2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922
+- 2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922
 
 ### API  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
 - 2026-10-08 CEO Zhao Bin BUY $40,439
@@ -35,7 +35,13 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-13 CEO Keller Eric L. BUY $249,600
 - 2026-10-13 CEO Keller Eric L. BUY $249,600
 
-### ONMD  (net +6.8 | buy 7.2 / sell 0.4 | 2 buyers, 1 sellers)
+### IMSR  (net +8.0 | buy 8.0 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-10-13 CEO Irish Simon BUY $50,818
+- 2026-10-13 CEO Irish Simon BUY $50,818
+- 2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336
+- 2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336
+
+### ONMD  (net +6.9 | buy 7.2 / sell 0.3 | 2 buyers, 1 sellers)
 - 2026-10-09 OFFICER Yu Jeffrey BUY $249,998
 - 2026-10-09 OFFICER Yu Jeffrey BUY $249,998
 - 2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001

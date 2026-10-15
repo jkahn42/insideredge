@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "signals": [
     {
       "ticker": "DELL",
@@ -12,14 +12,14 @@
       "distinct_buyers": 0,
       "distinct_sellers": 5,
       "evidence": [
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $45,472",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376",
-        "2026-10-06 OTHER Silver Lake Technology Investors V, L.P. SELL $41,376"
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922",
+        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922"
       ],
       "company": {
         "name": "Dell Technologies Inc.",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-25",
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
@@ -40,10 +39,10 @@
           "2026-10-09",
           "2026-10-12",
           "2026-10-13",
-          "2026-10-14"
+          "2026-10-14",
+          "2026-10-15"
         ],
         "closes": [
-          562.89,
           543.43,
           539.59,
           537.95,
@@ -56,13 +55,14 @@
           586.06,
           576.76,
           572.47,
-          505.5
+          507.93,
+          464.01
         ]
       },
-      "price_now": 505.5,
-      "price_at_signal": 574.0,
-      "pct_since_signal": -11.93,
-      "pct_14d": -10.2,
+      "price_now": 464.01,
+      "price_at_signal": 586.06,
+      "pct_since_signal": -20.83,
+      "pct_14d": -14.61,
       "deep": {
         "recent_filings": [],
         "about": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell Inc. and EMC Corporation. Dell Technologies ranked 44th on the 2025 Fortune 500 rankings of the largest United States corporations based on its 2024 revenue; its products include personal computers, servers, monitors, comput"
@@ -71,65 +71,67 @@
         {
           "name": "Silver Lake Technology Investors IV, L.P.",
           "kind": "OTHER",
-          "note": "121 Form 4 filings on record since 2016; 102 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "Silver Lake Partners V DE (AIV), L.P.",
-          "kind": "OTHER",
-          "note": "102 Form 4 filings on record since 2018; 178 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "SL SPV-2, L.P.",
-          "kind": "OTHER",
-          "note": "102 Form 4 filings on record since 2019; 178 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "Silver Lake Technology Investors V, L.P.",
-          "kind": "OTHER",
-          "note": "97 Form 4 filings on record since 2018; 47 sales of DELL in this tracker's ledger"
+          "note": "122 Form 4 filings on record since 2016; 113 sales of DELL in this tracker's ledger"
         },
         {
           "name": "Silver Lake Partners IV, L.P.",
           "kind": "OTHER",
-          "note": "155 Form 4 filings on record since 2012; 210 sales of DELL in this tracker's ledger"
+          "note": "156 Form 4 filings on record since 2012; 228 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "SL SPV-2, L.P.",
+          "kind": "OTHER",
+          "note": "103 Form 4 filings on record since 2019; 195 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Partners V DE (AIV), L.P.",
+          "kind": "OTHER",
+          "note": "103 Form 4 filings on record since 2018; 195 sales of DELL in this tracker's ledger"
+        },
+        {
+          "name": "Silver Lake Technology Investors V, L.P.",
+          "kind": "OTHER",
+          "note": "98 Form 4 filings on record since 2018; 50 sales of DELL in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Why is Dell Technologies stock sliding today? - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbzI1RXRBMHZxNU5PUWgyWHlXSlhTdUlNMGZwdU4yc0l1SnBCby1VLUFicEc3cklQeFk0d1FncjhzNkQwaG9xTGItemd2Y2VQOUlrQmUzVFhzRWMxMk1vWEdweno5TVNkOW0yT1FOcDlsUDFHXzJQZk9sUHRVYldIWndRbUxfZm83U2VJdFM5TjI3N19rUXdiT3NaOUlkamFsN0xYc0E0ZkhCUQ?oc=5",
+          "title": "Why Is Dell Technologies Stock Sinking Wednesday? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXFBQ0NBS1I5NmNhWnJCYTdpeWpORGhnMXpOMW93Nm9GRTNCWV85bmVfclBRaF93NEM0bWVPYlBPVXlHcVRYZ0h4M3VlYXViSDZDWDdMX19iXzk0WnFndDBJSzU2NU9DZEgzTXk3anBPQjBjekRmNElXeW05UUptbVdUUmFxWkI0aXc2Tkt4U1J3S0RybENjbjExcTh0c1FWdjU4?oc=5",
           "date": "Wed, 14 Oct 2026",
-          "source": "Investing.com"
+          "source": "Benzinga"
         },
         {
-          "title": "Dell Technologies (DELL) Stock Looks Near Fair Value Despite Its 10x Run - Simply Wall Street",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSlZ1Wm1QZ2NsYU1HY3FTSUJRVUNaYWFXLThrc01UaUlXUjk3bTRDdERUMTBXR2RWS0pFSV8wQy1tLUYyekNMS05XTmZPT1RfVmZCUmtkRGZna3hZNmgwSGFqXzc5OE5pT2VJUkZoZm5HTXVpM1VvalpWZjVFM0lGbElWZEN1QlRSRk5wN29UNGJXUlROOV9VcG9TTmJQUmFwWWVrRXYyNTMtdzlhUEMtdjMtRF9LRzVHRWpidU1uajFLNXNIekhzeXB30gHPAUFVX3lxTFBrOTh5MkxsRl92UlI4OGlTQU8ydkpxUlo5Zm5jVUN0eG5FeW9JNnZHN2VHZEpmbXVaR2EwNm1JYjVyMEJnRVhYdzVRZEVGRnBQS1NZaU9aNEhOcjNYaEJpbkdrTlBxempHUkxRZ2hza3VWcmNfQ0lxeXlKY0NOYTR1VUNGMmQtdUNpRlF6enM2TkctUDZ2dHNWeVdqdTdrUjhXM2hLR25KNkw0SE53YlhSa2RPLXBwRFpSVDBHM0k2b0ozNkN4RFoyOUZDdmZUZw?oc=5",
+          "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing' - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MU3k5MHljanJnWGZ4dWlBa2JEc3RVWVRZWlVWOFUwS20wQUI1WS13M3U0OE5LN2lVYzhlLUxOMFNvMWhrc1hKNmVUSHlyMkRjTU5ESmM5Mnp1SWxHbTI4b3haS0FVWmY0ajlzWUx4VVZvVDFJb0hBZnV30gF_QVVfeXFMUDdHd3I2ekpybVo4MXdMOUlTSEVhZHhQYmNSTFhGcG5uOV93N190NXhieWlqYWduZmJGUzJ5bHF5TkNsREVycUo4M1BKVUY3ejAtaVpyeXo3QnJXSWY5TEVjRWRGUE14RGhZY3hzNDBic3pJSGlRZlNicFJrQk1wMA?oc=5",
           "date": "Wed, 14 Oct 2026",
-          "source": "Simply Wall Street"
+          "source": "CNBC"
         },
         {
-          "title": "Dell Technologies Inc Stock (DELL) Opened Down by 6.89% on Oct 14: Facts Behind the Movement - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORFlEUk02NjN0TjU0dEhoaEdGU0pTOG1sR3FDbUdwVGZjb2syd2ZFaERBcWhLOVJ2eGpEdFZmYThFNWk0ZmxaMVpfY3lLUy0xODVrTThBS0xOUXd6WWhMakN6Mkt4OEk3cDh1TFpTdk03aDlfTFNZaFRVV0RYVGpuMkxSZW1mUkVldkVB?oc=5",
-          "date": "Wed, 14 Oct 2026",
-          "source": "TradingKey"
-        },
-        {
-          "title": "Dell Technologies Inc. (DELL) Is a Trending Stock: Facts to Know Before Betting on It - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0ZGWUNNY09NSXVIejBMdWVvMG85ZF8xd3QydkFXVXYzYWJEa2xVd2ctdFhOcFQ2d0RQUkVOeFI5R2ZxSUR5R3JxdC1WSnUwRzhwSVNyS3I0ZmkxQm4xQTRXRXgtaXA0aU5HemV6Sl9LLVR2VW4zV0Q3RkV5T294RTZxWVJuWjU0UkRyS3lmUWlDel9KNkxHR0lBcHViMGRIaEE?oc=5",
-          "date": "Tue, 13 Oct 2026",
+          "title": "Barclays Downgrades Dell Technologies Stock After Massive Rally - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEJyTzZzX3dlX0R6WF9NOU9IRHdWRVFCbUJpTW1oMUgxbzg5bVVUcnlxbzA2NVpTY1JTTzVjYXprX0NEenNFR2Z0QjRtUDY1NW9kRVNVOUNzNURoN0trbVlvZmVSd1lyZ0J4d1M0M0l2WUVmS0c3S05KX3lrNDFrYjZhZS1yQktSeGJBLW1ZWFBCcEhmUmR6SXNoN0JVRW1nMElSUFF4OXQtY1Vj?oc=5",
+          "date": "Thu, 15 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "4,015 Dell Technologies Inc. $DELL Shares Bought by Courier Capital LLC - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX201a1hITE9pY3NvaHpDRzhlODR6S1hlSnQ4R2MzM0NOTGJ0eFpYUmIxdmt6UTFjdVp0Wi1WS0VKTFh6WDVZVlZRdXBMNk9CdXhLa1pyOGRac1Z4aUFiRU02Ykt3ZEhlV2VNZDZzTzQzdFNjb05PNGZTQk1QS3R3Tm5BaGNGN0tkSEFKbGo3RXdzcThGbUF5VlBZOWw0M3JBa2VielZOQk9MNWV6NUZUelY1a0RWV3VtQ2YyT1JmbjNqZ1JGSVliZw?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "MarketBeat"
+          "title": "Why Dell\u2019s stock was one of the S&P 500\u2019s biggest laggards on Wednesday - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1lqLXpfWU1MQUk3N19POE9yZlc3Y0N2YTJKV0xhLXVlekVHdGJ3YlJsQnM1SXZQTFE1cV9SMDV1aVA0aEJSeUIxaVYxX2lsTkFWWWlQTk4tb25lUi1wQzNBY3dOcEsxMnBrTjVGOWZjU3lIdVNNaDhEY0hMU2NiUU5BTWgxYm1NMG1XelVCdzVrdi10eW91aWRCRHpDSk5MVW5mbVlNQVhLZDd5UjdCM09B?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Dell Technologies tumbles 11% on Barclays downgrade, tech slide (DELL:NYSE) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEpWakdjdEJVVS1SR29ZenVROU8wczF4dDMtZnJISzZKcEpWXzJVSFMzRmgzZlBuZGhsWjVaVFI2ZTZGOFNaR0ZTdTd4R3JNb1BsWUIwXzhSczNCS2lxbjJWNE1Sc2xyU2dERnNfY3BpRWs5MVJ0MU02cmwtdEd4TlpkYmNuVThBYUQzMEFEYkMxaGJEN3U0eEZhRDJzRGtq?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Seeking Alpha"
         }
       ],
-      "news_flags": [],
+      "news_flags": [
+        "analyst downgrade"
+      ],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 8 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -182,7 +184,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-25",
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
@@ -195,10 +196,10 @@
           "2026-10-09",
           "2026-10-12",
           "2026-10-13",
-          "2026-10-14"
+          "2026-10-14",
+          "2026-10-15"
         ],
         "closes": [
-          4.21,
           4.15,
           4.15,
           4.18,
@@ -211,13 +212,14 @@
           4.08,
           4.11,
           4.42,
-          4.275
+          4.32,
+          4.46
         ]
       },
-      "price_now": 4.275,
+      "price_now": 4.46,
       "price_at_signal": 4.15,
-      "pct_since_signal": 3.01,
-      "pct_14d": 1.54,
+      "pct_since_signal": 7.47,
+      "pct_14d": 7.47,
       "deep": {
         "recent_filings": [],
         "about": "Agora, Inc. is a Baltimore, Maryland-based network for over thirty companies in the publishing, information services, and real estate industries. Agora was founded in 1978, in the Mount Vernon neighborhood of Baltimore, Maryland. The Agora Companies operate independently from cities around the world."
@@ -226,27 +228,27 @@
         {
           "name": "Zhao Bin",
           "kind": "CEO",
-          "note": "1 Form 4 filings on record since 2021; 16 buys of API in this tracker's ledger"
+          "note": "2 Form 4 filings on record since 2021; 16 buys of API in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Agora Stock Price Forecast. Should You Buy API? - StockInvest.us",
-          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTR1d0OU1BQUxBSTA5UnRxdUdDTkJUZ21fM21EVlhOTG5YbXpMakt2X0JZZV9mSFRXZmlFeDFrbWM0N3VLeHpJ?oc=5",
-          "date": "Fri, 09 Oct 2026",
-          "source": "StockInvest.us"
-        },
-        {
-          "title": "Stock grants vest for Agora (API) director Eric He: 1,592 depositary shares received, 89,345 held directly. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUlkaGg2U3kxOElrWTE1T1dwTVJhUzluQUZobUgtVVc2VU84bmx1ckJFbVdKemdLd18yRUwwaEZUT2tZd3B0SGpNNkliZThpSTdwQUs5MWJzMmcwMThLNjBNa0ZtQXNmb1FzZXlQVy0zS1FVTlBzVjRSYmhhUXgtOThZSnplSEJCMWJfcWx6VDhsNGxCUjJTRkdDcUpseEtHdnVWcQ?oc=5",
-          "date": "Fri, 02 Oct 2026",
+          "title": "Under a June 15 trading plan, Agora (API) CEO-linked YY TZ Limited buys 24,132 depositary shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdExoQTg1X3pQTEpZc2tUTzd0amc0U25YeTNhQW1QODdFS2VveVJ5YjlCOWZSOHgzWldpSmwxZzd1ZC1UOERXb0lvVjY3Wi1tMENRUnNuc1FkY0phNWZIUUx0U3pfOGc4amp4OHlIdEJVandJbW1kS2s1SjF0QnU2ZXVjX1FmbXhKcVBkaC03NThBaE5ucmgzNnFFRm94ZnNMVEN4Nw?oc=5",
+          "date": "Thu, 15 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Agora, Inc. Reports Second Quarter 2026 Financial Results - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUVDVEw3NlV4ZGJSMFZ1dXFXS2NSWlVJVkZIdndLYTdEbVd3SENLTUQyQWRKQk5CXy1iMzZNdHh5ZWdDUXdpUTZ2SnJldU1xZXNNUkZCdWtyMmhueEUzVV9GLVBNYmJXUzJyVVN5WlVnZXpfX0pjWHMxdWlvS05kUDQyU21NZVdzTG9WWGJWSTZaaHhXTGluTkpaUGw?oc=5",
-          "date": "Thu, 13 Aug 2026",
+          "title": "Agora (API) CEO to Purchase up to $20M in Stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3VKUE56ZUE4VUpGcGI1dTZHYlNWSjZIbWtvOHlSdG1QTG5OTWxtT1NVQ0xYY3RBTWRoQ0lUdHkwZE1nelpfYXdhU2pHWmhYMzFVaEs5X0RPNno2bWdjOFdjckJTYmVWdk9QcVExdTh0NmlOb2hOalZDSVF6WkhoMmlHRzV3dFo0eWpUUV96b1BjSlF5bHc?oc=5",
+          "date": "Sat, 06 Jun 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "18 planned purchases total 167,385 depositary shares for Agora (API) CEO Bin Zhao\u2019s entity. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWnVUeWc0LWRYOTd2aENDSndPWktodUp5MEdqNDBaeVNfMXJ6Zl9CQXRBam1FeXJkdmdsT3RCeXpvd2pkdHctR0NYUkNzSmpMaFp1SUdFTUhub1QyTnlhVU1JSEJRelhYb09DVjNwaFRfdFh4ZnM3N3h4UUVpV0VLWHJ3YV9YaHpBNGZVc3lZUUZqdThFU0cybUQ4WjZDRnVNX0R3Yw?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "Stock Titan"
         },
         {
           "title": "Agora: Worth A Bet At Current Valuations (NASDAQ:API) - Seeking Alpha",
@@ -264,7 +266,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -316,19 +318,21 @@
           "2026-10-09",
           "2026-10-12",
           "2026-10-13",
-          "2026-10-14"
+          "2026-10-14",
+          "2026-10-15"
         ],
         "closes": [
           10.53,
           11.32,
           11.63,
-          11.4
+          11.64,
+          11.95
         ]
       },
-      "price_now": 11.4,
+      "price_now": 11.95,
       "price_at_signal": 11.63,
-      "pct_since_signal": -1.98,
-      "pct_14d": 8.26,
+      "pct_since_signal": 2.75,
+      "pct_14d": 13.49,
       "deep": {
         "recent_filings": [
           {
@@ -354,14 +358,14 @@
       ],
       "news": [
         {
-          "title": "Preferred dividends of Retension Pharmaceuticals Inc \u2013 FWB:TL4 - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdk9zWUljaS1RZmFhZmZsLUtrMEhQcVFUNk5GYzFiQlQ4OVgyUHF3MlVKWGMybWVVYndONUJjRjFuTWdkd1UwdEMybmE1TENIelZtc3dCSjVFcXBjc2VnSnd5VUdVSGNjTGFLQ3ZNQXg3QTZrZUZid2kxeUNMS1FpZ3JnbGZhVkNWQUdIWlU0T3c3Z1J2OWtN?oc=5",
+          "title": "Net income before discontinued operations of Retension Pharmaceuticals, Inc. \u2013 NASDAQ:RTSN - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUlpMnU2NEp1NGhJRDhOWV9PN2NyMl8wTDNJall2amZtNVRRRGlTOFJjd1haOUJReDc0TGNrWnJMZ0YyLUZGSTlkSVFiekdSWldpTmE2V3lwQjUyOEkxckRWRVpsc19IbDlKVmNVN2l0b1RkRm1zSDk4eGh5RGE1d2tqMFhQVzdSREdUUVYwak4zcEVpdE1lMnAzN0djcE15X1hj?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "TradingView"
         },
         {
-          "title": "Director Pavan Cheruvu receives 5,636 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSFQ2bVRHdVRFSnh3UGlIZThLWll2b3ViRWg5QklWYlRVSlJUenhHUndIUzRGcG5FV0U4VlRwOVZORmZ3R3N6U1kyLTZFVVZaa0dOUFF1b09NU1RsYkUyQUVETnNiOEw3MUljNW1FMkNyV1RIbFY1bXBQbW02UW50NTVsaEtjdUZacFVPQUVhREZrZTFKU3BHb1dsZElfcjI2NlNuWlFWNjN1QmxIeV9Ec2hHVUN0bTZ3VXVWR3ZkaGw?oc=5",
+          "title": "CEO buys 20,800 shares and receives 255,174 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEQwT3ZOdFVmanRlbEhjV2QzMW1hMjlPTGpYbVFsMmdrXzk3eHRrQkxmLTFuM29ETkVzU2I4ODZXbklBRzliX2lRYUpBT3d4VDZ4WUhhdXFnR3R6N2hWOGltUFJjZ3pVWnNtck90SHdHdWhxNkVvZFotUWlvRGs5Ul9sdFF5OHlmYjZoOHFpVFUyN3NpekdDZWFVQU9XeVlBbjY5S1VGR0FtS3dQZ0ZlbS1qeXpwSjJMa0xLRDhmbFI?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "Stock Titan"
         },
@@ -372,22 +376,22 @@
           "source": "Yahoo Finance UK"
         },
         {
-          "title": "CEO buys 20,800 shares and receives 255,174 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEQwT3ZOdFVmanRlbEhjV2QzMW1hMjlPTGpYbVFsMmdrXzk3eHRrQkxmLTFuM29ETkVzU2I4ODZXbklBRzliX2lRYUpBT3d4VDZ4WUhhdXFnR3R6N2hWOGltUFJjZ3pVWnNtck90SHdHdWhxNkVvZFotUWlvRGs5Ul9sdFF5OHlmYjZoOHFpVFUyN3NpekdDZWFVQU9XeVlBbjY5S1VGR0FtS3dQZ0ZlbS1qeXpwSjJMa0xLRDhmbFI?oc=5",
+          "title": "With 402,577 common shares, Retension Pharmaceuticals (RTSN) CEO also holds options priced from $1.43. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVzZ6UWFXRmVmM2dEVFNEV1BoWHZNcHB3V2M4b25LWWY5ZW1WYW5nd3ZZZmdsZXVOaFNIMWxxNjlCTW1LZjdzWExSelNTcjgxMmVzWmxRQ3p0aWo1VTFKYXB0VkY2QVlJQVJIb01LbkQtUkVIdnVvMHZIemhRQ0JFRENhUlhqd0htZDBUZlh0QUk5dXpqWDJLNlFiZmcyY2VWSnp1TFJtczFQOWtUMG5sblF5MnZKeWdMdkRyM3B1aHdGSEluT3Z5ZUNQYw?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Retension Pharmaceuticals, Inc. (RTSN) Latest Stock News & Headlines - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tSHh6NVVrOXVUcjBGX244OEc2VUkwRzN1eE5iWDB2NTRLZlFoVWplZDVJeXZxZEhpM1BwUzQyQlIxSGpvM2xEQ2JmSjdOXzV4dDlpY0RneTI?oc=5",
+          "title": "Retension Pharmaceuticals, Inc. (RTSN) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQOEo4TlNQRjB1NzVnU0g5dFg3ZWEzWkY5Q1NobF90OXBXZ0xmQkRpUzU1c3JmRnk2LUdWN0Y4cnNKSElWeVdXWE9sNmFoSUc0MFE?oc=5",
           "date": "Sat, 10 Oct 2026",
-          "source": "Yahoo! Finance Canada"
+          "source": "Yahoo Finance UK"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -415,13 +419,180 @@
       ]
     },
     {
+      "ticker": "IMSR",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 8.0,
+      "sell_score": 0.0,
+      "net_score": 8.0,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-13 CEO Irish Simon BUY $50,818",
+        "2026-10-13 CEO Irish Simon BUY $50,818",
+        "2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336",
+        "2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336"
+      ],
+      "company": {
+        "name": "Terrestrial Energy Inc. /DE/",
+        "industry": "Fabricated Plate Work (Boiler Shops)"
+      },
+      "trend": {
+        "dates": [
+          "2026-09-28",
+          "2026-09-29",
+          "2026-09-30",
+          "2026-10-01",
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15"
+        ],
+        "closes": [
+          4.12,
+          3.97,
+          3.89,
+          3.83,
+          3.78,
+          3.75,
+          3.93,
+          3.65,
+          3.4,
+          3.28,
+          2.96,
+          3.11,
+          2.94,
+          3.0712
+        ]
+      },
+      "price_now": 3.0712,
+      "price_at_signal": 3.28,
+      "pct_since_signal": -6.37,
+      "pct_14d": -25.46,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-08-11",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926094085/tmb-20260630x10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-11",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000110465926093776/tmb-20260811x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-31",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000021/tmb-20260727x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-28",
+            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000018/tmb-20260723x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-21",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2019804/000201980426000013/tmb-20260721x8k.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Irish Simon",
+          "kind": "CEO",
+          "note": "2 Form 4 filings on record since 2025; 1 buy of IMSR in this tracker's ledger"
+        },
+        {
+          "name": "BUCKMAN FREDERICK W",
+          "kind": "OTHER",
+          "note": "63 Form 4 filings on record since 2001; 1 buy of IMSR in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "A director bought 12,000 shares at $3.278 each in Terrestrial Energy (IMSR). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcmItZ2hRMnVrcDBxMUVmS3dfdDlxaTY2OVdOQzZCS0xEeEx6MlRWMkp1UEx5V0o4ZzlPTnItRU5GYy1hSk01VGhuNEZrcE84TUJEWE5QblQ5aU8yMHRBcWU4UjN2VlJBSUM5WmhrWnFSWEtxQXRVc2NvMFpURmxwMnZaRFpMRTR5bXpFRmEwcUtWUkdpUjduc3o2VW42d05jUmh2c3VmRzdpRVdaZDBTY0xsOUx6ay1rWkVv?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Terrestrial Energy CEO Simon Irish Acquires 16,900 Shares at $3.007 Each - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVppNkVRdlZnYVJybi1HQVNITlI5Q25sdV9SV25IVXJMS1JHbEZDbW1lcXNsa1RaQXJkeWVOR1lWVEN3S1ZvTDhpekRDaHJfRmdrck04d0FtbnJwOFJyRjZ3WENMOGxYRzVpM2RZSTZQVG9WWUNLbVF6cERDanlhNmhBSy05LVNJZURpem1RT2U1ZGp0REd3Q3I0enQtMmpaOTh1aXE2UjlhRVk5ZW9Cd0tPZXdrR0U?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Kalkine Media"
+        },
+        {
+          "title": "A plant could provide heat and power before its reactor is licensed, with natural gas as a bridge. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTWROOTNhNXlMQmN4SnRkdHRXa0VqWVJCNmtsYUVHZnRWd0ZyeUxGRnBwZnBlb19JdFR2bFR4b2htWmtYdENndEh1bWt1alNQdHlLQ1ZucEdvV21ueURIV0NZWHRDa25Va0gzMDZXUmZyVVRDLUFDNGRfRFk5bkd6QjJCM3pVTjFkZGJ5SFFrZVNPa3dxbTZoRm1fZWZuTFZhN1AzUmNWdXNCM21oUEptcEh0aDZzUkRZLWhr?oc=5",
+          "date": "Thu, 08 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Terrestrial Energy reports Q2 2026 net loss $9.4M, cash $283.4M and revised lifetime revenue per plant to $2.7B - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQd3NJeWFTb0daN05xN0V6bkdKQjlRd0xQWnR6SVpYdkdFZ1NVZkU3T1p2M0VpRmcxODFDT3FoMVE4SFBEbjAyOE1Mc1p4dVpPUWI3ODhqb2dkaGdGM2prcU11OEFWNEl6Zy12bzlHanUxV2d4b0djVFp3MVQ3MGdpNlA0ZW9qbnAxaExDZHZvaHBuaEVtMHlvMElQZkpLdzgzMlllWkh1SnNqSnN4SGM4QXp6NktQWlpDTjJLNG8tQ0JXMnpjZExxMWxUSzEyTkRYbG8zTzNOR0N4MF9CTnhraUNFTDNLNlZLUTBVQlFranFXbWdlV202Tkl2YmI4dw?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "The U.S. Army plans to mix natural gas and nuclear power at a Maryland base - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTldNQ0hQREdRTkwzQWhpVkN5ZDZBY3JoUWY2YnJoNGxBZGw2VjkybU5JeEllV3ZaR05faHhjek9rQXBCaTktcHF6NmdkZW9qNjZlQ0pKdXZZc1VCSjZJM21keGFfVWp3MlQ0aXpXSEpyQUZUMExBaFNiR2lxeVA3cHh2aDhKUjdsWThBak5nb1hQeUFDd0xyZEI0S2dnOGFfaDJnNFA4UDR0T1ZLUkJsald6OThoTmpNSDVJ?oc=5",
+          "date": "Mon, 21 Sep 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cTerrestrial Energy  /DE/\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Terrestrial%20Energy%20%20/DE/&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cTerrestrial Energy  /DE/\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Terrestrial%20Energy%20%20/DE/&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cFabricated Plate Work (Boiler Shops)\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Fabricated%20Plate%20Work%20%28Boiler%20Shops%29&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cFabricated Plate Work (Boiler Shops)\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Fabricated%20Plate%20Work%20%28Boiler%20Shops%29&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "ONMD",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
       "buy_score": 7.2,
-      "sell_score": 0.4,
-      "net_score": 6.8,
+      "sell_score": 0.3,
+      "net_score": 6.9,
       "distinct_buyers": 2,
       "distinct_sellers": 1,
       "evidence": [
@@ -438,7 +609,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-25",
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
@@ -451,10 +621,10 @@
           "2026-10-09",
           "2026-10-12",
           "2026-10-13",
-          "2026-10-14"
+          "2026-10-14",
+          "2026-10-15"
         ],
         "closes": [
-          6.5,
           6.33,
           5.209,
           5.785,
@@ -467,13 +637,14 @@
           4.3,
           3.93,
           4.02,
-          4.575
+          4.71,
+          4.54
         ]
       },
-      "price_now": 4.575,
+      "price_now": 4.54,
       "price_at_signal": 6.5,
-      "pct_since_signal": -29.62,
-      "pct_14d": -29.62,
+      "pct_since_signal": -30.15,
+      "pct_14d": -28.28,
       "deep": {
         "recent_filings": [
           {
@@ -528,6 +699,12 @@
       ],
       "news": [
         {
+          "title": "Enterprise value to EBITDA forward of OneMedNet Corp \u2013 NASDAQ:ONMDW - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHBFMXYyNEtWXzhJY3JIZ043SGlwTzdVMy1KYnRmN1RPYlQ0ek9Ta0lwUXpLWkZtbmZ3NGhQdWxfXzBQQmZWYzZkeC11Q01hNGhaMjhsVUV2V29JMGRKUzltaUR0eXhpSnFWN0tDRDdhSHJpUEZNdm1JNE1TTldfZVRaQkxLRGZ0YUd1Vl91em9qYkVsWmk3eG56T0IzM2otelFMbzNhVXE0bXIzekxV?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "TradingView"
+        },
+        {
           "title": "Chief medical officer buys 45,126 OneMedNet (ONMD) shares valued at $5.54 each. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUY5cHpHcG02aEYyRjg0cktqYkJ0OWdISEJsV2VKZFZoLVpYclJYR3lwQ2F6eG8xS0hyTXNGUGFadHdIcjBMcGFnLWYzVC1oZmRrWXhUWWNtYzFZQjZuaFdxRlJVZXR6TVNPdDhZNmVBN3kzREcycDdJRFJqMVl3RmxldVlpOFdnbmFJcWdLenRZM2pGSEhTbEZ0N2cyYzNab2pCQ0RNZWJCanozNEJz?oc=5",
           "date": "Wed, 14 Oct 2026",
@@ -538,12 +715,6 @@
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUG5zYW5CeGFPaFIyWlM2WEtJSVMyVWtsaFRHVTZINGZHVGRkY2dGN3hPaW11QUFORktaTklSUy1nZ0FlZ1U3ekJQT1Zha3Q1bnBrQVMzMy04S3NaeFJ2RTJKank4V2NaSzRJNXNJTWVKakdSYlNFbUpiZzlZckFrUkc1Um1wdUpfSnlrdjJ5eU9Cbm5kWkZWWU1HaGFtamlNNmg0RDY3SkdCcHFhQ2gxbmJB?oc=5",
           "date": "Sun, 11 Oct 2026",
           "source": "Investing.com"
-        },
-        {
-          "title": "Enterprise value to revenue forward of OneMedNet Corp \u2013 NASDAQ:ONMDW - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSk00UWROTlZEMkFJaVltdjlYNE5sWDdVWjZwQ3NPSEd0SFVDRzdFYnlvaDF0cEJ2dWdQY29STUVKUmFvTHlkMXhWcTZYTlk2a2M0WUpGVnpXTUtuUkdmcEJHa05xUmdILXdZVmZVejg5cUlCRjRxd3VNcXZmWGhZd2J0RTFhaDZtNzBLRWlQMXBWZlNmMzgzX0Q2QkNlRXJKQzdET0VOUWdkVjRKTWc?oc=5",
-          "date": "Mon, 12 Oct 2026",
-          "source": "TradingView"
         },
         {
           "title": "Tax-covering sales total 8,500 shares for OneMedNet (ONMD) CFO, who also reported stock grants. - Stock Titan",
@@ -561,7 +732,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -610,7 +781,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-25",
           "2026-09-28",
           "2026-09-29",
           "2026-09-30",
@@ -623,10 +793,10 @@
           "2026-10-09",
           "2026-10-12",
           "2026-10-13",
-          "2026-10-14"
+          "2026-10-14",
+          "2026-10-15"
         ],
         "closes": [
-          12.37,
           12.35,
           12.27,
           12.04,
@@ -639,13 +809,14 @@
           13.66,
           14.08,
           13.77,
-          13.59
+          13.56,
+          14.41
         ]
       },
-      "price_now": 13.59,
-      "price_at_signal": 15.31,
-      "pct_since_signal": -11.23,
-      "pct_14d": 9.86,
+      "price_now": 14.41,
+      "price_at_signal": 14.63,
+      "pct_since_signal": -1.5,
+      "pct_14d": 16.68,
       "deep": {
         "recent_filings": [
           {
@@ -683,16 +854,16 @@
       ],
       "news": [
         {
+          "title": "Reformation (REF) Stock Price, News & Analysis - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ObHZiR0pZMXI4LUFFZ1p1THdYMHVtNXdFMG00Q054WnRleVhfZ1YyM2daa0c4VF9oLXU4WDVSNmJXbXhwQ0diLVUwN3RITVRMZXc?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
           "title": "Reformation Inc. (NYSE:REF) Stock Has Average Target Price of $19.25 According to Brokerages - MarketBeat",
           "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVBiM2Fyamx3VWZ5ZEJrTEN3SkdhRS1YTjlOWjhTUHkxeUxuZEExMjZWeDBUakNtQmtyZWVjS3JfdXJuS1prLTRSRVNmWTd5MUVFdV9VaFVHdXNUbWljalhGSUI4Z3lhaDZiNjBuX0VqNUplYXMzNjRROEJSOEJORDhYNk1PV1VWVUNUSm5BREp0TGQ3MVBwcC0yS2xtcDN6OTl5cW9wcHE4dEpuSzVKaktOb3hSLXoxM2xjZ1VvcGlQVFlsNWpyTlVvODZCRXZVUlV6UmpCZXFLZE1NQTIxcVVMdmFDQQ?oc=5",
           "date": "Tue, 13 Oct 2026",
           "source": "MarketBeat"
-        },
-        {
-          "title": "A director bought 3,500 IPO shares at $15 each; Reformation (REF) adds the omitted purchase. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQmE0SW9aYUpkYS1TYkNqMmYtT25fdzZEQ2c0T01pOE1NUjFhTm43bUVCWHYwdFFreUd4emVpbmZJZFVaelpGMFVRTHRVdVZubHVkdmFkME92b3JXSmZrV1VmaEdBQ0F5MExIUXJWMkJOc0JGVlBlSWl3aGN6d3RwNE12a05uRUhQaTlwR3lfT2x3b3p0em8tNkVFMFVnZGNteEtOeXVSUDF4NmdxUks2QjhmZ2l6cGVvSGc?oc=5",
-          "date": "Sat, 10 Oct 2026",
-          "source": "Stock Titan"
         },
         {
           "title": "tm2513004-10_s1.htm - SEC.gov",
@@ -707,16 +878,16 @@
           "source": "TradingView"
         },
         {
-          "title": "Reformation Inc. (GU3.F) stock major holders - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9NTkhRTXJqWEVmYnpVeWFwdm9vYjFqZnBQYkxtc1dSbDQweVdJTEN5MGdPVW9hWW5KaG1Najhkb3pDWVBUVkp3cjdFREpIV2djMVd2VmhteXBfNGhLaXc?oc=5",
-          "date": "Thu, 08 Oct 2026",
-          "source": "Yahoo Finance UK"
+          "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale' - CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbHRIbGdzMjNadmFySkV2cTkwTkowU2Rjb2FQbEpCLVFUblk4NHVhd1FmY3FKZjlBNFJnM21XMkhGYmd6SUl1YWVpV3VuTFRQd3o4N1lnaHJIQVVVSjluV0g2TzhkWFBJSWV4eGRIcVQzbE9YTW1PZnB2eGfSAYIBQVVfeXFMTS04YnRnZ2JDYnl3T1pSdU1KbVRjN28xZm1sS2pDbXZtZTZmSlUzRHFiamlyRm9NaFdlX2ZZMEwyekxjWlg0aTRhYjlCU0JUMkZNc0o2WEU5d01Ob0V1blBHVzhmNjJlaE40OUFocmR5OENRS2UzaHlSSThvbG42dHZWdw?oc=5",
+          "date": "Thu, 30 Jul 2026",
+          "source": "CNBC"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Aging \u2014 latest filing 75 days ago; edge decays over weeks",
+        "label": "Aging \u2014 latest filing 76 days ago; edge decays over weeks",
         "cls": "spent"
       },
       "earnings_soon": false,
