@@ -1,9 +1,9 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "signals": [
     {
       "ticker": "DELL",
-      "call": "WATCH",
+      "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-28",
           "2026-09-29",
           "2026-09-30",
           "2026-10-01",
@@ -40,10 +39,10 @@
           "2026-10-12",
           "2026-10-13",
           "2026-10-14",
-          "2026-10-15"
+          "2026-10-15",
+          "2026-10-16"
         ],
         "closes": [
-          543.43,
           539.59,
           537.95,
           541.74,
@@ -56,13 +55,14 @@
           576.76,
           572.47,
           507.93,
-          464.01
+          473.39,
+          457.96
         ]
       },
-      "price_now": 464.01,
+      "price_now": 457.96,
       "price_at_signal": 586.06,
-      "pct_since_signal": -20.83,
-      "pct_14d": -14.61,
+      "pct_since_signal": -21.86,
+      "pct_14d": -15.13,
       "deep": {
         "recent_filings": [],
         "about": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell Inc. and EMC Corporation. Dell Technologies ranked 44th on the 2025 Fortune 500 rankings of the largest United States corporations based on its 2024 revenue; its products include personal computers, servers, monitors, comput"
@@ -96,10 +96,10 @@
       ],
       "news": [
         {
-          "title": "Why Is Dell Technologies Stock Sinking Wednesday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTXFBQ0NBS1I5NmNhWnJCYTdpeWpORGhnMXpOMW93Nm9GRTNCWV85bmVfclBRaF93NEM0bWVPYlBPVXlHcVRYZ0h4M3VlYXViSDZDWDdMX19iXzk0WnFndDBJSzU2NU9DZEgzTXk3anBPQjBjekRmNElXeW05UUptbVdUUmFxWkI0aXc2Tkt4U1J3S0RybENjbjExcTh0c1FWdjU4?oc=5",
+          "title": "Dell Stock Price Target: Will the Tech Company Recover from Today\u2019s Dip? - TipRanks",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWjNnWUhuVVFlMC1sUVdJU0RnV1JXZ2FrSUMycEMwLXZoVGVZYW92WXZPQl9yX01TMklRN3pyeFZONVBZQzVLWHZZLURpVGVrZzJXeDE3aVVnZ1BpV3lLMzFHU2ZnT1R6eXFRLUJnV0RTOV9pMDFlc3UyR2o5SVc1Tm9fU19CcDR1WEtIN0U4aFA5VVhwejh5dHJFakhMd0lq?oc=5",
           "date": "Wed, 14 Oct 2026",
-          "source": "Benzinga"
+          "source": "TipRanks"
         },
         {
           "title": "Dell stock plunges 11%, leading data center sell-off as fears mount about 'enterprise AI timing' - CNBC",
@@ -108,30 +108,28 @@
           "source": "CNBC"
         },
         {
-          "title": "Barclays Downgrades Dell Technologies Stock After Massive Rally - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTEJyTzZzX3dlX0R6WF9NOU9IRHdWRVFCbUJpTW1oMUgxbzg5bVVUcnlxbzA2NVpTY1JTTzVjYXprX0NEenNFR2Z0QjRtUDY1NW9kRVNVOUNzNURoN0trbVlvZmVSd1lyZ0J4d1M0M0l2WUVmS0c3S05KX3lrNDFrYjZhZS1yQktSeGJBLW1ZWFBCcEhmUmR6SXNoN0JVRW1nMElSUFF4OXQtY1Vj?oc=5",
+          "title": "Dell Technologies (DELL) Stock Fair Value Edges Higher As Analysts Split On AI Outlook - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ1g5Q29NR0xQLWFMbDh6eExMaWc3bVFLSWF5Mk9MRnNBWWpVTUN3X1l6cExZQXdkbHBMQVo4dmJHSmdkcVV0YUlUckFjSWxzc1FsdWttY3Y0UGVGelBkQ1k2QVBkSEhuWWp3Zi00TDRpeGVPczVNZVpTTWlmVTA1d2xUclN1cGZsaVFxTmVubXNjZlRWTWZfSEdmTXJ5M28?oc=5",
           "date": "Thu, 15 Oct 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Michael Dell Lost $16 Billion Thursday, Falling To No. 6 In Billionaire Rankings Amid Global Tech Selloff - Forbes",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMk11UGdDZ3oxOGNIc1VHSFNOZ09jSVVrRkk5VnpiU25oZVlLUEJkUjRUaXZpbHpEZ2xKbzVLV3BTbW9VMFdBaEdHRXNRek0xelktRFBiQVR4bm1xNnhpWVlUUU9KNEo4M2VhS2pGaVVuaGFXSUpjZzk3TTA2dElWajVXOWE1ZEhmcEhLR1doLU1Hd21kZFR4blg2U2VteE5qQTR3Uk5ndzRXeW9HblpqSVkyVk44Rm5YZEEyejNuYTg3dVVDWnhwWXY4SkUxb2ZyQmtYSVNjc096WEJjRURyUGJpVmFqZFRDU24wcg?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Forbes"
         },
         {
           "title": "Why Dell\u2019s stock was one of the S&P 500\u2019s biggest laggards on Wednesday - MarketWatch",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNX1lqLXpfWU1MQUk3N19POE9yZlc3Y0N2YTJKV0xhLXVlekVHdGJ3YlJsQnM1SXZQTFE1cV9SMDV1aVA0aEJSeUIxaVYxX2lsTkFWWWlQTk4tb25lUi1wQzNBY3dOcEsxMnBrTjVGOWZjU3lIdVNNaDhEY0hMU2NiUU5BTWgxYm1NMG1XelVCdzVrdi10eW91aWRCRHpDSk5MVW5mbVlNQVhLZDd5UjdCM09B?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Dell Technologies tumbles 11% on Barclays downgrade, tech slide (DELL:NYSE) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVEpWakdjdEJVVS1SR29ZenVROU8wczF4dDMtZnJISzZKcEpWXzJVSFMzRmgzZlBuZGhsWjVaVFI2ZTZGOFNaR0ZTdTd4R3JNb1BsWUIwXzhSczNCS2lxbjJWNE1Sc2xyU2dERnNfY3BpRWs5MVJ0MU02cmwtdEd4TlpkYmNuVThBYUQzMEFEYkMxaGJEN3U0eEZhRDJzRGtq?oc=5",
-          "date": "Wed, 14 Oct 2026",
-          "source": "Seeking Alpha"
         }
       ],
-      "news_flags": [
-        "analyst downgrade"
-      ],
+      "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -169,14 +167,14 @@
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-10-14 CEO Zhao Bin BUY $41,909",
+        "2026-10-14 CEO Zhao Bin BUY $41,909",
+        "2026-10-12 CEO Zhao Bin BUY $36,746",
+        "2026-10-12 CEO Zhao Bin BUY $36,746",
         "2026-10-08 CEO Zhao Bin BUY $40,439",
         "2026-10-08 CEO Zhao Bin BUY $40,439",
         "2026-10-07 CEO Zhao Bin BUY $40,623",
-        "2026-10-07 CEO Zhao Bin BUY $40,623",
-        "2026-10-06 CEO Zhao Bin BUY $40,981",
-        "2026-10-06 CEO Zhao Bin BUY $40,981",
-        "2026-10-05 CEO Zhao Bin BUY $40,563",
-        "2026-10-05 CEO Zhao Bin BUY $40,563"
+        "2026-10-07 CEO Zhao Bin BUY $40,623"
       ],
       "company": {
         "name": "Agora, Inc.",
@@ -184,7 +182,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-28",
           "2026-09-29",
           "2026-09-30",
           "2026-10-01",
@@ -197,10 +194,10 @@
           "2026-10-12",
           "2026-10-13",
           "2026-10-14",
-          "2026-10-15"
+          "2026-10-15",
+          "2026-10-16"
         ],
         "closes": [
-          4.15,
           4.15,
           4.18,
           4.14,
@@ -213,13 +210,14 @@
           4.11,
           4.42,
           4.32,
-          4.46
+          4.5,
+          4.42
         ]
       },
-      "price_now": 4.46,
+      "price_now": 4.42,
       "price_at_signal": 4.15,
-      "pct_since_signal": 7.47,
-      "pct_14d": 7.47,
+      "pct_since_signal": 6.51,
+      "pct_14d": 6.51,
       "deep": {
         "recent_filings": [],
         "about": "Agora, Inc. is a Baltimore, Maryland-based network for over thirty companies in the publishing, information services, and real estate industries. Agora was founded in 1978, in the Mount Vernon neighborhood of Baltimore, Maryland. The Agora Companies operate independently from cities around the world."
@@ -228,7 +226,7 @@
         {
           "name": "Zhao Bin",
           "kind": "CEO",
-          "note": "2 Form 4 filings on record since 2021; 16 buys of API in this tracker's ledger"
+          "note": "2 Form 4 filings on record since 2021; 18 buys of API in this tracker's ledger"
         }
       ],
       "news": [
@@ -239,9 +237,9 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Agora (API) CEO to Purchase up to $20M in Stock - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPY3VKUE56ZUE4VUpGcGI1dTZHYlNWSjZIbWtvOHlSdG1QTG5OTWxtT1NVQ0xYY3RBTWRoQ0lUdHkwZE1nelpfYXdhU2pHWmhYMzFVaEs5X0RPNno2bWdjOFdjckJTYmVWdk9QcVExdTh0NmlOb2hOalZDSVF6WkhoMmlHRzV3dFo0eWpUUV96b1BjSlF5bHc?oc=5",
-          "date": "Sat, 06 Jun 2026",
+          "title": "Agora, Inc. Reports Second Quarter 2026 Financial Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUVDVEw3NlV4ZGJSMFZ1dXFXS2NSWlVJVkZIdndLYTdEbVd3SENLTUQyQWRKQk5CXy1iMzZNdHh5ZWdDUXdpUTZ2SnJldU1xZXNNUkZCdWtyMmhueEUzVV9GLVBNYmJXUzJyVVN5WlVnZXpfX0pjWHMxdWlvS05kUDQyU21NZVdzTG9WWGJWSTZaaHhXTGluTkpaUGw?oc=5",
+          "date": "Thu, 13 Aug 2026",
           "source": "Yahoo Finance"
         },
         {
@@ -266,8 +264,8 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 7 days ago",
-        "cls": "mid"
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
@@ -294,13 +292,287 @@
       ]
     },
     {
+      "ticker": "BPRE",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 15.0,
+      "sell_score": 0.0,
+      "net_score": 15.0,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317",
+        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317",
+        "2026-10-14 DIRECTOR KAMFAR RAMIN BUY $1,991,763",
+        "2026-10-14 DIRECTOR KAMFAR RAMIN BUY $1,991,763",
+        "2026-10-13 DIRECTOR KAMFAR RAMIN BUY $1,425,954",
+        "2026-10-13 DIRECTOR KAMFAR RAMIN BUY $1,425,954",
+        "2026-10-12 DIRECTOR KAMFAR RAMIN BUY $2,060,258",
+        "2026-10-12 DIRECTOR KAMFAR RAMIN BUY $2,060,258"
+      ],
+      "company": {
+        "name": "Bluerock Private Real Estate Fund",
+        "industry": ""
+      },
+      "trend": {
+        "dates": [
+          "2026-09-29",
+          "2026-09-30",
+          "2026-10-01",
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16"
+        ],
+        "closes": [
+          12.5,
+          12.54,
+          12.62,
+          12.69,
+          12.73,
+          13.09,
+          12.8,
+          13.01,
+          13.08,
+          12.97,
+          12.78,
+          12.55,
+          12.49,
+          12.3729
+        ]
+      },
+      "price_now": 12.3729,
+      "price_at_signal": 12.97,
+      "pct_since_signal": -4.6,
+      "pct_14d": -1.02,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-08-07",
+            "summary": "Company shareholder vote results.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426013771/fp0100351-1_8kixbrl.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-02",
+            "summary": "Company entered a material agreement; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426011663/fp0099747-1_8kixbrl.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Ruddy Jordan B.",
+          "kind": "PRESIDENT",
+          "note": "50 Form 4 filings on record since 2013; 3 buys of BPRE in this tracker's ledger"
+        },
+        {
+          "name": "KAMFAR RAMIN",
+          "kind": "DIRECTOR",
+          "note": "107 Form 4 filings on record since 2000; 19 buys of BPRE in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "A 120-share buy leaves Bluerock Private Real Estate Fund (BPRE) director holding 42,395 shares directly. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRHhpV3Y2SHl1M2dDc3NQYnJoaTdhWGdoYnNFMUhyOWswRW90S2ZLeVduR29JdEl1c1QzU0xoQTFVTE9PUC1Bd0JEdlpyRXM2cEljLTRRU0dPeGI5QlZvMWstQmgzU1VGcVNUOFcwS1kzQ25RcFJPa3kzcU1DbEt0dE94blFyaGxQS19lczAyY2M3cUtQR3ZKVmRPMmdmaHdYLXgtU3BTLXU2T2xXYVdvUlM2WWNET0h5REdfTWE3clIxLWFTSlE?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Insiders Finally Buy Into The Bluerock Private Real Estate Fund - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXNRWndFN2N3d190eHZTZUN2YjZmeUJMTzBNQ1BoQ3lURHVkbnFYdkRfWmlaSHZBeEpjQlV0eEhZY3pwRWhRTFhLQUZRMFU5clBraXNoSnNTRTVFSFVHYUQ4RDNQRVpoaVlfeHd2UnV3U2VBaEU4VENxdUVkLWt1Yk14Y0pLRHVNa3ZPYzFnTUlmZFRhNEdqcFlFQQ?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Jordan B. Ruddy Acquires 3,520 Shares of Bluerock Private Real Estate Fund at $12.59 Each - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNnc4bEdvX09HRUtWdjBiR2lzX2xMLW53czE5ejBDaVhEZ3BFeUR6ZWYyVC1KQ3E3TlJBUWNIcU9XQ01YaElfSnkzVW5TMDctR0xYTHpCdTltd3FoZTFqMjJDSHFpNUI4UzA1OGJfV1Raa2VUX3ZXZWRTUzh5WG9laTM5OUJQRmliWVhEdjNXZjEtWk5STzg2WXg2a09Qd2pVcW5YazVrOVd3RDBWODZnSS1zWDNxb0pqMEYxd21YVEIxSEZuNzdaaVFwQ1E?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Kalkine Media"
+        },
+        {
+          "title": "Form 4 Bluerock Private Real Estate Fund: Ryan S. MacDonald (Director) For: 13 October - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmJyZjFUQ0Fkd1RETWswR3BNOFRSSEFEX1gwem13RjUzNW5YcThjem93LVZtdU9jb2syam1WWHN2SzFPSVNxbFhLWkEwQkVpdkNXeEd2Ri1WTDV5bnd0TVlKVFA0QjBUUGxtVGJ0VXNFRFpVNDRhV0k5a0IyRi1GYjVuVWk5NVU2OGFRUGZVd254SDlhMjk0RXBXdFZCMURwX096UGRLTHM2Ny1JdGdJbzQzM1hzNEJzUGVmQ0Z1X1hVcmFVNkJWYnltakNhSFVOX24zZnByc3V3UQ?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Investing.com Nigeria"
+        },
+        {
+          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $5,477,975, According to a Recent SEC Filing - www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcUppLXFDMnZUVXItWkR5dmJlVWtXZDdfNGtVQ1BVRFI5SXVNclZBNTlDaXl6XzVlT2dKVzkwU1o0bWZVOVpfeU1DZ2M3VVh6M0hkb2VlM25lYjl2RE5xOUtMODVkcWxiOWFyNUlVWjdEYnhCT3dzNFk0c1diY0JCNHBtUmdIQ1FYRGRub25MaEFFak9wR0xSMGFFdDV4clQ0bFNTM3BsbFI1SndpbGxYLWVLWTFMVC1oTzJpQmdxeXo4YlB0RzNYX3N0NFVYLTBNV0IxTTBweE9WTW0zTzVaZ3pSbFI?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "www.marketscreener.com"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBluerock Private Real Estate Fund\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBluerock Private Real Estate Fund\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "TRXB",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 10.8,
+      "sell_score": 0.0,
+      "net_score": 10.8,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-13 10% OWNER Alexandria Venture Investments, LLC BUY $2,499,994",
+        "2026-10-13 10% OWNER Alexandria Venture Investments, LLC BUY $2,499,994",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $43,036",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $43,036",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $43,036",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $43,036",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $1,256,962",
+        "2026-10-08 10% OWNER SVLSF VI, LLC BUY $1,256,962"
+      ],
+      "company": {
+        "name": "TRex Bio, Inc.",
+        "industry": "Biological Products, (No Diagnostic Substances)"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16"
+        ],
+        "closes": [
+          14.0,
+          14.03,
+          13.6,
+          13.5,
+          14.16,
+          13.995
+        ]
+      },
+      "price_now": 13.995,
+      "price_at_signal": 14.0,
+      "pct_since_signal": -0.04,
+      "pct_14d": -0.04,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-10-13",
+            "summary": "Company amended bylaws or changed fiscal year; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2139097/000119312526420588/ck0002139097-20261013.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Alexandria Venture Investments, LLC",
+          "kind": "10% OWNER",
+          "note": "30 Form 4 filings on record since 2017; 1 buy of TRXB in this tracker's ledger"
+        },
+        {
+          "name": "SVLSF VI, LLC",
+          "kind": "10% OWNER",
+          "note": "3 Form 4 filings on record since 2017; 2 buys of TRXB in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "At TRex Bio (TRXB), preferred shares converted into 1,167,930 common shares at the IPO closing. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUZUZmdSZjZ0eW5wN1RvRXJOd2VWYkY3QkVlZEc1RDNLTDRjMXN3R1QxQ0dldFpaMk9OX3RVazd6OXp4YnlmYnpQNFJ6bjdxSUs5MkdFbkJhNnRKbVBNRTFzWU9ER0FDWEVLU2JxTVZNbmZRZmdKZEVqaXQ1aVgyRHZYVll3d19HZTZ2ZkF4SE9XLUkzQTRMRDE0NW1yblVIQk1EUzR1YzFJdDA?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Immunology startup TRex Bio sets price range for $133 million public debut - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaU0tck1LcXJvLVdIaGdROXNiM0duZU9WQzFiaktCalh2LTZ5MUVsLVNDbXpkRmgyWjZGMGZHdWd0b3FDM3VjQVN2azRFeW5LWmpGRE9WUFgyclJtT3RabURrY2RPeU11b2hJUW5jY2Qzb2d6TndYOWRURFluOEt1dUtWQ0ZZRWJHTnNDd3FjT0tqcURQWUpFRg?oc=5",
+          "date": "Mon, 05 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "TRex Bio (TRXB) Stock Price Today, Live Chart, News - TechGraph",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xck9YVlR3UmtfZVN2WTl2MDIzZEVoam9fLXMtYm50S2F0LVRWS2tjbmJMSWFxZDUyaG5MRm5pRFpvY3ZzZEc3cVpjRkc1LVF4azlyc1cxSnU?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "TechGraph"
+        },
+        {
+          "title": "Book value per share of TRex Bio, Inc. \u2013 NASDAQ:TRXB - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSENPanNHUTA3UkNhQzVGYzZIWnpCWHAtWDBJV1E3SFJaMVpwLUNLWFVOSHFjOG9UU3N3N0N0akxmSzRORkk2WllFN1JPNjZra3ZvTU5JYkVxWENYQVo3UFdmZDlSbFZfcDdBbHZlSllFdmFDOGh6YW9zYTE1clpVWkZJS19fX2JfRFhTaWx6dExQWkE4a1o2Rk9rYUdGUzRhQ3Nfbg?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Options at $1.24 and $1.28 give TRex Bio (TRXB) medical chief rights to buy shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNVMwd3ROTW9rcGMwWkpiTFpKcmp4T2tHckZ5ektTaFVrRXdLR0xNTllBSU04Y3VoTEY4ckFSMDZPYThWVVRmY1hTbm81SnZPa2stVjh5T1pxSmhhSnpJRXRaQlhYN2dsOFo2YlNZN0QwMkZVTWE4TWhranBiM2pLNGJEZW9ITXBCV0pvb2U0cVdYM2dhN0E3cWpodHpEMXN1SC1JaGlmZjFBZzQ4MmdYWkotZTBQUlZnSjJGSWFWSUxmQQ?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cTRex Bio\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=TRex%20Bio&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cTRex Bio\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=TRex%20Bio&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "RTSN",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 10.4,
+      "buy_score": 8.7,
       "sell_score": 0.0,
-      "net_score": 10.4,
+      "net_score": 8.7,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -319,20 +591,22 @@
           "2026-10-12",
           "2026-10-13",
           "2026-10-14",
-          "2026-10-15"
+          "2026-10-15",
+          "2026-10-16"
         ],
         "closes": [
           10.53,
           11.32,
           11.63,
           11.64,
-          11.95
+          12.21,
+          13.4
         ]
       },
-      "price_now": 11.95,
+      "price_now": 13.4,
       "price_at_signal": 11.63,
-      "pct_since_signal": 2.75,
-      "pct_14d": 13.49,
+      "pct_since_signal": 15.22,
+      "pct_14d": 27.26,
       "deep": {
         "recent_filings": [
           {
@@ -358,16 +632,16 @@
       ],
       "news": [
         {
-          "title": "Net income before discontinued operations of Retension Pharmaceuticals, Inc. \u2013 NASDAQ:RTSN - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUlpMnU2NEp1NGhJRDhOWV9PN2NyMl8wTDNJall2amZtNVRRRGlTOFJjd1haOUJReDc0TGNrWnJMZ0YyLUZGSTlkSVFiekdSWldpTmE2V3lwQjUyOEkxckRWRVpsc19IbDlKVmNVN2l0b1RkRm1zSDk4eGh5RGE1d2tqMFhQVzdSREdUUVYwak4zcEVpdE1lMnAzN0djcE15X1hj?oc=5",
-          "date": "Wed, 14 Oct 2026",
-          "source": "TradingView"
-        },
-        {
           "title": "CEO buys 20,800 shares and receives 255,174 stock options at Retension Pharmaceuticals (RTSN). - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONEQwT3ZOdFVmanRlbEhjV2QzMW1hMjlPTGpYbVFsMmdrXzk3eHRrQkxmLTFuM29ETkVzU2I4ODZXbklBRzliX2lRYUpBT3d4VDZ4WUhhdXFnR3R6N2hWOGltUFJjZ3pVWnNtck90SHdHdWhxNkVvZFotUWlvRGs5Ul9sdFF5OHlmYjZoOHFpVFUyN3NpekdDZWFVQU9XeVlBbjY5S1VGR0FtS3dQZ0ZlbS1qeXpwSjJMa0xLRDhmbFI?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Discontinued operations of Retension Pharmaceuticals, Inc. \u2013 NASDAQ:RTSN - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc25ybHpDMnNuMTB0WGtNUmZhU1lFcVlHbUFIZEZLRG85NnphSXM5MXhoeVhTbl9rLWV1XzVlSDM1aEpaMWQ2VU9YWW51NDliRm1OdlNrTndzSnVNYmdETEtncmU3Z3ZOcEgtZ3otcXV4X2FQWVRiSWJnOURmbXFQNXdPUnZxM1FOMjRYNnlZVzh5cF93XzFMYVhNX0hJWFVlS3c?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "TradingView"
         },
         {
           "title": "Retension Pharmaceuticals, Inc. (RTSN) stock price, news, quote and history - Yahoo Finance UK",
@@ -382,17 +656,17 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Retension Pharmaceuticals, Inc. (RTSN) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQOEo4TlNQRjB1NzVnU0g5dFg3ZWEzWkY5Q1NobF90OXBXZ0xmQkRpUzU1c3JmRnk2LUdWN0Y4cnNKSElWeVdXWE9sNmFoSUc0MFE?oc=5",
-          "date": "Sat, 10 Oct 2026",
-          "source": "Yahoo Finance UK"
+          "title": "A director buys at $12 a share and converts preferred stock at Retension Pharmaceuticals (RTSN). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0cyWHhrenN0RnkwT2FtaTgxRExHcVp2dy1LUzQ1dFh5ZmR3ZUx5RzRMLUpXek56OVNaV3NRbDJRbm85dFpLSTR0U29YM1JkQUJUejZBSUVybVF5SjFsb0JVV2dTUkhHUFpNZC1MQzBTRkVZR3RYOG5PbnRZYl9GVG9iOTdDQXBSUXJaOHlqbWVnOFdKTFpueXJnbU5NalIyenZCSm14MnhaRXkzdUxuWkR4cE9TS0lVbkFRbXdXbGU?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Edge partly spent \u2014 already +15% since disclosure",
+        "cls": "spent"
       },
       "earnings_soon": false,
       "legislation": [
@@ -423,9 +697,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 8.0,
+      "buy_score": 6.7,
       "sell_score": 0.0,
-      "net_score": 8.0,
+      "net_score": 6.7,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -440,7 +714,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-28",
           "2026-09-29",
           "2026-09-30",
           "2026-10-01",
@@ -453,10 +726,10 @@
           "2026-10-12",
           "2026-10-13",
           "2026-10-14",
-          "2026-10-15"
+          "2026-10-15",
+          "2026-10-16"
         ],
         "closes": [
-          4.12,
           3.97,
           3.89,
           3.83,
@@ -469,13 +742,14 @@
           2.96,
           3.11,
           2.94,
-          3.0712
+          3.22,
+          3.055
         ]
       },
-      "price_now": 3.0712,
+      "price_now": 3.055,
       "price_at_signal": 3.28,
-      "pct_since_signal": -6.37,
-      "pct_14d": -25.46,
+      "pct_since_signal": -6.86,
+      "pct_14d": -23.05,
       "deep": {
         "recent_filings": [
           {
@@ -558,7 +832,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -590,18 +864,16 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 7.2,
-      "sell_score": 0.3,
-      "net_score": 6.9,
+      "buy_score": 6.0,
+      "sell_score": 0.0,
+      "net_score": 6.0,
       "distinct_buyers": 2,
-      "distinct_sellers": 1,
+      "distinct_sellers": 0,
       "evidence": [
         "2026-10-09 OFFICER Yu Jeffrey BUY $249,998",
         "2026-10-09 OFFICER Yu Jeffrey BUY $249,998",
         "2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001",
-        "2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001",
-        "2026-09-22 CEO Green Aaron SELL $36,960",
-        "2026-09-22 CEO Green Aaron SELL $36,960"
+        "2026-10-07 DIRECTOR Kosasa Thomas BUY $750,001"
       ],
       "company": {
         "name": "OneMedNet Corp",
@@ -609,7 +881,6 @@
       },
       "trend": {
         "dates": [
-          "2026-09-28",
           "2026-09-29",
           "2026-09-30",
           "2026-10-01",
@@ -622,10 +893,10 @@
           "2026-10-12",
           "2026-10-13",
           "2026-10-14",
-          "2026-10-15"
+          "2026-10-15",
+          "2026-10-16"
         ],
         "closes": [
-          6.33,
           5.209,
           5.785,
           5.5,
@@ -638,13 +909,14 @@
           3.93,
           4.02,
           4.71,
-          4.54
+          4.75,
+          4.68
         ]
       },
-      "price_now": 4.54,
-      "price_at_signal": 6.5,
-      "pct_since_signal": -30.15,
-      "pct_14d": -28.28,
+      "price_now": 4.68,
+      "price_at_signal": 4.91,
+      "pct_since_signal": -4.68,
+      "pct_14d": -10.16,
       "deep": {
         "recent_filings": [
           {
@@ -690,25 +962,20 @@
           "name": "Yu Jeffrey",
           "kind": "OFFICER",
           "note": "8 Form 4 filings on record since 2025; 2 buys of ONMD in this tracker's ledger"
-        },
-        {
-          "name": "Green Aaron",
-          "kind": "CEO",
-          "note": "5 Form 4 filings on record since 2025; 1 sale of ONMD in this tracker's ledger"
         }
       ],
       "news": [
-        {
-          "title": "Enterprise value to EBITDA forward of OneMedNet Corp \u2013 NASDAQ:ONMDW - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHBFMXYyNEtWXzhJY3JIZ043SGlwTzdVMy1KYnRmN1RPYlQ0ek9Ta0lwUXpLWkZtbmZ3NGhQdWxfXzBQQmZWYzZkeC11Q01hNGhaMjhsVUV2V29JMGRKUzltaUR0eXhpSnFWN0tDRDdhSHJpUEZNdm1JNE1TTldfZVRaQkxLRGZ0YUd1Vl91em9qYkVsWmk3eG56T0IzM2otelFMbzNhVXE0bXIzekxV?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "TradingView"
-        },
         {
           "title": "Chief medical officer buys 45,126 OneMedNet (ONMD) shares valued at $5.54 each. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcUY5cHpHcG02aEYyRjg0cktqYkJ0OWdISEJsV2VKZFZoLVpYclJYR3lwQ2F6eG8xS0hyTXNGUGFadHdIcjBMcGFnLWYzVC1oZmRrWXhUWWNtYzFZQjZuaFdxRlJVZXR6TVNPdDhZNmVBN3kzREcycDdJRFJqMVl3RmxldVlpOFdnbmFJcWdLenRZM2pGSEhTbEZ0N2cyYzNab2pCQ0RNZWJCanozNEJz?oc=5",
           "date": "Wed, 14 Oct 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Enterprise value to EBITDA forward of OneMedNet Corp \u2013 NASDAQ:ONMDW - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMHBFMXYyNEtWXzhJY3JIZ043SGlwTzdVMy1KYnRmN1RPYlQ0ek9Ta0lwUXpLWkZtbmZ3NGhQdWxfXzBQQmZWYzZkeC11Q01hNGhaMjhsVUV2V29JMGRKUzltaUR0eXhpSnFWN0tDRDdhSHJpUEZNdm1JNE1TTldfZVRaQkxLRGZ0YUd1Vl91em9qYkVsWmk3eG56T0IzM2otelFMbzNhVXE0bXIzekxV?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "TradingView"
         },
         {
           "title": "Onemednet CEO Aaron Green sells $47,762 in shares - Investing.com",
@@ -732,7 +999,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -756,161 +1023,6 @@
           "label": "Hearings mentioning \u201cServices-Commercial Physical & Biological Research\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Services-Commercial%20Physical%20%26%20Biological%20Research&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "REF",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 0.6,
-      "sell_score": 0.0,
-      "net_score": 0.6,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000",
-        "2026-07-31 DIRECTOR Coyle John Joseph BUY $3,000,000",
-        "2026-07-31 DIRECTOR Allen Zipporah BUY $52,500",
-        "2026-07-31 DIRECTOR Allen Zipporah BUY $52,500"
-      ],
-      "company": {
-        "name": "Reformation Inc.",
-        "industry": "Women's, Misses':  and Juniors Outerwear"
-      },
-      "trend": {
-        "dates": [
-          "2026-09-28",
-          "2026-09-29",
-          "2026-09-30",
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08",
-          "2026-10-09",
-          "2026-10-12",
-          "2026-10-13",
-          "2026-10-14",
-          "2026-10-15"
-        ],
-        "closes": [
-          12.35,
-          12.27,
-          12.04,
-          12.7,
-          12.85,
-          13.02,
-          13.19,
-          13.08,
-          13.4,
-          13.66,
-          14.08,
-          13.77,
-          13.56,
-          14.41
-        ]
-      },
-      "price_now": 14.41,
-      "price_at_signal": 14.63,
-      "pct_since_signal": -1.5,
-      "pct_14d": 16.68,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-09-11",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1787117/000162828026061594/lymi-20260627.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-10",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1787117/000162828026061327/lymi-20260910.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-03",
-            "summary": "Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1787117/000110465926089857/tm2513004d22_8k.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Allen Zipporah",
-          "kind": "DIRECTOR",
-          "note": "2 Form 4 filings on record since 2026; 1 buy of REF in this tracker's ledger"
-        },
-        {
-          "name": "Coyle John Joseph",
-          "kind": "DIRECTOR",
-          "note": "2 Form 4 filings on record since 2026; 1 buy of REF in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Reformation (REF) Stock Price, News & Analysis - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ObHZiR0pZMXI4LUFFZ1p1THdYMHVtNXdFMG00Q054WnRleVhfZ1YyM2daa0c4VF9oLXU4WDVSNmJXbXhwQ0diLVUwN3RITVRMZXc?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Reformation Inc. (NYSE:REF) Stock Has Average Target Price of $19.25 According to Brokerages - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdVBiM2Fyamx3VWZ5ZEJrTEN3SkdhRS1YTjlOWjhTUHkxeUxuZEExMjZWeDBUakNtQmtyZWVjS3JfdXJuS1prLTRSRVNmWTd5MUVFdV9VaFVHdXNUbWljalhGSUI4Z3lhaDZiNjBuX0VqNUplYXMzNjRROEJSOEJORDhYNk1PV1VWVUNUSm5BREp0TGQ3MVBwcC0yS2xtcDN6OTl5cW9wcHE4dEpuSzVKaktOb3hSLXoxM2xjZ1VvcGlQVFlsNWpyTlVvODZCRXZVUlV6UmpCZXFLZE1NQTIxcVVMdmFDQQ?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "tm2513004-10_s1.htm - SEC.gov",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWkowLV9uRXpXRFJFUVZIOWNwbmgycGNTb1lOaGtORHQ1NHdpWUpyTkF2VWlXOVBWMmJBYUgwZjJLNk9wUC1fWHk3Q1AxTkUtYnBBeXcyc3daaTNXbW1BRUt6MF9fa0lMa2FsWFZoeVFjektJRGJYRXBCeGZUN2VWdU0tVEpaN2sySElTamdpMA?oc=5",
-          "date": "Mon, 20 Jul 2026",
-          "source": "SEC.gov"
-        },
-        {
-          "title": "Reformation, Inc. Balance Sheet \u2013 HAM:GU3 - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUd0s3eGRJMThBUlpDbTNoSkVrU2o0X0hnTWxVZi1sV1Y1OHd1RWxuUGttV1NlR2wyaWY3MU83eTRCbXdWVEZiSW9uUVZfTzd2dmZGVEFmSHRlYXV2bFFPX1lwZHpPc2dlaG9JdlhvYTUwWTI4bC1JMA?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Retailer Reformation closes flat in NYSE debut as CEO says company is 'ready to scale' - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JbHRIbGdzMjNadmFySkV2cTkwTkowU2Rjb2FQbEpCLVFUblk4NHVhd1FmY3FKZjlBNFJnM21XMkhGYmd6SUl1YWVpV3VuTFRQd3o4N1lnaHJIQVVVSjluV0g2TzhkWFBJSWV4eGRIcVQzbE9YTW1PZnB2eGfSAYIBQVVfeXFMTS04YnRnZ2JDYnl3T1pSdU1KbVRjN28xZm1sS2pDbXZtZTZmSlUzRHFiamlyRm9NaFdlX2ZZMEwyekxjWlg0aTRhYjlCU0JUMkZNc0o2WEU5d01Ob0V1blBHVzhmNjJlaE40OUFocmR5OENRS2UzaHlSSThvbG42dHZWdw?oc=5",
-          "date": "Thu, 30 Jul 2026",
-          "source": "CNBC"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Aging \u2014 latest filing 76 days ago; edge decays over weeks",
-        "cls": "spent"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cReformation\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Reformation&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cReformation\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Reformation&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cWomen's, Misses':  and Juniors Outerwear\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Women%27s%2C%20Misses%27%3A%20%20and%20Juniors%20Outerwear&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cWomen's, Misses':  and Juniors Outerwear\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Women%27s%2C%20Misses%27%3A%20%20and%20Juniors%20Outerwear&source=committeemeetings"
         }
       ]
     }
