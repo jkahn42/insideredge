@@ -1,4 +1,4 @@
-# InsiderEdge Daily Report — 2026-10-16
+# InsiderEdge Daily Report — 2026-10-19
 
 Signals: **0 BUY** / **1 SELL** / **6 WATCH**
 
@@ -27,6 +27,16 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-07 CEO Zhao Bin BUY $40,623
 - 2026-10-07 CEO Zhao Bin BUY $40,623
 
+### BORR  (net +19.2 | buy 19.8 / sell 0.6 | 2 buyers, 1 sellers)
+- 2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150
+- 2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150
+- 2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550
+- 2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550
+- 2026-10-14 COO Snowling Harvey Edward SELL $1,473,000
+- 2026-10-14 COO Snowling Harvey Edward SELL $1,473,000
+- 2026-10-14 COO Snowling Harvey Edward BUY $1,473,000
+- 2026-10-14 COO Snowling Harvey Edward BUY $1,473,000
+
 ### BPRE  (net +15.0 | buy 15.0 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317
 - 2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317
@@ -52,12 +62,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-13 DIRECTOR BERGER FRANKLIN M BUY $120,000
 - 2026-10-13 CEO Keller Eric L. BUY $249,600
 - 2026-10-13 CEO Keller Eric L. BUY $249,600
-
-### IMSR  (net +6.7 | buy 6.7 / sell 0.0 | 2 buyers, 0 sellers)
-- 2026-10-13 CEO Irish Simon BUY $50,818
-- 2026-10-13 CEO Irish Simon BUY $50,818
-- 2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336
-- 2026-10-09 OTHER BUCKMAN FREDERICK W BUY $39,336
 
 ### ONMD  (net +6.0 | buy 6.0 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-10-09 OFFICER Yu Jeffrey BUY $249,998
