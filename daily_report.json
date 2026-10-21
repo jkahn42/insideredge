@@ -1,199 +1,32 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "signals": [
     {
-      "ticker": "INBX",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 60.0,
-      "sell_score": 0.0,
-      "net_score": 60.0,
-      "distinct_buyers": 1,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-10-14 CEO Lappe Mark BUY $209,948",
-        "2026-10-14 CEO Lappe Mark BUY $209,948",
-        "2026-10-14 CEO Lappe Mark BUY $208,333",
-        "2026-10-14 CEO Lappe Mark BUY $208,333",
-        "2026-10-14 CEO Lappe Mark BUY $207,655",
-        "2026-10-14 CEO Lappe Mark BUY $207,655",
-        "2026-10-14 CEO Lappe Mark BUY $205,889",
-        "2026-10-14 CEO Lappe Mark BUY $205,889"
-      ],
-      "company": {
-        "name": "Inhibrx Biosciences, Inc.",
-        "industry": "Biological Products, (No Diagnostic Substances)"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08",
-          "2026-10-09",
-          "2026-10-12",
-          "2026-10-13",
-          "2026-10-14",
-          "2026-10-15",
-          "2026-10-16",
-          "2026-10-19",
-          "2026-10-20"
-        ],
-        "closes": [
-          97.93,
-          96.99,
-          94.56,
-          93.41,
-          93.36,
-          92.76,
-          95.01,
-          90.53,
-          87.08,
-          85.26,
-          90.5,
-          89.83,
-          89.79,
-          94.895
-        ]
-      },
-      "price_now": 94.895,
-      "price_at_signal": 85.26,
-      "pct_since_signal": 11.3,
-      "pct_14d": -3.1,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-09-28",
-            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000050/inhibrx-20260928.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-08",
-            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000047/inhibrx-20260908.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-13",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000044/inhibrx-20260813.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-13",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000042/inhibrx-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-07-16",
-            "summary": "Company entered a material agreement; took on new debt or obligations; unregistered share sale.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2007919/000200791926000037/inhibrx-20260715.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Lappe Mark",
-          "kind": "CEO",
-          "note": "50 Form 4 filings on record since 2006; 14 buys of INBX in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Two CEO-linked trusts buy 10,040 Inhibrx Biosciences (INBX) shares; no trading plan is reported. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjl6aFhOZEs1Q1lhRGM5VTFwNndla2FSNGFhSktQRkdzdjVEZ1VaYUpDSFdZaTAySzVqUUNaWjRRNlViNi1MSXpaWEFSLVdTOHF4T1BNR0VuSkxfeWpMVVdXVFgwWFozRmlhVDV1MmhzV2w4Qkl1dEk3NkVkTDRCMjNVaXNkempkaDRhcGFvV2R1bDIyN0hkamNYTGxiVVdNVmVmRHlUWlBVVzBXZk5kXzNaQ3ltWDlH?oc=5",
-          "date": "Wed, 14 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Inhibrx Biosciences: The Whole Story Rides On INBRX-106 (NASDAQ:INBX) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDRIek40SHBjT3BPbkVxYkpUeHc4b25RNmNiNEh3anBwbjlyQkZWNkZzYWFLNC1qLWdKc2N0bTBHZnBJTFk1c2NrREh4ZjVVcVRnaTlLaUhqdDhMaFczUTlqdUdvdmt5eURfUlJSQjdJaFhPLWF5S3pvWE1nYmtwT09SNU5TMzVXSU5TR1VENThwVGNJTnk2c1pfclI?oc=5",
-          "date": "Sat, 25 Jul 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Inhibrx Biosciences (INBX) Announces Positive Interim Results From Phase 2 Portion of HexAgon Study - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckpRLVpHNUJfNmFBMmNCU2d3MzNna2FjU2hVRV9YenpYdzg3MU9DREpRcENaVHF5eXJGR3NPbkprMTBjektHRHlzekhRTldod0xGMlREOUJxNUdWWThkRTVRN0RLQ2NVTFo5dkMzWHMyblp5SnlpVEV6aEcwZDhtbDIzT2xoT0tZUE9PTGlZZjRBQ0hJX1NvRi1fNVlEdTVaTF9pd21JOER2cWJ4eDBqMGFB?oc=5",
-          "date": "Thu, 14 May 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Inhibrx Reports First Quarter 2026 Financial Results - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY3A0LVhXaWtvdHQ1d2g4NFlVMFRRNzlaMGhCQ2ZwZWtMMEV3MUJMR1J1SXU5aWFyS3pKZjdlNGJvN3dwTUVWOUJYRzNhVExQU2Fpd1REMUdSc0Fwb3BEenh0YXFNemdNazVwSFlxRElxSmxWRDc4MmlJcDMzcXhjLUxjM1JPSHBnaG5XbkcxQml5OGJPSjFpbUFzRFJBd2x5Y2FqbEpneU1TQVpq?oc=5",
-          "date": "Thu, 14 May 2026",
-          "source": "PR Newswire"
-        },
-        {
-          "title": "CEO Mark Lappe buys 10,040 shares in Inhibrx Biosciences stock - ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmlqTXAtU0cxeE1rVGlCZm1FY0ZGY2pxT1Vyc01veHROUklWLXpja1Q3WmxBTUJ3UHc1cThTVnhkbVBHLXFiT0dCYUwwZ0x2Y2plSEx1d3lKb09xdFQ1cHM1TUtXT2MweUY3S0l2eFItZDBkRWhzYjdCcDhQaklqbVhsbGIzeUdJR1RVS0hTRmhvTGtCcDdpRzBTdkU4Z0lhV3c5REFodDd1cjRDc0FGaWEycUM4bVFSZlRkekJ3?oc=5",
-          "date": "Fri, 16 Oct 2026",
-          "source": "ad-hoc-news.de"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Edge partly spent \u2014 already +11% since disclosure",
-        "cls": "spent"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cInhibrx Biosciences\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Inhibrx%20Biosciences&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cInhibrx Biosciences\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Inhibrx%20Biosciences&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "DELL",
-      "call": "WATCH",
+      "ticker": "UTHR",
+      "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
       "sell_score": 60.0,
       "net_score": -60.0,
       "distinct_buyers": 0,
-      "distinct_sellers": 5,
+      "distinct_sellers": 2,
       "evidence": [
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $39,298",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922",
-        "2026-10-09 OTHER Silver Lake Technology Investors V, L.P. SELL $29,922"
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $973,133 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $973,133 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $86,167 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $86,167 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $85,560 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $85,560 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $674,228 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-19 CEO ROTHBLATT MARTINE A SELL $674,228 (10b5-1 planned sale \u2014 discounted)"
       ],
       "company": {
-        "name": "Dell Technologies Inc.",
-        "industry": "Electronic Computers"
+        "name": "UNITED THERAPEUTICS Corp",
+        "industry": "Pharmaceutical Preparations"
       },
       "trend": {
         "dates": [
-          "2026-10-01",
           "2026-10-02",
           "2026-10-05",
           "2026-10-06",
@@ -206,119 +39,112 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
-          541.74,
-          562.52,
-          552.29,
-          574.0,
-          578.96,
-          574.55,
-          586.06,
-          576.76,
-          572.47,
-          507.93,
-          473.39,
-          451.71,
-          455.44,
-          464.475
+          541.7,
+          536.4,
+          541.62,
+          545.0,
+          532.78,
+          549.16,
+          550.1,
+          543.4,
+          540.03,
+          541.51,
+          533.12,
+          543.15,
+          553.88,
+          562.1
         ]
       },
-      "price_now": 464.475,
-      "price_at_signal": 586.06,
-      "pct_since_signal": -20.75,
-      "pct_14d": -14.26,
+      "price_now": 562.1,
+      "price_at_signal": 543.15,
+      "pct_since_signal": 3.49,
+      "pct_14d": 3.77,
       "deep": {
-        "recent_filings": [],
-        "about": "Dell Technologies Inc. is an American multinational technology company that has been headquartered in Round Rock, Texas, since 1994. It was formed as a result of the September 2016 merger of Dell Inc. and EMC Corporation. Dell Technologies ranked 44th on the 2025 Fortune 500 rankings of the largest United States corporations based on its 2024 revenue; its products include personal computers, servers, monitors, comput"
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-10-14",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926115723/tm2627546d1_8k.htm"
+          }
+        ],
+        "about": "United Therapeutics Corporation is an American biotechnology company that develops pharmaceuticals and technologies related to organ transplantation, including xenotransplantation. Many of the company's products are focused towards lung disease and organ manufacturing. United Therapeutics is co-headquartered in Silver Spring, Maryland and Research Triangle Park, North Carolina, with additional facilities in Magog and"
       },
       "actors": [
         {
-          "name": "Silver Lake Technology Investors IV, L.P.",
-          "kind": "OTHER",
-          "note": "122 Form 4 filings on record since 2016; 113 sales of DELL in this tracker's ledger"
+          "name": "ROTHBLATT MARTINE A",
+          "kind": "CEO",
+          "note": "912 Form 4 filings on record since 2008; 674 sales of UTHR in this tracker's ledger"
         },
         {
-          "name": "Silver Lake Partners IV, L.P.",
-          "kind": "OTHER",
-          "note": "157 Form 4 filings on record since 2012; 228 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "SL SPV-2, L.P.",
-          "kind": "OTHER",
-          "note": "104 Form 4 filings on record since 2019; 195 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "Silver Lake Partners V DE (AIV), L.P.",
-          "kind": "OTHER",
-          "note": "104 Form 4 filings on record since 2018; 195 sales of DELL in this tracker's ledger"
-        },
-        {
-          "name": "Silver Lake Technology Investors V, L.P.",
-          "kind": "OTHER",
-          "note": "98 Form 4 filings on record since 2018; 50 sales of DELL in this tracker's ledger"
+          "name": "MAHON PAUL A",
+          "kind": "OFFICER",
+          "note": "483 Form 4 filings on record since 2004; 50 sales of UTHR in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Michael Dell Passes Mark Zuckerberg As Fifth Richest Person In The World As Tech Stocks Rally - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakRqODVLbUpEWHJHQ3ZGYnJPTnozQ05IcGRpT0VQb3I3VklhUnY5b2VUVjE1c25UMHczUUdzclpGRlI1Q2ZVekh6Y2dxTmU4eUd0LUljM1FVUUhPdUVUSnFUSVpyWFhockJEZmpacVZKb21faHUwVXpnZHZJcmk5RkpTWHRSWEJhak02dGVEWlRSR2lMcDhnNW55RGFfaU1NVW4wVUc0MTQ2WjdoOWNNeXR3Q3BxVW02NlpwaTZtYWdkMzVJT3Rjal9zZlFWcXRMTHVLMTF1SFpGZUwzbDVJ?oc=5",
+          "title": "UTHR Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZN2RaS0ZfUEZXUzdHZU5xb3RJLVY4Z3EzMEdBNEZiSWdXR01qYlNYT3ZfMFI0LWRmUHNpZm8zbjJ4VU0xbldjcGlRVjFhUERT?oc=5",
           "date": "Mon, 19 Oct 2026",
-          "source": "Forbes"
+          "source": "CNN"
         },
         {
-          "title": "Why 1 Analyst Is Cooling Their Stance on Red-Hot DELL Stock - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZTQ1dFhCMUNRbkxNU3ZGakl6MlpmUDd4TzlEa3VMRTBVMXhTaFBoWi03TUdnMDBSSVZsdGxtM29TRW4zMU0xTU5ERlBfWUgzUktEZ1hmcDBwREd2NXpYSDBoWlpLY1Z3QmNxcE1hRUQwMm9EMVZoTUZNVDhBbDdYUVNHZ2FuYnFaQXhLMzVlelBDMTdiZWhoSA?oc=5",
-          "date": "Sun, 18 Oct 2026",
-          "source": "Yahoo Finance"
+          "title": "After exercising 9,500 options, CEO trust sells 9,500 United Therapeutics (UTHR) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXdUQjN1eDhBQk5nYjgxOGV6RUhwMmtkNXVjYlBDUXZOaEducDZ6dm9kREhZb2I5elRfTHdJR293V18xWmxmWnNrUUhmMmN5eUFPRnBwVWUwX09ZQ1E2cWZnajZtSW5qWld1RGQyakFhMlh5dk1Eb2pxX0xjRUl0YWlzcHFxTlR2emJjZFpMVm1vanFHOUFoTXNOdWltN3k0cHZTU2tlSWVRYmpBb2NoUlFsbHA1UkxFU3c?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Stock Titan"
         },
         {
-          "title": "The AI Sell-Off Continues\u2014These 3 Stocks Keep Raising Guidance Anyway - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcXJWNTlEVXRXQ3ppa2d2REkzQllGSkl4bmxwczdBUzRVZHg1WWx6STdLTU9Ydk1obDRSY0dya0EtdGtRdTJOXzdsbEZ5SWtwY2lhZ1BFSE9WUWJ6VG9abDRMUUZOcjE5YWpnNHRjSzRuRmxhNjRVeTViV1NKMDdqRjFRbXZUYklSRkphbmZsS2QyMExhV3Y4aU1BMGxwVFZueUtoYldhUmY?oc=5",
+          "title": "United Therapeutics CEO Rothblatt sells $5.16m in shares By Investing.com - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTWVXaC1UazQ1ZU1zMXpDcDJNTFk1dVFFVFkxV0ZiS0NQQ2JERzMxRW5qWmdhOWY2aWRJSXBOQlc4V1diaWRwUFJReVhWWW5IS0xrQ1MydDJpamdyRFVHZEtIU0pMUUU4bV9MR2FXTkFBSm9Xd21vUDVSVkxKbFg1X0JsSXVDX0NWQ1BKQ1RWLTEwLXBHUm04TE8ySTBUREg5Z3RVejE1eS1WMlhBeF9LcUVBcmYwZw?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Investing.com Nigeria"
+        },
+        {
+          "title": "United Therapeutics (NASDAQ:UTHR): A GARP Case Built on Durable Growth at a Reasonable Price - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOFdNQ2UxV1YyTDFYdzVfbTFyMlJ5T2doVmduYTFWaHJ3SEJyeG94RjVhQ25KNm1OTUtjYzdBWlRoNjR1a3dhSENpdWhXNUViVktIN2praXBGd2tiZzhMS2Nyd0xoZFBxdXFzT2dtUkxoei1HNTg5U2NaODY3cVUxeFBMV3o2bmx2dW5qazlmczdrNGR6N3RhZURnM1RzU0piaE55cnZXd2kxZWg4ZDMtQWQ5TzY5aVQwa3gyOVJCUzd2WGphWXNMMUJUUFRIZ3RFTmpCZWlmSQ?oc=5",
           "date": "Mon, 19 Oct 2026",
-          "source": "MarketBeat"
+          "source": "ChartMill"
         },
         {
-          "title": "Dell Stock Is Trending Today: What's Going On? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMEwyMTZmc1lUMWlmdTdLTDRpZDhReHEyd1Azajc2MDhLeEVUTDdIZVl6MVBzckc3dE1qWjl0aFYwS3Y1N2lWNm82dDNvbS1DSjdxOUk1OGN5ZzJaMFB0Nkx3blVodHBvcWYzNVYyLTZ2Wi1lRmpPU1Bjc2Q4NUNQZmZvUkg4WHBUVUJtZUpkZUJhTEQtY2dBbzFLVnNzV2ktMkZtSGZjdw?oc=5",
+          "title": "Here\u2019s How Much You Would Have Made Owning United Therapeutics Stock In The Last 5 Years - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQY2ZNVTZoTDNENjRPSDNsYTFvUGJMTWFPb283U0JfcE9oX2g5QTJSMFA4MW56RU9PZzc4RTV0RUFfVV8tSHBXZWN5OVZXTlFqQURkYXNoQk1zSkJ0Mzk5WEtmbFZTQmM5Q3ZpSDhPUm1LcGdxbWcxUm9sQ2hxazBzSDRjajNreFYtcVVwV19tT05acVhqWjFtd3NJb09XMUU1ZEhXLXNGU2IzZW5nbmF1V1BnT2FYSnlOeFdQc3dlZERyRVhlOEdFYTU1ZUpWUXQ5blpUY0RseExxcGNHa3E3TWxKVkJtdw?oc=5",
           "date": "Mon, 19 Oct 2026",
           "source": "Benzinga"
-        },
-        {
-          "title": "Why Dell Technologies Stock Took a Dive Last Week - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEkwaFVZT1lONkQ3V1JEYTNoLVNpcV9FcXFIaXVmY1llY0h1YWF0UV9KWUxFQWd6ZWFCVmZndkIxNzd6Y1BRanY4akw5MW5lQUpudTVaN19acFNHVXM0aWh6Um1QbVFZaEZPT1RRN0hZR09QVFIyY3dKOHlpTGhBV1h6NHllNGVQQTVSbDR4bzdsS1NYbllVZ05tdEc4dTVhcWYtT1JCdE8?oc=5",
-          "date": "Sun, 18 Oct 2026",
-          "source": "The Motley Fool"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Aging \u2014 latest filing 11 days ago; edge decays over weeks",
-        "cls": "spent"
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cDell Technologies\u201d",
+          "label": "Bills mentioning \u201cUNITED THERAPEUTICS\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Dell%20Technologies&source=legislation"
+          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cDell Technologies\u201d",
+          "label": "Hearings mentioning \u201cUNITED THERAPEUTICS\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Dell%20Technologies&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cElectronic Computers\u201d",
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Electronic%20Computers&source=legislation"
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cElectronic Computers\u201d",
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Electronic%20Computers&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
         }
       ]
     },
@@ -327,9 +153,9 @@
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 56.6,
+      "buy_score": 60.0,
       "sell_score": 0.0,
-      "net_score": 56.6,
+      "net_score": 60.0,
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
@@ -350,20 +176,22 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
           10.29,
           10.49,
           10.35,
           10.29,
-          10.28
+          10.28,
+          10.29
         ]
       },
-      "price_now": 10.28,
+      "price_now": 10.29,
       "price_at_signal": 10.49,
-      "pct_since_signal": -2.0,
-      "pct_14d": -0.1,
+      "pct_since_signal": -1.91,
+      "pct_14d": 0.0,
       "deep": {
         "recent_filings": [
           {
@@ -384,34 +212,34 @@
       ],
       "news": [
         {
+          "title": "Frazier Life Sciences Acquisition Corp. II (FLSC) Stock Chart and Price History 2026 $FLSC - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TeUpQcHVrWG9vRG94RVZxMzJvY2dRRFVJcjB1b1Q2aWREckktSU5PQ0FNY2tjUDI1U29Xb05NQ1hNRWVnVkRfU0ptOTVkYzM2V3NfNjhlNUhqSWw5NGQ0OTZn?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Frazier Life Sciences Acquisition Corp II (FLSC) Company Information - Simply Wall Street",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYlQzcU53OFk0TDN1STI1QjBqZjBpV2pyV0NpTXhWNUxDYzhBZXRfeGxqSDJYV0Y4VjdWcjRoXzdtbkNuQmp0Qm0ySWpuOG5Hcm96eTh1X0tsaF95ck84bFhBNWxzTnRzYWZkcDMtMHlpTFd1VTNsYXpEOGhqMjRFX3psWTRhTXVIdGxQQ05PTDAzTy1NZnpQNnRNMDNyVjdpTDEwbzFDNVE2WDhOQTV4eEU2MzB0Z3RjZlA5aA?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Simply Wall Street"
+        },
+        {
           "title": "Frazier Life Sciences Acquisition Corp. II Announces Completion of $75,000,000 Initial Public Offering - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTWZYdnd6NUw4QVBRcGk5aE11QjcwR1A5NnJfdGdlTzhuNjlmOG9VRjdkZUgyYUxBVGZJWGplcG5vZlk1ZjRuSDZndkVTZlozU2VEMXdMUndZUzYzeUVsUlo4QTBpNDNub3lMNUJaZDUtZ1BVbmRrWTJVd1RsX3ZnOFNsUVpYSm1mbWxaWFRkakJYRzNaZGZUVEg0cUtyUG9LR01iZlpR?oc=5",
           "date": "Thu, 15 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Frazier Life Sciences Acquisition Corp. II (FLSC) Stock Chart and Price History 2026 $FLSC - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TeUpQcHVrWG9vRG94RVZxMzJvY2dRRFVJcjB1b1Q2aWREckktSU5PQ0FNY2tjUDI1U29Xb05NQ1hNRWVnVkRfU0ptOTVkYzM2V3NfNjhlNUhqSWw5NGQ0OTZn?oc=5",
-          "date": "Sat, 17 Oct 2026",
-          "source": "MarketBeat"
-        },
-        {
-          "title": "At $10 a share, an insider buys 300,000 shares in Frazier Life Sciences II (FLSC). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWkhGRE5qZTJjVkhkWWpMeDNIRkZqNGF0TElHdWNPVlZvOXZld3BNUDZYRGZGOTZkbjhmREM3R1QtV3plVDV6Q29wR19tZ3VPUUVlcDNOVUVUbm9DUXNRdHVSY3dERWE2R1BmTHc5MF9tOXBHd0F6RHF4ZEtZTGxTWmFDRDhCcGNIVXdHc193b0JqNEtZTnh2S1VUZjZsWFNESE1YWGo2dVFDM2ttTGNwQWM3MDA4bmlfc1JGMm5tWmRXekhoRkQwbWlMYw?oc=5",
-          "date": "Thu, 15 Oct 2026",
+          "title": "Frazier Life Sciences Acquisition II (FLSC) Stock Price, News & Analysis - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40YTdtMVhfRmhhRDRuVDMwR2tfYk15blRZeENHNmdWVTNOMTJKc2x0RlRZNHFFWmVWbjVpaF9fOU9CbXBfOENfbUFfUVRFVEw2Zmww?oc=5",
+          "date": "Fri, 16 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Frazier Life Sciences Acquisition Corp. II Income Statement \u2013 NASDAQ:FLSC - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVC15TzdmUFBiTkZoSU5GVTUwZzI1NHZSdF9tZEV2UUNSSVdTTnhiTjJFQlYxLTJacTZmZnd4ejZ6WWJqQTRCVV8xNW1FMkxaLWd1Vjk2SXkyUk80RU1sVERYVlVWV3U5WDROdEtEZHRaQ3FBUDY0dHlEblVsZkY1YXd3?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Form 4 Frazier Life Sciences Acquisition Corp. II: Albert Cha (Director, 10% Owner, CEO) For: 15 October - Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT1NpeDA4MExtekRlYnpXUUtvQS1pUDBJbjFmamRTenBaVmx3WkUxaG1OOVE5MzJGYWNieVdQWVlyNEpsa3JxSUQxakQwR2JqbVlPem1tcFk4QTJUcVJaOE53bG5JLWhNOUNWTlFKdjRYaWlqUHV5cjJEbE0tYVFFN2d2eU83b2NjZXdQS0dvVEVJMG9yeWpESGc5YktxN3JGWm1USFlxV2pxRGNrWlA0dGh6UDZ1d1E0TTZIeGxtdXNFS3BrV05HSlNLSW4yc1FLMF9icC1QWXVSbHBpVjRYZWtSc3g0bU5xcmlqVXBn?oc=5",
-          "date": "Fri, 16 Oct 2026",
-          "source": "Investing.com Nigeria"
+          "title": "What is the current Price Target and Forecast for Frazier Life Sciences Acquisition Corp. II (FLSC) - Zacks Investment Research",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40clRCNFZ5bW5IdGNYaEZWalVRYmhqajQ0bm5EOF9faFZNNkViQVdMUnRIMVZBbEI2bnZITFhTTHZuc3hzWlZIRWVRSTFFZDV2dlpsNWxDeGdHblFLUVBPZlNtQUVuTGFnLWpBdEVFRXpKR3Fy?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Zacks Investment Research"
         }
       ],
       "news_flags": [
@@ -419,7 +247,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
+        "label": "Recent \u2014 latest filing 6 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -447,150 +275,13 @@
       ]
     },
     {
-      "ticker": "BPRE",
+      "ticker": "API",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 55.4,
       "sell_score": 0.0,
       "net_score": 55.4,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-10-16 DIRECTOR KAMFAR RAMIN BUY $1,260,414",
-        "2026-10-16 DIRECTOR KAMFAR RAMIN BUY $1,260,414",
-        "2026-10-15 DIRECTOR KAMFAR RAMIN BUY $1,161,921",
-        "2026-10-15 DIRECTOR KAMFAR RAMIN BUY $1,161,921",
-        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317",
-        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317",
-        "2026-10-14 DIRECTOR KAMFAR RAMIN BUY $1,991,763",
-        "2026-10-14 DIRECTOR KAMFAR RAMIN BUY $1,991,763"
-      ],
-      "company": {
-        "name": "Bluerock Private Real Estate Fund",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08",
-          "2026-10-09",
-          "2026-10-12",
-          "2026-10-13",
-          "2026-10-14",
-          "2026-10-15",
-          "2026-10-16",
-          "2026-10-19",
-          "2026-10-20"
-        ],
-        "closes": [
-          12.62,
-          12.69,
-          12.73,
-          13.09,
-          12.8,
-          13.01,
-          13.08,
-          12.97,
-          12.78,
-          12.55,
-          12.49,
-          12.34,
-          12.25,
-          12.42
-        ]
-      },
-      "price_now": 12.42,
-      "price_at_signal": 12.55,
-      "pct_since_signal": -1.04,
-      "pct_14d": -1.58,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-08-07",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426013771/fp0100351-1_8kixbrl.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "KAMFAR RAMIN",
-          "kind": "DIRECTOR",
-          "note": "108 Form 4 filings on record since 2000; 21 buys of BPRE in this tracker's ledger"
-        },
-        {
-          "name": "Ruddy Jordan B.",
-          "kind": "PRESIDENT",
-          "note": "50 Form 4 filings on record since 2013; 3 buys of BPRE in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $5,477,975, According to a Recent SEC Filing - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0c0X29LTlpBc1E0aU9xMUtpZWNEanVlX3oybkZWaHJCWV9LOWR0ZkdqQ21vTk1JZFpkNFdab1JGSzlueFBMeG53d1lVVjJSME9qNTMxTERkbHJTOHZxSm1jaW4tRGdjcEE0bzdhU1JKVnpGVjNXdVVJNm1aMXdTOE9TcWdlT2NKLXpXdW9QXy1RT3otdUJRRm54WQ?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Insiders Finally Buy Into The Bluerock Private Real Estate Fund - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXNRWndFN2N3d190eHZTZUN2YjZmeUJMTzBNQ1BoQ3lURHVkbnFYdkRfWmlaSHZBeEpjQlV0eEhZY3pwRWhRTFhLQUZRMFU5clBraXNoSnNTRTVFSFVHYUQ4RDNQRVpoaVlfeHd2UnV3U2VBaEU4VENxdUVkLWt1Yk14Y0pLRHVNa3ZPYzFnTUlmZFRhNEdqcFlFQQ?oc=5",
-          "date": "Wed, 14 Oct 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $5,477,975, According to a Recent SEC Filing - Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRhRTdNVnN2TExGbGtPUGtQcjRJaWwwcGdDQ1JNZFBoTEJZTmlHcldHczhUa2xUNWpTM3M2c0lkSUVidnZ4MkRMa1FJa0p2TWRKc3A0dE0zVXZUZmNlR2d3eEVWakM2c1R3TWptdjc0d0x6Y2VkN1VWbU1DSnQyaFgwdURaMGwtVTRLQUpJSF9rZWJpb3lNRGxCdVRYY2s4cHg1b0VuQXdhUFY1WWxyWVJBcw?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "Moomoo"
-        },
-        {
-          "title": "Ramin Kamfar Acquires 194,228 Shares of Bluerock Private Real Estate Fund on October 15-16, 2026 - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYjYwMWZyMFE0R3EtU0RZWHgzQVJ1YXJLQjRRNkswNFFtcDVFWWdWc3RMYmVWaHFqeHhUU3RzcnNPMHNWaGE3TVBmRFk4NnBjdC01NFliczVoNVByLXREaDBELXVCQnNhQ1VXRlJvRk5OMHgxWXRxWE5LbzA2aFJPMlJSdzZYVDBScy1Ecl9kRTF3OE1US1JHVWNjRExXUVk1YW1IVTJsbWRaUkZaeG02cG1XWUdwZU9pdC04TVhlcU5VUkFUNlRSUlhReE5KdElqbUtMZVlXYVk?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "Kalkine Media"
-        },
-        {
-          "title": "Form 4 Bluerock Private Real Estate Fund: Ramin Kamfar (Director) For: 15 October - Investing.com Australia",
-          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVl2ZkZDRVMxeWhaYUhGZEE1SUdkdWtlenU1U2UzRFE2bm5BYll0RWJraHNzTFZzX3JKalhlZC1PTkxkTWdaaTZwNUlDS3hrbWMtOXY1UFRNd2FsNUxsMUg2Z2Noby01VFNKbG0ySXctNll1QkRLSGtDb1lEdWJEeUNsMUVDdGstMXJpWXFOTGp2WkFOSkM5NFNCRlViSzdiY29zMnU3WXdYMmFDTERtWTBTVXc2Q3lUakJ6NzZDcHdaSllLSWZDbTY1R3F2ejluUW5WMQ?oc=5",
-          "date": "Tue, 20 Oct 2026",
-          "source": "Investing.com Australia"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cBluerock Private Real Estate Fund\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBluerock Private Real Estate Fund\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "API",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 52.3,
-      "sell_score": 0.0,
-      "net_score": 52.3,
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
@@ -609,7 +300,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-01",
           "2026-10-02",
           "2026-10-05",
           "2026-10-06",
@@ -622,10 +312,10 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
-          4.14,
           4.08,
           4.15,
           4.12,
@@ -638,13 +328,14 @@
           4.5,
           4.35,
           4.37,
-          4.37
+          4.4,
+          4.45
         ]
       },
-      "price_now": 4.37,
+      "price_now": 4.45,
       "price_at_signal": 4.11,
-      "pct_since_signal": 6.33,
-      "pct_14d": 5.56,
+      "pct_since_signal": 8.27,
+      "pct_14d": 9.07,
       "deep": {
         "recent_filings": [],
         "about": "Agora, Inc. is a Baltimore, Maryland-based network for over thirty companies in the publishing, information services, and real estate industries. Agora was founded in 1978, in the Mount Vernon neighborhood of Baltimore, Maryland. The Agora Companies operate independently from cities around the world."
@@ -670,28 +361,28 @@
           "source": "Yahoo Finance"
         },
         {
+          "title": "Agora (API) Stock Price, News & Analysis - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRkFmQUd1T3lIV3F3WUtyc2FfQlM5MUZSREVHeFhwN0lmZl9GNUZ5dmU1NWkyMXpGNHdlZXRRTHNNaDBzYjVVRE5TYm0?oc=5",
+          "date": "Fri, 14 Aug 2026",
+          "source": "24/7 Wall St."
+        },
+        {
           "title": "Under a June 15 trading plan, Agora (API) CEO-linked YY TZ Limited buys 24,132 depositary shares. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdExoQTg1X3pQTEpZc2tUTzd0amc0U25YeTNhQW1QODdFS2VveVJ5YjlCOWZSOHgzWldpSmwxZzd1ZC1UOERXb0lvVjY3Wi1tMENRUnNuc1FkY0phNWZIUUx0U3pfOGc4amp4OHlIdEJVandJbW1kS2s1SjF0QnU2ZXVjX1FmbXhKcVBkaC03NThBaE5ucmgzNnFFRm94ZnNMVEN4Nw?oc=5",
           "date": "Thu, 15 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Agora (NasdaqGS:API) Stock Forecast & Analyst Predictions - Simply Wall Street",
-          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uRVVBYUZfbWd0ZEMteHRzU09Tb1JqNlN2eUNYbFdnQUJSQmhQVWw4WFVPTlMxM25oLVROaWQzWWlkNlFRNUtDZFZ5eEtMWnhDQ1lVa1hFQ0RKYnU4Uno5bWZsNmExWFdxSjlDWW5MbllKQQ?oc=5",
-          "date": "Fri, 14 Aug 2026",
-          "source": "Simply Wall Street"
-        },
-        {
-          "title": "Agora (API) Stock Price, News & Analysis - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mRkFmQUd1T3lIV3F3WUtyc2FfQlM5MUZSREVHeFhwN0lmZl9GNUZ5dmU1NWkyMXpGNHdlZXRRTHNNaDBzYjVVRE5TYm0?oc=5",
-          "date": "Fri, 14 Aug 2026",
-          "source": "24/7 Wall St."
+          "title": "Agora, Inc. Reports Second Quarter 2026 Financial Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeUVDVEw3NlV4ZGJSMFZ1dXFXS2NSWlVJVkZIdndLYTdEbVd3SENLTUQyQWRKQk5CXy1iMzZNdHh5ZWdDUXdpUTZ2SnJldU1xZXNNUkZCdWtyMmhueEUzVV9GLVBNYmJXUzJyVVN5WlVnZXpfX0pjWHMxdWlvS05kUDQyU21NZVdzTG9WWGJWSTZaaHhXTGluTkpaUGw?oc=5",
+          "date": "Thu, 13 Aug 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -723,20 +414,20 @@
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 46.0,
+      "buy_score": 43.8,
       "sell_score": 0.0,
-      "net_score": 46.0,
+      "net_score": 43.8,
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-10-16 OTHER NIPPON LIFE INSURANCE CO BUY $12,052,562",
+        "2026-10-16 OTHER NIPPON LIFE INSURANCE CO BUY $12,052,562",
         "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $927,675",
         "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $927,675",
         "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $4,026,974",
         "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $4,026,974",
         "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $12,121,553",
-        "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $12,121,553",
-        "2026-10-14 OTHER NIPPON LIFE INSURANCE CO BUY $20,487,096",
-        "2026-10-14 OTHER NIPPON LIFE INSURANCE CO BUY $20,487,096"
+        "2026-10-15 OTHER NIPPON LIFE INSURANCE CO BUY $12,121,553"
       ],
       "company": {
         "name": "Corebridge Financial, Inc.",
@@ -744,7 +435,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-01",
           "2026-10-02",
           "2026-10-05",
           "2026-10-06",
@@ -757,10 +447,10 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
-          33.66,
           34.03,
           34.84,
           35.17,
@@ -773,13 +463,14 @@
           34.43,
           34.43,
           34.41,
-          34.89
+          34.95,
+          35.49
         ]
       },
-      "price_now": 34.89,
-      "price_at_signal": 33.95,
-      "pct_since_signal": 2.77,
-      "pct_14d": 3.65,
+      "price_now": 35.49,
+      "price_at_signal": 34.43,
+      "pct_since_signal": 3.08,
+      "pct_14d": 4.29,
       "deep": {
         "recent_filings": [
           {
@@ -793,12 +484,6 @@
             "date": "2026-08-20",
             "summary": "Company took on new debt or obligations; other notable events; exhibits/financial statements attached.",
             "url": "https://www.sec.gov/Archives/edgar/data/1889539/000162828026058245/crbg-20260817.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-17",
-            "summary": "Company exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1889539/000162828026057231/crbg-20260817.htm"
           }
         ],
         "about": "Corebridge Financial, Inc. is an American financial services company. It provides annuities, life insurance, retirement plans, wealth management, and other financial services through its four core businesses\u2014individual retirement, life insurance, retirement services, and institutional markets."
@@ -807,7 +492,7 @@
         {
           "name": "NIPPON LIFE INSURANCE CO",
           "kind": "OTHER",
-          "note": "28 Form 4 filings on record since 1994; 31 buys of CRBG in this tracker's ledger"
+          "note": "29 Form 4 filings on record since 1994; 32 buys of CRBG in this tracker's ledger"
         }
       ],
       "news": [
@@ -818,28 +503,28 @@
           "source": "Yahoo! Finance Canada"
         },
         {
+          "title": "TD Cowen Forecasts Strong Price Appreciation for Corebridge Financial (NYSE:CRBG) Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYlpGeFVFYjl4THpSMWdKSG5JdlZiODZLcS1zdUE2c1d3bFdvc01WMXgzaWpzbWN3bEVHLWVoRXEzeDlfMWVjbGVlWWF4MllOQ0w5MlhycmxVSGV2TzFUcFlUSmZibUJHY191U0o3VFVPclNyc0tkMjhRWmhmMjVENWo0elI2NXM3OEZUZFNOUDFiYTF0V1haandFWWtTLTJuM0NvUG81dHJGVENiNHNFLUNxQk1GUkVOMjFuUjU3TnVXOWM1Rm1kZjRKRmtEb2RiZUNDRDJXUVNpZkN3NGN3cg?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Under a trading plan, Nippon Life buys 347,195 Corebridge Financial (CRBD) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUGNhc0l0VV9BdE9lcVphX0tpYTltcEJlbGhEM1djaTNxejNTcUF3ZGRyMDNybkNubGp0WXJOS1F4Vkp0SVdGVDhqMnllRk1Nb3FhMGJNdTV0QXJsZnZNMWhQcTk4UGl2Q3k0aEJiNWZ6VWtldS1UZzFXUTNZVWc0VWdvVHlDMGlYQ2llNDFsc1k3ZkQyN3dDdTlYMUtKQUtSN3BOVnBwbEp6a0JLekFjclBuazhHQk9YN0E?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Nippon Life Insurance, a 10% owner, buys $12m in Corebridge Financial - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdVRWd01iU0NHQ0NYMGJ2MXBfTFc5Q1M3NHZsalRqemkwZi1xMWlha0RwLTV3MF9yRUVFd0d0ZVFnU0pZbm93WXotMWgtUVdZN18zOTRoV1JJeGxfUmNNekstWHBKT1VSZU8zUl9wTUxOQXJ3bk91Z0dZR0lFX1MyVC1OdGJ5WDRlemJ1cl9mV2lycmNaMW00cVk5d2Qyb2xTSTc2M3lnSnFuTXZLS015LUprOXFNSGZOMXM4bUFBYmFUSkZraXZld1d3?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Investing.com"
+        },
+        {
           "title": "CRBG: Corebridge Financial Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
           "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1UWm1LeE40dUlrNTlzWndDWXF5di0wNGgydXZmd2k3WkFyY0RHZ0RISFZsdElEU2lrVHNSeFJFbnJTVWFsbUhWRUdR?oc=5",
           "date": "Sat, 17 Oct 2026",
           "source": "Stocktwits"
-        },
-        {
-          "title": "A 10% owner buys Corebridge Financial (CRBD) shares under a preset trading plan. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWm9zazFiTWJwb1ZaemJwMVh0ZXNxN1F1NzFSV2d4NUlyYTMzb2tIY2ppZ0FoSU12c2UxdEpGWnk1Z1NSejVtTmRabURSVVJPOG1ZaE1sV2VMak54NG5FenNfTDY5QXY1QVVVci1JR0pZcjl6X3NWRjFkNmlvRm5RbDRrYm85bUg1NnZJWE9DaTdRYXJZOUNhNlpzbWRROWdQU3ptdmlDLUdHNEdTMjFIRVQxZUFWTmpYbWc?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Wells Fargo raises target for Corebridge Financial stock to USD 40.00 - ad-hoc-news.de",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRTNiTmV2TS04UVUwZ0dKbTJFeGFuT2tMMlpFeGpiWnl2SVpIY1dteVZ2OHZXVEpOTVVtcVVHN2xHOTI1VGFtazRaYXIwQkh2M3ViV2xmWFBZelc3akRpbTcwQXVXSmFxSC1VTUx6RHhqOXNiRG5odW1IRVd1a25mUk1sWHhHOF9jTUpiSDgwbllWYU15YlIxR1Rmcld6N29NellDVmdaMjJpS2F5NDhNTnFNRElqVy0zOVVzY0F1Zk9XT3FVS0pn?oc=5",
-          "date": "Tue, 20 Oct 2026",
-          "source": "ad-hoc-news.de"
-        },
-        {
-          "title": "Insider Buying: Corebridge Financial (NYSE:CRBG) Major Shareholder Purchases 510,873 Shares of Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQMWF2aTdKVGd1dE1vUHYwZG50Zm5GMTZaakJXSW9pelFqWG5oV3FNbV9fcERLT2JxNVdSUEdVS1gwYkJNM3ZFSURoS3pWc0haVWc5RFNTOFowSFhCaHVWTE1kTUNGVUhWUVdEU181a1JMUkF6dVpSbjFvZXpPalF6WUQ0NEVkTlpialI4TmZ2R3NnY2p6Sk9uNU1FZzNUSFR0UGhKWF9CRUtPWHJLclJRc1VJcVpLU050RnB2THFiTlBXOUJBR2Q2MVhCZXFLWkEzVEJ4UE51NWVHQ0thUUYzQkJWWWlFREU5UlJhNVhfVQ?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
@@ -877,9 +562,9 @@
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 41.0,
+      "buy_score": 43.4,
       "sell_score": 0.0,
-      "net_score": 41.0,
+      "net_score": 43.4,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -900,18 +585,20 @@
         "dates": [
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
           22.4,
           21.46,
-          20.455
+          20.83,
+          20.6675
         ]
       },
-      "price_now": 20.455,
+      "price_now": 20.6675,
       "price_at_signal": 21.46,
-      "pct_since_signal": -4.68,
-      "pct_14d": -8.68,
+      "pct_since_signal": -3.69,
+      "pct_14d": -7.73,
       "deep": {
         "recent_filings": [
           {
@@ -943,8 +630,8 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "A company developing medicines that silence genes brought in about $230 million before costs. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazNDb3FHVHU3S2E1ZjRTM3dWSFd3NTltWTFyZzhpSDlOMVFfZm84UkdTeElkTW1PU0RXWGM5MmZ3TEdWMWJGRXZfWGpxOW9SSjNZT25jTV9xR19nY1NoRUhEN3Z5YmVpMlFkRVNMTy1OQWhUa2VHcVB0NVZpbk1raThuNkZnOVJYUzNZaTJlVjZOeHFnNnJ1OG9QenlQeWd6YjVQWWs1Zzh6Mnc1OHczMHlVV3UyNUNoWWtGS1ZjVQ?oc=5",
+          "title": "IPO closing fully vests 77,979 CEO options at City Therapeutics (CTY). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHJwa0JoSGZmZVJUSF8tLXZDS1RBWTEyNDhRQ1VndWJWYVJGTzdnOWlrYUlpekdWMWszazlZUXhVRHViUWpRaVNxQllOMmdJR3FVbEF4Mk1SbXFJYUtOLWxLN1pvQkZpaktON0hZcUlzUDlKSW9OMUNJb212aUhRZEJaYmwwYWhHeGV2d25mWXpwbUdNbDl5a1J6cU1LTVV0emU5OTNmMVltQ2lOb1BEMXM4Y3I?oc=5",
           "date": "Mon, 19 Oct 2026",
           "source": "Stock Titan"
         },
@@ -955,16 +642,16 @@
           "source": "Nasdaq"
         },
         {
-          "title": "City Therapeutics Director Ron M Philip Awarded 22,649-Share Stock Option - Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUhKY0hjVjFtakdGaDlKMVJQUUR2M0EwTEFlOUtsd2VBZnMyVXpBSVUxR1hjblRaN1J5eldxTTZkYVFwTi1BN3F0SE9JMFZqcVhsbHRDUGo1QVh4ZlpkcDRXRXpjX0FESmx2MklsdUVYWFRHU1dPZVlFOE1FbmpOVTdfMTNiMG94VXJZR3VnZWRiT0kzdzN0NkF4SEhkZXVXS3pXSTM4WXZVcnlOVmpicEVDaWthTldmMUFR?oc=5",
-          "date": "Tue, 20 Oct 2026",
-          "source": "Kalkine Media"
-        },
-        {
-          "title": "Barry E. Greene acquires an option on 22,649 City Therapeutics (CTY) shares with an $18 exercise price. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTUzbHhQTmoxM1VfOGczemtYZEYxaFNqUVdrY3B1TjdiWW9KalA4S0hKR3BSc0J2MXVmMlk0SG5CU1FSNjlsU190X0hfeU44U3JxN1JISS1ZcURmU3duNnRMNnFlUElnQldBc1VVS2l2aVB6WEVOR3BuN2VSMThCRkxhRy1SVmRJSWZhb3llTm5nak5haF9WN3VwZkd3Smp6OGludmxnYW9UVVh6NWg4c3gxclg?oc=5",
+          "title": "A company developing medicines that silence genes brought in about $230 million before costs. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazNDb3FHVHU3S2E1ZjRTM3dWSFd3NTltWTFyZzhpSDlOMVFfZm84UkdTeElkTW1PU0RXWGM5MmZ3TEdWMWJGRXZfWGpxOW9SSjNZT25jTV9xR19nY1NoRUhEN3Z5YmVpMlFkRVNMTy1OQWhUa2VHcVB0NVZpbk1raThuNkZnOVJYUzNZaTJlVjZOeHFnNnJ1OG9QenlQeWd6YjVQWWs1Zzh6Mnc1OHczMHlVV3UyNUNoWWtGS1ZjVQ?oc=5",
           "date": "Mon, 19 Oct 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "City Therapeutics surges in market debut after upsizing $200M IPO - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQXczYW1GanNLYktRdTc1bDVkcDg4aGhNdUY4a3RUemhFbmdKdUxyZWtRRDF0bVdaZkRyOFpRa0Q2cTA0dFJUdGhURDJvN1BNSnVyYnV1SEhMZHFwTVdyR3NVMjg4TDAtOHpaZlo5aEN0Y0NaY3ZXVDhub0lTbDBkRndEa2xzZ013Y2U2TUZzYnBvZVh2cV9Hc3B0TWZZTmRCa0dMZA?oc=5",
+          "date": "Fri, 16 Oct 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [
@@ -972,7 +659,7 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -1000,153 +687,13 @@
       ]
     },
     {
-      "ticker": "BORR",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 40.9,
-      "sell_score": 0.6,
-      "net_score": 40.3,
-      "distinct_buyers": 2,
-      "distinct_sellers": 1,
-      "evidence": [
-        "2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150",
-        "2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150",
-        "2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550",
-        "2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550",
-        "2026-10-14 COO Snowling Harvey Edward SELL $1,473,000",
-        "2026-10-14 COO Snowling Harvey Edward SELL $1,473,000",
-        "2026-10-14 COO Snowling Harvey Edward BUY $1,473,000",
-        "2026-10-14 COO Snowling Harvey Edward BUY $1,473,000"
-      ],
-      "company": {
-        "name": "Borr Drilling Ltd",
-        "industry": "Drilling Oil & Gas Wells"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-01",
-          "2026-10-02",
-          "2026-10-05",
-          "2026-10-06",
-          "2026-10-07",
-          "2026-10-08",
-          "2026-10-09",
-          "2026-10-12",
-          "2026-10-13",
-          "2026-10-14",
-          "2026-10-15",
-          "2026-10-16",
-          "2026-10-19",
-          "2026-10-20"
-        ],
-        "closes": [
-          4.05,
-          3.91,
-          4.15,
-          4.21,
-          4.3,
-          4.61,
-          4.78,
-          4.93,
-          4.8,
-          4.68,
-          4.55,
-          4.54,
-          4.44,
-          4.155
-        ]
-      },
-      "price_now": 4.155,
-      "price_at_signal": 4.68,
-      "pct_since_signal": -11.22,
-      "pct_14d": 2.59,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Troim Tor Olav",
-          "kind": "DIRECTOR",
-          "note": "15 Form 4 filings on record since 2017; 12 buys of BORR in this tracker's ledger"
-        },
-        {
-          "name": "Snowling Harvey Edward",
-          "kind": "COO",
-          "note": "4 Form 4 filings on record since 2026; 1 buy / 1 sale of BORR in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "After $1.66 option exercises, Borr Drilling (BORR) COO bought and sold 300,000 shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVk3RGRPSGljZThrUTh5b0lOeU9uMktjVmJ0c0VpSVlXQjFwWEs3YTl4WnJBaXo4YWF3bGpaWXVsMVBvc3JwYkhTai1tc3FPUzduSFBXZXZtSmxxSFVIZFMyTXVVM1ZsNEl3RTdSSTFTaFdwUmZ5T1JUTmN3M0EzNEZUN1VHZHFmYnFjSDg3YVZMMm1YUGtCdjdjV3kwaGVkYVBxQzhCY0RneGRWUkZwWg?oc=5",
-          "date": "Fri, 16 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Borr Drilling (BORR) Stock Sees Split Analyst Revisions As Fair Value Gets A Bump - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVjRTVmg5eERCMzcxZ3h4VUxMSVBqWHR5ZlhhdnFxVWZiS2JtVUxnU1l5SHpDa0N5bXRfWnJwdnk2T3hXUEtlMW9STzcxTHdkOXhWZXFPRWFRalN4YUhocmdoYTNTM1h1VG80ZGZ6YnVkMzRnUmd3YWhzS2ZUcmR5R2dOZll6XzRlRFJuZGtZbTRMaC00ckNSR01n?oc=5",
-          "date": "Sat, 05 Sep 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Form 4 Borr Drilling Ltd: Harvey Edward Snowling (COO) For: 14 October - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVY0S01YTlI0ZXlYb0t3OTJpMzJaRE0xNWQ5RVFZZHNKWE53S2JPeTBQOXFtMVlQV2pOaUd4bG9iUUxkUXlkZ0JySWxWaFpTVG15TV85aWhkWm5TdVRFQ2lFSFZkaU45V2JsQWhvSENfWC1kaFZSdVAtRTR3YTk5MnBUR0ZyWlVwQy1iMGhKZTRtMHZWbjBkVm4xdk9ScGU0X3MzMTE2OXFITFRjdGkyb3JfSVF3SDk3eUIyTlRhSzZ4VTNldWc?oc=5",
-          "date": "Sat, 17 Oct 2026",
-          "source": "Investing.com Canada"
-        },
-        {
-          "title": "A director reports 39.6M shares after an indirect purchase of Borr Drilling (BORR). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGxWU0hGSmJZWjVjQUFEdmpFeVlTT01hZkVnQ2dEMUpNa2c2ajZlRHRjNjh5WDNTa3FhTlVMdnFqRlRGU3laRFFSbUZBcHhSZVlsMFoyeVVkRUtZeTZQMTdYQnBNd0UzUWx4TXQxaEVaQm5jaTZCN0JQM0hoeldZZFlDaGpLT2dTaFhRb0pZNnNWRkVibkVZVS0yTnQzaFRwaW01RHRnTUZMc2oteWVCaw?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Insider Stock Purchases: October 15, 2026 - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWE9WVE1rUWRXbThqbjVNeXBIX1QtbUVmZnZiVlc1cFBJNHpKc1gwTWlxc1lQQ0p0Sk00OXZpazZHbEhQSGR2S3NqNnlsaHBBenpiOE9JdVVrNmJZSXVkcHRwUkdFYnk5NVgya1VEYjg5VTExcGtKaU5NS1hTd1JkYUpzU2Q?oc=5",
-          "date": "Thu, 15 Oct 2026",
-          "source": "Quiver Quantitative"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cBorr Drilling\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Borr%20Drilling&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBorr Drilling\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Borr%20Drilling&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cDrilling Oil & Gas Wells\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Drilling%20Oil%20%26%20Gas%20Wells&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cDrilling Oil & Gas Wells\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Drilling%20Oil%20%26%20Gas%20Wells&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "PEP",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 37.6,
+      "buy_score": 39.8,
       "sell_score": 0.0,
-      "net_score": 37.6,
+      "net_score": 39.8,
       "distinct_buyers": 1,
       "distinct_sellers": 0,
       "evidence": [
@@ -1165,7 +712,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-01",
           "2026-10-02",
           "2026-10-05",
           "2026-10-06",
@@ -1178,10 +724,10 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
-          125.6,
           125.89,
           125.65,
           125.71,
@@ -1194,13 +740,14 @@
           128.38,
           131.49,
           133.57,
-          134.5
+          134.02,
+          134.4726
         ]
       },
-      "price_now": 134.5,
+      "price_now": 134.4726,
       "price_at_signal": 129.27,
-      "pct_since_signal": 4.05,
-      "pct_14d": 7.09,
+      "pct_since_signal": 4.02,
+      "pct_14d": 6.82,
       "deep": {
         "recent_filings": [
           {
@@ -1251,22 +798,22 @@
           "source": "MarketBeat"
         },
         {
+          "title": "Zacks cuts estimate to USD 8.40 for PepsiCo stock - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkZlZnhXSENrYzN6VGpRcGdHUGpSS2FTekxDS0hpbGJpdUc4cC1EZFVWODNfQzVadG5vVS05ZFhQRXlRdFFfVHZoTWdTVnUwSG1FV2NyQmVGMkJTUGdNVmNqYW1PTm1FMUVCUFFPeUdQZzlOLV9XR28zOFVpYXlSYVRPdG1RWVRsTHFUOVFDc3hVSnVQaF9HMzVjN2F4V0NZeEFodjNJWEo2WTBtdWl5MTBR?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "AD HOC NEWS"
+        },
+        {
           "title": "PepsiCo just lost KFC to Coca-Cola. Here's how much it could sting financially. - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ3U3RHh4am9YUjZ2SDRGSjNQN2UyLVhGNDBSR2lEalJ6aV93YTFYRzhkamlhM0QzSlZJTGllTHFNQkdZTWhXYkY3UkhUWXpyWmd2bXdtdFlCTVJVdFlMcXNnS0ZNVWM2LVRzRWllcXNERllMSmxUVTM2SmJMWFRXQzZwNFVLU1NDQzVlanJZT2trXzZzSVNvWl9DbjUzNU9UV25qSEJqcGtFd05DYjR1TzEyXzMzVW1LQ3lqUVU4VHFXV1U3NnZuTW5kTEloSUloOFY3M1lIaw?oc=5",
           "date": "Fri, 16 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "PepsiCo Inc. stock outperforms competitors on strong trading day - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd2d0S0xOT1lpUDVMcFlQZUo3NndlNi1mSnJzNUhWUXBBakJKVnVfLVVORG1aYUxtVjNQNEFiNHZacU14MEZUODJrc0V4OXRUMkdMU21ZVmRsMTFXUUVvc2V5NVNEUzYzZ1ZWM0dtVE5JZFk0eGEtSVI4Rk1jWFNCQVZ4b2hVSkQtdjhHZk9na1d1cHUyZzVzWEpXRWZxck5PdlB6TEZybkhHdW5DOEpweWtZOXFkeDE2OU1uVjROTng?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "PepsiCo puts Lay's chips in grilled cheese, curry and soup. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMlNxVGRwekwzdDc4Q3BwY3pFc0JkVHFnR19NdHdiZWtFV1FpdERYWXJudXdOY0xsTG1IRUVnd1JOR2FoMTZiVFJWOHVJbWp6SlZUSnc0V3p0MlNlUlpYRzhyNjBlWlFqVEFkVE5OdTlfSGp0enRpazI4ekJ1UWZlQjUyQzY5MzE3MjZQb0hubzBXc3ZLVGYtMmIzN0M3Qy11ZjhQRzJ6OHJDRzZIODVNVkQ4eFNkeW8?oc=5",
-          "date": "Tue, 20 Oct 2026",
-          "source": "Stock Titan"
+          "title": "PepsiCo, Inc. Stock 12\u2011Month Price Target Cut to $139.47, Implies 4% Upside - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRm5XdjNrRXlVeFF0WjZlUGUwaXJyRlA2bjN3dDFTMm92MlpybmRueHNWQ2ZfeUdSVXRiLVA2bXlmb2xXNVlINHo1cF9ETV9Cbi1UMk5fZThNTjJNUFdUTElrSkdPQVF2X3NUUm5QX202Q0FoQWFGaUttWmtLQ2NHT1FXemZyM2JGZFM0NmV1Q0NrUFI3N0Y2LUxJNWIxNk81MENIQ3BpaDhobnBlMW5oYkVWeFZTektvZlpOZXVIbUZCVXh6UGlHaHBJUUk?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "TradingView"
         },
         {
           "title": "Should You Add PepsiCo Stock to Your Portfolio Ahead of Q3 Earnings? - Yahoo Finance",
@@ -1278,7 +825,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1306,13 +853,153 @@
       ]
     },
     {
+      "ticker": "CRWD",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 37.7,
+      "net_score": -37.7,
+      "distinct_buyers": 0,
+      "distinct_sellers": 2,
+      "evidence": [
+        "2026-10-16 OTHER Flower Johanna SELL $797,843 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $797,843 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $74,314 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $74,314 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $51,993 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $51,993 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $47,216 (10b5-1 planned sale \u2014 discounted)",
+        "2026-10-16 OTHER Flower Johanna SELL $47,216 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "CrowdStrike Holdings, Inc.",
+        "industry": "Services-Prepackaged Software"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21"
+        ],
+        "closes": [
+          270.04,
+          272.67,
+          278.86,
+          265.44,
+          263.01,
+          275.04,
+          263.01,
+          261.21,
+          249.29,
+          244.57,
+          227.39,
+          228.1,
+          227.37,
+          240.99
+        ]
+      },
+      "price_now": 240.99,
+      "price_at_signal": 227.39,
+      "pct_since_signal": 5.98,
+      "pct_14d": -10.76,
+      "deep": {
+        "recent_filings": [],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Kurtz George",
+          "kind": "CEO",
+          "note": "196 Form 4 filings on record since 2019; 532 sales of CRWD in this tracker's ledger"
+        },
+        {
+          "name": "Flower Johanna",
+          "kind": "OTHER",
+          "note": "107 Form 4 filings on record since 2021; 12 sales of CRWD in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "CrowdStrike Stock Climbs: What's Going On? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNXFUeGp0WTNqVlUyNE93SEs3WEp2VER5VzA2UzM4UmItdzc2V0pYSUdBWk52b2JMRTlzbXNzX0VDazJzdndjMzB1dFJZa3dwYTBGYmY5aEFZeEk2MkNNcU90SDlxNC1RVGZJTnFGbWtQSUU1TW9sNU02bW9abmUxTkI5M0RRd2FfYnpYRXZYLVR6ZHYxS3lGWHlDaTlOVGFoM1E?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Another CrowdStrike Stock Bull Signal Now Flashing - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZG9zUmRwUDV6TjRCUmdjWDl1aE9qNVJXaGpxbFBZaVNSSVR6UjZWM2p4Y1g2dll0M0RyejIxWm9Kdlc4U043VmNhSEc2SENwVk5wbG9yel9DQk1PMjl1REhjV1RxYUdIWFpwTlR1U1hCbnM1TTYzUldhY3hsWUxwR09sdHVvZXFtNmptNXdickx0Qkd2UFBfMlVIanNqeS1sY0VUSA?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "NVIDIA and CrowdStrike are adding security for AI that acts on its own; chip controls are planned. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnBJaGVrZ0dDUlEzbkZ3S3pucUtEcnNTZ0gwZUlWWHQ5VkVjb2NycW92dWVfVWVYZVR6clowc0hJdkRtTkVtVzF4ZDVvaHVIVWRwSDViQjdkSURHTWJSdFQ1WlB1MHdXWFQwUTVZNG5xS3RkdHVNU21INE1ZcU05RnhYVkZHTVllb0ZrVWF1X01TWGJIOTNMc2pFMFVBTFNyUTRjc0NUYVQ1eDZOdlAzR3lieFdoWFY3NVEyVg?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Precision Trading with Crowdstrike Holdings Inc. (CRWD) Risk Zones - Stock Traders Daily",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZXBESEV2NDlzVFJiV0dCZDhTakM0OHZJUV9wWjQwNU5QbjRjMDFwTWExQkg5ZmpzREpjTkk2SGVJT0JzaUZ1TXBzQ0RoeTN1VVZrQXAya0d2NUs2YVF5bjU4ZzAyTW5OVm9mX3JoRkhvbngwU3Y5S093X21tTkt2V1BoYWEzUE56Yk5BYlJrR3RrNmtCSkJ3SzE2MVB6VTcwYkVpR0xFYko1TXQ0ZTlNT1lYSjQ4MWd3MGt0UlZkaHBCLU52YTdIYTB5ZFlJWFY3SGtrMG11WEFOdDBz?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Stock Traders Daily"
+        },
+        {
+          "title": "CrowdStrike Holdings Inc. Cl A stock falls Thursday, underperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaHZndDNMM3cxQjZVTG0yanZPbnlZNFplWTltakw5ZFlhSmRMT3lIb043MmJ3Y2YzejllZkpDYWpIRmhZTWY4NnJGUGpxOFVqd19kNWRpWl9lb2llMDN1QnB2TFgwa2pqM1dhRzhQaHdDSmdFbk5XYm42Q1d2N3pKUV9teVZlZzNaMGdvSkpvYk1iMURKRHhWWXJteG1uSmxSYVY1b1gxejdzVHoyYWlQbTlGT0J0cnVDUkRiUEhPcnJrT3JJNVRWUzN2RQ?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "MarketWatch"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cCrowdStrike\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=CrowdStrike&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cCrowdStrike\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=CrowdStrike&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "APLD",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 36.4,
-      "sell_score": 0.4,
-      "net_score": 36.0,
+      "buy_score": 38.6,
+      "sell_score": 1.2,
+      "net_score": 37.3,
       "distinct_buyers": 2,
       "distinct_sellers": 1,
       "evidence": [
@@ -1329,7 +1016,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-01",
           "2026-10-02",
           "2026-10-05",
           "2026-10-06",
@@ -1342,10 +1028,10 @@
           "2026-10-15",
           "2026-10-16",
           "2026-10-19",
-          "2026-10-20"
+          "2026-10-20",
+          "2026-10-21"
         ],
         "closes": [
-          24.16,
           25.38,
           24.7,
           25.34,
@@ -1358,13 +1044,14 @@
           20.39,
           18.05,
           19.25,
-          19.425
+          19.33,
+          21.19
         ]
       },
-      "price_now": 19.425,
+      "price_now": 21.19,
       "price_at_signal": 22.44,
-      "pct_since_signal": -13.44,
-      "pct_14d": -19.6,
+      "pct_since_signal": -5.57,
+      "pct_14d": -16.51,
       "deep": {
         "recent_filings": [
           {
@@ -1419,40 +1106,40 @@
       ],
       "news": [
         {
-          "title": "Monday\u2019s insider activity: Big buys at Applied Digital, sells at Wayfair - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU2kxOE82OFR4V3M4c1NjYVhOclJGN3RpYkZVVUN0MjRPUWwyT3kyTlBUY2g0elI1cHNlVmhiRGlVTlpFWjYtSXBFSXFqQnoxMWowQ3NjV0xnNGkxeTdsTVoyV2t5dk1QNWFkb2VrSk5wQzRnTnA2WFhITjczZmJHaHgtNmk5U3h3T0VfYmJJWkh6WllkSVptTngyT2ZRcjE2SG8zalBmMFVycnBzcHF2cXlmbG8wUlRjSlJ4V2ZReTlDSnJMeVRBdVBjOA?oc=5",
-          "date": "Tue, 20 Oct 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Why Is Applied Digital Stock Falling Friday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWnBLbW1kWlhzQW8ycGt6c29JRkkyOFRZZm01LWV3eHZEU3BpZmE3Qk93YmkxMkdjbUFMQWk3bnQ3UFl4eXhxbEl0TENxM3Z5aXEza200MHM0UVNQVXR6VGxITW9zaWY2SVVRdExpU1BOckpYbVg5blJoRFNxUXB3Y1ZsbktrZ2lyNmZ4NWYwUXgyNkJNTnhCUGFwVm12LTlyX19SeEdxRQ?oc=5",
-          "date": "Fri, 16 Oct 2026",
+          "title": "Why Is Applied Digital Stock Surging on Wednesday? - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWV9mNlJLTTJoNzM3OTlpekExX2Y2WWNlZTU0WloyNHVRbVJCc2dqNi0zc2ozRVhfZlVPZ2IyNlhNX21weUctOG5VTmtSS3R0emw5SmVzTnVXcHBzOExOQXZvWkE4Z0VPNi1KTl9kSWFnM0RPQVJvcFNQM2hVeFMwNHVkZlNPRGIwZ3YtM1AtYXlNNTU2SzVWX3NMS05pb09SeXdKMmJMWkU5cG83azlv?oc=5",
+          "date": "Wed, 21 Oct 2026",
           "source": "Benzinga"
         },
         {
-          "title": "CEO Wes Cummins buys 55,803 Applied Digital (APLD) shares on October 16. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQckZPQmJ3QTM3SkZzVWMzNE53cGQyMFNUSXZucXZXZ2dJOU9Dd0l1alhBWUZVV2s5YUJHWWFZa05Ba21YV2c3SHBzaU03TzRjeHc2dlBjTDdlZGhTQkh2cEdlLUZORFJlMWFHYkFhakRJQTN2VGl4dmdDMGNMamJJZWk3SXcwM3BYR0gyS09YQUNIVGxQTjJ6Zk50ZDN4RDZ5TVpHOThoSy1KdHFHYWJ0VXlqaVg?oc=5",
-          "date": "Mon, 19 Oct 2026",
+          "title": "Applied Digital shares climb on Texas AI data center pact and bullish analyst call - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlhIdzRPT0pGRzFPUEhWeTdodUlUaGh4S0F4UjJPUU9ONmpHaW5NTkVIS1NBMFkxcENSNU51Q05nOEt3ZUEzUXdjOGp3eTF0WlZvbWZRNnVIWW9GMEU2MHBWRkFNcm5MYUhjYkZIX1dmWkQyYWQ5NVlsMFAtMlFCTW00TmE3dmlheXhFbVFsUW1tOURibFJOS2t2cDRhc1E?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why is Applied Digital stock rallying today? - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXpFZlYtdTVIb1lQeWhoVEktNTN4aU9YSV9QRy1sd1BrNDRBZm9kVGo5QXVmYXlvQ3otOWJ3SFpZSUx2SFkteDVxYllTaVVBcW1nazFPMGNfVjB2RWVmTXc2em1BVHVwZDUydHJxLUJuNy0xdExWY1hLNEljUjk1SHpFWVMyMGstYTBDUVZIMnFTNWdCa0RMak5BanhBdkRiNmRlTEdVY0E?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "A planned Texas AI data center is expected to draw power from wind and the grid - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTWc1VEp0MG5JZGdZemhsRzV6NHo1U1FYLWpQUmdvM1VhQnk0NGxpejdJTnN6bHMwRmlHcTdLd1VQWTRZeWZfZGxBMDVjNFowUTU0OHRzWWFnWTJxWVVRNlZua0x2eXRhSHJfZnNORGRORHJaQjI3eDFzMXIzUmdvQUgzTUJpZmR0cXNFVE9KOHZNSURuVFQyaU5RLS1wYWZOb1FOR0pzZklyYUt2X3hZWEpXTGl0UWQtdWVoZEVUMA?oc=5",
+          "date": "Wed, 21 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Is It Too Late to Buy Applied Digital Corp (APLD) After 6.7% Ral - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYUdRcjB1b1gtck9GREIyVW55WmdSUmNYR0x2cUVTV2diNWdQemFWZFdRZnVPSFVlQ2dZUjBlUmNWcUZBODl3cmVCR2pYMUxHNy1qNGRmT0staGlETEdGTjFULVlOc1JPaUJ6U3kxOGJlSk9qZVBGZFBUOVl0UFF4azNRUXJVR3gtQzBiLXJLSl9tSUsyX3pneWZmWEgzWlBsMzA3UjFRSkZLNHF2bjFrVzA0SDU2T0Jwb25qRWFCMDVUczllX1E?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "Applied Digital Led the Market on October 19, Closing Up 6.93% - 24/7 Wall St.",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVVhXOGktbzdQSEg2d3EzZjZTNVc1N0FMTy1MeGZ3bmtOeFhJWXBXVDNrMmJqaURXM0dqX0o3WkFSM1pwMWdEWVdXR09ETEZaZlU3X2FNZXBwM2ZUMXBhOUxwUzY0VkRVR3cyUzFGcTl1TkRna0JPWDV5RGZpdnVqbXl5OXBIMnN5X19HeTk3LUVZMnY5dV9IbXU2dmU5Y3IzTm53V1d3b0lxaE1mbzhZclBpUi02WTdCSmMyRjFfUTZISURsVG9sTVV1bHZVUQ?oc=5",
-          "date": "Mon, 19 Oct 2026",
-          "source": "24/7 Wall St."
+          "title": "Powering Up: Applied Digital Execs Buy $6.7M in Stock - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcURaaFRxcDhFbUNkXzl6dU1GMi1VVndEZXcxbVBsTnhCcEtBdEg3aDBpTTAyeEM2WkVkVDJhVzhpLUgtdThZb0lrak8yakktZVlnU1hGc1o1RzZhU2hqNXQ0LWd2bVlpM0RtTDc5NjhQTzVWSGp3NUNsMFVvbktXMlhkLWZ5UGc3RlM4d29BeUM2Rlhaa1dlRmZTLTg5dm5fQUNlczE3aUM2YkFERk9ISQ?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "TradingView"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1476,6 +1163,443 @@
           "label": "Hearings mentioning \u201cServices-Computer Processing & Data Preparation\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Services-Computer%20Processing%20%26%20Data%20Preparation&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "DX",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 35.4,
+      "sell_score": 0.0,
+      "net_score": 35.4,
+      "distinct_buyers": 1,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-20 CEO Popenoe Smriti Laxman BUY $50,360",
+        "2026-10-20 CEO Popenoe Smriti Laxman BUY $50,360",
+        "2026-10-20 CEO Popenoe Smriti Laxman BUY $106,200",
+        "2026-10-20 CEO Popenoe Smriti Laxman BUY $106,200"
+      ],
+      "company": {
+        "name": "DYNEX CAPITAL INC",
+        "industry": "Real Estate Investment Trusts"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21"
+        ],
+        "closes": [
+          11.02,
+          10.83,
+          10.85,
+          10.57,
+          10.7,
+          10.86,
+          10.9,
+          10.85,
+          10.84,
+          11.12,
+          10.93,
+          10.56,
+          10.96,
+          11.095
+        ]
+      },
+      "price_now": 11.095,
+      "price_at_signal": 10.96,
+      "pct_since_signal": 1.23,
+      "pct_14d": 0.68,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-10-19",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000114/dx-20261019.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-29",
+            "summary": "Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000112/dx-20260929.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-25",
+            "summary": "Company entered a material agreement; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000104/dx-20260922.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-28",
+            "summary": "Company entered a material agreement; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000085/dx-20260728.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-07-27",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000078/dx-20260630.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Popenoe Smriti Laxman",
+          "kind": "CEO",
+          "note": "53 Form 4 filings on record since 2010; 2 buys of DX in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Dynex Capital Q3 Non-GAAP Earnings Rise - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlJHeG1tb21GQkRzelNxb2lnWmYtd0l3WUttVkJ0NEJLWlhFb0xObFNQT2lXYTBtbkRqVUhzZ0piSXNkTm5tYkxTVHJQb3M2QUFMd2NwcFFRWnFLVURVMHhkTkRDSHljTVgyd3ZKNzFKNUQwSEFMQ0xsVk5YbTNlUlFLSjN2aURWMzBReXFNOHctMUVX?oc=5",
+          "date": "Mon, 19 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Insider Buying: Dynex Capital (NYSE:DX) CEO Acquires 12,000 Shares of Company Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZ19yRlBBRU5uVzZBNmowanR2UWphUnV2VURjcDZRRzEyUXJyZXJmUERwaW4xNEpqVWVjcWhxd2F0UjZsZnNjMVQzSDR0U2tGWjltOHgyTVBTU0RGX2ZlMi1IWC1CeGs5eFlKejhqTHhqUzVFcHJKdzAwM3FyV1h3cWZkMjU2UDhSVnpJYUJ2dG52UnZjZW1INXQ2dlYyMklFRjJMakQ3SDdyUG5kWWpZRl9xOXF1M1pCSC0yMlFfd0xBTUJSRUlSZ0VqamNvTUZRS3Z3ZHhSWHI?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "MarketBeat"
+        },
+        {
+          "title": "Dynex Capital, Inc. (DX) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3LXVrVmM1NnZzTlRkaFpBOTBuY3puX1pTaWczZWlqM1RTNDhZZW02dmd5VlN4X1k3d1ZtZE0xSDJDMUN2Zy1jRGNfV0djY0E?oc=5",
+          "date": "Sat, 17 Oct 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "At $10.70 a share, Dynex Capital (DX) CFO buys 1,000 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcXhWSk1RRFJGTUdJNW96c0Z6ZXpTeEU2TTBSZHBTQjYydkVvd3gwalA1a3MzcGhrQ0UzNkszTDJoZWlaZFZ0UHhQUnI3Z3F4OGxqSjBQaWdPYy1Bd2Rkck40RUE4X3ZOQ29WWERheTZhZ0xTSEtWX0ZXbi1ZbjRrTEtHUGY2ZnhzU1hlS2tjaVJvUi1SNERBS20xSVVJR3dlemZBNXhnN0cxUXVQU0E?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Dynex Capital, Inc. Announces Third Quarter 2026 Results - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa1Y3UmVzOXNESnZFQllGcC1PamlKZXdpR2FFUGVlaWNlTlNtNTl6TzZiQS1UZVoteUR0eHVUdXRLMFVETXpuclJWWUJtcmRzbEtlblVNX3Q1UmpDVmcwR0pDOGJkaVUyaWtUazRESGp1QjNZMmNfazJGc3dpeXBwZ1d5cU9aTnFQZ0FrUTR4UWUyZEVJRG1URF8ydFFUSHJsMjdzYTFodThiTENlLUNJWmxR?oc=5",
+          "date": "Mon, 19 Oct 2026",
+          "source": "Business Wire"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": true,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cDYNEX CAPITAL\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=DYNEX%20CAPITAL&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cDYNEX CAPITAL\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=DYNEX%20CAPITAL&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cReal Estate Investment Trusts\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cReal Estate Investment Trusts\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "BPRE",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 31.6,
+      "sell_score": 0.0,
+      "net_score": 31.6,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-16 DIRECTOR KAMFAR RAMIN BUY $1,260,414",
+        "2026-10-16 DIRECTOR KAMFAR RAMIN BUY $1,260,414",
+        "2026-10-15 DIRECTOR KAMFAR RAMIN BUY $1,161,921",
+        "2026-10-15 DIRECTOR KAMFAR RAMIN BUY $1,161,921",
+        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317",
+        "2026-10-14 PRESIDENT Ruddy Jordan B. BUY $44,317"
+      ],
+      "company": {
+        "name": "Bluerock Private Real Estate Fund",
+        "industry": ""
+      },
+      "trend": {
+        "dates": [
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21"
+        ],
+        "closes": [
+          12.69,
+          12.73,
+          13.09,
+          12.8,
+          13.01,
+          13.08,
+          12.97,
+          12.78,
+          12.55,
+          12.49,
+          12.34,
+          12.25,
+          12.4,
+          12.2501
+        ]
+      },
+      "price_now": 12.2501,
+      "price_at_signal": 12.55,
+      "pct_since_signal": -2.39,
+      "pct_14d": -3.47,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-08-07",
+            "summary": "Company shareholder vote results.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426013771/fp0100351-1_8kixbrl.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "KAMFAR RAMIN",
+          "kind": "DIRECTOR",
+          "note": "108 Form 4 filings on record since 2000; 21 buys of BPRE in this tracker's ledger"
+        },
+        {
+          "name": "Ruddy Jordan B.",
+          "kind": "PRESIDENT",
+          "note": "50 Form 4 filings on record since 2013; 3 buys of BPRE in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $5,477,975, According to a Recent SEC Filing - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd0c0X29LTlpBc1E0aU9xMUtpZWNEanVlX3oybkZWaHJCWV9LOWR0ZkdqQ21vTk1JZFpkNFdab1JGSzlueFBMeG53d1lVVjJSME9qNTMxTERkbHJTOHZxSm1jaW4tRGdjcEE0bzdhU1JKVnpGVjNXdVVJNm1aMXdTOE9TcWdlT2NKLXpXdW9QXy1RT3otdUJRRm54WQ?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $2,422,335, According to a Recent SEC Filing - www.marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSnkwOUlkS2lYYm1sSjRXeFdBWEktbmZkX2dLMm5ZbXg3YVRUSjUxTXd6OE9fTFo3UnZtVE9CU016LWRFSmVjd3I0dV9JTGJaN2V5ajV2QUxNTFhQMVFESWtPZ2hPWWxVQWo0X016YlBRckRQTlJUVm8xV3d0elh5OVpHMTRsLWE1NHJMODhHZ0JMNHRUTWliOXBQdlpONlRuM2RkTWxueExTR2dkWlQ0a1VkaE9PcVdFRHgxQVM0dm05NU9OV19FdFZndWxiN21FUzhlTmxFRk1VWFFpUXRKeXFWMjk?oc=5",
+          "date": "Mon, 19 Oct 2026",
+          "source": "www.marketscreener.com"
+        },
+        {
+          "title": "Form 4 Bluerock Private Real Estate Fund: Ramin Kamfar (Director) For: 15 October - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjB2d1BLYW9UWnRETzlVVFpLS3k3YUpGRkF1cjltRFFoMlNhYW9fYmQyeHpqcG5xMnViaWZlLTZPRVBiM280STlKczk4by1hUzZkZFBfZHBjTmYycmhxXzE3M2N0ckRJOFNQeWRxSVFTaHpFR0pOa3lTa0xqN29ycHc2MzNYdWR3Y2JPVW5HV2pWR3Izdk5jS1BZb0xTUFRXV2pWM0txRE5sUjhqSVdwNzFDVVZVQW5ocTYtQVItSlZuNW42Tk5wZ3JySUlUYVZzbkhCYQ?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Investing.com Nigeria"
+        },
+        {
+          "title": "Insiders Finally Buy Into The Bluerock Private Real Estate Fund - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXNRWndFN2N3d190eHZTZUN2YjZmeUJMTzBNQ1BoQ3lURHVkbnFYdkRfWmlaSHZBeEpjQlV0eEhZY3pwRWhRTFhLQUZRMFU5clBraXNoSnNTRTVFSFVHYUQ4RDNQRVpoaVlfeHd2UnV3U2VBaEU4VENxdUVkLWt1Yk14Y0pLRHVNa3ZPYzFnTUlmZFRhNEdqcFlFQQ?oc=5",
+          "date": "Wed, 14 Oct 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Bluerock Private Real Estate Fund Insider Bought Shares Worth $5,477,975, According to a Recent SEC Filing - Moomoo",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcHRhRTdNVnN2TExGbGtPUGtQcjRJaWwwcGdDQ1JNZFBoTEJZTmlHcldHczhUa2xUNWpTM3M2c0lkSUVidnZ4MkRMa1FJa0p2TWRKc3A0dE0zVXZUZmNlR2d3eEVWakM2c1R3TWptdjc0d0x6Y2VkN1VWbU1DSnQyaFgwdURaMGwtVTRLQUpJSF9rZWJpb3lNRGxCdVRYY2s4cHg1b0VuQXdhUFY1WWxyWVJBcw?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Moomoo"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBluerock Private Real Estate Fund\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBluerock Private Real Estate Fund\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "BORR",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 33.4,
+      "sell_score": 2.0,
+      "net_score": 31.4,
+      "distinct_buyers": 2,
+      "distinct_sellers": 1,
+      "evidence": [
+        "2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150",
+        "2026-10-15 DIRECTOR Troim Tor Olav BUY $2,299,150",
+        "2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550",
+        "2026-10-14 DIRECTOR Troim Tor Olav BUY $3,542,550",
+        "2026-10-14 COO Snowling Harvey Edward SELL $1,473,000",
+        "2026-10-14 COO Snowling Harvey Edward SELL $1,473,000",
+        "2026-10-14 COO Snowling Harvey Edward BUY $1,473,000",
+        "2026-10-14 COO Snowling Harvey Edward BUY $1,473,000"
+      ],
+      "company": {
+        "name": "Borr Drilling Ltd",
+        "industry": "Drilling Oil & Gas Wells"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-02",
+          "2026-10-05",
+          "2026-10-06",
+          "2026-10-07",
+          "2026-10-08",
+          "2026-10-09",
+          "2026-10-12",
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21"
+        ],
+        "closes": [
+          3.91,
+          4.15,
+          4.21,
+          4.3,
+          4.61,
+          4.78,
+          4.93,
+          4.8,
+          4.68,
+          4.55,
+          4.54,
+          4.44,
+          4.22,
+          4.215
+        ]
+      },
+      "price_now": 4.215,
+      "price_at_signal": 4.68,
+      "pct_since_signal": -9.94,
+      "pct_14d": 7.8,
+      "deep": {
+        "recent_filings": [],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Troim Tor Olav",
+          "kind": "DIRECTOR",
+          "note": "15 Form 4 filings on record since 2017; 12 buys of BORR in this tracker's ledger"
+        },
+        {
+          "name": "Snowling Harvey Edward",
+          "kind": "COO",
+          "note": "4 Form 4 filings on record since 2026; 1 buy / 1 sale of BORR in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14N3ExVUU1UVBXUW51RHNVeDVTQlBmSVJYZ3gwbzZ3bzN0ZGlLeUF3YXBtMDFzM3lJQjhuOG5NaVhZOFRsRjg3bUctemViaWtM?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "CNN"
+        },
+        {
+          "title": "After $1.66 option exercises, Borr Drilling (BORR) COO bought and sold 300,000 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVk3RGRPSGljZThrUTh5b0lOeU9uMktjVmJ0c0VpSVlXQjFwWEs3YTl4WnJBaXo4YWF3bGpaWXVsMVBvc3JwYkhTai1tc3FPUzduSFBXZXZtSmxxSFVIZFMyTXVVM1ZsNEl3RTdSSTFTaFdwUmZ5T1JUTmN3M0EzNEZUN1VHZHFmYnFjSDg3YVZMMm1YUGtCdjdjV3kwaGVkYVBxQzhCY0RneGRWUkZwWg?oc=5",
+          "date": "Fri, 16 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Form 4 Borr Drilling Ltd: Harvey Edward Snowling (COO) For: 14 October - Investing.com Nigeria",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcDQzRDZ2c0pseHFPeVZ6RkpoMXF6VFRCbndON0dWczdlcGVPUS0zX2RlRjBERWQtVVM5ZVpZaGVSWVY5V1k3MDdMNmdCRzJWbFA3VlFFTjN1aW5ZSDJENllTU0FFTi1Mdl83UlBLWFZEX3o0UHdwalc2YlNjZ3E5X3ZTX0g4aDRxb01qb044clNPZG42d2ZZWFE3VTBzV1hZS1YxX0lFWGpLZ25UV0pvTHQtaS1XSG9IcVIwUGZodVpIODZLV1E?oc=5",
+          "date": "Sat, 17 Oct 2026",
+          "source": "Investing.com Nigeria"
+        },
+        {
+          "title": "Borr Drilling (BORR) Reports Earnings Tomorrow: What To Expect - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbERDdVJSU2hyaUZOdlhaS0FVMHUwVFFkdEtuQV9yendTemhROVV6SVdUYW9YRmI2UUhtTWh0dEdFdWphMm9ockVRaDRDY09vY3F3NUQwZXpGdlJkUkVBRDg0OFFXaUozSGxlUDJvVDNqZjZiM3ZUMUxzdjU4TS1KMko5T0xBdmltdnljd2h6RjF4NUNxb2V1MGpiTTRTaEJzT3c?oc=5",
+          "date": "Tue, 11 Aug 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "A director reports 39.6M shares after an indirect purchase of Borr Drilling (BORR). - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGxWU0hGSmJZWjVjQUFEdmpFeVlTT01hZkVnQ2dEMUpNa2c2ajZlRHRjNjh5WDNTa3FhTlVMdnFqRlRGU3laRFFSbUZBcHhSZVlsMFoyeVVkRUtZeTZQMTdYQnBNd0UzUWx4TXQxaEVaQm5jaTZCN0JQM0hoeldZZFlDaGpLT2dTaFhRb0pZNnNWRkVibkVZVS0yTnQzaFRwaW01RHRnTUZMc2oteWVCaw?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBorr Drilling\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Borr%20Drilling&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBorr Drilling\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Borr%20Drilling&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cDrilling Oil & Gas Wells\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Drilling%20Oil%20%26%20Gas%20Wells&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cDrilling Oil & Gas Wells\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Drilling%20Oil%20%26%20Gas%20Wells&source=committeemeetings"
         }
       ]
     }
