@@ -41,6 +41,12 @@
       "issued": "2026-10-12",
       "px_issue": 9.09,
       "spy_issue": 778.1
+    },
+    {
+      "ticker": "DX",
+      "issued": "2026-10-22",
+      "px_issue": 11.12,
+      "spy_issue": 763.07
     }
   ]
 }
