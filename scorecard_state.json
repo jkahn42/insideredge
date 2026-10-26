@@ -47,6 +47,12 @@
       "issued": "2026-10-22",
       "px_issue": 11.12,
       "spy_issue": 763.07
+    },
+    {
+      "ticker": "RENT",
+      "issued": "2026-10-26",
+      "px_issue": 2.69,
+      "spy_issue": 764.8399
     }
   ]
 }
