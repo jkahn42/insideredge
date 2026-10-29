@@ -1,4 +1,4 @@
-# InsiderEdge Daily Report — 2026-10-28
+# InsiderEdge Daily Report — 2026-10-29
 
 Signals: **0 BUY** / **0 SELL** / **8 WATCH**
 
@@ -9,16 +9,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 _None today — no cluster met the threshold. That is a feature, not a bug._
 
 ## WATCHLIST
-### LYCA  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
-
 ### ALMR  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 1 sellers)
 - 2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304
 - 2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304
@@ -28,6 +18,16 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304
 - 2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304
 - 2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304
+
+### LYCA  (net +60.0 | buy 60.0 / sell 0.0 | 1 buyers, 0 sellers)
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
+- 2026-10-27 OTHER Venrock Healthcare Capital Partners III, L.P. BUY $833,838
 
 ### GPI  (net +50.7 | buy 50.7 / sell 0.0 | 1 buyers, 0 sellers)
 - 2026-10-26 OTHER Conifer Management, L.L.C. BUY $912,622
@@ -69,15 +69,13 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-23 DIRECTOR BRADLEY C ALLEN JR BUY $94,600
 - 2026-10-23 DIRECTOR BRADLEY C ALLEN JR BUY $94,600
 
-### RAPP  (net +12.1 | buy 12.5 / sell 0.4 | 5 buyers, 1 sellers)
-- 2026-10-23 OTHER Sanchez Ramiro BUY $98,478
-- 2026-10-23 OTHER Sanchez Ramiro BUY $98,478
-- 2026-10-22 OTHER Young Wendy B. BUY $99,992
-- 2026-10-22 OTHER Young Wendy B. BUY $99,992
-- 2026-10-22 OTHER Silva Paul M BUY $99,636
-- 2026-10-22 OTHER Silva Paul M BUY $99,636
-- 2026-10-22 OTHER PAUL STEVEN M BUY $974,278
-- 2026-10-22 OTHER PAUL STEVEN M BUY $974,278
+### ACN  (net +14.4 | buy 14.4 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-10-26 DIRECTOR Price Paula A BUY $199,848
+- 2026-10-26 DIRECTOR Price Paula A BUY $199,848
+- 2026-10-26 CEO Sweet Julie Spellman BUY $514,723
+- 2026-10-26 CEO Sweet Julie Spellman BUY $514,723
+- 2026-10-26 CEO Sweet Julie Spellman BUY $2,486,318
+- 2026-10-26 CEO Sweet Julie Spellman BUY $2,486,318
 
 ### MSM  (net +11.3 | buy 11.3 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-10-23 DIRECTOR Slone Reuben E BUY $42,789
