@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "signals": [
     {
       "ticker": "ALMR",
@@ -12,14 +12,14 @@
       "distinct_buyers": 0,
       "distinct_sellers": 1,
       "evidence": [
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304",
-        "2026-10-26 OTHER Qiming Corporate GP VI, Ltd. SELL $733,304"
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700",
+        "2026-10-28 OTHER Qiming Corporate GP VI, Ltd. SELL $319,700"
       ],
       "company": {
         "name": "Alamar Biosciences, Inc.",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -40,10 +39,10 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          24.24,
           23.52,
           25.37,
           27.42,
@@ -56,13 +55,14 @@
           30.39,
           31.93,
           34.3,
-          34.1
+          34.04,
+          29.71
         ]
       },
-      "price_now": 34.1,
-      "price_at_signal": 30.39,
-      "pct_since_signal": 12.21,
-      "pct_14d": 40.68,
+      "price_now": 29.71,
+      "price_at_signal": 34.3,
+      "pct_since_signal": -13.38,
+      "pct_14d": 26.32,
       "deep": {
         "recent_filings": [
           {
@@ -102,7 +102,7 @@
         {
           "name": "Qiming Corporate GP VI, Ltd.",
           "kind": "OTHER",
-          "note": "5 Form 4 filings on record since 2026; 54 sales of ALMR in this tracker's ledger"
+          "note": "6 Form 4 filings on record since 2026; 72 sales of ALMR in this tracker's ledger"
         }
       ],
       "news": [
@@ -113,37 +113,37 @@
           "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "Alamar Biosciences, Inc. (ALMR) stock price, news, quote and history - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzQTlzZnVUZmRTRnZqdzBDX2RCNDUzOVhJdDZqRjdtYnJvWnBCMzNqRVRLN19IYlpRTDctbWhOR21HYl9CbnNzbDE0bUE5TkJ1VWc?oc=5",
+          "title": "Alamar Biosciences, Inc. (ALMR) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pczA3RS0xTkhrRTRkZTZKZGZ0ejc0T3N4YjltN19uX2dfdWZzaVFpdkNXWmV3X0c4V2dYTXJUejdIWmExd1FsdkJHNDBhUi1NaHc?oc=5",
           "date": "Thu, 29 Oct 2026",
-          "source": "Yahoo Finance Singapore"
+          "source": "Yahoo Finance UK"
         },
         {
-          "title": "A study\u2019s blood protein pattern identified some ALS patients one marker missed. It is not a validated test. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZmE4azd4RzV0MG5jV3ViU0ZhY0hMNk12VnNjQi0zOFZZVTFGemJMZC0tRFVadjZlWVFfUTFPZ2F3X0FkamFfb3VYUVdqX2syVi1PaW5sdTFrZjREN09Vd2ZGaEp5WENiTWlBR3RyQUQtZHNmUkdXVjdjMDJUM2pOVmJKZ0dkX2pDdngwX2NiOVFvNmNkdXQ2dm9YN2JpU2MxUVlPalRIWG1uckpORzNhNFBWNzFDQzJRNHlYWWx6MA?oc=5",
-          "date": "Wed, 28 Oct 2026",
+          "title": "185,731 Alamar Biosciences (ALMR) shares were sold by Qiming holders over two days. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVGVEVHNsQTdDY2JCYktNandHenRjc2NaY2Q0a0I5bk9ERmdSa2RhVG1KMUphU083aVBjQm1QNlpUX3ROSnBEZ0JpM21aWnB3bEJzWGxQY2J4VUtzUXVOU01fMzlyYWpnUDhiZlhkb25vNzFGQ2Y4elFKY1RlSU0zU0s5cWlfa180SS00OGR5ZGtlcF9vRU90SnhJZnpZcTAzNzROV09KZVRDY2pfNVVKZ2hORmthaUE?oc=5",
+          "date": "Thu, 29 Oct 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "Insider Selling: Alamar Biosciences (NASDAQ:ALMR) Major Shareholder Sells $4,044,632.48 in Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPN3l0UThlUmpadUs2YzN5aTh1OUxpWC1mWVB0aHdPQ1NoNk5ESUJGbW95clRHNDFYOGpfcTg5czFVcG90bHRvS0VDREdDX3Z2cHIwVWlzaDVVTk90SjVmN0d5UjJtUFlXNFpWXzZNLTV5NzNLVU1IQkZvWS04ZkNMYkpjYmZMNkliMklGSkhHSC1GTUxLZXRmX2VhcDZUWjFjVS1rMjJRc1JTOXZaN1lRaGozYlo3WVd2bzFsU2xWUHktRWFPeDVxTXBWWjBpMFI0akdIQW9FWkZxRTZ4OHZsY3JDdmhoZw?oc=5",
-          "date": "Tue, 27 Oct 2026",
+          "title": "Alamar Biosciences (NASDAQ:ALMR) Stock: Insider Corporate Gp Vi Ltd. Qiming Sells 100,837 Shares - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPakQ0ajdseWozUnhtUnB5NGhxU1hUV2FsRDZCckw4MTNyV0JBZExwWTdyTTZmSkZYWHZrenBCdmMtajJGVGRMUnp1Vjg5WmYyQmJYS1pYRlBxTmJPV0RFOVNBYmpPcXRPc3NNZ3RyR1NMSmVtN2xVSk80aGV0cDJLRFBVWWtWeDFMazBHXzlIQXNINnRaUzN5eE5JcXBYWk0zczl4M3M0ZUlkYzZHNkRMWG51YkxVTFdEcFlGVU9fYWtPYTAxaXFuUlA0V3BCTFdGUmJzd1VrMmlPeWFZRS1iaXl6TUlocWFJ?oc=5",
+          "date": "Thu, 29 Oct 2026",
           "source": "MarketBeat"
         },
         {
-          "title": "Certain Class B Common Stock of Alamar Biosciences, Inc. are subject to a Lock-Up Agreement Ending on 14-OCT-2026. - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWXR2MGlzRkkxbHdudjdleXF4OWozM0E4akJPNUljTnJqMzNCNGEtTmV3YUhJX0k1M1U5X3pNT3IzMmlMNEowa0tva3pEcmVkVFV4XzdNSEtmV18tcGZtTy13SjA1aS1OUkVrdEktaDJOQ2VreDY0cVEtV3p5enJ0WXNyYXROTjhyNk05M1JkNzZVeFh5UHRsSmZlSXlJRlpvbmFfZzZjWlZISmZ0d2dSRWIwUWpfeFV2OU53QWpYMXIzOFZ0ZEo0b29paGl5bm9aZmx1UFhsRmxTdlRMY1ZCbHdRb0dUdw?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "marketscreener.com"
+          "title": "Alamar: The Consumables Flywheel Is Just Getting Started (NASDAQ:ALMR) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUkJRSEpQcmdxZENaN0JNeFhVRHZTQ1E5dUVLVmluUUVFaDdKM09PbEJHYTQ3MmZuMC1kWGhySEsyNjJnaWpkUWtrbFV4eERaZW9HcW0waTlXQlhrb0ozSWlaWkV3UzlhNkt6cDFxa0c3azcyMVZUaDZYOGhtQ1N0S1pkTDN5WWNLemc1VkNpbFQ1SzhaNVRjS0VqVQ?oc=5",
+          "date": "Thu, 08 Oct 2026",
+          "source": "Seeking Alpha"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +12% since disclosure",
-        "cls": "spent"
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
       },
-      "earnings_soon": false,
+      "earnings_soon": true,
       "legislation": [
         {
           "label": "Bills mentioning \u201cAlamar Biosciences\u201d",
@@ -197,20 +197,22 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
           30.0,
           28.85,
           26.11,
           25.05,
-          26.96
+          27.73,
+          26.14
         ]
       },
-      "price_now": 26.96,
+      "price_now": 26.14,
       "price_at_signal": 26.11,
-      "pct_since_signal": 3.26,
-      "pct_14d": -10.13,
+      "pct_since_signal": 0.11,
+      "pct_14d": -12.87,
       "deep": {
         "recent_filings": [
           {
@@ -237,6 +239,12 @@
           "source": "Yahoo Finance UK"
         },
         {
+          "title": "Lycia Therapeutics, Inc. (LYCA) Stock PDF (Updated: 2026/10/29) - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxZGVJVnF4N2FZZUU1M2JoaDZOZm9JQWZ1WDJNaU1ITHpVazkzOVM3R25XRHU2dUtLeHY4aThBcC1GakRFNE1iUWhkUnc5SFFjcHBjZTNn?oc=5",
+          "date": "Thu, 29 Oct 2026",
+          "source": "GuruFocus"
+        },
+        {
           "title": "Lycia Therapeutics Inc. stock pops 67% on first day of IPO - The Business Journals",
           "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQS3VaYTlXY2hPbDdyS2hUNGU4V0g0Q3lNVVVZUjRkdWhSV1RDdjBTMzNMbk02YVZld2hDVk9tR2pDRnR6MzdZbTFRX3NjY1R3cHR2NmZ6eTRlTkpKbjI3T3h5aldrN3ZvbllYcGlRdkExUmpvTlpwVE50LUM2Z0thbkdhSm05VFJ1dFNUVXd5a0F6MzA?oc=5",
           "date": "Fri, 23 Oct 2026",
@@ -249,12 +257,6 @@
           "source": "Nasdaq"
         },
         {
-          "title": "Lycia Therapeutics Inc. Stock Grades | LYCA - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOODdmY3F6R2hMZTd2dXVpSEU0SjRHSjJrcFJkOU0ybGZDRmhtSWpROFZRNkV6S09UbmhhMm1YamxpUHEwUjY1M3hMdVJUZF81dHloRlVqd2c1VERrTG5JbWF4aGI2ckNNSjJhSGo3cTlhUUZudEZOR0M5OTBUT2lxc2lMakNNMFZwZ3dFTGJmTQ?oc=5",
-          "date": "Fri, 23 Oct 2026",
-          "source": "Barron's"
-        },
-        {
           "title": "Number of employees of Lycia Therapeutics, Inc. \u2013 NASDAQ:LYCA - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcVYwbHRMRVpTRl8yZHJkc2dYWkEtZ3k4T05jVVkwdGwzUmZGTnp6dmFFZ2RzZExJRDdXVjhpTTRuLTZWSXNScURZbXFNT2tCNERRaXlTU2toZk5tVWliUjE4X0dzWXFkLWxxUWEwT3pXUm5ySlZtMWFpQkxNQjZDNkQyekhWRWM4UWJYRGstUXNNd0FxZXkwcHp5ZVFxTmtrR0xR?oc=5",
           "date": "Mon, 26 Oct 2026",
@@ -264,7 +266,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -297,19 +299,19 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 50.7,
-      "sell_score": 0.0,
-      "net_score": 50.7,
+      "sell_score": 1.0,
+      "net_score": 49.6,
       "distinct_buyers": 1,
-      "distinct_sellers": 0,
+      "distinct_sellers": 1,
       "evidence": [
+        "2026-10-29 OFFICER Hobson Gillian A. SELL $516,480",
+        "2026-10-29 OFFICER Hobson Gillian A. SELL $516,480",
         "2026-10-26 OTHER Conifer Management, L.L.C. BUY $912,622",
         "2026-10-26 OTHER Conifer Management, L.L.C. BUY $912,622",
         "2026-10-26 OTHER Conifer Management, L.L.C. BUY $614,797",
         "2026-10-26 OTHER Conifer Management, L.L.C. BUY $614,797",
         "2026-10-26 OTHER Conifer Management, L.L.C. BUY $506,072",
-        "2026-10-26 OTHER Conifer Management, L.L.C. BUY $506,072",
-        "2026-10-26 OTHER Conifer Management, L.L.C. BUY $389,890",
-        "2026-10-26 OTHER Conifer Management, L.L.C. BUY $389,890"
+        "2026-10-26 OTHER Conifer Management, L.L.C. BUY $506,072"
       ],
       "company": {
         "name": "GROUP 1 AUTOMOTIVE INC",
@@ -317,7 +319,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -330,10 +331,10 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          229.64,
           231.59,
           228.37,
           239.8,
@@ -346,15 +347,22 @@
           243.88,
           254.2,
           249.54,
-          257.7
+          259.97,
+          258.045
         ]
       },
-      "price_now": 257.7,
+      "price_now": 258.045,
       "price_at_signal": 243.88,
-      "pct_since_signal": 5.67,
-      "pct_14d": 12.22,
+      "pct_since_signal": 5.81,
+      "pct_14d": 11.42,
       "deep": {
         "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-10-29",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000147/gpi-20260930.htm"
+          },
           {
             "form": "8-K",
             "date": "2026-10-28",
@@ -378,17 +386,16 @@
             "date": "2026-09-22",
             "summary": "Company entered a material agreement; took on new debt or obligations; other notable events.",
             "url": "https://www.sec.gov/Archives/edgar/data/1031203/000119312526397968/d73767d8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-22",
-            "summary": "Company entered a material agreement; executive/director departure or appointment; Reg FD disclosure (investor materials).",
-            "url": "https://www.sec.gov/Archives/edgar/data/1031203/000103120326000137/gpi-20260921.htm"
           }
         ],
         "about": ""
       },
       "actors": [
+        {
+          "name": "Hobson Gillian A.",
+          "kind": "OFFICER",
+          "note": "11 Form 4 filings on record since 2023; 1 sale of GPI in this tracker's ledger"
+        },
         {
           "name": "Conifer Management, L.L.C.",
           "kind": "OTHER",
@@ -397,40 +404,40 @@
       ],
       "news": [
         {
-          "title": "Group 1 Automotive, Inc. (GPI) Stock Forecasts - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdzZiUU9wNmtUUTA3UDl4b3Q5YThJSy1yR2JXTmdVdXRrc1pYekxjcFIycUgzbnBfWnJTMS1rWGFmRkpZcnVzTUdIS2s5dVFOWnl3T3JzcTFhaHh6ZXFncVI0THlNSDVNRlg2UUgzU0pWVl9JWi1hUDVjQUFNcVh2M0JYalluYjdta3BCT0JaOE0?oc=5",
-          "date": "Thu, 29 Oct 2026",
-          "source": "Yahoo! Finance Canada"
+          "title": "Group 1 Automotive SVP Sold $516K In Company Stock - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbU5rWjFmTUwyWUlxOXprYWpJODdXNGdOSTdBaG1DTmV0TndqTjBhUndtWXN0NDBKaE1lNHFid2FudTE5MTFOdmMxdFhEUVN5a1F2Vm82VkFBbmJqTHh6OUwtZlpvNXZpVXc3dWRnNFZTSXp4Xzc2RU5MaS0yTWdEYWhLUE54NGlleXBOZzZlRTZybUl1Qmc?oc=5",
+          "date": "Fri, 30 Oct 2026",
+          "source": "Benzinga"
         },
         {
-          "title": "Group 1 Automotive (GPI) legal chief sells 2,000 shares at an average $258.24 each. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXFpOWRoQXZYOXcxTVZrSFQya0U1enZNQXFsaldwSGl2UnFaMG4tbHlVaERrNlExeS1VMjJtcy1fM3JvMlNFRjVlRnZpLXpLRG82NTFzTGozWDQ1cXlNSEQ3RVBPUU40bXBMM3pjTXFROUUxYkNSZ1hPRW9OREJLbm5DaGZGYVhlU19ndGdHaDJLNG1oZnFvTGtxQjRzenpQTW9PbkE0SEJjZ3d3SnB2dzFEY29Gdw?oc=5",
+          "title": "Group 1 Automotive, Inc. Q3 2026 Earnings Call Summary - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOXJVa3IwOFRxQ1hnX0xydDdVbDZYVXptdzZLU3E5TkFoRjlFX2VWd1V6SzBzdmVjX09iSFdwd1VqUndmMEhzRHRWZ2VWX3E4Nk5ONHh6c1NSLUtIZGVaQzN0cGw1cXp3UzJOV2tzSGpRVzIxaDNwSWZQNmNYT2M3T0MwU1dMeVZHTzB2c1VKejBub2dp?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Conifer Management buys $24.2M in Group 1 Automotive stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQnpBOHdBMGhYYm02NDRUc2dkWG1jTUxROXlTYnV5c0Nham5Qb1hrZ0pCakxDUVNSWUx3VEMtM3VWYWxnTXBDbGQweTdPTDQ1TlZTMEFzNlotUTBkRS1wMXNNV25SUUpMbWhpZ284MV9FUlNSTXhXVlZmQk83OU9VWVY2ay0yUjZpbTg2ckVMQUgtRjFKdVYxM2pLYl9uMEFTTm9pSU9nVzdNRE1idUpoWGttV2M5RXpxMTkydjB3?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Group 1 Automotive (GPI) SVP, Chief Legal Officer & Secretary Gi - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNC1hckJEdmRiZlBUWTZfSV9yYUxPS045bG1GbktESlR6Tkd0S1VWV08xOGlvVGI2YXJwZ3ZhdHowX19pcjAtcXN4SkZIUkEtN1ZXNjBRcVVvdDl3eUtZc0tNaW5xaHoxNUJHNHJWZUxucWlvQzVNOWw1Qno0SXZoNHcySFBfOXB1TV9URlhPenRaZ0lMMnZ1NGRnOFVXMzkzbU5YMy1USnBUU0tfRWVpWFI2RUhyTWhlbzZsSjJ1c2RXdFB0eXVR?oc=5",
           "date": "Thu, 29 Oct 2026",
-          "source": "Stock Titan"
+          "source": "GuruFocus"
         },
         {
           "title": "Group 1 Automotive, Inc. 2026 Q3 - Results - Earnings Call Presentation (NYSE:GPI) 2026-10-28 - Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQajM2NUlNSDgxalFBdlZOdmlHaGdBUHBIdkZoR0xUZVBGdGZTVnhPcDZ5OUxmcjBsSElReVAwVTZzb09CYi1QUl9uVXVUR0ltN09VdTNWTEdOMHNXMzAtODlhRWd0clk5cUtTMnBIZG82TV9jX1luTDJ4T0ZYV0x3RHRabzllMmNrdlc4aE1KSWUzU2tGOEdpdHIxdnVkZjhiWjh6eUI1RmVUQQ?oc=5",
           "date": "Wed, 28 Oct 2026",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "Monday\u2019s insider buys and sells: Group 1 Automotive leads activity - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVHBYb1VvUWk4VkpBTndfZzE2cUp0aGRoSHdRX2pXOVIyaEpQV09nQlEyZUpVZlJKRnhvNEhTSnRnNThRMWprU3dNM0NGeE1kck1ZNEZPVGFPUXhWNXRZX3N0QmV1eTY4LUxtWGVZRGNxeVc5Y2FTOGljYUF2S0ZXZmh1bFEydlBVdS03TkNIbkVOY0xtbm1iTGtJY1NnSnB4c1RnQU5lemE3akRvSUdiUjNfNDFZQ0d0ckotbkVhcWhZQkZS?oc=5",
-          "date": "Tue, 27 Oct 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Earnings Flash (GPI) Group 1 Automotive, Inc. Posts Q3 Adjusted EPS $9.36 per Share, vs. FactSet Est of $9.50 - marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSi1NUGJfbWpMcDFkUWhwYVhzMjR0ZGMxQUNxS2c4S2F0bVd2eUhLU2dRd0lURXJwcWhla2JaWGI5T3dHUE5HWHJUU3ZRWXRJYVp5Nms0dzNsbDRNLTNRZmdSVlg4ejNOZzF2bGdOdWdrTDNhc1Nfc2VIQnpiSFlZWmZEWXJ6WEJKWU9FMS03Y0VtNTU2MnZDWUplVmVjQ1VPb1cxSm1kQm9jeE44YS1LRFVIcGpTd0lha2RrdzJmWmhjU0ZYSm43UVhVTkY5U1B1Ym96TTVhbDFRTHdRSllR?oc=5",
-          "date": "Wed, 28 Oct 2026",
-          "source": "marketscreener.com"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -458,200 +465,24 @@
       ]
     },
     {
-      "ticker": "RENT",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 36.7,
-      "sell_score": 0.0,
-      "net_score": 36.7,
-      "distinct_buyers": 3,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-10-21 DIRECTOR STORY3 Capital Partners, LLC BUY $2,246,873",
-        "2026-10-21 DIRECTOR STORY3 Capital Partners, LLC BUY $2,246,873",
-        "2026-10-21 DIRECTOR STORY3 Capital Partners, LLC BUY $2,246,873",
-        "2026-10-21 DIRECTOR STORY3 Capital Partners, LLC BUY $2,246,873",
-        "2026-10-21 DIRECTOR STORY3 Capital Partners, LLC BUY $2,246,873",
-        "2026-10-21 DIRECTOR Nexus Capital Management LP BUY $2,246,873",
-        "2026-10-21 DIRECTOR Nexus Capital Management LP BUY $2,246,873",
-        "2026-10-21 DIRECTOR Nexus Capital Management LP BUY $2,246,873"
-      ],
-      "company": {
-        "name": "Rent the Runway, Inc.",
-        "industry": "Retail-Retail Stores, NEC"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-12",
-          "2026-10-13",
-          "2026-10-14",
-          "2026-10-15",
-          "2026-10-16",
-          "2026-10-19",
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-10-23",
-          "2026-10-26",
-          "2026-10-27",
-          "2026-10-28",
-          "2026-10-29"
-        ],
-        "closes": [
-          1.83,
-          1.78,
-          1.71,
-          1.81,
-          1.76,
-          1.86,
-          2.02,
-          2.18,
-          2.37,
-          2.3,
-          2.82,
-          2.7,
-          2.69,
-          2.755
-        ]
-      },
-      "price_now": 2.755,
-      "price_at_signal": 2.18,
-      "pct_since_signal": 26.38,
-      "pct_14d": 50.55,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-10-26",
-            "summary": "Company unregistered share sale; other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326016172/dp255517_8k-1.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-10-14",
-            "summary": "Company other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326015597/dp254953_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-30",
-            "summary": "Company other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326014833/dp254067_8k-launch.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-15",
-            "summary": "Company Reg FD disclosure (investor materials).",
-            "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013999/dp253357_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-11",
-            "summary": "Company entered a material agreement; unregistered share sale; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013810/dp253178_8k.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "CHS US Investments LLC",
-          "kind": "10% OWNER",
-          "note": "2 Form 4 filings on record since 2025; 1 buy of RENT in this tracker's ledger"
-        },
-        {
-          "name": "Nexus Capital Management LP",
-          "kind": "DIRECTOR",
-          "note": "2 Form 4 filings on record since 2025; 1 buy of RENT in this tracker's ledger"
-        },
-        {
-          "name": "STORY3 Capital Partners, LLC",
-          "kind": "DIRECTOR",
-          "note": "1 Form 4 filings on record since 2025; 1 buy of RENT in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Why Is Rent the Runway Stock Surging Monday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0pCbWl4UXlOaFVQaVZTY3h6SjdUTENTY3hjYWE3Y0c5dTI3cnAwbk1EYjhlZkRvV2c4ZlplNGtnN2loUVViWnJ2V2E4ZXpncG1GblVaeUJDd0VkU1k0UGNiWFRPaEtUYUs5S21ZRUJBRjY3aUViSWtTdGEtMEkxcS1iWXdnV3cwNzdJaXpwbHJwVzVaMDVsRENaSUhYUHc5UGRWZlVjVQ?oc=5",
-          "date": "Mon, 26 Oct 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "Nexus Capital Management, a Rent the Runway director, buys $2.25M in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdVRGYTc4Mko0VUVtamxocl9KdjZURG1tdWxZQ0g1UlRHdEZVc01Vdlo1eW5DME5iQkR6ckloeGFjZmtjVWZQMHZjb0hTVzBiZDY2SC1JcDJsb0F3R0tDNTVHV2JwS0tUd2JxTnI3R09Xd1ZUOFE2bk9uNUlZU3FabEJHTUU5TU9jdTVFb25BUDRrWW9EOFFSNldHWFd2VndPeDhuYVMtZVcyWHRaVEU4TnVHWkIxQ2hpc3NGY0lReHpTUXFRNVpQTndZOFU0VWxm?oc=5",
-          "date": "Sat, 24 Oct 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Rent the Runway, Inc. Estimates \u2013 NASDAQ:RENT - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mSHNKREFZa2d3RTBCVVg4QUh4SUxfemphRV9aTWVFejNQS0JQdlJicFBPNndPeWg1d1dIaHJ3QTNIcWR3NWZCbUpkeEhVSHBPWXJjUXNqanF3SFJ4YzNyRWdpa0JnNER5Sl9zSXYwVjZ3RVVpNkJ5Rg?oc=5",
-          "date": "Sat, 24 Oct 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Rent the Runway Q2 Earnings Call Highlights - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcmYxSXRrWDRnWVNiSHlubTc5dEhoTTNkZDd4VTd6Nm56a0RwblJiNVNxWHQycW45bDhOYzAwSFpQb0JBSEw3VDFXeGNVbUN0dmlqa1lvTmp2NkRvblNIb2hQNzdSN0pDODRNMFRTNlAtbkEtcm5zTUlpQkpHckx2SS1qVkZBNkVDNGIxbVVTOVBMZGx0UWhFYw?oc=5",
-          "date": "Fri, 11 Sep 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Rent the Runway: Profit Is Maturing, But Subscriber Declines Remain Concerning (Rating Upgrade) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeTRfdDM4SEFzTl9DZ0tqMW8zLTZLNmJsaF9WYVF3b29rZU5TZkxtZDB2c2hSekp6OWhFQ1Rhc3FaYnNSeVBodzdBd01EdkdZRTRMTm1DeHBvVHotMksyaWRSMUFkZGZrRFFNX3FPR1Z0b3BIMjU5OVg5OWZELU40OUlIS3FQZmJfVm5MU0tIaGxNeVhmczB1YzlMSjA2aUJDdTZGVjh0OWwyNGlLMlZpX3hPU2tCMWRoSjN2VnRwcTdSUnV4djBpQ3RFeGc?oc=5",
-          "date": "Sun, 13 Sep 2026",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Edge partly spent \u2014 already +26% since disclosure",
-        "cls": "spent"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cRent the Runway\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Rent%20the%20Runway&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRent the Runway\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Rent%20the%20Runway&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cRetail-Retail Stores, NEC\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Retail%20Stores%2C%20NEC&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRetail-Retail Stores, NEC\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Retail%20Stores%2C%20NEC&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "NPB",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 29.5,
+      "buy_score": 32.8,
       "sell_score": 0.0,
-      "net_score": 29.5,
-      "distinct_buyers": 3,
+      "net_score": 32.8,
+      "distinct_buyers": 4,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-10-28 DIRECTOR Chaudhary Rajeev Kumar BUY $47,398",
+        "2026-10-28 DIRECTOR Chaudhary Rajeev Kumar BUY $47,398",
         "2026-10-26 CEO Williams Charles Alan BUY $766,175",
         "2026-10-26 CEO Williams Charles Alan BUY $766,175",
         "2026-10-26 CEO Williams Charles Alan BUY $766,175",
         "2026-10-23 DIRECTOR Boer Carrie L BUY $184,762",
         "2026-10-23 DIRECTOR Boer Carrie L BUY $184,762",
-        "2026-10-23 COO Long Joseph B BUY $49,800",
-        "2026-10-23 COO Long Joseph B BUY $49,800",
-        "2026-10-23 CEO Williams Charles Alan BUY $771,215"
+        "2026-10-23 COO Long Joseph B BUY $49,800"
       ],
       "company": {
         "name": "NORTHPOINTE BANCSHARES INC",
@@ -659,7 +490,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -672,10 +502,10 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          15.88,
           15.82,
           15.54,
           15.62,
@@ -688,13 +518,14 @@
           15.23,
           15.76,
           16.19,
-          16.145
+          16.18,
+          15.83
         ]
       },
-      "price_now": 16.145,
+      "price_now": 15.83,
       "price_at_signal": 15.44,
-      "pct_since_signal": 4.57,
-      "pct_14d": 1.67,
+      "pct_since_signal": 2.53,
+      "pct_14d": 0.06,
       "deep": {
         "recent_filings": [
           {
@@ -732,6 +563,11 @@
       },
       "actors": [
         {
+          "name": "Chaudhary Rajeev Kumar",
+          "kind": "DIRECTOR",
+          "note": "3 Form 4 filings on record since 2025; 1 buy of NPB in this tracker's ledger"
+        },
+        {
           "name": "Boer Carrie L",
           "kind": "DIRECTOR",
           "note": "3 Form 4 filings on record since 2025; 1 buy of NPB in this tracker's ledger"
@@ -749,9 +585,9 @@
       ],
       "news": [
         {
-          "title": "Update: Northpointe Bancshares Shares Rise After $30 Million Stock Buyback Program - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXNQbTBSd2lGamZIcmRnTVd5YzZGR25ITkJ3UlFaZzNuSTNoTzJLb2tiUGltQ20tZ05PaE9kMzdidHdTdkhUZDZXNkRSLVhGNUk3WkNwT3JLN19IOHBSUVhNaHBLZy1GTjBaSjFST0lVYlBaei1aOGFpYkpoUlhxZmVxR3d1REd3UXMwdmt0eG4wdnZpZm8xb2VJdUstRHkxNDQtNg?oc=5",
-          "date": "Tue, 27 Oct 2026",
+          "title": "Northpointe Bancshares stock jumps on $30M buyback program - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWVJFbHJ6d1c4NWtYcXNhOTRaUXkzRjRydWtsQk9zOXlkN0E2NTFDX29LVTl6NS05QWdlWE84clZyM29oVzRnTFM3SHpsZVFfQkJ1SEhEd1FKRXcxQ01zWG5vbkdUSFdJSGpfdlpjbU9rQ1BaTWlfX2dMQk5MemZhbHRQeXNKM2xFNXlXelNrV3dEYzNlT0R1eFUxc1psWkFsZFlHZE93?oc=5",
+          "date": "Mon, 26 Oct 2026",
           "source": "Yahoo Finance"
         },
         {
@@ -761,28 +597,28 @@
           "source": "Investing.com"
         },
         {
-          "title": "Northpointe Bancshares, Inc. Announces Common Stock Repurchase Program - FinancialContent",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTThtX0ZHejRKODRaQmxfYUFqVUZaaFBaN05IX21BcnlhcVNOeFJwOWxmaHBaYm9lNEVlb04zUi1oYlIweWJZZkh3cGt0T0YxZHduelJiS2VmdGZrYVFheVg5OW9PVHAzVEloa0tHa3d6QkNzaTIxWUdEZVRXQlZLZ3lYa1l6ZHpyMkpzR3dmeGZnY0JEX0FmdlIta3VTUnR5cnZJTFVuVFk0MjRIRV9lcWtxelViV1RJMGdvNTBMTDlYbWo4bHA0?oc=5",
-          "date": "Mon, 26 Oct 2026",
-          "source": "FinancialContent"
-        },
-        {
           "title": "Northpointe Bancshares Authorizes Up to $30 Million Stock Repurchase Program - TradingView",
           "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGFwSS1TNnFoSWR6elJtSERESThkSkN4ay13R0JONU9zWFJERDJoZ0daU21wSDNhOTBVMG9jb1EtN1MtczUwSlBCQlpFT2k1WkptQzFDOXB5eUxwRmVGSjVxWG5SZFhjMXZMSVpTNlBSM19uTGVSM2NBUVBOLThNZWxHT0VzNmtHUWl3Y2lRa1praWs2dHFLc25maUNxSV9vQmVsLXhHQ1gyUk1lWGlXOE9ibjR3emdPaE8wZ09nU3RoLWdLTUE4Um04Z1NhNDBfRHFn?oc=5",
           "date": "Mon, 26 Oct 2026",
           "source": "TradingView"
         },
         {
-          "title": "Northpointe Bancshares (NYSE:NPB) Stock Breaks Above 50 Day Moving Average - Here's Why - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb3VSYjBJZEVZc052bUx6d0RzZmd6REhmQ1E2NVl4WUJLbEpjR2lhRU1tZGpGSTNfUDhOeXhUZThmb0Q5dTFvLXVkU1dnWGIwM0t0aWV1S3VfOXRTXzFlRHVKLXdWWXEwRGg2THRJZjhDMUhkU1ZMVTV2ZzZabWRKZkZUU2g0XzhjdG9jaFBoVzN0VlVjZ1BUU0tocGR2WW4xdW9xdkNDSUpnSXVELVNJQlV5ME1UcnpGOFJDTktuU2VkTkFWcVhoYXc4X1JYam13Y29fU3hqWEkzdw?oc=5",
-          "date": "Thu, 29 Oct 2026",
-          "source": "MarketBeat"
+          "title": "Northpointe Bancshares Shares Rise After $30 Million Stock Buyback Program - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTNLMU9CU1g4RER6T0xZc2xvNnRBeEEyRVRpcTRlRTZpcGlTVlhaWWNPUUlSQlhlMFpvcTRPMGlkbXR3YXlCLUJfeGJoNnNLdGRndDhfdEt3RndJWU1mWmEwc1lEQnhSRDJHSnZLQ19sdFNMX09pT3N2a3RHOHFCRl9LSWJrb01hY0IyZ0hHQ2czRk5qbm9Lc1BTZzhhRktaM2RWOFVVZUdSaVItdzg4OWk2aC1lNGhlN3lfQTlsLWpoci1h?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "marketscreener.com"
+        },
+        {
+          "title": "Northpointe Bancshares, Inc. Announces Common Stock Repurchase Program - Business Wire",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcmJVZjZyYkdqcnB5RElPUURqNmhKZlFha1ZPTWEzT05QZ243X0JhSmtfdjlucUtTcFoxQUhEOEsxRF9pOHpvbG54M0VRYlpEbUVsZlprU1pYWEswMHhDeGNpcnFNQkNNWGdzeXpFMk1kWE1HX2VRQWh1RTJwTUdCcU5OUXJRcGpieVZFalZ1a1JrOU9UMTdXT2xPOUUzUnZCZ1ExU0hBc05rMFNpd2w0a2NCc3ZqQ01RNXNVN0pSQjZXbGx6?oc=5",
+          "date": "Mon, 26 Oct 2026",
+          "source": "Business Wire"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -835,7 +671,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -848,10 +683,10 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          50.09,
           50.92,
           50.84,
           51.99,
@@ -864,13 +699,14 @@
           42.96,
           43.48,
           44.3,
-          45.345
+          45.48,
+          45.04
         ]
       },
-      "price_now": 45.345,
+      "price_now": 45.04,
       "price_at_signal": 44.07,
-      "pct_since_signal": 2.89,
-      "pct_14d": -9.47,
+      "pct_since_signal": 2.2,
+      "pct_14d": -11.55,
       "deep": {
         "recent_filings": [
           {
@@ -935,22 +771,10 @@
       ],
       "news": [
         {
-          "title": "Stewart Information Services Corporation (STC) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fcGZGMFlpWUtPLUh0dl9jeW5meXh5R0EtYXNNTzc5YVpfQ0dPY0VnSmVwVGdybklwUzV6TmZwT3otVWNiLXc4OGdyYW4wN1dW?oc=5",
-          "date": "Wed, 28 Oct 2026",
-          "source": "Yahoo! Finance Canada"
-        },
-        {
-          "title": "Stewart Information Services director buys $93,640 in shares - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzhoQmlITEVLeWp6Y1NOYzFHQkUwbk15SGNxSXFKX2NKcm9SRlluaVRodWpmUnNqTmF5QndEbGpvZ0dkTG56dmZCTDhVWnVaYjdNQkJBMkVKYWh6NVg0dl9WdlVzLWZDbExEd2Z5T0ZOS1lNRE0tbmlVQ1E5Vm9YN0p0WTc3UVF2YmpPWUZvVnZBeUNkd1laOEItODN2UjRRR25uYmRrMi1FenNmUHRsSWF1dWxWck5FZ1NkZHctUzU?oc=5",
-          "date": "Mon, 26 Oct 2026",
+          "title": "Stewart Information Services CEO buys $133,350 in company stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaGM2OGloOEJpX0pKR0czekFRLXFFay1rcm5oNWdIMmZCU0JLdF9NVU1MVDRHTmRFMWVXb0NVVHJEaHlNbWtRMUdmRXNFWWkzY2RpeUtBVW1KUjVnYUx3U2FNYjZJTXU3MnBqVl92azdyQ1RWTmVfTzlpSkJIMEJMNHJDUW13aVh6Z0w1MDJyYXU4eC1rOGJoSjhkVDM0MktHeFNQZVB3UHd2UlM1amZXQ080SjJBX3hEaTcxRXpXdmZZZW02?oc=5",
+          "date": "Tue, 27 Oct 2026",
           "source": "Investing.com"
-        },
-        {
-          "title": "Recent Results Show Another Quarter Of Disappointment For Stewart Information Services - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnlBN3hmcTloY2hCRFBYQy1aeHMzaVowdjJTTnc0a3NaSjAxUHZSZm1kSU5meDBWcW4xbzNhOWxDaWQyVkc5dmNuMUEydnNTLWJSTXhyTjZPTzJubGdaT3Y1bG5VQ1BfQkIzbDVVUXR3bkNxR2pJeVZlajNkSXFMQkplT21ZeVRocXVieHZzcnV2TmdXNkV4Y2cwdmxfRFJ1bWN3cEJ5YnNEU0V4dzU2aWpXUk1ENW5yNi1MdVRKQ0Q3S0M3Q3c?oc=5",
-          "date": "Fri, 23 Oct 2026",
-          "source": "Seeking Alpha"
         },
         {
           "title": "Stewart Information Services Corp (STC) CEO Frederick Eppinger B - GuruFocus",
@@ -959,17 +783,29 @@
           "source": "GuruFocus"
         },
         {
-          "title": "STC Stock Price and Chart \u2014 NYSE:STC - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxaFF3dDExVWFmZzNXLVpwN2pETi1hanFTb2gzWTdQTTQxdXV6N3FxLUZuQTRLakkxaEVpR1JjVUdONy1OZy1WZG1YWFhPVkExVEtpT3VkZ2o?oc=5",
+          "title": "Recent Results Show Another Quarter Of Disappointment For Stewart Information Services - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRnlBN3hmcTloY2hCRFBYQy1aeHMzaVowdjJTTnc0a3NaSjAxUHZSZm1kSU5meDBWcW4xbzNhOWxDaWQyVkc5dmNuMUEydnNTLWJSTXhyTjZPTzJubGdaT3Y1bG5VQ1BfQkIzbDVVUXR3bkNxR2pJeVZlajNkSXFMQkplT21ZeVRocXVieHZzcnV2TmdXNkV4Y2cwdmxfRFJ1bWN3cEJ5YnNEU0V4dzU2aWpXUk1ENW5yNi1MdVRKQ0Q3S0M3Q3c?oc=5",
           "date": "Fri, 23 Oct 2026",
-          "source": "TradingView"
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Stewart Information Services: Q3 Earnings Snapshot - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZkUyRWI3YVFUajlfYWRKTjFNenUzTFFoaFZGdDd4R1RnTEJwQXdRLTZjTVB0eWpKczRZUVJPXzlYYTQxdXhDUEstc3A2NjFQMHJNUnpzRXo2SWxfUGFUdnhLaHRJWnk3RGZYbzFpYXFLYnpTU0dYUW90YkRwREVqdVpZbXlGT1NXaXd1V2FOM09Fc2M3c3hhVGxjQU9nMjNXdDhCdmx3dk4?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "At $44.45 a share, Stewart Information (STC) CEO Eppinger buys 3,000 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeDN0ZmYtTlF1TG0wUnlFbUdteXhDSlRJTnBSbGtERFI1SGh4ZFh6bjlDY2pZcExTbEZmaGFKVGRFZWY5N3dvWFVIdFJqTXJfTXpYdXFuX25tZ00xeHM3M1liWnB5RzlVZkRMazFQVl9ncWx4WnlPd2dOUlVtZmlwSTlDNEVPWDMtX3JZb1dkb0R0VjNXN1dzWkV0NGNPT2ItTXowbEYyT01LMnE1VExSZ0lySi1ZbHR1ZTZfSUVTU3hiVktz?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": true,
       "legislation": [
@@ -1019,7 +855,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -1032,10 +867,10 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          214.87,
           213.56,
           214.96,
           224.92,
@@ -1048,13 +883,14 @@
           247.23,
           235.16,
           243.4,
-          245.62
+          247.22,
+          258.09
         ]
       },
-      "price_now": 245.62,
+      "price_now": 258.09,
       "price_at_signal": 247.23,
-      "pct_since_signal": -0.65,
-      "pct_14d": 14.31,
+      "pct_since_signal": 4.39,
+      "pct_14d": 20.85,
       "deep": {
         "recent_filings": [
           {
@@ -1098,10 +934,10 @@
           "source": "GuruFocus"
         },
         {
-          "title": "Paula A Price Boosts Confidence With $199K Purchase Of Accenture Stock - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHFlSHlvUEhjcm9tcFZhdUpMU3owSGhEeUxBS0Zlb1l6VjdqWWhrZ1lVd2ItUGU2REQ1UE1HMGt0aV8taU5Ia3hkN2JlVzBqaG9MLXp0dUlfS1lXTUtfT295WnROMldidzdHeHBWRlpLeXJfemZkVUIxdjF2NTRySS1BRWo1WE1ZTS10bTg5RHdMRklFS2xoOHVFTFRVa1BTZ1AweGJCbw?oc=5",
-          "date": "Wed, 28 Oct 2026",
-          "source": "Benzinga"
+          "title": "What's behind Accenture's latest stock pullback? - Traders Union",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVWVGZko1dXNtUTVHa2JReDhMMjR2Nng4SGhzVWN0RjdSYlg1U3dxWHpnY012SnMyOENkMUxEWlozNjRxcXV5a0pNVndDcUtBREhLejBtWmtfY1Eya1J0WTBwQkRDWkZZTndiNm9lemxXLXlLVl9RSElkTmZ3c013WnMyTDRFcDA0MFRpb3RkbFppZw?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "Traders Union"
         },
         {
           "title": "Investors Heavily Search Accenture PLC (ACN): Here is What You Need to Know - Yahoo Finance",
@@ -1110,9 +946,9 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Accenture PLC Cl A stock outperforms competitors on strong trading day - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN19mRE13bldCSl9KWE5qaGZGazdFV1k3enYxamVmSndVcmhBa0JneE8wM2pNYTB5dV9wWWJxRHFXcDhONEwtWVZpZXRvZDNvS21ua1A1R3k3NVlHU1ZXY2pNcmFiUjAyNTY3Q0plTE1Ienltd1pxc1dzYmRoQlA4WlhYbFJQeDRGTklJQzdYTl9LamRrTUU5M2lGS21vWDlzMjYyQ3VWVnBVTm45azRVc0s0ZGhENDA2Y0E4T1lYSE1NcXhIZm1UZlRJelRUYzlRbjE2QmR4clNjYnNHWW5vSUVn?oc=5",
-          "date": "Wed, 28 Oct 2026",
+          "title": "Accenture PLC Cl A stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZGdPT29wR2UyWFpsZUdRQUxZbkQ1MVdwbGllTWt3TFk5VW5lQXhDYlhROXU1RVhZU0hQaEFwajktSGJ1MkpkbVl2SWZNZWx0TmR4UjZ1QUJ5NksyZ0NGR19tUVFDczQtdXltX0RXanB6NXFfZW5CUGk0RUZtX2ZUOE16dHY0Y1YwWl85RlZ0MlFjeUJTOC1WYzhBWTRrZzgyUkVZN0VCWGhCYWdTZnBSZWFvQmtPbzFXRWR1UU9pekNva1ZvVzFmdFllUGlDVkNGN2pGQW1FcHhfRDYtUVA5RGVTaHdWT0tnNzZnUlNZV2MtekZqaHFsXzVMVzZUQ2o1bmNGMg?oc=5",
+          "date": "Thu, 29 Oct 2026",
           "source": "MarketWatch"
         },
         {
@@ -1125,8 +961,8 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1153,32 +989,29 @@
       ]
     },
     {
-      "ticker": "MSM",
+      "ticker": "TTMI",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 11.3,
+      "buy_score": 10.0,
       "sell_score": 0.0,
-      "net_score": 11.3,
+      "net_score": 10.0,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
-        "2026-10-23 DIRECTOR Slone Reuben E BUY $42,789",
-        "2026-10-23 DIRECTOR Slone Reuben E BUY $42,789",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $7,016,033",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $7,016,033",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $6,348,018",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $6,348,018",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $15,620,119",
-        "2026-10-23 DIRECTOR JACOBSON MITCHELL BUY $15,620,119"
+        "2026-10-28 OTHER Ali Wajid BUY $453,175",
+        "2026-10-28 OTHER Ali Wajid BUY $453,175",
+        "2026-10-28 OTHER Ali Wajid BUY $449,286",
+        "2026-10-28 OTHER Ali Wajid BUY $449,286",
+        "2026-10-28 CEO Roks Edwin BUY $440,350",
+        "2026-10-28 CEO Roks Edwin BUY $440,350"
       ],
       "company": {
-        "name": "MSC INDUSTRIAL DIRECT CO INC",
-        "industry": "Wholesale-Industrial Machinery & Equipment"
+        "name": "TTM TECHNOLOGIES INC",
+        "industry": "Printed Circuit Boards"
       },
       "trend": {
         "dates": [
-          "2026-10-12",
           "2026-10-13",
           "2026-10-14",
           "2026-10-15",
@@ -1191,135 +1024,305 @@
           "2026-10-26",
           "2026-10-27",
           "2026-10-28",
-          "2026-10-29"
+          "2026-10-29",
+          "2026-10-30"
         ],
         "closes": [
-          128.67,
-          132.17,
-          132.58,
-          130.7,
-          130.38,
-          128.25,
-          129.53,
-          132.82,
-          112.43,
-          113.86,
-          118.72,
-          118.38,
-          122.59,
-          122.65
+          116.1,
+          103.31,
+          101.36,
+          93.88,
+          99.1,
+          95.51,
+          102.15,
+          73.89,
+          80.11,
+          85.5,
+          86.78,
+          90.79,
+          87.63,
+          80.925
         ]
       },
-      "price_now": 122.65,
-      "price_at_signal": 113.86,
-      "pct_since_signal": 7.72,
-      "pct_14d": -4.68,
+      "price_now": 80.925,
+      "price_at_signal": 90.79,
+      "pct_since_signal": -10.87,
+      "pct_14d": -30.3,
       "deep": {
         "recent_filings": [
           {
-            "form": "10-K",
-            "date": "2026-10-22",
-            "summary": "Annual report: full-year financials, risks, and business overview.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000110/msm-20260829.htm"
+            "form": "10-Q",
+            "date": "2026-10-28",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526435875/ttmi-20260928.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-28",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526434993/d28453d8k.htm"
           },
           {
             "form": "8-K",
             "date": "2026-10-22",
             "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000108/msm-20261022.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526428263/d282109d8k.htm"
           },
           {
             "form": "8-K",
-            "date": "2026-10-14",
+            "date": "2026-10-19",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526424707/d187690d8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-13",
             "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000104/msm-20261014.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-08",
-            "summary": "Company executive/director departure or appointment; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000094/msm-20260908.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-19",
-            "summary": "Company executive/director departure or appointment.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1003078/000100307826000091/msm-20260813.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526419614/d38382d8k.htm"
           }
         ],
         "about": ""
       },
       "actors": [
         {
-          "name": "JACOBSON MITCHELL",
-          "kind": "DIRECTOR",
-          "note": "158 Form 4 filings on record since 2003; 3 buys of MSM in this tracker's ledger"
+          "name": "Ali Wajid",
+          "kind": "OTHER",
+          "note": "99 Form 4 filings on record since 2012; 2 buys of TTMI in this tracker's ledger"
         },
         {
-          "name": "Slone Reuben E",
-          "kind": "DIRECTOR",
-          "note": "56 Form 4 filings on record since 2011; 1 buy of MSM in this tracker's ledger"
+          "name": "Roks Edwin",
+          "kind": "CEO",
+          "note": "29 Form 4 filings on record since 2017; 2 buys of TTMI in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "MSC Industrial Direct Co Director Makes $28.98M Stock Purchase - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQelVpb0VFbzAyd1BhbTdUQy00LUEyRHE1N1MzYnZWcFFzVDc5SXdtRUY4eUxHVzlETmxZZEFYN0FZV2RCYVcxSjBOS19kaW1mX1Y1SkFuaGxaYzVSdTRwdFU4VGdtZ0dxVTljZk1wWVNCQ183NnZabkZNQk1PSVh5WDZKbUFZS1BxcXVJWnZyVlV1N2toVnZqM1d0RHdKRDViTWI1UmtvTHZkZw?oc=5",
-          "date": "Wed, 28 Oct 2026",
-          "source": "Benzinga"
+          "title": "TTM Technologies, Inc. (TTMI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1VM0dPbjl0UVJKSUF4VmZPYkNsaWlENlM1ZzFWSmNrWi0tVUZ2V0EwOFR5TVA2VkFEcklTRE0xZTVibkVUQjdqbmNHcEliN3U0bGc?oc=5",
+          "date": "Fri, 30 Oct 2026",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "MSC Industrial Direct (NYSE:MSM) - Stock Analysis - Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPXzN2QUt4SDR6bnZHU20xLUZNZFJwbEVoenVMM1g3T3VnMU80MDNhaUFacEM1SndtOERDcVdyamJ4MlhhTDFrR2RKWnhOSG9BTVZ2OEx2N0N0TGtpODB2bUV5MTk2aWtCLVZMSmw1TnZWbHBKTUVhSUFqaXVYZDh6M1lB?oc=5",
+          "title": "TTM Technologies: Big Guidance Increase, Cheaper Stock Price (NASDAQ:TTMI) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWpqSi15U204VUlCUjUwRURaZGZSMkNodG9LVnVNc3BDU184MFRwTXpxYnhjeGtjZFF0Mmt2SkVwUU5sWGRPME1PaXd1ZHhIeVM4LTZNU25IN0d4VGYyZjBUNF91M2o4UGt3ZjAyWFlIVEU5cVhQNEgzV3ZCR0F1ZXM0b1lpQi00ZDFveURvOEpXTnN2V2lFUVFHQmxyTGpp?oc=5",
           "date": "Tue, 27 Oct 2026",
-          "source": "Simply Wall St"
-        },
-        {
-          "title": "MSC Industrial Direct Co., Inc. 2026 Q4 - Results - Earnings Call Presentation (NYSE:MSM) 2026-10-25 - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeFV6WGRBNGM1U2R1OUZvYmt2dURJcnd3cURtYldtY09YVU8zTjZ4MDVrOVdhV1B0bmRNMno5bTRUZ2lrWl9scUd2R0lydjk2XzZqNVVmSzdYYm9rRmp4Rnk5WGJzUGpwR19PcWlGcWxVR3JzWHVHVF93V19senhzRWZhZ3hCWUh6OHI5cmFickFZd0N0aW1uN0J5MHJhZDktMlVDVmhzXzhianBuQkgtb3JB?oc=5",
-          "date": "Sun, 25 Oct 2026",
           "source": "Seeking Alpha"
         },
         {
-          "title": "A director buys shares and gifts 8,200 trust-held shares at MSC Industrial (MSM). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGZVbEJvSk1qMVlLc1RHZExIY0ZVbUxHdXMtWG1UR3JlaWRPbTFrSGxWTW1kaW9UNHd5SmhCSlZRYlVVWW1nTUo2MmRiOThCN0U5cG9VcEplbWdxVmNGMlVnVkJaQjRoN1poa1VaRkE0VmpWOWdEUGNyenFOTENMWEtzbl9LNXFiT2hhNU1nR1I1SDZyNnVKYW80cFJzN1lQRk9rWGZuMXJzOUt4WHJJSDh6aU1Qb0p5VThfUUFB?oc=5",
-          "date": "Tue, 27 Oct 2026",
-          "source": "Stock Titan"
+          "title": "Ttm Technologies director Ali Wajid buys $902,460 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOUxkT2wxTWZoejZlV1k2bjctcDhzY0FYcTFRV3AtRFotUkNsSnJZOU5jQVA0Rml2RkY5RS1mazNoTFl0Tnp2cmFFTnNmbE14RGdFa0FMZ3FuVV9hOTJ3VXVWY1k0V1JhUXo2a29HenZGNnlvaXlZZnNmX1Z2Y1d0aTBxcGw2WmJLTnlvc2NSdU9uQlJfYUdZM1BwYWs2NlVsSTNBd09RSmM4LXdrc2phbXlLckVxTk5iWWk1RkFn?oc=5",
+          "date": "Thu, 29 Oct 2026",
+          "source": "Investing.com"
         },
         {
-          "title": "How To Earn $500 A Month From MSC Industrial Direct Stock Ahead Of Q3 Earnings - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOXdxaTRTS0lSTE8wSEl3SG9VQWstLWJFeG9JTHZqWU9oS21IVmk0Rzl3UWlVd2tSd210S0wxQVB5d0hxbFdEMVVYdmw1NHl2RWpFNFo5RllIaVhjMVNIN3FSclNOajZfWEhNLURZOXhhWVhnbDRIeGtoSjJvdGp5aFliRW11aVRWR1pBdzVyWVM2ZGJLOUoxd1Z3?oc=5",
-          "date": "Wed, 01 Jul 2026",
-          "source": "Yahoo Finance"
+          "title": "TTM Technologies, Inc. (TTMI) stock price, news, quote and history - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11MjIyeEg4N1I1eUFZYm8yVmhOX0FCbzNoS3IzMHVNZk5HOHNuMEVYWmszbzBZVDFOWFQ0ZzA0QlRzMVZRT1VkWUg2QTc2TjFEX0E?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "Yahoo Finance Singapore"
+        },
+        {
+          "title": "TTMI vs. AXTI: Which AI Infrastructure Stock Is the Better Pick? - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNE5QSnhmZzhKWk01a3R4QjFsYkZiSzVyWldLbzlONHA0bmNhVnNpUWxBQjFSaFczbUtYalJuSklMc3NUYnc0eW1ZeWxlZzFNT2lfZzRZZFJJVFJ6VEtmbjlhV1BCT21BS0hrRUowNHdIWTh4bVpzUXpVS09pMk1xbjQ0cWxiNDBVSjBXbWRaU2R3MWVTWHNZcGhYWGczRGRLQjF4MmJrS2M0NzhLVzlONmx5dFF2Qmd4?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "TradingView"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
-        "cls": "mid"
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cMSC INDUSTRIAL DIRECT\u201d",
+          "label": "Bills mentioning \u201cTTM TECHNOLOGIES\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=MSC%20INDUSTRIAL%20DIRECT&source=legislation"
+          "url": "https://www.congress.gov/search?q=TTM%20TECHNOLOGIES&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cMSC INDUSTRIAL DIRECT\u201d",
+          "label": "Hearings mentioning \u201cTTM TECHNOLOGIES\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=MSC%20INDUSTRIAL%20DIRECT&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=TTM%20TECHNOLOGIES&source=committeemeetings"
         },
         {
-          "label": "Bills mentioning \u201cWholesale-Industrial Machinery & Equipment\u201d",
+          "label": "Bills mentioning \u201cPrinted Circuit Boards\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Wholesale-Industrial%20Machinery%20%26%20Equipment&source=legislation"
+          "url": "https://www.congress.gov/search?q=Printed%20Circuit%20Boards&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cWholesale-Industrial Machinery & Equipment\u201d",
+          "label": "Hearings mentioning \u201cPrinted Circuit Boards\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Wholesale-Industrial%20Machinery%20%26%20Equipment&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=Printed%20Circuit%20Boards&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "HBAN",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 7.6,
+      "sell_score": 0.0,
+      "net_score": 7.6,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-10-27 DIRECTOR TORGOW GARY BUY $199,834",
+        "2026-10-27 DIRECTOR TORGOW GARY BUY $199,834",
+        "2026-10-26 DIRECTOR ROLLINS JAMES D III BUY $59,420",
+        "2026-10-26 DIRECTOR ROLLINS JAMES D III BUY $59,420",
+        "2026-10-26 DIRECTOR ROLLINS JAMES D III BUY $194,300",
+        "2026-10-26 DIRECTOR ROLLINS JAMES D III BUY $194,300"
+      ],
+      "company": {
+        "name": "HUNTINGTON BANCSHARES INC /MD/",
+        "industry": "National Commercial Banks"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-13",
+          "2026-10-14",
+          "2026-10-15",
+          "2026-10-16",
+          "2026-10-19",
+          "2026-10-20",
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30"
+        ],
+        "closes": [
+          15.24,
+          15.1,
+          15.35,
+          15.27,
+          15.23,
+          15.54,
+          15.72,
+          15.66,
+          15.73,
+          15.73,
+          15.71,
+          15.7,
+          15.97,
+          15.665
+        ]
+      },
+      "price_now": 15.665,
+      "price_at_signal": 15.73,
+      "pct_since_signal": -0.41,
+      "pct_14d": 2.79,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-10-27",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000090/hban-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-22",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000086/hban-20261022.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-22",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000084/hban-20261022.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-24",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000081/hban-20260918.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-18",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/49196/000004919626000079/hban-20260918.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "TORGOW GARY",
+          "kind": "DIRECTOR",
+          "note": "79 Form 4 filings on record since 2003; 1 buy of HBAN in this tracker's ledger"
+        },
+        {
+          "name": "ROLLINS JAMES D III",
+          "kind": "DIRECTOR",
+          "note": "40 Form 4 filings on record since 2003; 2 buys of HBAN in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Director buys 12,700 Huntington Bancshares (HBAN) shares at $15.735 each. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUIwaGRtMXBDOW05VkpzREpzU2J4aFZScVFWMkJlVWEtdW9qT3ZLYmQ4bTR3XzlkUktnVjRCaVAwMlRfSW9KZWRsdmhuOTllVHpXLUttVk40ZlltVWFROHBRNmhpVVYwNFBCUXRDaDlOY1dpdlV3b25PSXRkeWxaWUZacVRVNzhzVjNyaTE4TENHZ255U1hNMDd0SExoWlBBZTV3ek9VNDlfak1LaDUzakZjUTRsMWVSQjFqeWRQaw?oc=5",
+          "date": "Thu, 29 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "A quarterly award gives director Richard W. Neu 3,252 Huntington Bancshares (HBAN) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUWdobVR6amNwY0NQOUhLNGl2bU5QYjFNU2ZxcjV4emg1YWFFRGJobkJXVGpUUld3U05TWW82TFVsdUdMbWhibVZ5TXNITWNZcEFVX0NlNmxENkprd2pXZUl1aHk3M1M0SDZrUHR6N2M4LXJ3LThVQlpPTmdiSHIzUm5DLTRmVmVrOVJPVHljQmxIOWdYcGZXd3NGLUQ3aVN4d0FqSUxGVk81U3NPazJkMkFvRUdqaE1NX3VpY0psdw?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "After a quarterly share award, a Huntington Bancshares (HBAN) director's plan lists 52,886 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTJiQWJHSG9LOXdaT3FnOTV4RmFsV2RwbDExdVBTcGJ5WEVTZUhiaVpWU3RvdjZkaTJKQ3RsejV0d3ByZ1pseTFRYm53dEN0SlJJQVRSZWgzM0RiQnR0UWFXNEl2TXhqSGV0dHVRcHlGRG1lT2gwWjVUNmEyQkFETXdYcmpLRmJuM2FYNzVMYTlDa1dXRUM0S3dxYkQ0ZFltYmhCWVhVZmV3LUpyWW0zRG5RLWYwUkF4VFdYbFFFNA?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "HUNTINGTON BANCSHARES INC /MD/ ($HBAN) Chairman, President,and CEO 2025 Pay Revealed - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkhpRE9FeTV6Z3dhY21NV25SWWp0X1FTQ3Eta3lWTWxVbk1WSUtsdDIwem9OWFowNzdXM1BzeVBmVEJDREtlaW0wR2RnU28wdzJJTjNmaDJfYWpGTW1wOFFNT1otVzJkaW9PWEEyamcxbkM2MUk0bUw0a2JkengtX2hlVTNEUDluMDh6aDc4WEhxbFJXUTVWal9TaVpPSlA3clhJRTBjMEk0NDhsQlZIMHNOUU5mcjRLeklUclhlZFVkQkJCWFVLd3NmNA?oc=5",
+          "date": "Thu, 12 Mar 2026",
+          "source": "Quiver Quantitative"
+        },
+        {
+          "title": "A quarterly award gives a Huntington Bancshares (HBAN) director 2,730 shares through a deferred pay plan. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUnJXcU5Gelc3bnh3RGpTbEx6Rm9WQUJUNnV5bTB2YWplSXlGZjBYYmEzSV9XamZLQVpueDE4MGkxRHMwLXlleTh5UFJCSlFkcUpPNTIwRmtVc1lvNnFKNW1hUUtkWHRhMXBmQmo5aHNzU2wxNUNXdTI0SmM4anhtbG9LUG1lWlFmZ2RHQzUxRlNZVURReWx0dUFHQUNoVVhyZEpqM1JyaUJqOEsybTBtbkRBOFQyTWowVTVCejlBdw?oc=5",
+          "date": "Wed, 28 Oct 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cHUNTINGTON BANCSHARES  /MD/\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=HUNTINGTON%20BANCSHARES%20%20/MD/&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cHUNTINGTON BANCSHARES  /MD/\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=HUNTINGTON%20BANCSHARES%20%20/MD/&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cNational Commercial Banks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=National%20Commercial%20Banks&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cNational Commercial Banks\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=National%20Commercial%20Banks&source=committeemeetings"
         }
       ]
     }
