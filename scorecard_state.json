@@ -53,6 +53,12 @@
       "issued": "2026-10-26",
       "px_issue": 2.69,
       "spy_issue": 764.8399
+    },
+    {
+      "ticker": "ASPE",
+      "issued": "2026-11-03",
+      "px_issue": 12.35,
+      "spy_issue": 753.905
     }
   ]
 }
