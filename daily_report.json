@@ -1,154 +1,9 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-09",
   "signals": [
     {
-      "ticker": "CRWD",
-      "call": "SELL",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 0.0,
-      "sell_score": 60.0,
-      "net_score": -60.0,
-      "distinct_buyers": 0,
-      "distinct_sellers": 3,
-      "evidence": [
-        "2026-11-03 CEO Kurtz George SELL $489,880 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $489,880 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $370,545 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $370,545 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $317,666 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $317,666 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $317,057 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-03 CEO Kurtz George SELL $317,057 (10b5-1 planned sale \u2014 discounted)"
-      ],
-      "company": {
-        "name": "CrowdStrike Holdings, Inc.",
-        "industry": "Services-Prepackaged Software"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-20",
-          "2026-10-21",
-          "2026-10-22",
-          "2026-10-23",
-          "2026-10-26",
-          "2026-10-27",
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06"
-        ],
-        "closes": [
-          227.37,
-          239.34,
-          237.94,
-          257.57,
-          261.83,
-          268.02,
-          266.66,
-          261.15,
-          250.43,
-          241.81,
-          244.68,
-          241.0,
-          217.2,
-          218.62
-        ]
-      },
-      "price_now": 218.62,
-      "price_at_signal": 244.68,
-      "pct_since_signal": -10.65,
-      "pct_14d": -3.85,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "GANDHI SAMEER K",
-          "kind": "OTHER",
-          "note": "118 Form 4 filings on record since 2007; 43 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "Kurtz George",
-          "kind": "CEO",
-          "note": "205 Form 4 filings on record since 2019; 669 sales of CRWD in this tracker's ledger"
-        },
-        {
-          "name": "Podbere Burt W.",
-          "kind": "CFO",
-          "note": "91 Form 4 filings on record since 2019; 15 sales of CRWD in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "CrowdStrike Holdings (CRWD) Outperforms After Delivering Record Net New ARR - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUNoNXh6akFnWTVRNTV4NzZQeWlwZkdrb2VVeWlBMXEwMUxhbEZzODVTeWtWUnR1X2FtcnRfQWlxQ3JmWEpTWDczQldvUUFaSG9MRlFrNGp2clMxYUtheHo3cUdOeW9Wb0t4ek9LVmh0ZXdZVHdST0s3QVBHZXAtTTZtTWpraGJjcG00NGRDc1I1NVVJa0Q0NlFESnQ2UVg2bTFvb1lpQW9wU2oxbjVMb01vYw?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc (CRWD) Stock Down 9.9% but Still Overva - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa2dMLVJpbHRwLUhNQUt3YmtBeVAxdlhfcDF4VnF3eDF1QUlZaDY3cHVJckJ4WTkycnEwOUdncVRkOEFGc0JSUElfSzJxZU90N3FFNDg4SU9EMkhObXhfN0JZSU1QYUlQQ1p1M0JFRWdwRVFUNWFqODZTWlF6VEZtT3JoR0dNZFRScENkVXducl9oWHZrdkk3MkJiYnNzQ3dPV1oxa1V0UlFQQmF6SFBoU2J0OXREYzJvcGc?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "GuruFocus"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc. Cl A stock falls Wednesday, underperforms market - MarketWatch",
-          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMkFMOVFEN0JsQjctR05uVmdhOWR2b21GXzAybFdYQUx6QmdpbFNkZzFfRmNhSzBETFJVUkwxOEZiWV9TWFB0aF92bXhwXzN5WDRqNWZtWnJfbEVLUnlrM0hLM3VNb0ptNkdRemFWNW1FYy1OVk9TbUNxUHVVQjYyUU9XeGRsMGJNNEMxdXQzdFlQQ0FxdUJycEFiUFFheGhFa25ic3N3cUpVNmh3d3lKT0QySVNMZEhjSktlcUlPQnEzSGc1REhCSjZ5MERCXzlqaVljVkFCSjFTSkZGdnRKdGJpc0U?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "CrowdStrike Stock Plummets on AI Regulation Fears - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0RwSmVDRzBPV0xSelhlemZ4dFZXRkVvUm9CQkIzQWcyR2F1aFUzVkhyRGhyRXFEcHZabk9VdGFRSHRQaDNjZmtLN2xqYlhLNzZwNUQwME1ibTJRcnh3ZzNCblkxcXBacGYtZ1NGX0ZEZlBnUmU4NnA0bENUV0I3WXJVRXg4LTJhNEVOZDhCeDhSaXl6VTRPZUVEczlkRG54aVhOT2RmR054bEticldR?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Down by 9.29% on Nov 5: What Signal Does It Send? - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWGZMbHp2RHBmd2dKYmk4aEhQMmVocktoTzBKcmNLeWhXMFZUX3lwV0lPN0FRSEhIb2xxSFgzSlNOVFM1NC1yMVpFaHkzUDFGLVBUSFhHVlltX1JmaUlEQlNEUzJFVlgwUGlwZWJmUnY4TDZ6RnJkWTlDaFVjWk5IX2dUVTduTVNMdlpB?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "TradingKey"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cCrowdStrike\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=CrowdStrike&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "ETRA",
-      "call": "WATCH",
+      "call": "BUY",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 60.0,
@@ -172,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -185,10 +39,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          8.81,
           9.05,
           9.25,
           8.71,
@@ -201,13 +55,14 @@
           8.07,
           7.97,
           7.35,
-          7.75
+          7.8,
+          8.22
         ]
       },
-      "price_now": 7.75,
+      "price_now": 8.22,
       "price_at_signal": 7.35,
-      "pct_since_signal": 5.44,
-      "pct_14d": -12.03,
+      "pct_since_signal": 11.84,
+      "pct_14d": -9.17,
       "deep": {
         "recent_filings": [
           {
@@ -239,10 +94,10 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Electra Therapeutics (NASDAQ:ETRA) Director Orbimed Advisors Llc Purchases 156,091 Shares of Company Stock - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORXhiR1lCM2JIQ3UxcHRNU09lM2VYR2RrNDEzQ3FEcWxSa3ZUZVNFak1FSTBVNzZSUXJzSm5xRWNmMS1Qc3dRR2lEZGdUN1o2dnlDUjk3OVEtSGdXa1FqX0JjcXNfRHV0N3pIRF8teUhKVzBFaDhwaVhOZXRnYW92ZkY2OUtySlhPVmtHMHBxMm4yakFOOExGdnlud2VWMTAwaVJ0SUpOSFhHYl9IQ0I4SjJfZW5pQWh5ZmEzRmx5VGFjZ0xuV1h2d0UyMHRnMl9na0M5MDA5b3dTa3drUnpnQW50eVhRTTdVNXItcnZ4U2VNSElBSVJoTw?oc=5",
-          "date": "Fri, 06 Nov 2026",
-          "source": "MarketBeat"
+          "title": "This Electra Therapeutics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ1VFU0c1Z0loRThBZHJ3eE1DNlloNXdBNkJPbG1VMVBiX3l3dWstX3lzczBieGItUTR2TnlZMWNPb3dDS0t3MXNkZnE5WVhZZl9vc19lOGZTYk10alZrM1p6QU1ubjZLMnJpRUtzT2lKaHlDTTFYeEFqRXplbzhtS01ReTc5eXBjUmtQeTBMRTBIWjA1Y2JCVThOaEEta0tLY3R6bExtTkhhejF2Z2RiNE9BaFY1RFRXVmQ5VHRjeTVzaGQtbjdwXy1kQ2lVUWpqYkR3eVhSc3lJUkduUEI5U3V6SXpyRFE2bzg5U19ITnNwNnVCRGNQZTVla1k1OEZiSDdaZVgxaWlIajQ?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "Benzinga"
         },
         {
           "title": "Electra Therapeutics, Inc. (ETRA) stock price, news, quote and history - Yahoo Finance Singapore",
@@ -251,23 +106,23 @@
           "source": "Yahoo Finance Singapore"
         },
         {
-          "title": "This Electra Therapeutics Analyst Begins Coverage On A Bullish Note; Here Are Top 5 Initiations For Tuesday - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ1VFU0c1Z0loRThBZHJ3eE1DNlloNXdBNkJPbG1VMVBiX3l3dWstX3lzczBieGItUTR2TnlZMWNPb3dDS0t3MXNkZnE5WVhZZl9vc19lOGZTYk10alZrM1p6QU1ubjZLMnJpRUtzT2lKaHlDTTFYeEFqRXplbzhtS01ReTc5eXBjUmtQeTBMRTBIWjA1Y2JCVThOaEEta0tLY3R6bExtTkhhejF2Z2RiNE9BaFY1RFRXVmQ5VHRjeTVzaGQtbjdwXy1kQ2lVUWpqYkR3eVhSc3lJUkduUEI5U3V6SXpyRFE2bzg5U19ITnNwNnVCRGNQZTVla1k1OEZiSDdaZVgxaWlIajQ?oc=5",
-          "date": "Tue, 13 Oct 2026",
-          "source": "Benzinga"
-        },
-        {
           "title": "In 10 transactions, OrbiMed funds buy Electra Therapeutics (ETRA) shares. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcFlKSy1oOFBGN2p6YnFtLUh1TzRiNng1UW50WkZyajZzWW9ka2cyUENYLWcwVkNsWUVqLWFwTHgwbVlRWktRSEpCWFEwSkpBVXZuSXdWNjZrbTcxMF9CdEhoYTlxTG96RUp5cWZJcFc5RUVlc2NoR2tnWGFaWG54elFWdWtlVkdscmo2Z01LemZOWU8xc2oycURwZ1Zsc0lhU1pwcUlrcmxXY2pXbmN6ck1EcjRUVGstd0E?oc=5",
           "date": "Thu, 05 Nov 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Electra Therapeutics, Inc. (NASDAQ:ETRA) Sees Significant Decline in Short Interest - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlhnbGlKV0NKMzhuQkxDT29IdkpXWG44TUNrbm5idkpBLWdxR1ZlOG9VdE0yMVU4ZEpCR3dSdlFPVldyRkJvQ1FYWi1Ob29UMksweDhrdTFYMnhORWxnSlRUanJ4d01jSTVNSUprM3VRMjMwVkIyWVJmTWx5RlN4WXlsT3pjdWJhdkZWNnZObG5NN0lQSkZBZ3Q5My1iUUVtdHlybGxlNG1JNm1FM3djRU80cjQyTEFyQzVkall4dzBTM1JLOHViRFM1VnpNLTNBal83ZmNJbmg?oc=5",
+          "date": "Sun, 01 Nov 2026",
+          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
-        "cls": "fresh"
+        "label": "Edge partly spent \u2014 already +12% since disclosure",
+        "cls": "spent"
       },
       "earnings_soon": false,
       "legislation": [
@@ -294,119 +149,121 @@
       ]
     },
     {
-      "ticker": "ASPE",
-      "call": "WATCH",
+      "ticker": "CRWD",
+      "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 46.5,
-      "sell_score": 0.0,
-      "net_score": 46.5,
-      "distinct_buyers": 4,
-      "distinct_sellers": 0,
+      "buy_score": 0.0,
+      "sell_score": 60.0,
+      "net_score": -60.0,
+      "distinct_buyers": 0,
+      "distinct_sellers": 3,
       "evidence": [
-        "2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000",
-        "2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000",
-        "2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000",
-        "2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000",
-        "2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000",
-        "2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990",
-        "2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990",
-        "2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990"
+        "2026-11-05 CEO Kurtz George SELL $64,743 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $64,743 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $590,293 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $590,293 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $56,047 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $56,047 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $496,695 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 CEO Kurtz George SELL $496,695 (10b5-1 planned sale \u2014 discounted)"
       ],
       "company": {
-        "name": "Aspen Neuroscience, Inc.",
-        "industry": "Pharmaceutical Preparations"
+        "name": "CrowdStrike Holdings, Inc.",
+        "industry": "Services-Prepackaged Software"
       },
       "trend": {
         "dates": [
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
           "2026-10-30",
           "2026-11-02",
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          14.89,
-          13.04,
-          12.29,
-          12.76,
-          11.76,
-          11.54
+          239.34,
+          237.94,
+          257.57,
+          261.83,
+          268.02,
+          266.66,
+          261.15,
+          250.43,
+          241.81,
+          244.68,
+          241.0,
+          217.2,
+          216.9,
+          228.58
         ]
       },
-      "price_now": 11.54,
-      "price_at_signal": 13.04,
-      "pct_since_signal": -11.5,
-      "pct_14d": -22.5,
+      "price_now": 228.58,
+      "price_at_signal": 217.2,
+      "pct_since_signal": 5.24,
+      "pct_14d": -4.5,
       "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-11-02",
-            "summary": "Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526443805/na-20261102.htm"
-          }
-        ],
+        "recent_filings": [],
         "about": ""
       },
       "actors": [
         {
-          "name": "ORBIMED ADVISORS LLC",
-          "kind": "DIRECTOR",
-          "note": "291 Form 4 filings on record since 2017; 1 buy of ASPE in this tracker's ledger"
+          "name": "Kurtz George",
+          "kind": "CEO",
+          "note": "205 Form 4 filings on record since 2019; 688 sales of CRWD in this tracker's ledger"
         },
         {
-          "name": "Thompson Peter A.",
-          "kind": "DIRECTOR",
-          "note": "131 Form 4 filings on record since 2006; 1 buy of ASPE in this tracker's ledger"
-        },
-        {
-          "name": "ARCH Venture Fund X, L.P.",
+          "name": "GANDHI SAMEER K",
           "kind": "OTHER",
-          "note": "12 Form 4 filings on record since 2018; 3 buys of ASPE in this tracker's ledger"
+          "note": "118 Form 4 filings on record since 2007; 43 sales of CRWD in this tracker's ledger"
         },
         {
-          "name": "ARCH Venture Partners XIV, L.P.",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2026; 1 buy of ASPE in this tracker's ledger"
+          "name": "Podbere Burt W.",
+          "kind": "CFO",
+          "note": "91 Form 4 filings on record since 2019; 15 sales of CRWD in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Aspen Neuroscience Inc. Stock Grades | ASPE - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcHNWZ1Z4SUF4U1YxdHRab3JFNHlIaXJQdUt0Z2NEejNlbTR3SlJWM3BsTWczeWt2YVJ0VFNVdFhqUUxXa2JHZW9qZHFELWNDTVM2TEtjZjJUVTRLeDZvaDZucDJkUlhreXRXaw?oc=5",
-          "date": "Tue, 03 Nov 2026",
-          "source": "Barron's"
+          "title": "CrowdStrike Holdings Inc. Cl A stock rises Monday, outperforms market - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNHFIQW5VcmRoNldPMXFURGlLa2RkVlNJVHVwS1FfdHlYd01vZjIyVGxGWVN6RFFHZk9VNW1adEgzbU8yUDVUNjZQaGxwZzNLakVaVnZTTFlHZlRQUFNOWG5zejM4bzBocTFTOHlCcGRGb1FLQlY2X19TTm9SZnFIRVNqY0I2N0ZuVC04ckEwdndvNXZGUXg1WlhZOE1KdjBlXzU0UlZXSzhiVHlqZExBbzFyUU9vUlpTT2NLYjh2dGFOMlJYQzk3T1NfY2RSMHRTWktjWWtzQnZmT2RucUE?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "MarketWatch"
         },
         {
-          "title": "One owner of a 3.25M-share passive stake in Aspen Neuroscience (ASPE) reports no voting power. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMTAzQnA4cFRiMWdxaUVSTTF2TlhLQUw4MzM4WVRFMHB4eHh5ek1jNEh5cGUzTll4NHFNZkZjWXhDUm1mVk1hVFotS3phZEtrNk5KYzRreDVKTi1QY2xRNjdRc2UtazQwNUl5b195RldDZV9XVk92R1ROSjQ3R3E1N2Q1eko2Nlh3dVA1Q1VLUUZQS2Y2Y2I3a0pZVG5rSFlkNUxocExpQlRvZHR3X3F4OVRyY1pDdFJ3SFQ2RUV2dWd0b1JuVGZjRA?oc=5",
+          "title": "CrowdStrike Holdings, Inc. (CRWD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5qaFJLbDFxXzFYaXNmalpneGRIMlE5U1VXVUVEOG44X0g1dXV1MVRob09vejdEaWkzd1NoZmVvZldxQW01bnhCZGx4NlFkM0gzVmc?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "CrowdStrike Stock \u2014 NASDAQ:CRWD Price Chart - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB1N3ZKRkFWR0lMMk83U1E1Z1NFTUZzMHVNOXZ3MXhsYXpEZHl2U1dZd3hPNE5tN3IzRW9oOVpESDlqVXhMMU83Z0lmNWlOYTNROE5PTHl1d3B0SE9o?oc=5",
           "date": "Fri, 06 Nov 2026",
-          "source": "Stock Titan"
+          "source": "TradingView"
         },
         {
-          "title": "ASPE - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwNGhFWVVJcEJMTjYzVTNmVmNDNjdsUDc3YnBDRVBJV3ZidWdmWmNCamg3UGRTVUpHclh6U01ucjlMVUJSTU5vdnd3Z2VYeVRx?oc=5",
-          "date": "Mon, 02 Nov 2026",
-          "source": "Quantisnow"
+          "title": "CrowdStrike Holdings Inc (CRWD) Stock Up 5.4% but GF Value Says Overvalued -- GF Score: 72/100 - GuruFocus",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLWEwLTN3UTZEamNMcW1LMDRBUnlLaklwTTY1cFVDbllaQmFJVnpabG1nOU9Ib25TWlZIaUdfWWVHdUkteFpiVTdjOEl6Z1VtZGo2RjVYOVVHYnBnd05oU0VYdTc0aVBpZE9iNVlxeXRUV1RsSTByek9IN2JTYUs5ZGpaOFlxbV9LZlZKQXhkNi1QZTk4NlhyRXNGTGFRWGtXNW5vajNGV2E0eV9fN01ZNEZuUm9aTnZvZEhON0ZJdk16QQ?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "GuruFocus"
         },
         {
-          "title": "Aspen Neuroscience Announces Pricing of Initial Public Offering - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLUp5U2hvT1I3SkRIemMtQUlhem9pd0gxZmE1VWF4cmxpUjBpUFBwZmJRYzNQUXR1bWhXZ3A0QWVGbDYyTTRxdjVGOUNlZ0VCX291Qnh6T3d4dVk2Ni1OekEwM3lWTGZuRm92c1lXTnZRZjZxZTMyNG9CVmtnNUhxdXdJVXFzVGZ2YWZGakdWVDRtQmlBYi1aeGdFaTBPVGh5cDlOa1l4Tl8?oc=5",
-          "date": "Thu, 29 Oct 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "ASPE | Aspen Neuroscience Inc. Stock Overview (U.S.: Nasdaq) - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxSTFkbHR4S3NvU2NISXliVVVYNTQ5OVJ6b25NUTA5NUNqenhMbzhtUmduVG5XNFl3b3NtVnZFN0NscmZmSXM3Uk1YdmZnTUIzdnN1clF2R0otVms?oc=5",
-          "date": "Tue, 03 Nov 2026",
-          "source": "Barron's"
+          "title": "CrowdStrike Holdings Inc Stock (CRWD) Moved Up by 5.89% on Nov 9: What Signal Does It Send? - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGU3TFAxQ214SzJPVTdfcEFDQlp4TDdMaDRDWmxLamE4RWRUZG1RaEpxT0dUUEttaXQ4UjZaNWdOX09SZjFFbm1BTmhQbWJjTjFEZndfb0s1NGN6Z01TZEFndUZRZV9XZWFCcmJyUzkzQnlacHJ2dm9FaVhIUTNFYVdYS0lPb2U2c3lN?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "TradingKey"
         }
       ],
-      "news_flags": [
-        "share offering (dilution)"
-      ],
+      "news_flags": [],
       "themes": [],
       "timing": {
         "label": "Recent \u2014 latest filing 4 days ago",
@@ -415,14 +272,179 @@
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cAspen Neuroscience\u201d",
+          "label": "Bills mentioning \u201cCrowdStrike\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Aspen%20Neuroscience&source=legislation"
+          "url": "https://www.congress.gov/search?q=CrowdStrike&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cAspen Neuroscience\u201d",
+          "label": "Hearings mentioning \u201cCrowdStrike\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=Aspen%20Neuroscience&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=CrowdStrike&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "UTHR",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 58.1,
+      "net_score": -58.1,
+      "distinct_buyers": 0,
+      "distinct_sellers": 2,
+      "evidence": [
+        "2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $698,010 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $698,010 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $682,881 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $682,881 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "UNITED THERAPEUTICS Corp",
+        "industry": "Pharmaceutical Preparations"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09"
+        ],
+        "closes": [
+          563.49,
+          584.79,
+          587.5,
+          592.84,
+          591.2,
+          586.48,
+          593.54,
+          598.72,
+          596.13,
+          601.32,
+          608.49,
+          565.72,
+          562.02,
+          582.46
+        ]
+      },
+      "price_now": 582.46,
+      "price_at_signal": 565.72,
+      "pct_since_signal": 2.96,
+      "pct_14d": 3.37,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-11-04",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000036/uthr-20261104.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-11-04",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-22",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/tm2628087d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-14",
+            "summary": "Company other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926115723/tm2627546d1_8k.htm"
+          }
+        ],
+        "about": "United Therapeutics Corporation is an American biotechnology company that develops pharmaceuticals and technologies related to organ transplantation, including xenotransplantation. Many of the company's products are focused towards lung disease and organ manufacturing. United Therapeutics is co-headquartered in Silver Spring, Maryland and Research Triangle Park, North Carolina, with additional facilities in Magog and"
+      },
+      "actors": [
+        {
+          "name": "ROTHBLATT MARTINE A",
+          "kind": "CEO",
+          "note": "911 Form 4 filings on record since 2008; 852 sales of UTHR in this tracker's ledger"
+        },
+        {
+          "name": "MAHON PAUL A",
+          "kind": "OFFICER",
+          "note": "484 Form 4 filings on record since 2004; 59 sales of UTHR in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "United Therapeutics Corp (UTH.HA) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zYm9HVDRRdnFvRFRmNEVEaWZ2NTZGYjVuU3I1NEV0MDRGZGVDX2s0Y0doajMteU9hQjhSZXZQZWRVZFpTQ2ZHbThTV2NqYjN2VWxkTw?oc=5",
+          "date": "Fri, 06 Nov 2026",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "After exercising options at $117.76 a share, United Therapeutics (UTHR) CEO trust sells 9,500 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0NxVU1nVHdkU1h5VWtqeWp2cm1UbGdjQk94NlBnbmE3Z3FtQWMxS3ctX2FtUXMzcG56aTlsM2Q1SHJxZFN6a0V3MXdCSkp1cGNIcjUtVzR2bEl3LXNCbk5zdS1wMVJhcDJzWkI5dG9jaGQ3SUtNNE8yVkRIRm9RRjM4V1RCM2lxU0d2RVdqREVFOEJDWm13NWdvM0R3S1d4eWVuNldPV0kzSWFKcmEwQ1ctZXVwUk9ROUE?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "H.C. Wainwright raises United Therapeutics stock price target to $660 By Investing.com - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd2ZRTjFXbTBrcGhnWjZuVzYxTTgzQ0RhLV9qTW9qUUp6MkZXdXkwXzBXbVdtcTBxd3RiQzJnc3J3aHk3WDg5Ul9oMzhIYVFBTm11VVZBMW5HSDlqc1JvcnIzLTRsVEhEeWcyNjdjOTRVNjhMQWpUZHE3eEVxNW40YUExSHZjSHltMk1vMXBiRHNoS2xsYVZ3NWdQUVh6TUd1cFhjLXpQeVZMUHRBYnZydXpPZEo2S1FvblY3QXN5SGR2Q05SU1E?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Investing.com India"
+        },
+        {
+          "title": "United Therapeutics (NASDAQ:UTHR) Revenue Beats as R&D Costs Weigh on Earnings - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmlXaEd3T05PN0xSdWhPUjFZSTV0WnZuM3lnM25HRmZzWXpxMTFYMzVkbE1uLS1XeTVQblkxSDY2VjdQVVA1THFWeWdZb281eWNaRmF3b3VqYjlWaGlNZURLYWgzb3ZPYm4xUmxfYWNEaGp0N1lEMHJJRzVEUzF1azdrbVdMWGQ0OE14cUNueU45Q1AtNWFPTXFmd3ZyMElsTW9URWZneUtFa29QbnhpcVdwVFFfQnZHNElCY0R4RkFlVmtj?oc=5",
+          "date": "Wed, 04 Nov 2026",
+          "source": "ChartMill"
+        },
+        {
+          "title": "Martine Rothblatt, United Therapeutics CEO, sells $4.3M in shares - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSV9vVlYtQll2bF9JeHdqLWhVMzQyRi1rLVBhQUNzUU5fQkgteVd2ZGtoS1hyQWNIN2RsT1NSYjNrTGhPYmxXRWIwaG02YlJmWFc3UjVKLW50Uy1NVjFQZUJxaVJhSGMzMGdYT2lBakpJNDRBSnRyMkpUblRrLTNrVFY1Yjdxb2JJaDl1MFRNcF9tVHo2Mjh6dHFtTGtsaFRJN2ExVS1PZHhZTEp2YVdPdEEyV25sZlJicVprbWxwaUlvVVZW?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "Investing.com"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=committeemeetings"
         },
         {
           "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
@@ -442,8 +464,8 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
-      "sell_score": 42.4,
-      "net_score": -42.4,
+      "sell_score": 43.9,
+      "net_score": -43.9,
       "distinct_buyers": 0,
       "distinct_sellers": 1,
       "evidence": [
@@ -462,7 +484,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -475,10 +496,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          28.16,
           31.45,
           29.72,
           30.69,
@@ -491,13 +512,14 @@
           30.22,
           27.39,
           26.91,
-          27.57
+          28.05,
+          31.84
         ]
       },
-      "price_now": 27.57,
+      "price_now": 31.84,
       "price_at_signal": 30.22,
-      "pct_since_signal": -8.77,
-      "pct_14d": -2.1,
+      "pct_since_signal": 5.36,
+      "pct_14d": 1.24,
       "deep": {
         "recent_filings": [
           {
@@ -542,6 +564,12 @@
       ],
       "news": [
         {
+          "title": "Alamar Biosciences: Recurring Revenue Potential At A High Premium (NASDAQ:ALMR) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQWtxSEZGUFFtT3A4RHk2UWZ2V2JtOW1lV2hEck1hYmE2cTltZkMxdGtJNTlMNi1CbnRPakNVdHU1cXZGcHZsR3Uxc200LWRpQ01QTmc4UkdUWmVjUjhqTzAzYkFDbmNzQnhyYUl2b2ctV09jMlp5emtKU21vMkw0d2NnM0VvbVNpRkh6UzdJNUdKTk5sdWo5MmRfUHJyWmk3TDhaclFRZ18?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Seeking Alpha"
+        },
+        {
           "title": "Does Alamar Biosciences (ALMR) Sit Above Fair Value After The Selloff? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSlFfMzRnWFNCdzh4aHZ2SkZiMHF2aTFaclJnaW91aHFmRzZCUEg4dUNmQklkU3FGZ3VDTGJ5ZFptbjlqOTBNNFh3aU5sa1pNbGxUQW0yMXpWTHRDbFM5VUg5b2VORGF2NTlRUEtXdFRwdkdLSFVKWFVKelBNQ3BRTE5Dd0ctWGdmeTduNHJEeHJZS29lLUNnX3pFMDVtUQ?oc=5",
           "date": "Thu, 05 Nov 2026",
@@ -554,29 +582,23 @@
           "source": "TradingView"
         },
         {
-          "title": "Alamar Biosciences, Inc. Stock 12\u2011Month Price Target Raised to $35.8, Implies 18% Upside - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNV25SdTlrdkowcGlmclQwRW1KYktoWGN2VlUwR204dDZXMDkwbll2emlKQ0VvalZHZlZKSk5FUEEyV2FRM0NhYXA4Q0ZLa3lZWWNzQkVSU0FTUGJEbS1lQWFSQUZVREhaWnNzUWZRdU9iLXRQQWJFVkptUUgzc1FZcDJxMWJEVFRGSjVyUkpDdnlXMnZ3M1EzNUhUbEM2aWtDbG5SX0tCcUdXWEV5RUFRZHVzRnBUZmNNUXg5aXVaTVUwYmptcGN0S0owbURRZEQ2ZGtFRmRBby02NkF1bFE?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "Alamar Biosciences: Promising But Expensive Proteomics Growth - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOci12OUxGZWNOaG9EaGRHbnZlSUs4SExKOV9pMlYwenJaelZzZlBBTTMyRjNldk9BdnY3UFpuV2t6SjYwRXJvM0kyeWdHQjlTMHJSN3l2VXdfSF8waW82bGRsNzBBU29PVVpvRnAyckh5b1QxM004NWE4eEZtZ3BsRjJVbUgtMzl2elRVYnB6N1hxblp1bUJkYWpLNVFBWWpCWVNJ?oc=5",
-          "date": "Sun, 16 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
           "title": "GSK joins Alamar in a study spanning lung, liver, kidney, brain and immune-system diseases. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZ2NqdGh2Z2F6YlpsNU85THhwTXBwUUFMOUs4N0V0a2p6TUVJNkcwMlUwV0xkNkpYR0ZMY0paTUVmbHhNelBQb2Q3VHNqWUp6Y1NPZW1lcno1YXRKY2c2NVJMQWotRGhRMG1pOVFqWTBKbFZFMWdlN2FNeU1XVWNjUHJzb2JOUDFNR19mTlpxZXRFRnNONXUtYmY0eVlmWTBlemFJaHpjSzQyVkRjZ2ZLVGlBX3cwakxmTnduVHVHVQ?oc=5",
           "date": "Tue, 03 Nov 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Alamar Biosciences, Inc. (ALMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1hZ2xnX01kdExDTnVpS2N2cUFkTmhlbEhmakpaMWZIQ1FlMHRTUUhQazV4cVRiU2h3S1dybV9ZSnNmcVFOZ0hDNmJfUTVrWlUzRkE?oc=5",
+          "date": "Fri, 17 Apr 2026",
+          "source": "Yahoo! Finance Canada"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -603,32 +625,31 @@
       ]
     },
     {
-      "ticker": "UTHR",
+      "ticker": "REGN",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
-      "sell_score": 40.7,
-      "net_score": -40.7,
+      "sell_score": 41.3,
+      "net_score": -41.3,
       "distinct_buyers": 0,
-      "distinct_sellers": 2,
+      "distinct_sellers": 8,
       "evidence": [
-        "2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $698,010 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $698,010 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $682,881 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $682,881 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale \u2014 discounted)",
-        "2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale \u2014 discounted)"
+        "2026-11-04 OFFICER Pitofsky Jason SELL $924,632",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $924,632",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $540,764",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $540,764",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $499,127",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $499,127",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $412,471",
+        "2026-11-04 OFFICER Pitofsky Jason SELL $412,471"
       ],
       "company": {
-        "name": "UNITED THERAPEUTICS Corp",
+        "name": "REGENERON PHARMACEUTICALS, INC.",
         "industry": "Pharmaceutical Preparations"
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -641,119 +662,342 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          553.88,
-          563.49,
-          584.79,
-          587.5,
-          592.84,
-          591.2,
-          586.48,
-          593.54,
-          598.72,
-          596.13,
-          601.32,
-          608.49,
-          565.72,
-          566.71
+          805.67,
+          819.09,
+          805.02,
+          807.67,
+          816.1,
+          813.27,
+          818.77,
+          927.89,
+          961.26,
+          973.36,
+          930.67,
+          902.9,
+          904.35,
+          919.96
         ]
       },
-      "price_now": 566.71,
-      "price_at_signal": 565.72,
-      "pct_since_signal": 0.17,
-      "pct_14d": 2.32,
+      "price_now": 919.96,
+      "price_at_signal": 930.67,
+      "pct_since_signal": -1.15,
+      "pct_14d": 14.19,
       "deep": {
         "recent_filings": [
           {
+            "form": "10-Q",
+            "date": "2026-10-30",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000034/regn-20260930.htm"
+          },
+          {
             "form": "8-K",
-            "date": "2026-11-04",
+            "date": "2026-10-30",
             "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000036/uthr-20261104.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000032/regn-20261030.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-06",
+            "summary": "Company entered a material agreement; announced results of operations (earnings); other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/872589/000110465926113895/tm2627077d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-30",
+            "summary": "Company executive/director departure or appointment; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/872589/000110465926112340/tm2626090d1_8k.htm"
           },
           {
             "form": "10-Q",
-            "date": "2026-11-04",
+            "date": "2026-07-30",
             "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000108255426000035/uthr-20260930.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-10-22",
-            "summary": "Company other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926117964/tm2628087d1_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-10-14",
-            "summary": "Company other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1082554/000110465926115723/tm2627546d1_8k.htm"
+            "url": "https://www.sec.gov/Archives/edgar/data/872589/000087258926000025/regn-20260630.htm"
           }
         ],
-        "about": "United Therapeutics Corporation is an American biotechnology company that develops pharmaceuticals and technologies related to organ transplantation, including xenotransplantation. Many of the company's products are focused towards lung disease and organ manufacturing. United Therapeutics is co-headquartered in Silver Spring, Maryland and Research Triangle Park, North Carolina, with additional facilities in Magog and"
+        "about": "Regeneron Pharmaceuticals, Inc. is an American biotechnology company headquartered in Westchester County, New York. The company was founded in 1988. Originally focused on neurotrophic factors and their regenerative capabilities, giving rise to its present name; the company has since expanded operations into the study of both cytokine and tyrosine kinase receptors, which gave rise to their first product, which is a VE"
       },
       "actors": [
         {
-          "name": "MAHON PAUL A",
+          "name": "Pitofsky Jason",
           "kind": "OFFICER",
-          "note": "484 Form 4 filings on record since 2004; 59 sales of UTHR in this tracker's ledger"
+          "note": "7 Form 4 filings on record since 2024; 8 sales of REGN in this tracker's ledger"
         },
         {
-          "name": "ROTHBLATT MARTINE A",
-          "kind": "CEO",
-          "note": "910 Form 4 filings on record since 2008; 821 sales of UTHR in this tracker's ledger"
+          "name": "Zoghbi Huda Y",
+          "kind": "DIRECTOR",
+          "note": "20 Form 4 filings on record since 2016; 3 sales of REGN in this tracker's ledger"
+        },
+        {
+          "name": "LAROSA JOSEPH J",
+          "kind": "OFFICER",
+          "note": "48 Form 4 filings on record since 2003; 2 sales of REGN in this tracker's ledger"
+        },
+        {
+          "name": "POON CHRISTINE A",
+          "kind": "DIRECTOR",
+          "note": "222 Form 4 filings on record since 2003; 6 sales of REGN in this tracker's ledger"
+        },
+        {
+          "name": "SING GEORGE L",
+          "kind": "DIRECTOR",
+          "note": "66 Form 4 filings on record since 2004; 9 sales of REGN in this tracker's ledger"
+        },
+        {
+          "name": "BROWN MICHAEL S",
+          "kind": "DIRECTOR",
+          "note": "105 Form 4 filings on record since 2003; 1 sale of REGN in this tracker's ledger"
+        },
+        {
+          "name": "Guarini Kathryn",
+          "kind": "DIRECTOR",
+          "note": "7 Form 4 filings on record since 2023; 3 sales of REGN in this tracker's ledger"
+        },
+        {
+          "name": "McCourt Marion",
+          "kind": "OFFICER",
+          "note": "77 Form 4 filings on record since 2016; 3 sales of REGN in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "United Therapeutics Corp (UTH.HA) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zYm9HVDRRdnFvRFRmNEVEaWZ2NTZGYjVuU3I1NEV0MDRGZGVDX2s0Y0doajMteU9hQjhSZXZQZWRVZFpTQ2ZHbThTV2NqYjN2VWxkTw?oc=5",
-          "date": "Fri, 06 Nov 2026",
-          "source": "Yahoo Finance UK"
+          "title": "Evaluating Bullish Potential in Regeneron Pharmaceuticals (REGN) Stock - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ1lITzE1em0yd2liNUFPb3J5Tkx5ZHgwNmppYk5nQlE4Y2lmMGpWSlFpc054U1hfaWRGY3JyU2lmVzF6MW5BNVkyazVyUUlEU25Bek1VNDdQX1M4MWU2S1NKaEF5VnAzTWFSNUk5R3Y2VjRENHplNzQwMEdPSExqSmZrOEtwOVFmSkNCbFh2WEtBZXQ0d1J1cVVubnRmUHU2dEhqc1Z6R2RnckdHZlByLTNiYUd1MWh3cmV3?oc=5",
+          "date": "Tue, 08 Sep 2026",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Wells Fargo raises United Therapeutics stock price target on ILD outlook - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUDdPWldDaG55dGR0dzk1WjZJNnhKUHJJbTJxMWhDX2laNWhic2I2Q0xMMXZaY1kyOUhPaS1vR00wS2NjTUxDZWFrM3pUVWJib3piOUpEeWxMbnBsenlKN0Z1VXA4Z1c4bXNJdS1PMGpJVmRWU3V2cE9yNEFhcHRmcUdpRDROTTVDSVpOQm5iTF9uQU05d0RiSUFNSlRSU0kzQWp1SW9mdUxyeE0wdkpZdmNkQlAtQlpoYUp2WTF1enBNYmhmRmpwczVWeGk?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Investing.com"
+          "title": "Regeneron Pharmaceuticals Inc. stock underperforms Thursday when compared to competitors despite daily gains - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNejBDLS1rLVhIRFVoaTFEX2RtbkpjMTdLTXhGZXp5QlF1MW1oMC1hbDRXeXYydXF3WDVmd1lhVUMtN3R5Q3NoZ1ZRRUFaRkVaSWZlVDU4bzk3NFhPaFYwVGdYUFRnVE5JUVdkQUt4SGZVdGhiSTlzb1p0TjF1U0JMaWpSMVlfSS04a1Z6U2xURVY3YWlYQ1lpXzFVR3lRVmVMOXYtcXZNVGQ5WGZWd2NEVWc1VEhta3BNaklCZTIycmpYQmtpRTYyS2J4cDRaUzlOYmlpOHZqUzYtMWlQUUtwalVXLWdXRVRoQldrOThlRWQxbzFOeTBiWklJZw?oc=5",
+          "date": "Thu, 22 Oct 2026",
+          "source": "MarketWatch"
         },
         {
-          "title": "United Therapeutics (NASDAQ:UTHR) Revenue Beats as R&D Costs Weigh on Earnings - ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObmlXaEd3T05PN0xSdWhPUjFZSTV0WnZuM3lnM25HRmZzWXpxMTFYMzVkbE1uLS1XeTVQblkxSDY2VjdQVVA1THFWeWdZb281eWNaRmF3b3VqYjlWaGlNZURLYWgzb3ZPYm4xUmxfYWNEaGp0N1lEMHJJRzVEUzF1azdrbVdMWGQ0OE14cUNueU45Q1AtNWFPTXFmd3ZyMElsTW9URWZneUtFa29QbnhpcVdwVFFfQnZHNElCY0R4RkFlVmtj?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "ChartMill"
+          "title": "Regeneron Pharmaceuticals, Inc. $REGN Stock: Tamar Securities LLC Lowers Holdings - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNX3pVSXhKZmxIR1FKQlo3d19QbWNIZFhjb1JBYkI0djlRMURrRkxJb1lIOG5WN0puLW95Y3NUd0ttWWY0U3pILTRwWWYxWmxET0pjcGFyN0NTUGhXNXZJQm9wd3VucVRBY28yLWFoMUxmc29rQUl0NmlnS1pUQVN2WXljbU5TdS1vX2xweE82R212X0RtSThWZEt1dFBhcEdmOUp6TkFGRWZIUnE3VHBXdkVlSW1mZTNjUE53RlAyYko5emlLWkxKbENTSWloVGZUS05jbQ?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "MarketBeat"
         },
         {
-          "title": "Under a trading plan, United Therapeutics (UTHR) counsel sells 8,300 shares after exercising options. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0VHTHdLeGlDTF9LdWdOZWR2OXV5VDFHNDhBdVMyRlpzQ25USFRySlBDRTlXcWJ5TkRCcUZoUldSV0UySGlodlBsWVY5MXFibG5IeGcxWTFTTUNZZW9HYW9RbnY1S2RINmY0X2VLRWRMXzVJX3YybWZBQ0RPY013MVVYRGtFaHNGVnNBZWVrZWhNdUdKUmUzQTM5TGk0MzIxaGY3RGpfeUoydGgydndhTnpOYkpCZzdCa3c?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Stock Titan"
+          "title": "Regeneron Pharmaceuticals To Rally Around 11%? Here Are 10 Top Analyst Forecasts For Monday - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS284THN3NjJHYWVpZUo0RXUwN3BpbWxRWFg5bmpnQ2IwbDB4Wm4zVGVyS0NXYVVXOGIxaGRENTFkNzZuVlVsUnlGeDFUMGcwdUFsNWxUc0g0eU14Z0ZBYnJvUnJqQW5KUFQ2ZUhnZG95NEdsWGRlYk9NcGJJUjZiMm43X2hUNW9mWmQwODcyU0x0M1I3andELXl3azZPWWozTk5FWVJ6NklGR1NYOXllVy1kc1FzeXk2b2hWVzlDMXFOZVBCdkY5Z2hiWTVvZy1xd0lKYXVyRjkyby15dUxZM2Q3THZXemM1ZWtyenBqaUtMTVdvNDI4?oc=5",
+          "date": "Mon, 02 Nov 2026",
+          "source": "Benzinga"
         },
         {
-          "title": "United Therapeutics | UTHR Stock Price, Company Overview & News - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnckpMRjBiNmc0aHZwc2ZxS1VoNUdPSGdiUjRiQl9VTEt3RWNlNTVXLVVuU0lCMDJHNEYwSEt2TG52VWJDMWxYbklPbFRJUHhjcUVHVHVRWU5iaXRLRHA5Ukt4cw?oc=5",
-          "date": "Wed, 24 Jun 2026",
-          "source": "Forbes"
+          "title": "Is Regeneron Pharmaceuticals, Inc. (REGN) A Good Stock To Buy Now? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNd1BMU1B1WmdmNnR1WGZOTjVhdWM4ODdKZWp4M21Ja0ZfVzlvMFhudmZoalVuTmRnNDBpanpkU1lBeFRyYU9QWURxaVhTZmJheDdvRFZiaGFEaHVXZE9aOURDdmFjaDVIYTI0WkRPSWxQbXVBeFo5M2hjaFFqU1hLdVVVQk1WTlJXQThXOEhKZHNfbVcxUmZTd0dVSW5QZVRKRHRWbUZRWQ?oc=5",
+          "date": "Thu, 11 Jun 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
         {
-          "label": "Bills mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "label": "Bills mentioning \u201cREGENERON PHARMACEUTICALS\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=legislation"
+          "url": "https://www.congress.gov/search?q=REGENERON%20PHARMACEUTICALS&source=legislation"
         },
         {
-          "label": "Hearings mentioning \u201cUNITED THERAPEUTICS\u201d",
+          "label": "Hearings mentioning \u201cREGENERON PHARMACEUTICALS\u201d",
           "browse": true,
-          "url": "https://www.congress.gov/search?q=UNITED%20THERAPEUTICS&source=committeemeetings"
+          "url": "https://www.congress.gov/search?q=REGENERON%20PHARMACEUTICALS&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "KNSA",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 0.0,
+      "sell_score": 41.1,
+      "net_score": -41.1,
+      "distinct_buyers": 0,
+      "distinct_sellers": 5,
+      "evidence": [
+        "2026-11-04 CEO Patel Sanj K SELL $7,700,096 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $7,700,096 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $2,849,601 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $2,849,601 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $2,585,474 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $2,585,474 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $134,831 (10b5-1 planned sale \u2014 discounted)",
+        "2026-11-04 CEO Patel Sanj K SELL $134,831 (10b5-1 planned sale \u2014 discounted)"
+      ],
+      "company": {
+        "name": "Kiniksa Pharmaceuticals International, plc",
+        "industry": "Pharmaceutical Preparations"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09"
+        ],
+        "closes": [
+          79.7,
+          80.79,
+          76.73,
+          72.98,
+          89.2,
+          95.18,
+          97.56,
+          92.24,
+          90.8,
+          93.29,
+          96.12,
+          88.34,
+          93.86,
+          98.76
+        ]
+      },
+      "price_now": 98.76,
+      "price_at_signal": 96.12,
+      "pct_since_signal": 2.75,
+      "pct_14d": 23.91,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-10-27",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1730430/000110465926119186/knsa-20260930x10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-27",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1730430/000173043026000037/knsa-20261027x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-22",
+            "summary": "Company executive/director departure or appointment.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1730430/000173043026000034/knsa-20261017x8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-07-28",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1730430/000110465926087545/knsa-20260630x10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-28",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1730430/000173043026000031/knsa-20260728x8k.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Patel Sanj K",
+          "kind": "CEO",
+          "note": "74 Form 4 filings on record since 2011; 19 sales of KNSA in this tracker's ledger"
+        },
+        {
+          "name": "Megna Michael R",
+          "kind": "OFFICER",
+          "note": "42 Form 4 filings on record since 2009; 8 sales of KNSA in this tracker's ledger"
+        },
+        {
+          "name": "Paolini John F.",
+          "kind": "OFFICER",
+          "note": "44 Form 4 filings on record since 2018; 10 sales of KNSA in this tracker's ledger"
+        },
+        {
+          "name": "Ragosa Mark",
+          "kind": "CFO",
+          "note": "44 Form 4 filings on record since 2020; 3 sales of KNSA in this tracker's ledger"
+        },
+        {
+          "name": "Moat Ross",
+          "kind": "COO",
+          "note": "26 Form 4 filings on record since 2021; 11 sales of KNSA in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Kiniksa Pharmaceuticals stock hits all-time high of 98.49 USD By Investing.com - Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSlF3OXZUM3JVYlprU19xNFZ1N1U4VDc0bXlxeXRCQWVVSDJNRUNzVjVZb0FaUVJMc1lZYkhPcnFSdXNWcS0zTXpiWEM5Wlo0NGJYZGtMekFBcjRDdjN3TktjYldvZkdCRzhTTzhCV014RHF0ZDZBT1RVWjUySjh5NFhpMVdaNzFxeWxmeWFlbVZXRVpfMzMyRFFUd0dTX21GeWwxclFsaXBzOS1CNEV0dTNWV1dHWWY1dE5qNg?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Investing.com UK"
+        },
+        {
+          "title": "Kiniksa Pharmaceuticals International, plc (KNSA) Q3 Earnings and Revenues Surpass Estimates - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVjV6UEh2QUZpUy1xd2xIQkdWVmg0blpVTUNKQkF0WmRrUnpEdEE0T1dWb3MySk04VTFlc1NsY0NzcVNmcjJPdUI5aFIwNkJBY002R0VMTjREOWRsemtkejdNTHR5eE0xVV83bEptZG1ONnlETFI0TTRlMjhIWUxvTUlxdmphdXBpdnZlUFFOVEVmUmNjcW5WZFg4ajVXbkFoY3J1RlBVM2RvV1k?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Kiniksa Pharmaceuticals International, plc Stock 12\u2011Month Price Target Raised to $99, Implies 36% Upside - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZGpnYWpHRWl3TDA3M1ZmeHU5OXZ2NFFaZENkTWtJMG9LdF9qazZCejJHWV91RTJTWUFpWEh4YXBuT3lBWF9Jd0NWeEthbUs2eEIwYVZVdnNxbmpZSkNTUEI1RFJUWnFidXZxZHRHdlNaYVUwZ1piRlpia21BWFhOUzhxdTFjVTBSRk54QnM0a0Ezdi1NWmN6emd0MmxpQlo5ZmZCLXlFSmxFOWR0UzRyeWNfRHExRXlESkoydTBEaFh4RmZZYTNPNks4cW9Ta185UmpkdzcxODQ2SVdCNXpWR1lZOFgwUV9XWVBiTUIxRDVUNkNl?oc=5",
+          "date": "Tue, 27 Oct 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Why Kiniksa Pharmaceuticals International Stock Raced Nearly 24% Higher Today - The Motley Fool",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3dvaGN3bzlaMjVsN3haWjFMdEItNzcxd2pOUVg5SEhCLWFQbXpyY1RZRGY1Nk9WY1JKTDJUMlFsaDFRSVd1YUxEejRJRm5OZW1kQVFOQWI2V3NaX3VBOGNnRjNhX3NDMXN2dVp3UEJFTjgzSHBwTkdaTHA2bmo1amtkZmhhUTZUNnpITWk1SkJSM1ZyanU2Ug?oc=5",
+          "date": "Tue, 28 Apr 2026",
+          "source": "The Motley Fool"
+        },
+        {
+          "title": "Insider Selling: Kiniksa Pharmaceuticals International (NASDAQ:KNSA) CEO Sells 151,300 Shares of Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUDNUSENtUUV3S2c3bmhJNHlDS0FEWjlUcGh3YnFrWm5mUDRzM1IyeU9uUjFJNDFtMU02Wk12MXNMQ1BZU2dFdHMweDZYbWRobzZUTExDYlh6c0tQTlV4T0pLY0xBaXVTRHRjeXlmdThLSkxMdW5obmxHbjRBT3QyMjhJajVsdU9WYlN5anJPUWlvOFhNbnpzbEt6MldVbEpBVFJtbVNZeHduX0ZJVGFhY05RYUd6X3AtR0d2dG9qQVNQeE1zaGdPN0FJeXBYbHktWENBa0pTZ191aGhwejRFWFVyRW5uUnd2bE5va2hYck56QQ?oc=5",
+          "date": "Fri, 06 Nov 2026",
+          "source": "MarketBeat"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cKiniksa Pharmaceuticals International\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Kiniksa%20Pharmaceuticals%20International&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cKiniksa Pharmaceuticals International\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Kiniksa%20Pharmaceuticals%20International&source=committeemeetings"
         },
         {
           "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
@@ -773,8 +1017,8 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
-      "sell_score": 38.2,
-      "net_score": -38.2,
+      "sell_score": 39.6,
+      "net_score": -39.6,
       "distinct_buyers": 0,
       "distinct_sellers": 4,
       "evidence": [
@@ -793,7 +1037,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -806,10 +1049,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          557.93,
           553.48,
           566.76,
           560.38,
@@ -822,13 +1065,14 @@
           672.04,
           698.55,
           670.71,
-          674.315
+          676.04,
+          706.65
         ]
       },
-      "price_now": 674.315,
+      "price_now": 706.65,
       "price_at_signal": 698.55,
-      "pct_since_signal": -3.47,
-      "pct_14d": 20.86,
+      "pct_since_signal": 1.16,
+      "pct_14d": 27.67,
       "deep": {
         "recent_filings": [
           {
@@ -894,15 +1138,15 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Under a deferred pay plan, IDEXX (IDXX) director Joseph L. Hooley acquires 48 stock units. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWU3RTBVQkRCeHZpZXBHQVhCTTllWEtHREpobTdwY1B3R2hleEtIdU5UeEFkRXpOQ3R5bGNsYV9wLTRFUjFnZzdXU0xSR1JRcnlJQ21oOUt6UnBqZ193ZnFNS1F4dzJncXBBWWVKREt0NzZGbXZ6MnU0X3p6d2F3cUU2UW8tZVNaOWJSUGxCV0NBLUJvVDV6R2JubE1JMHp3aFowa0hWQ2xaRlc3eFdqWV81V09laWVQNXpZ?oc=5",
-          "date": "Tue, 03 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
           "title": "Proposed sales by an IDEXX (Nasdaq: IDXX) director cover 700 and 500 common shares. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczB0eDdFdmhhbTV5QlJmYWIwdjd4dl85SGhFUEwwckRpYVBFWEozZVhuOW1NcHkwYXFBX20yZ19rX280Y0lDV1FNampSMVlGdUVMUmp4WDFidkhqUkxyTUJfQWJjMnpfSDhiTkpZRlJabm85S0tMZjN4Q2QxcXo2SjlBSDhpdWlYNUhqYTRLdlBVc1ZvMTdzRndVb3laSVY1dkdobGFwaw?oc=5",
           "date": "Thu, 05 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "A proposed sale covers 25,140 IDEXX (IDXX) shares acquired through a stock option exercise. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmF4U0NrVVVLNDNzN2lGTGRuZnMwNHRlaTB6VVYtQXEzVy1BcmR6SEFPV3ZnYV8tTXluZ3NwUVd2cDlNd3VYOS1hQVNOMWJJYUlvS2YyV1ZFRHZ0ZVNhUUk5YmVtcmZ5bXJ2S3NOYzdmMTNPaEJPVU1COFBSbFpoQzFCOTkzNFc0NGlyVXkxZWNMNV9BanBHQU5RbVhJblRWZW1SQQ?oc=5",
+          "date": "Wed, 04 Nov 2026",
           "source": "Stock Titan"
         },
         {
@@ -912,17 +1156,17 @@
           "source": "Stock Titan"
         },
         {
-          "title": "A proposed sale covers 25,140 IDEXX (IDXX) shares acquired through a stock option exercise. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMmF4U0NrVVVLNDNzN2lGTGRuZnMwNHRlaTB6VVYtQXEzVy1BcmR6SEFPV3ZnYV8tTXluZ3NwUVd2cDlNd3VYOS1hQVNOMWJJYUlvS2YyV1ZFRHZ0ZVNhUUk5YmVtcmZ5bXJ2S3NOYzdmMTNPaEJPVU1COFBSbFpoQzFCOTkzNFc0NGlyVXkxZWNMNV9BanBHQU5RbVhJblRWZW1SQQ?oc=5",
-          "date": "Wed, 04 Nov 2026",
+          "title": "Under a deferred pay plan, IDEXX (IDXX) director Joseph L. Hooley acquires 48 stock units. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbWU3RTBVQkRCeHZpZXBHQVhCTTllWEtHREpobTdwY1B3R2hleEtIdU5UeEFkRXpOQ3R5bGNsYV9wLTRFUjFnZzdXU0xSR1JRcnlJQ21oOUt6UnBqZ193ZnFNS1F4dzJncXBBWWVKREt0NzZGbXZ6MnU0X3p6d2F3cUU2UW8tZVNaOWJSUGxCV0NBLUJvVDV6R2JubE1JMHp3aFowa0hWQ2xaRlc3eFdqWV81V09laWVQNXpZ?oc=5",
+          "date": "Tue, 03 Nov 2026",
           "source": "Stock Titan"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -954,8 +1198,8 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 0.0,
-      "sell_score": 36.2,
-      "net_score": -36.2,
+      "sell_score": 37.6,
+      "net_score": -37.6,
       "distinct_buyers": 0,
       "distinct_sellers": 2,
       "evidence": [
@@ -974,7 +1218,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -987,10 +1230,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          675.13,
           696.89,
           642.14,
           630.49,
@@ -1003,13 +1246,14 @@
           606.38,
           557.06,
           466.53,
-          459.585
+          460.99,
+          506.14
         ]
       },
-      "price_now": 459.585,
+      "price_now": 506.14,
       "price_at_signal": 593.76,
-      "pct_since_signal": -22.6,
-      "pct_14d": -31.93,
+      "pct_since_signal": -14.76,
+      "pct_14d": -27.37,
       "deep": {
         "recent_filings": [
           {
@@ -1053,22 +1297,22 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Seagate Sinks 8%, Western Digital Down 6% on Election, Memory Price Worries - TIKR.com",
-          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc1hpMTR1aXJhRGNYWFgxU2VMeHF1MUh0YThyWWZjdHNBVjJ5a25NUE5JbFdmNVN0YUV4YnlmMGFhWjVQSFc4cHN4ckpyTVdDUE9qTFMzU21CZEE0bkJVeXVwWE5BNVVlN1lxVXBvekNHMGoybVVfS1p4LVFwSWZGVGgzdEVXTy11TTk3dVZrS2pvUGIwMmRoS3h0czZodw?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "TIKR.com"
+          "title": "Seagate Technology advances 10% amid broad-market rally (STX:NASDAQ) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcE9XQTNUNTk1UXItZGNjY2gxZXQ2Q2V5U3NTLWJabjFITDF2NllCZzdOcmFNdHFhSDF0ajZuNmd5am45blM4ekpkYURweHdzQzB6NzM2bWtoaEpjR3dpM3BSbGxieU9Bei16N2ZLNHJRUElZVnlBSXdXTUt4TGNPNmY2UkxJOUVmV3hCQVNxSlk4bGlTVDRV?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Seagate Technology Holdings plc (STX) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WOWcxejhGSXcxcUlRd2tBeEFYN1JHb1licXIwT01XbXdFdU02MVE1d2ZXdVZZZGxrY2NUQ1d4Q3FtSWJHZnpUTDFGRW1ZUGVQc2JEMURfd1NQZ1dWa0ExdQ?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Yahoo Finance UK"
         },
         {
           "title": "Seagate Technology Holdings PLC (STX) Shares Fall 16.2% -- GF Va - GuruFocus",
           "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONFdMdkZKYzdxN2RzRzZBUFc0bFh6N0RUQW1qc21GeFRpZUZ1MU9jb1M5VlZrTWpyUDJaeTNnZWlhWXI0MkZZMU1keHB3czBiZlBvanVJZ1RTX2tvTEFVeU9nb0YySjBYZF9MbE10WHZnU0xmbkxGa05VTGJucUR4TkpyYTF6RDVKTG9yZ2JzOVVkQUdZTnZHTU5tRTgzYjREd3JkVXNkRTExeU5jQldiX29iTFRMZmdUSHc2SEFB?oc=5",
           "date": "Thu, 05 Nov 2026",
           "source": "GuruFocus"
-        },
-        {
-          "title": "Seagate Technology Holdings PLC (STX) Stock Forecasts - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdnFvM0VLVkVBY2wwZGgzV2dKYWk0SUVSVUJ1N0FqYTM2Zm0zZW95TTRQeVFmeGZ5a2RaTFREeUhwNk5aVmRVa3FjY3VtNExpZnc0Skdsc1ZDMGJfdks5YThtaGVZQ0ZIdmpvLVU2N2h3MGRpSjhhc0phLVZrUnM1eWRZYVdHTXB6VU1OcA?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Yahoo Finance"
         },
         {
           "title": "STXUS | Seagate Technology Holdings PLC Stock Overview (Peru: Lima) - Barron's",
@@ -1080,7 +1324,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1133,7 +1377,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -1146,10 +1389,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          78.95,
           76.39,
           80.68,
           79.4,
@@ -1162,13 +1405,14 @@
           75.05,
           79.24,
           74.87,
-          75.83
+          75.0,
+          75.72
         ]
       },
-      "price_now": 75.83,
+      "price_now": 75.72,
       "price_at_signal": 75.05,
-      "pct_since_signal": 1.04,
-      "pct_14d": -3.95,
+      "pct_since_signal": 0.89,
+      "pct_14d": -0.88,
       "deep": {
         "recent_filings": [
           {
@@ -1213,15 +1457,27 @@
         {
           "name": "Haggart Dylan G.",
           "kind": "DIRECTOR",
-          "note": "17 Form 4 filings on record since 2018; 11 buys of LRN in this tracker's ledger"
+          "note": "18 Form 4 filings on record since 2018; 11 buys of LRN in this tracker's ledger"
         }
       ],
       "news": [
         {
-          "title": "Stride, Inc. (LRN) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1OakwzVjdvbWNFWEU4Z2pFbDdZUG1NVDJ4WXlmMTdYVjhUR2JYa2Z3bFhzSE1GT2JSYTh0VWpsUVBlcWplamJvcmc4TTAyLU81?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "Yahoo Finance UK"
+          "title": "Stride (LRN) Stock Price Slides As Q1 Results Squeeze Margins - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlF3M18yOVQzXzJleTBjUjRycjcycllFazZBZ2hqd3B6SGNEZzRhbjJWdTJMN2Z1UDF4ZXNacW41cGFZVVFfTy1IMEdyV2Qwbm1MU3hST2c4RVJOaWRDZzh0MWN0cW9ocUFGaXkxcENhLVdCU243MU1yVkgydjU5LTBvWGFUMThOemVSS1hRdWJQWVE4eThBbzZR?oc=5",
+          "date": "Wed, 21 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Three indirect purchases of Stride (LRN) shares were jointly reported by Haggart and Fivespan. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdldKLUY3WFBmR2tlemRrVjVmU3Ftc29sSldfb05ON1lRQnVWb2NZYktUNlNFX01udHJJa180Sm1jWXBaME9Yc2hidFBaaDRuMkpid1dJV3ZPYW1OTE1MRTI1R3VDWHkxVDBfd004QmJrV1FybUhYNS1DQzBwUFM3X0RsbWNZRE5wZ1pqX3BTMHdhbUkyckZRNkU5T28tcXhYT0REX0VB?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Stride (NYSE:LRN): A Decent Value Stock Trading at a Discount - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU2xuTWEtWnd1NkZ6ZFFtc1BYWnpUVGlZd3VWMldXTjF4T1prazEyV05XMm5tMWtJa1Z5NzVscG8zN2hGTldVZmh6bG5jVjVmZWlJSFlmNi0taEYzTzhQVVQ5U0JtRWhLV09fcllzdmJ6M0pRbEowN1hPLVVhMWxZNERNZHBTOWtCOGhwclFReHVab21LcEdqbjBDbVVrR28xUVc2UUMtMkFIcHVB?oc=5",
+          "date": "Thu, 15 Oct 2026",
+          "source": "ChartMill"
         },
         {
           "title": "Stride: Shaky Enrollment Drives A Cheaper Stock (Downgrade) (NYSE:LRN) - Seeking Alpha",
@@ -1230,21 +1486,9 @@
           "source": "Seeking Alpha"
         },
         {
-          "title": "Stride Stock Is Down 40% This Past Year. Here's Why One Investor Added $58 Million - The Motley Fool",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeDN4azRZZWppemdxVGE0bER6SVo2QnlWVHpJaVUtM2lDV204NUlrZUNraWUzU2k0eDBEeTFRVk41clc5QUlwbFRhYkJ5S0txSmk1ZlRicXBaNjQ5RmR5V0JWVVp5V0hqeGdTY0tJTEZyUjg3VWo5OC05TmZWMVdqeWg5RE81N1EtT203Z2hub0U2ejV2Z1dKSGxldlYxUzM4cUhvdkZ1cVlZZmU0OHVSLVllak84Ym5ISFV6aEZGUUVRczVQd3NLZUdXaW8?oc=5",
-          "date": "Fri, 29 May 2026",
-          "source": "The Motley Fool"
-        },
-        {
-          "title": "Is Stride, Inc. (LRN) A Good Stock To Buy Now? - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVVJJR3hwRHVlTHRvQVJFQW5KU19pYkJDcnR5Rzl0V2kyZW1CQmRwNGZiZkFmUGJjRVlxT1UweEJqVG5MRHNHMTNaaVlWOHEtS1lfRTFzYTBVeWtxSVhNVFN6dm1scnpLTWEzck4zWG1NRzNSVGIyWnkyQ1p6bmRWbjJGdE1ZcmNsTkZDbmtuT3hkbGpO?oc=5",
-          "date": "Sun, 26 Apr 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stride, Inc. (NYSE:LRN) Stock Rated \"Hold\" by Wall Street Brokerages - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV09idVRKOEZYemFQVWMxTlQtSDIxSHRlRjJtNmtBMFBpN0ZKOHBOLUx1bDVCVG45TWJTLTY2SzFzNk45cDkyUmR6VlE2SjlwSC1aTFgxWmlqQjBDcTZobXZua2NNbDVYWndDSEFVbGtRRXNYU1EyWTBnSGxBVi1WVnhjbnc4WUVvaGpzQWtaUWYwYnZGOFlsQUV5ZWVBNTNCeUsxVEdJV3NsLTBsQVB5MW11SGRndVFyMmx4bUhFanh1N1ZJ?oc=5",
-          "date": "Sun, 25 Oct 2026",
+          "title": "Stride, Inc. $LRN Shares Purchased by CenterBook Partners LP - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNi1WTWlFMU9SWXNpN051allqMWV4S0dFajBnWjhONXZBQkx0T0I4QWg5VEdibTJrcC1hRjdLWmZqcHY5RHROek9UUm42MmhqaWtYV1N5aDRtaDVzUmZFNTFqVHBvRjVWTGNranlYYnEwMUtlY25kUl9nQUpvNl94MW9VRmxGbHRVQWRNakJ6S3M5NDlnMjhSa0JSTVg4aHNWb1NHWTMySm5sMW5nRFhnSmdMVlV5Vlh0WUE?oc=5",
+          "date": "Sat, 07 Nov 2026",
           "source": "MarketBeat"
         }
       ],
@@ -1253,8 +1497,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1286,8 +1530,8 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 5.3,
-      "sell_score": 37.6,
-      "net_score": -32.3,
+      "sell_score": 39.0,
+      "net_score": -33.7,
       "distinct_buyers": 1,
       "distinct_sellers": 2,
       "evidence": [
@@ -1306,7 +1550,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -1319,10 +1562,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          1.13,
           1.13,
           1.1,
           1.09,
@@ -1335,13 +1578,14 @@
           1.325,
           1.37,
           1.24,
-          1.305
+          1.29,
+          1.22
         ]
       },
-      "price_now": 1.305,
+      "price_now": 1.22,
       "price_at_signal": 1.18,
-      "pct_since_signal": 10.59,
-      "pct_14d": 15.49,
+      "pct_since_signal": 3.39,
+      "pct_14d": 7.96,
       "deep": {
         "recent_filings": [
           {
@@ -1408,15 +1652,15 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Playboy: Management And Licensee Risks Are Still Too Much - Seeking Alpha",
+          "title": "Playboy Stock: Management And Licensee Risks Are Still Too Much (NASDAQ:PLBY) - Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlBkTzJqbVBPOW9MMl9Ba0tYQ2pPWGNfRVpwVktkRGR1UXVwX1Z3TFNEREtRa3M5X0V6U3dvMVNCSEhucjhBNG9Yek1JVHFoRG1hRlUwUGxYdzE5eGE0dlE5NWZtbmV0bjdFUzlXSnI3WVQyeVpKYXVWZDM1bjF0RHItRDZhamROMG8zV1JUSTh0dW1lSF9feHNfZU42UQ?oc=5",
           "date": "Sat, 03 Oct 2026",
           "source": "Seeking Alpha"
         },
         {
-          "title": "Earnings To Watch: Playboy Inc (PLBY) Q2 2026 -- GF Value Sees 43% Downside - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3FBbVFwbzdSbmZXcnFEY2RPTEI0dy1OdG9zX0RfcjZURUloNEZTQUJzZEZSRmlUbW91MFU5LXNCRHpLTmxsbGdKRDZJcG9HaTk0NmlDNXVDbEZYOUNFNEluTXF0NFR6MDFxaFdrNzdOeVByQ2h1UUg5dm5UeEluWUFUUWU3dXBuMnNDakNjSjdmVzlweGNPREhiUHo?oc=5",
-          "date": "Fri, 07 Aug 2026",
+          "title": "Playboy Inc (PLBY) (Q2 2026) Earnings Call Highlights: Revenue Surges 11% and Adjusted EBITDA ... - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmd4UTUta0tJYVdEWVlfcmpqNW40ZGVNbVZPV3ZEWGg5d1U4QlprNnBHZHpyankyZWVUVkUtZjdrVUl5NVcxVVFzV1V6UnNBU0UwdnlJTjdSWDdPajdJRUttUzlpS3lkMW5ZaXEzM2tiTlk0MWlELXRuTU5INnoyWjdsNlhJdlk3Q0ZXWU1oUUpkMWM?oc=5",
+          "date": "Mon, 10 Aug 2026",
           "source": "Yahoo Finance"
         },
         {
@@ -1429,7 +1673,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +11% since disclosure",
+        "label": "Aging \u2014 latest filing 10 days ago; edge decays over weeks",
         "cls": "spent"
       },
       "earnings_soon": false,
@@ -1453,144 +1697,6 @@
           "label": "Hearings mentioning \u201cRetail-Miscellaneous Retail\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Retail-Miscellaneous%20Retail&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "BBTX",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 30.2,
-      "sell_score": 0.0,
-      "net_score": 30.2,
-      "distinct_buyers": 3,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-02 OTHER Salvia Investment GmbH BUY $6,000,000",
-        "2026-11-02 OTHER Salvia Investment GmbH BUY $6,000,000",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744",
-        "2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744"
-      ],
-      "company": {
-        "name": "Bambusa Therapeutics, Inc.",
-        "industry": "Biological Products, (No Diagnostic Substances)"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06"
-        ],
-        "closes": [
-          14.99,
-          16.0,
-          16.0,
-          16.07,
-          15.85,
-          15.79
-        ]
-      },
-      "price_now": 15.79,
-      "price_at_signal": 16.0,
-      "pct_since_signal": -1.31,
-      "pct_14d": 5.34,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-11-03",
-            "summary": "Company amended bylaws or changed fiscal year; Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2044950/000162828026069027/bambusa-closing8xk.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "RA CAPITAL MANAGEMENT, L.P.",
-          "kind": "OTHER",
-          "note": "276 Form 4 filings on record since 2021; 4 buys of BBTX in this tracker's ledger"
-        },
-        {
-          "name": "Jeggle Helmut Wolfgang",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2023; 1 buy of BBTX in this tracker's ledger"
-        },
-        {
-          "name": "Salvia Investment GmbH",
-          "kind": "OTHER",
-          "note": "1 Form 4 filings on record since 2026; 1 buy of BBTX in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Bambusa Therapeutics, Inc. (BBTX) stock historical prices and data - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE85bWZHRkhIeEJYLURsbmR5b21BZVlOV3IxQUtnOHI1NnQ2ZGV0RE9YaU9zUG12ZEtFY2JMLW1yS1dST2pzcVZ3TEpNT3ZtVjZDbTZETF91WklINnJS?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Yahoo Finance UK"
-        },
-        {
-          "title": "Bambusa Therapeutics Announces Pricing of Upsized Initial Public Offering - PR Newswire",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTDlYb0ZGSkVsOHE2SXJ2REJMeTdaOFNLcmFKbm14ejNPZXUybzlBMDl5N3BFT09CLUxSbkVsZTFhajJFNkhZUzNTbVR1UmRPakMtVlByYkJYZnh1b0VweHlwM0VLdF9sNVYwWlFfWkkxbEFWQTNicHktc0ZRVXFPMkFaZGZQcDNUWTR6d0ZXdjJickVaazdpNkppT1dzZ3J2WnZrZERNbThudWNNNEgwRjFJS0Fab3IxQUdMWlNHNlRxMHoyczg0cw?oc=5",
-          "date": "Thu, 29 Oct 2026",
-          "source": "PR Newswire"
-        },
-        {
-          "title": "Bambusa Therapeutics, Inc. (BBTX) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xNVEtV1N4YmlvbXl2WTl0WVJCWkc4WmU3YkRTLW8zM3JpdUJYeDRSNF91LUw0VGhuR0Qzdmo4VWFNNjJVeHFDWlFJS3pRZkZ1Sl9BVkxXYTdKQmdXR2h1aQ?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
-          "title": "Options with a $16 exercise price accompany the CEO's stock grant at Bambusa Therapeutics (BBTX). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjJBLTMtNHlMWm0wLTdsS09zekRsYzREZGxzeHc1SGJQOVV3MnFuanM5M01PZnZkZGVVRWd1UWlaV1BZVVRfaWhXNUxLZ1ZVbDBiZjRobDJjUnA1aG5GTS13dzBJaVlkcEkyRlprbm1CZHd1MktfR2VPRi03U1Jlb1FOLXl1V0JKYkc0bk5WX2NhOTRXV0FFei0xR1NoZU1lN2padmh3SXhGY1BSUGJ3SGcwQi1WQ3FsYkE?oc=5",
-          "date": "Mon, 02 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Bambusa Therapeutics, Inc. (BBTX) Company Information - Simply Wall St",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWN6V0FOUGZBR05PbEN0ZHptOUtTbkdTb3hLM1VlWGdUMFRrSGxjT09zLWgtcy1scHdqOHQyRkQya1BZRFJmaEhRNUxTNDZTQjVIS2JINUJ1LU5sRVNaN1VDaXlFanhNNkMzTlFCaVA4aXU1MUVTSGZpMWtudHRTRG9lNG5DU2VxRlppUmUxOUxfNkxsR3JXNEtsZURQancycXc?oc=5",
-          "date": "Sun, 01 Nov 2026",
-          "source": "Simply Wall St"
-        }
-      ],
-      "news_flags": [
-        "share offering (dilution)"
-      ],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cBambusa Therapeutics\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bambusa%20Therapeutics&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBambusa Therapeutics\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Bambusa%20Therapeutics&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
         }
       ]
     },
@@ -1620,7 +1726,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -1633,10 +1738,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          161.89,
           153.01,
           161.84,
           161.05,
@@ -1649,13 +1754,14 @@
           178.51,
           183.47,
           188.12,
-          183.89
+          184.0,
+          186.06
         ]
       },
-      "price_now": 183.89,
+      "price_now": 186.06,
       "price_at_signal": 178.51,
-      "pct_since_signal": 3.01,
-      "pct_14d": 13.59,
+      "pct_since_signal": 4.23,
+      "pct_14d": 21.6,
       "deep": {
         "recent_filings": [
           {
@@ -1695,7 +1801,7 @@
         {
           "name": "Szlosek Thomas A",
           "kind": "CFO",
-          "note": "139 Form 4 filings on record since 2004; 3 buys of AN in this tracker's ledger"
+          "note": "140 Form 4 filings on record since 2004; 3 buys of AN in this tracker's ledger"
         },
         {
           "name": "Manley Michael Mark",
@@ -1710,28 +1816,28 @@
       ],
       "news": [
         {
-          "title": "AutoNation, Inc. (AN) stock price, news, quote and history - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE45WXU3WFpfS1ZiZVFicFRyZDkxLTQ0Z2Q3VGUyV1Q5ZkFvQklHTWduYjlKV2NCOEYzVFQ3TTlhUXVYQ1VBcF9GR09JaGpoWHc?oc=5",
-          "date": "Fri, 30 Oct 2026",
-          "source": "Yahoo Finance Singapore"
+          "title": "AutoNation, Inc. (AN) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wMHRnYjU2R1Q0Z05ERkNiaklGV2h6T2FNT04wWThUYkR2d1dqb3dna1ByNnIwbmhTVTNjaXZOY2l5SmlrRzFIYlpTMzdiVlU?oc=5",
+          "date": "Fri, 06 Nov 2026",
+          "source": "Yahoo! Finance Canada"
         },
         {
-          "title": "Is AutoNation Inc (AN) a Bargain After 4.0% Drop? GF Value Says Undervalued - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV25ZYXJkYVFBYnpwdGVYaTl3a2xsdUVERDJMbTN1Y2lkMDhRVmxqMFFxTlRlS3Noem02OFFHa0dzUklRam1rOTRuTEpJejFUUlE5TkdmSVBDeFBCall4WHcyZWM1WVZhVEhxU1YzNXNabHhvYlJyaDRDZk1fUm1nWndrY3JtYW9MNnZqclRVN1NSNUZrQi1wcXhmZmdVay1rdWZPUl80UDJHN3lFU2c?oc=5",
+          "title": "AN: Autonation Inc. Latest Stock Price, Analysis, News and Trading Ideas - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xTXZDM1JxZ0U5SVY3S21UV0tXVFdNY0x1ZFdSeTFBQUJOTXhUYksxNFVDbjdxcF8yUEYxbm1oTjNIVHFYN053?oc=5",
           "date": "Wed, 04 Nov 2026",
-          "source": "GuruFocus"
+          "source": "Stocktwits"
         },
         {
-          "title": "AutoNation, Inc. (AN) Stock Forecasts - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQTBvT2dhSUtXdk5DaFlCWm4tSGFMX0YtQW4tTmtycVhLb2RBQWFfOC1hNzBKdU9EQTVndG1vdXNXSTVlNEp1bnRfdVJXZlozaERXb2xjUXB0RnZHSkpEa2ZYQmV3TG00a1lmMlRyQWR1X1VBT0hER1RWYU1mU01pZTFFSmVyN2RnM2Raaw?oc=5",
-          "date": "Mon, 02 Nov 2026",
-          "source": "Yahoo Finance"
+          "title": "AutoNation, Inc. (NYSE:AN) Stock Has Consensus Price Target of $227.50 According to Analysts - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRnVwczQyYTBUTVVJY3k3aVZveGVPTWZ0cjZMNnE4LXBnVjNjRkRKcFhBQ3BVY3p4dmF5YlFTRGJxX2JVTURiWkRiQklGZDROVm1FUE5PdV9jQmZlR1FVM0RYWDh6My1IMFJjbUZuTi1hcmRvdFNueGJvNU9SZWlITjJpOWRxN2tDNG1ncDE0ckh2d3JIVlJwdHVrU1dmVVZ5Nzh4LXc2akhqM3lhUlNVT2hMaUlyMFpCSTZHamoxaFZ4RW1LcmlCdTFQXzhYOEpkUEtUTk5JMXFic013QnhQakd3Ql8?oc=5",
+          "date": "Sun, 08 Nov 2026",
+          "source": "MarketBeat"
         },
         {
-          "title": "AutoNation: Service Resilience Persists Despite Macro Pressure (NYSE:AN) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmNOUXdtM25WQlpFNTRRSlRXbjZpNW5xTXRkU2hNWFlvZ1M1c3BUSk84cUNQTUtPX2ZvY0RWbFpYYUd6RG1nc0tOblQ4X0lfSm5VZVZpVFR0MFVmWGM3d2p2YzZsOWdMX0tJcE5Cd1o3bnh0aDJuTUljRnFjcTJlMHdTZmNjWFBVNlhNc2JZWUFlQW5OVjV0S0lpQURVekZfTUQ4Vw?oc=5",
-          "date": "Fri, 30 Oct 2026",
-          "source": "Seeking Alpha"
+          "title": "AutoNation Stock Slides as Softer Q3 Outlook Raises Margin Concerns - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ2FNallSNnVRQ0UwSlZmdzF3UV9DQk5TdUl5Uk9lQk93aGstLUFXdzZKZDRuNFRwb3oydlYtcXdDTGlEZFdNRnNybF9neF80Z1dCYy04cFFCZkV2cGRUZXhCVUdfTDVFaU51ODlSYnFCVlhVQTRmOVRrMzc3VzVKN0V5RndpdGp0aVIxRkNrVEdvTzd2cl9OZHo0RUZlaGIyZXNsaWpZd2taQ3Y3eEw4RExKY3VRZ2g1dHJrb2FyT1hUQ2ZtR3BB?oc=5",
+          "date": "Fri, 18 Sep 2026",
+          "source": "Benzinga"
         },
         {
           "title": "AutoNation, Inc. Stock 12\u2011Month Price Target Cut to $216, Implies 41% Upside - TradingView",
@@ -1743,8 +1849,8 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1796,7 +1902,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -1809,10 +1914,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          16.32,
           16.17,
           17.37,
           17.08,
@@ -1825,13 +1930,14 @@
           22.46,
           24.14,
           24.88,
-          24.41
+          24.24,
+          24.68
         ]
       },
-      "price_now": 24.41,
+      "price_now": 24.68,
       "price_at_signal": 22.84,
-      "pct_since_signal": 6.87,
-      "pct_14d": 49.57,
+      "pct_since_signal": 8.06,
+      "pct_14d": 52.63,
       "deep": {
         "recent_filings": [
           {
@@ -1871,7 +1977,7 @@
         {
           "name": "Karam Fahmi",
           "kind": "CEO",
-          "note": "20 Form 4 filings on record since 2018; 1 buy of UPBD in this tracker's ledger"
+          "note": "21 Form 4 filings on record since 2018; 1 buy of UPBD in this tracker's ledger"
         },
         {
           "name": "BROWN JEFFREY J",
@@ -1906,22 +2012,16 @@
       ],
       "news": [
         {
-          "title": "Upbound Group, Inc. (UPBD) stock price, news, quote and history - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBST3ZXc2RFVXcxaHhoQlpPWnU4SGNZZTFXX1NRUi1HQkl4SUFvV3RJZzdJcGhIMElSZWZXMnZRMEFhR1BHTVR0UzdLTEwtT2l5a2c?oc=5",
-          "date": "Fri, 06 Nov 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
-          "title": "Upbound Group, Inc. (UPBD) stock price, news, quote and history - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nZHN1OHd0NHRiMlczUHM1djNRSzlFeTFCWk5hWUhvdDh4ZWFiN25TQXRUQnhibFVGYmpXRXFZaE1JNmY3aHRKckVhaWxReFFOanc?oc=5",
-          "date": "Tue, 03 Nov 2026",
-          "source": "Yahoo Finance UK"
-        },
-        {
           "title": "Upbound Group, Inc. (UPBD) Stock Price, News, Quote & History - Yahoo! Finance Canada",
           "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1teVVwLXlST2VoZHlXaWNpb3lCeDVRa2Zwb3YxVEpzT1N1NTBRQWlmbV90OHNmcWFmYjB3aFN4TUdTaEtMRW1Zd3hxd0tOcGtuSkE?oc=5",
-          "date": "Tue, 03 Nov 2026",
+          "date": "Sat, 07 Nov 2026",
           "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Upbound Group, Inc. (UPBD) stock price, news, quote and history - Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FUWJzSHJLOUZLYi1xVkZ0RVBmQl9abFBUcHlRQnZPanhjRU5yLVg2T2I3TXgwR2NISWhIb2NtNERoX0RvYkVoaE5ZdnVTbVFLbXc?oc=5",
+          "date": "Sun, 08 Nov 2026",
+          "source": "Yahoo Finance Australia"
         },
         {
           "title": "Upbound Group Inc stock hits 52-week high at 23.99 USD By Investing.com - Investing.com India",
@@ -1930,17 +2030,23 @@
           "source": "Investing.com India"
         },
         {
-          "title": "Upbound Group Inc (UPBD) Shares Fall 4.7% -- What GF Score of 74 Tells Investors - GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRDJjUm9keXp3bXFFdF9qZl9Odld3NFNhUkZvTW4yRDBwN1R1cTd0QWRLR19CbWtZNWxfOTM3d1U4cGdNZllVQWRkbWthTzdPLVctTHZqMEctTFkyZmdBZHE2ZnhMdTVHZ3Y3YXpWdkRQUWM4S3g0eW5fTGE0dWVkcFlZM1J2WlVwVTUzOVhNRjRhSkZKRk1rX1VWdnAtUHpTRUw0Ni1aM0Q1UkNGX2RoZ1Vn?oc=5",
-          "date": "Wed, 23 Sep 2026",
-          "source": "GuruFocus"
+          "title": "At $23 a share, Upbound Group (UPBD) growth chief Rebecca Wooters buys 4,325 shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSFRmMDRYcnZPM0oycVk2X2NtSHdrY3BGclJWSVMzbUY5SGRGRUN6dWFEMF95ZE5fRFlkMkJwZHRhTTdFdUdzckdUdEdmX1NNZDMwa20xM1ByUklvcG1QR1VEOUxKSDhmTWt5ck5tZWdsa3huQnlHVjJuSVU5QW5kWXR6cTZZbENVOFk0MUVkdG5iak5TaHZmcFpQOWNzbWhnbmFkeVp1RDNRME5fT09lTg?oc=5",
+          "date": "Wed, 04 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Upbound Group, Inc. (UPBD) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nZHN1OHd0NHRiMlczUHM1djNRSzlFeTFCWk5hWUhvdDh4ZWFiN25TQXRUQnhibFVGYmpXRXFZaE1JNmY3aHRKckVhaWxReFFOanc?oc=5",
+          "date": "Tue, 03 Nov 2026",
+          "source": "Yahoo Finance UK"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 6 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1992,7 +2098,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-20",
           "2026-10-21",
           "2026-10-22",
           "2026-10-23",
@@ -2005,10 +2110,10 @@
           "2026-11-03",
           "2026-11-04",
           "2026-11-05",
-          "2026-11-06"
+          "2026-11-06",
+          "2026-11-09"
         ],
         "closes": [
-          9.7,
           9.41,
           9.38,
           9.39,
@@ -2021,13 +2126,14 @@
           10.77,
           15.43,
           15.0,
-          14.77
+          14.86,
+          15.42
         ]
       },
-      "price_now": 14.77,
+      "price_now": 15.42,
       "price_at_signal": 15.43,
-      "pct_since_signal": -4.28,
-      "pct_14d": 52.27,
+      "pct_since_signal": -0.06,
+      "pct_14d": 63.87,
       "deep": {
         "recent_filings": [
           {
@@ -2077,22 +2183,16 @@
       ],
       "news": [
         {
-          "title": "At $10.77 a share, ARCH Venture Fund XIII buys Lyell Immunopharma (LYEL) stock. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTZLblhYTUVuQVFjUWZUajVRbENsblo1QjZhN0VoQW5JWDhmS004STViZXl6V2NOYVZDU290QnlseVlOUGtSalZrMHZ6bG9famx5UGhXVVJlNUM3UGRPOXFrN2w4ZzIwSzRZNkJ4a0ZKMUhEUjFUYlBrdHk4UjF5TjA0WlJnMVVhYVRoUjJjT1g1Unl3bS0xTFhwQW8wclRFeHJVNjMxa1BIa1J5R0RzM09hR0dPcUU?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Why Is Lyell Immunopharma Stock (LYEL) Up over 43% Today? - TipRanks",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWWtFeVFtTUtxREhHMi0xY1pVY2RlSHp1SGZSTUlvYjZvWEhzSW5OUDEwNnNsbk15ekdwb1lhMUdvNW85NFJpWi02UzhpTlJ4d1c1UlMyR01ZU1k0ZEV2MWswOTdFTVRaM1BfT3NFclBMcTZJbmlmUF9TWGJUNjFZYWpNNG5IVFRQaXFJ?oc=5",
-          "date": "Wed, 04 Nov 2026",
-          "source": "TipRanks"
-        },
-        {
           "title": "Lyell Immunopharma (LYEL) Loses 39.7% in 4 Weeks, Here's Why a Trend Reversal May be Around the Corner - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWlB6LVpkRDlQOXJIczFod09pQUo5RXlzV3FUd0Joc2oxcmdzMktyYm1kWU5qbVUyWVVUejRJdTY0WGlxMzFVdTl0dl9VSDdMTXhuTE50cWtkTWRxdzJ3QjY4bW5pejFnZEpfRDR5NXNjS2U1bk1lLW5lcXZ3S05nOVFYWG53WHF2SHZmamIyaGpZcnltUnVaV1pJX1pwZw?oc=5",
           "date": "Thu, 04 Jun 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Lyell Immunopharma, Inc. Stock 12\u2011Month Price Target Cut to $37.17, Implies 150% Upside - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWdoMVExaXl4QWRZMkNicG5xSEJQNTVtS1FUZDdRMjJhWXAtRXMzdlNPdkk5TzRvZW55YWYxaWh3bER5S1A0TDJBWEotejJyVkhaWGNOeC00YU1RcFJNS1FHcFJ6b1hsN1VrSU9VbktxV0VRMVBBR3JZVURPeVhuaExmSWVrbWxPdm0tWXV0SWNhQkJrLURGMGQwSU5iN0kwNGdWVWxTZ1dVekZfdVBpR1J6d1puUlFQRXZmQkJCM0ZVNnphV08yOVl3R3ZmX0N2ZVlfU3JRYkVERkYy?oc=5",
+          "date": "Wed, 03 Jun 2026",
+          "source": "TradingView"
         },
         {
           "title": "An approximately $80 million stock sale is expected to help fund Lyell's cancer trials into 2028. - Stock Titan",
@@ -2101,17 +2201,23 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Lyell Immunopharma, Inc. Stock 12\u2011Month Price Target Cut to $37.17, Implies 150% Upside - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVWdoMVExaXl4QWRZMkNicG5xSEJQNTVtS1FUZDdRMjJhWXAtRXMzdlNPdkk5TzRvZW55YWYxaWh3bER5S1A0TDJBWEotejJyVkhaWGNOeC00YU1RcFJNS1FHcFJ6b1hsN1VrSU9VbktxV0VRMVBBR3JZVURPeVhuaExmSWVrbWxPdm0tWXV0SWNhQkJrLURGMGQwSU5iN0kwNGdWVWxTZ1dVekZfdVBpR1J6d1puUlFQRXZmQkJCM0ZVNnphV08yOVl3R3ZmX0N2ZVlfU3JRYkVERkYy?oc=5",
-          "date": "Wed, 03 Jun 2026",
-          "source": "TradingView"
+          "title": "Lyell Immunopharma Inc. (LYEL) Stock Price | Live Quotes & Charts | NASDAQ - www.timothysykes.com",
+          "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBBNVVYS05OaE5nSEJtM0RndDZBWmhISElXUlZfYlV3TGpmLVEwU3hielZ4M2gweUVERnNfeGQ2bzBmUXRlSDZmMEZNSng?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "www.timothysykes.com"
+        },
+        {
+          "title": "Down 27% in 4 Weeks, Here's Why Lyell Immunopharma (LYEL) Looks Ripe for a Turnaround - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSU5iSHVDTDdLLTBUb3dHSW01QWRiaEdjM1RYQnZOWkJtUjlZUTVIVVdqd1BZd19xTFlNYXpvdDN1TkRidDZLaWRFRlVjVDZhV1lJRXFjc1ZUbUlsbjR5V0E3Q3VibEVuNWlvSjVoRkZnX1lZLU5LN0NscDlTaGpadnBkdGhRaXdvWGhwdnBUQQ?oc=5",
+          "date": "Tue, 13 Oct 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -2124,6 +2230,303 @@
           "label": "Hearings mentioning \u201cLyell Immunopharma\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Lyell%20Immunopharma&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "ASPE",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 6.3,
+      "sell_score": 0.0,
+      "net_score": 6.3,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-02 DIRECTOR Thompson Peter A. BUY $15,000,000",
+        "2026-11-02 DIRECTOR Thompson Peter A. BUY $15,000,000",
+        "2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000",
+        "2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000",
+        "2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000"
+      ],
+      "company": {
+        "name": "Aspen Neuroscience, Inc.",
+        "industry": "Pharmaceutical Preparations"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09"
+        ],
+        "closes": [
+          14.89,
+          13.04,
+          12.29,
+          12.76,
+          11.76,
+          12.44,
+          12.4
+        ]
+      },
+      "price_now": 12.4,
+      "price_at_signal": 13.04,
+      "pct_since_signal": -4.91,
+      "pct_14d": -16.72,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-11-02",
+            "summary": "Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526443805/na-20261102.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "ORBIMED ADVISORS LLC",
+          "kind": "DIRECTOR",
+          "note": "291 Form 4 filings on record since 2017; 1 buy of ASPE in this tracker's ledger"
+        },
+        {
+          "name": "Thompson Peter A.",
+          "kind": "DIRECTOR",
+          "note": "131 Form 4 filings on record since 2006; 1 buy of ASPE in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "A fully vested stock grant for Aspen Neuroscience (ASPE)'s chair awaits delivery in 2027. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNHhUUDRxbmdOU25HMnRzTWNzYzBYcDY5NjI3d3FkV2J2NS0wNGx4TWhTNlBpYzNQYnc0MXdMRWV5UmtzN1F4OGxYdDJUS1VXRDhSZFNDYk9tRkpLZDBkaWNtTVR5Ty0teUhnQUx5T2x5NDlwZTVnd0cyWVg1VDYzOUxpQUIzdnFNU0ZnUWpwMVdfRzVld1JBa1lJNVhMZWp3a2ZDOHdyUFU3VlAtdmtLeFJWQk9sMjg?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Aspen Neuroscience, Inc. (ASPE) stock price, news, quote and history - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16VUlUT0ZyenJlTjZXUnJEbmM4dUNKaWdHNS1XRXM0ZV9UN1JkSnJZRllkWkZGcUZhdWp1eHJtWjZGSU1pQk1nNTBGSkZaYTE1a1IxTDZ2TkRrX04yX01aNw?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "Aspen Neuroscience Inc. Stock Grades | ASPE - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzcHNWZ1Z4SUF4U1YxdHRab3JFNHlIaXJQdUt0Z2NEejNlbTR3SlJWM3BsTWczeWt2YVJ0VFNVdFhqUUxXa2JHZW9qZHFELWNDTVM2TEtjZjJUVTRLeDZvaDZucDJkUlhreXRXaw?oc=5",
+          "date": "Tue, 03 Nov 2026",
+          "source": "Barron's"
+        },
+        {
+          "title": "Five filers report the same Aspen Neuroscience (ASPE) stake. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNEZSUlgwZ3V0Y0xiYWtMcUM5elVkcVVuYzF6Ym1hSjItU0F6RHVoaGlZN09EdUpxS2JRZUdvQm9uejBQbTFxbVRMdS10bGF3RWhlaEQwY1d4b1h5dW9VSGhoY3pyVnB5TzFUMEdpV0tTdi1vZVd5aloyUXFERkE3Tl9faU5JeW1QUnFjQ3NIeHc2Ymxud2R4RVEtMmxwdEMtc3FDQUpMS2ZkMWRuTTg1Qy14UTIxVkNfUVJ1OEVFZExkLTkzanlsUA?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Aspen Neuroscience, Inc. (ASPE) stock price, news, quote and history - Yahoo Finance - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LNXpBeWRrNy0tc2V1QzBSX3F2Z1h3MWpQdGpWQUx6VGtkUThhMmUwcWhDM2JUdmRPTXk5QjhLdkNDMlUxSk51ekxMTHBjV2libmJlRDVrOW5LczlRbFNhcg?oc=5",
+          "date": "Sat, 07 Nov 2026",
+          "source": "Yahoo Finance Singapore"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 7 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cAspen Neuroscience\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Aspen%20Neuroscience&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cAspen Neuroscience\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Aspen%20Neuroscience&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cPharmaceutical Preparations\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Pharmaceutical%20Preparations&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "PMN",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 4.0,
+      "sell_score": 0.0,
+      "net_score": 4.0,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-04 DIRECTOR Williams Eugene BUY $90,895",
+        "2026-11-04 DIRECTOR Williams Eugene BUY $90,895",
+        "2026-11-02 OFFICER Cashman Neil BUY $38,600",
+        "2026-11-02 OFFICER Cashman Neil BUY $38,600"
+      ],
+      "company": {
+        "name": "ProMIS Neurosciences Inc.",
+        "industry": "Pharmaceutical Preparations"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-21",
+          "2026-10-22",
+          "2026-10-23",
+          "2026-10-26",
+          "2026-10-27",
+          "2026-10-28",
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09"
+        ],
+        "closes": [
+          9.13,
+          8.98,
+          8.34,
+          8.06,
+          9.68,
+          11.07,
+          11.08,
+          3.31,
+          3.0,
+          3.41,
+          3.52,
+          3.65,
+          4.16,
+          4.05
+        ]
+      },
+      "price_now": 4.05,
+      "price_at_signal": 3.0,
+      "pct_since_signal": 35.0,
+      "pct_14d": -55.64,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-08-13",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926095905/pmn-20260813x8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-08-13",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926095895/pmn-20260630x10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-07-28",
+            "summary": "Company Reg FD disclosure (investor materials); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926087269/pmn-20260728x8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-05-20",
+            "summary": "Company executive/director departure or appointment; shareholder vote results; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926064545/pmn-20260520x8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-05-12",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1374339/000110465926059035/pmn-20260331x10q.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Williams Eugene",
+          "kind": "DIRECTOR",
+          "note": "12 Form 4 filings on record since 2022; 1 buy of PMN in this tracker's ledger"
+        },
+        {
+          "name": "Cashman Neil",
+          "kind": "OFFICER",
+          "note": "8 Form 4 filings on record since 2022; 1 buy of PMN in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "PMN Stock Price and Chart \u2014 NASDAQ:PMN - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoUE55d1k2bkJuYUlTbjM0eUdmb2NuRE9MWE5QQTdQT2Nxd3BPNVFEa0RTTU1lUUl5c3E4MmtVQXFPSlNfZXJ0bVhyRkczZDcyZ2RQQ0ZrVDk2M0k?oc=5",
+          "date": "Fri, 27 Feb 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "A Boston poster will cover an Alzheimer\u2019s trial analysis whose data were presented in July. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQd0RfNC1wcnJ6c29fbVdIVHZPRW54ajZPd1hvVTJDTEdUVkdHTTBrNzYtT25TMUtEX1R5Y1NDNG1USVFKcl9qUEx4NFZMMlB2N085aVZGV0pYMHdmbzBxa2VCY2lSZUlYYUk2N0xqYjVrWW9FUkdrTWNKMlpSRUhiODBQTHhDb1dKZkdqcUZBekFpdWIyanZ0bWJPRWMwWHlxMTVqOEZEUjhhbjRfMWZUekw1VWN4eWE3?oc=5",
+          "date": "Thu, 05 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "ProMIS Neurosciences Shares Climb on Positive Interim Alzheimer\u2019s Trial Safety Results - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTFAwZVRrMmh6a2tDWjFSdnJCOGNrcVAtNUVkS0VtNUlWc0QtUlJsbmFqallaZFEwZm45V2ZKTkFTWDlXQTg0UlJfbUJWblFDSEFUSURFWFRtTWhXRjU4QTN3VE5XNzNhVDd2TFdtWk5PcXgzMWVqYUlmMGc2WW8ybVI2Z3kyX1RIb2twbU5xaXl6LUt2WWFHZUlma0d3TU56NEVBQ1RB?oc=5",
+          "date": "Tue, 28 Jul 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "ProMIS Neurosciences (NasdaqCM:PMN) Stock Forecast & Analyst Predictions - Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeVV0am12UEdpTDFHeHpQQ2JVSGgzdEtwQWZSY2lNTmtqTVZnOFBfaEVaakk1azFFUFd6d1BwQWpIUzV4amZhbTJ3UEUtWmx1X0RZRmJ0NEJZU21FUFM4MXd2U2lwZ0NiTHJHTUVfajlTNDlFeGRHUURvSDRGM1VLN1JuVnkwd0ZLODMxREtUQksyN1RCZVdtdjR3?oc=5",
+          "date": "Mon, 02 Nov 2026",
+          "source": "Simply Wall St"
+        },
+        {
+          "title": "A webcast is set for ProMIS\u2019 third-quarter results call on Nov. 12 at 4:30 p.m. ET. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWkZKYnNvd1BQR01kWHk1dlBvY2VqRWpFS09HWFpEVzMwc1l6dVA0NnQzM00wMEJWdFZGaG1xZ2F0TGVwTzBpb3JoSW9HZ3ZvRzM1dmYtR29QRkQtZmRjMUZxX0twU2NoRTd1THYwaTAzVnFVUVJZOFVpdTlVNF9ZcHZ5Z3VIX1FZTVVHRm1QaXVQY3pWZWwxZmFZXzY0UnpHd2tjUjd0Q0lEbFVXME9fYWo1LTNXVUhkTFk1c2c4QQ?oc=5",
+          "date": "Tue, 03 Nov 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Edge partly spent \u2014 already +35% since disclosure",
+        "cls": "spent"
+      },
+      "earnings_soon": true,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cProMIS Neurosciences\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=ProMIS%20Neurosciences&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cProMIS Neurosciences\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=ProMIS%20Neurosciences&source=committeemeetings"
         },
         {
           "label": "Bills mentioning \u201cPharmaceutical Preparations\u201d",

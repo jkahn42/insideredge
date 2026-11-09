@@ -1,22 +1,8 @@
-# InsiderEdge Daily Report — 2026-11-06
+# InsiderEdge Daily Report — 2026-11-09
 
-Signals: **0 BUY** / **1 SELL** / **12 WATCH**
+Signals: **1 BUY** / **1 SELL** / **13 WATCH**
 
 ## BUY
-_None today — no cluster met the threshold. That is a feature, not a bug._
-
-## SELL / AVOID
-### CRWD  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 3 sellers)
-- 2026-11-03 CEO Kurtz George SELL $489,880 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $489,880 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $370,545 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $370,545 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $317,666 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $317,666 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $317,057 (10b5-1 planned sale — discounted)
-- 2026-11-03 CEO Kurtz George SELL $317,057 (10b5-1 planned sale — discounted)
-
-## WATCHLIST
 ### ETRA  (net +60.0 | buy 60.0 / sell 0.0 | 2 buyers, 0 sellers)
 - 2026-11-05 DIRECTOR ORBIMED ADVISORS LLC BUY $915,212
 - 2026-11-05 DIRECTOR ORBIMED ADVISORS LLC BUY $915,212
@@ -27,27 +13,19 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-11-05 DIRECTOR ORBIMED ADVISORS LLC BUY $225,813
 - 2026-11-05 DIRECTOR ORBIMED ADVISORS LLC BUY $225,813
 
-### ASPE  (net +46.5 | buy 46.5 / sell 0.0 | 4 buyers, 0 sellers)
-- 2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000
-- 2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000
-- 2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000
-- 2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000
-- 2026-11-02 OTHER ARCH Venture Partners XIV, L.P. BUY $18,000,000
-- 2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990
-- 2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990
-- 2026-11-02 OTHER ARCH Venture Fund X, L.P. BUY $999,990
+## SELL / AVOID
+### CRWD  (net -60.0 | buy 0.0 / sell 60.0 | 0 buyers, 3 sellers)
+- 2026-11-05 CEO Kurtz George SELL $64,743 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $64,743 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $590,293 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $590,293 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $56,047 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $56,047 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $496,695 (10b5-1 planned sale — discounted)
+- 2026-11-05 CEO Kurtz George SELL $496,695 (10b5-1 planned sale — discounted)
 
-### ALMR  (net -42.4 | buy 0.0 / sell 42.4 | 0 buyers, 1 sellers)
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
-
-### UTHR  (net -40.7 | buy 0.0 / sell 40.7 | 0 buyers, 2 sellers)
+## WATCHLIST
+### UTHR  (net -58.1 | buy 0.0 / sell 58.1 | 0 buyers, 2 sellers)
 - 2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale — discounted)
 - 2026-11-05 OFFICER MAHON PAUL A SELL $748,665 (10b5-1 planned sale — discounted)
 - 2026-11-05 OFFICER MAHON PAUL A SELL $698,010 (10b5-1 planned sale — discounted)
@@ -57,7 +35,37 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale — discounted)
 - 2026-11-05 OFFICER MAHON PAUL A SELL $605,376 (10b5-1 planned sale — discounted)
 
-### IDXX  (net -38.2 | buy 0.0 / sell 38.2 | 0 buyers, 4 sellers)
+### ALMR  (net -43.9 | buy 0.0 / sell 43.9 | 0 buyers, 1 sellers)
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+- 2026-11-03 OTHER Qiming Corporate GP VI, Ltd. SELL $603,658
+
+### REGN  (net -41.3 | buy 0.0 / sell 41.3 | 0 buyers, 8 sellers)
+- 2026-11-04 OFFICER Pitofsky Jason SELL $924,632
+- 2026-11-04 OFFICER Pitofsky Jason SELL $924,632
+- 2026-11-04 OFFICER Pitofsky Jason SELL $540,764
+- 2026-11-04 OFFICER Pitofsky Jason SELL $540,764
+- 2026-11-04 OFFICER Pitofsky Jason SELL $499,127
+- 2026-11-04 OFFICER Pitofsky Jason SELL $499,127
+- 2026-11-04 OFFICER Pitofsky Jason SELL $412,471
+- 2026-11-04 OFFICER Pitofsky Jason SELL $412,471
+
+### KNSA  (net -41.1 | buy 0.0 / sell 41.1 | 0 buyers, 5 sellers)
+- 2026-11-04 CEO Patel Sanj K SELL $7,700,096 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $7,700,096 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $2,849,601 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $2,849,601 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $2,585,474 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $2,585,474 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $134,831 (10b5-1 planned sale — discounted)
+- 2026-11-04 CEO Patel Sanj K SELL $134,831 (10b5-1 planned sale — discounted)
+
+### IDXX  (net -39.6 | buy 0.0 / sell 39.6 | 0 buyers, 4 sellers)
 - 2026-11-04 PRESIDENT Lane Michael SELL $167,109
 - 2026-11-04 PRESIDENT Lane Michael SELL $167,109
 - 2026-11-04 PRESIDENT Lane Michael SELL $1,420,092
@@ -67,7 +75,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-11-04 OFFICER Underberg Sharon E. SELL $727,973
 - 2026-11-04 OFFICER Underberg Sharon E. SELL $727,973
 
-### STX  (net -36.2 | buy 0.0 / sell 36.2 | 0 buyers, 2 sellers)
+### STX  (net -37.6 | buy 0.0 / sell 37.6 | 0 buyers, 2 sellers)
 - 2026-11-02 CEO MOSLEY WILLIAM D SELL $972,692 (10b5-1 planned sale — discounted)
 - 2026-11-02 CEO MOSLEY WILLIAM D SELL $972,692 (10b5-1 planned sale — discounted)
 - 2026-11-02 CEO MOSLEY WILLIAM D SELL $968,477 (10b5-1 planned sale — discounted)
@@ -87,7 +95,7 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-11-03 DIRECTOR Haggart Dylan G. BUY $370,350
 - 2026-11-03 DIRECTOR Haggart Dylan G. BUY $370,350
 
-### PLBY  (net -32.3 | buy 5.3 / sell 37.6 | 1 buyers, 2 sellers)
+### PLBY  (net -33.7 | buy 5.3 / sell 39.0 | 1 buyers, 2 sellers)
 - 2026-10-30 DIRECTOR Docler Holding S.a r.l. BUY $5,000,000
 - 2026-10-30 DIRECTOR Docler Holding S.a r.l. BUY $5,000,000
 - 2026-10-30 DIRECTOR Docler Holding S.a r.l. BUY $5,000,000
@@ -96,16 +104,6 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-10-30 10% OWNER FIG Buyer GP, LLC SELL $975,554
 - 2026-10-30 10% OWNER FIG Buyer GP, LLC SELL $975,554
 - 2026-10-30 10% OWNER FIG Buyer GP, LLC SELL $975,554
-
-### BBTX  (net +30.2 | buy 30.2 / sell 0.0 | 3 buyers, 0 sellers)
-- 2026-11-02 OTHER Salvia Investment GmbH BUY $6,000,000
-- 2026-11-02 OTHER Salvia Investment GmbH BUY $6,000,000
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
-- 2026-11-02 OTHER RA CAPITAL MANAGEMENT, L.P. BUY $37,361,744
 
 ### AN  (net +29.9 | buy 29.9 / sell 0.0 | 3 buyers, 0 sellers)
 - 2026-11-03 OFFICER EDMUNDS C COLEMAN BUY $54,975
@@ -136,6 +134,19 @@ _None today — no cluster met the threshold. That is a feature, not a bug._
 - 2026-11-04 10% OWNER ARCH Venture Partners IX, LLC BUY $24,999,992
 - 2026-11-04 10% OWNER ARCH Venture Fund XIII, L.P. BUY $24,999,992
 - 2026-11-04 10% OWNER ARCH Venture Fund XIII, L.P. BUY $24,999,992
+
+### ASPE  (net +6.3 | buy 6.3 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-11-02 DIRECTOR Thompson Peter A. BUY $15,000,000
+- 2026-11-02 DIRECTOR Thompson Peter A. BUY $15,000,000
+- 2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000
+- 2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000
+- 2026-11-02 DIRECTOR ORBIMED ADVISORS LLC BUY $15,000,000
+
+### PMN  (net +4.0 | buy 4.0 / sell 0.0 | 2 buyers, 0 sellers)
+- 2026-11-04 DIRECTOR Williams Eugene BUY $90,895
+- 2026-11-04 DIRECTOR Williams Eugene BUY $90,895
+- 2026-11-02 OFFICER Cashman Neil BUY $38,600
+- 2026-11-02 OFFICER Cashman Neil BUY $38,600
 
 ---
 **Read this every day:** Form 4s lag trades by up to 2 business days; congressional disclosures lag by up to 45 days. Amounts on political trades are range midpoints (estimates). Insider signals are one input, not a guarantee — position sizing and diversification are your risk controls. This is research tooling, not financial advice.

@@ -59,6 +59,12 @@
       "issued": "2026-11-03",
       "px_issue": 12.35,
       "spy_issue": 753.905
+    },
+    {
+      "ticker": "ETRA",
+      "issued": "2026-11-09",
+      "px_issue": 8.22,
+      "spy_issue": 752.69
     }
   ]
 }
