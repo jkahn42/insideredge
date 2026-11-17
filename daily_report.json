@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "signals": [
     {
       "ticker": "MSI",
@@ -10,16 +10,16 @@
       "sell_score": 60.0,
       "net_score": -60.0,
       "distinct_buyers": 0,
-      "distinct_sellers": 9,
+      "distinct_sellers": 5,
       "evidence": [
-        "2026-11-10 OFFICER MOORE KATHRYN A SELL $71,509",
-        "2026-11-10 OFFICER MOORE KATHRYN A SELL $71,509",
-        "2026-11-10 OFFICER MOORE KATHRYN A SELL $500,316",
-        "2026-11-10 OFFICER MOORE KATHRYN A SELL $500,316",
-        "2026-11-10 CEO BROWN GREGORY Q SELL $83,408",
-        "2026-11-10 CEO BROWN GREGORY Q SELL $83,408",
-        "2026-11-10 CEO BROWN GREGORY Q SELL $828,505",
-        "2026-11-10 CEO BROWN GREGORY Q SELL $828,505"
+        "2026-11-12 CEO BROWN GREGORY Q SELL $901,562",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $901,562",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $712,747",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $712,747",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $6,169,466",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $6,169,466",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $5,987,072",
+        "2026-11-12 CEO BROWN GREGORY Q SELL $5,987,072"
       ],
       "company": {
         "name": "Motorola Solutions, Inc.",
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -40,10 +39,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          483.39,
           492.08,
           491.53,
           487.31,
@@ -56,13 +55,14 @@
           535.22,
           530.4,
           531.2,
-          534.17
+          534.17,
+          526.15
         ]
       },
-      "price_now": 534.17,
-      "price_at_signal": 527.38,
-      "pct_since_signal": 1.29,
-      "pct_14d": 10.5,
+      "price_now": 526.15,
+      "price_at_signal": 530.4,
+      "pct_since_signal": -0.8,
+      "pct_14d": 6.92,
       "deep": {
         "recent_filings": [
           {
@@ -96,7 +96,7 @@
         {
           "name": "BROWN GREGORY Q",
           "kind": "CEO",
-          "note": "212 Form 4 filings on record since 2003; 36 sales of MSI in this tracker's ledger"
+          "note": "212 Form 4 filings on record since 2003; 44 sales of MSI in this tracker's ledger"
         },
         {
           "name": "MAHER KATHERINE A",
@@ -117,33 +117,44 @@
           "name": "SAPTHARISHI MAHESH",
           "kind": "OFFICER",
           "note": "28 Form 4 filings on record since 2021; 2 sales of MSI in this tracker's ledger"
-        },
-        {
-          "name": "MOLLOY JOHN P",
-          "kind": "COO",
-          "note": "59 Form 4 filings on record since 2015; 9 sales of MSI in this tracker's ledger"
-        },
-        {
-          "name": "NAIK RAJAN",
-          "kind": "OFFICER",
-          "note": "50 Form 4 filings on record since 2018; 2 sales of MSI in this tracker's ledger"
-        },
-        {
-          "name": "WINKLER JASON J",
-          "kind": "CFO",
-          "note": "46 Form 4 filings on record since 2020; 3 sales of MSI in this tracker's ledger"
-        },
-        {
-          "name": "NIEWIARA JAMES A",
-          "kind": "OFFICER",
-          "note": "27 Form 4 filings on record since 2023; 2 sales of MSI in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Motorola Solutions, Inc. (MSI) stock price, news, quote and history - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93V2Q2RVY0dnRlM3pPZGNJaFlTSjA3S3BrcFNkYjJmOHFiVm11VTNIUXkyOEN5enpDeHBlVE1ybmhTa0dsc2RqbVdDeDFXRUpL?oc=5",
+          "date": "Fri, 13 Nov 2026",
+          "source": "Yahoo Finance Singapore"
+        },
+        {
+          "title": "Motorola Solutions Increases Quarterly Dividend by $0.13 to $1.34 a Share, Payable Jan. 15 to Holders of Record Dec. 15 - marketscreener.com",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMGwybmZRWGg2cUVVTnBLUm83eUJoWHlHYWNLWnBPeGZtSEJ3MmJoTzJ3VzcwYkFJS1NndlpOWDlRR0oyWENkakkzS1g3NnYtVmJ2bjNBZ1Y2Z0VUV1dtbmNQU29CVEZZTk9RcHhqTVB4ajB2QUZBZkRZUlhXMGloVndueWl6MHRMLWVNLWJZVHdya2t3TlJ6NUt3ZjkxYVMzS0JZY2IyYTMwYnVXbUFGT0hKbnBwRW5JUXdPakhoYnc5UmpsWWtOcXlaOVpldFQwWGFLcXprNDJ0MHFQeGs5X1BaOA?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "marketscreener.com"
+        },
+        {
+          "title": "Motorola Solutions shareholders get $1.34 per share on Jan. 15. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQNzVTWjZDM1pUaEl6ZVB3TnFmMEdoLUZBN1U3LS1USTNtSXZEU1NVQ3FBTEFDU2JvZUdoRWM0MjlnYmEtU0tfSElzQUlCVEhiSVVkZ2xDdWZfbThhS0t3OHgyM3d3NXZJTzVPc0hPLThaWVRIVExWOUcxdWFyVUwtWEMwbzNpSXZLSVc0SG1lUXItMUN2SXVGSE5vVHlZWkRFbkU0Q1NGYw?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Motorola Solutions Inc. stock underperforms Monday when compared to competitors despite daily gains - MarketWatch",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQYm1WMGlQc2I4QlpFVGVmNy1IQk4zTjF5ejRNWTI2UzZmN09rWnZYUkVNaDMtQ2hsZmRKcGRtN05USWRwRTE3SzFSaXJ6QUI4WU5IdVlCX0FsczgwdkpMQnM2eVUxWWgzNVhlQ1JtVldxREp1bkk1NVhPZk5xSGo4NWJ2OTJYOTRqTEFUMGQxalE0cU1EQlhwU2g0STRfZXRlM2J2UThERi1ZTW9GOHJpVWFLdG15dHZCTEVLc3ZrdWpETXhGY1lPSUxJbWtXa2RNamhaWi1LV2lWT2VmNWZrcVdLU1MyVDExYTNoZXBNT0VRTXM4WnFteW83QV8zMWlNZTJCWVVQaw?oc=5",
+          "date": "Mon, 09 Nov 2026",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "MSI - Motorola Solutions Inc Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VdTFGU0FnX2E4M1piSWZVeVUwakRmTUdGSEtfenFlcFhGYlRYRTB3cllzME9QU2JseGo0eHFUQ1U0dE1o?oc=5",
+          "date": "Tue, 26 May 2026",
+          "source": "Finviz"
+        }
+      ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -171,13 +182,179 @@
       ]
     },
     {
-      "ticker": "HPP",
+      "ticker": "TEAM",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 60.0,
       "sell_score": 0.0,
       "net_score": 60.0,
+      "distinct_buyers": 1,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $46,099",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $46,099",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $340,396",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $340,396",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $317,753",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $317,753",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $106,774",
+        "2026-11-13 CEO Cannon-Brookes Michael BUY $106,774"
+      ],
+      "company": {
+        "name": "Atlassian Corp",
+        "industry": "Services-Prepackaged Software"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17"
+        ],
+        "closes": [
+          204.1,
+          191.72,
+          187.08,
+          191.05,
+          189.88,
+          183.29,
+          153.68,
+          154.9,
+          148.6,
+          152.44,
+          152.29,
+          149.99,
+          149.94,
+          140.98
+        ]
+      },
+      "price_now": 140.98,
+      "price_at_signal": 149.99,
+      "pct_since_signal": -6.01,
+      "pct_14d": -30.93,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-11-06",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000054/team-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-05",
+            "summary": "Company announced results of operations (earnings); executive/director departure or appointment; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/team-20261105.htm"
+          },
+          {
+            "form": "DEF 14A",
+            "date": "2026-10-14",
+            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000044/team-20261013.htm"
+          },
+          {
+            "form": "10-K",
+            "date": "2026-08-14",
+            "summary": "Annual report: full-year financials, risks, and business overview.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000036/team-20260630.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-06",
+            "summary": "Company announced results of operations (earnings); other notable events; exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000031/team-20260806.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Cannon-Brookes Michael",
+          "kind": "CEO",
+          "note": "858 Form 4 filings on record since 2016; 14 buys of TEAM in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Atlassian (TEAM) Climbs 30% as Revenues \u2018Higher-Than-Expected\u2019 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDZ6ZDBBY2lfRTRTLVdPSlp1czRUYmhKeWpoZEMwRGs3UnRaSVRPMkFsSzllVE5sTGU0YXBKcnN6YWc2NDB0d0t3ZkFXNXM2NTU2MG9JdGNwd05PV1ZwMUtiMVdqaEhQMEk2elgzZ2tON3lBTXFjdVpnZzFqbG45TGltTWNFbDhRVG9oQzhNb3NMQi1FcWtORk5vNVZGZXM?oc=5",
+          "date": "Fri, 01 May 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Atlassian Stock Surges 30% After Earnings. So Much for the Software Slump. - Barron's",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WUo2ZkZlb1k2anR6eDEyZEE4Nzc1N2J4Ry1xT1ByZEZmalVQcHRIZlh5NWEyZ0ZkS0VWcm0xWDM4a0hXWE9QcU5IYjBQYzBvSzRYTHJKSGppcXhTQUFPMjJBQjF1dU5GOHp3Tl9wWUJUYlNmZEgxU2F0cjQ?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "Barron's"
+        },
+        {
+          "title": "Atlassian stock skyrockets more than 35% as cloud growth roars back - SiliconANGLE",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzl3WXYyblJaRi1iNHJKSDE4ZFVscUtTRGVsYjJPZWM0RTJWZnMza0NkUnlwS3l2V09NWUFtTGZpZGJvejJQTUI0X1pRVTNudTh3SmdRbzZXanNzdzZEaGJmX2pVQ1ZyV3FEUzE4N292NDhoWElGb0VpZzI3a2FhQjFudWRNZ2d2ZFA4Ylh0QXVueHZN?oc=5",
+          "date": "Thu, 06 Aug 2026",
+          "source": "SiliconANGLE"
+        },
+        {
+          "title": "TEAM - Atlassian Corp Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIdlhDNHJ5ajB2ZTNXSmg5dFRzVEQ1ei1aSlpCY0U1YXotdjJ1TWZ1RjdGWGd1a0psNE1DcGc0SDhrN1p1N1E?oc=5",
+          "date": "Wed, 27 May 2026",
+          "source": "Finviz"
+        },
+        {
+          "title": "Atlassian Corp Stock (TEAM) Closed Up by 29.10% on May 1: A Full Analysis - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdzJDaHpTLW43b1VuTHFtNUU0T0NWZVBkY0JQNXZvc0g3TEl2SFo2eVZ5Tm9zclFNMzBZRjlEMFU0bnF3Q0NxWVFwdFhBNldEU19TRTlNM3Fuc2FtdmRBVE8waE90VTI4NktEODJha1llMVlXQXUwdFdiakRsa1B2TEliTkhpU1U0NTM4?oc=5",
+          "date": "Fri, 01 May 2026",
+          "source": "TradingKey"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cAtlassian\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Atlassian&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cAtlassian\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Atlassian&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
+        }
+      ]
+    },
+    {
+      "ticker": "HPP",
+      "call": "WATCH",
+      "herd_pick": false,
+      "short_candidate": false,
+      "buy_score": 42.2,
+      "sell_score": 0.0,
+      "net_score": 42.2,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
@@ -196,7 +373,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -209,10 +385,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          11.02,
           11.09,
           10.54,
           9.87,
@@ -225,13 +401,14 @@
           8.64,
           8.8,
           8.86,
-          9.52
+          9.52,
+          9.12
         ]
       },
-      "price_now": 9.52,
+      "price_now": 9.12,
       "price_at_signal": 8.96,
-      "pct_since_signal": 6.25,
-      "pct_14d": -13.61,
+      "pct_since_signal": 1.79,
+      "pct_14d": -17.76,
       "deep": {
         "recent_filings": [
           {
@@ -292,12 +469,6 @@
           "source": "Yahoo Finance"
         },
         {
-          "title": "Hudson Pacific Properties Announces 2026 Analyst and Investor Day - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTWNFMmpoS2NFd3BZUldrQTQtWkdDWndJTnEwcUZ0NXoySGU3VmprU1UwUmw1WV9xR0N1aDFOZU1sb1htQmtsUWtqSnowUDZ6cUxZTU9vcm5zbVp1ekdBbVd3OExDa0gzRTBjOFdGeFdPb0ZncktJOVlDa2Vrd2ZDS3kzWDdqREZMZUJPeUJSVDFqb1NQd1p0Y1F6MWVfa1RZaGtmQ0FfUUFxSTBITmpxZEpiSDZZUQ?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
           "title": "Hudson Pacific Properties, Inc. Stock 12\u2011Month Price Target Cut to $15.55, Implies 65% Upside - TradingView",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR0dMUW04UXlFejNuMzN3cEt2UUJYVmY1S3AwNFR6ZUZtdEhmMk1Pa01zcURMLU1zbUtWOEZJZkotdE9FdUpXSzJEQlhIZ3V1V3dwMXlNZEpaZmNIaEp1c05YeWctWlhKRjFUMTNOZ2dZNlhvcUtDSzY1Y2RiWHVxZGpXRC1WVnN0MUZYN2ZRVi1rVFVnaUh3SFVSenRRaF80eTlJRTd2S0JPektzaUJTTE5OZDYxdWFSb0doZ2hZVlhXZnpiR1VRM0hpdVhCZHRRczVsTGFWWVZvbk5ORDExTTZCakc?oc=5",
           "date": "Tue, 10 Nov 2026",
@@ -310,6 +481,12 @@
           "source": "Investing.com Canada"
         },
         {
+          "title": "Hudson Pacific Properties: A Recovery Story, A (Speculative) Buy (NYSE:HPP) - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWHpuSVFZVHc5azMtbS1Sd0pncFNTV01YcFhHVHhwLVRiemM5TEtBaFI0cVp1bERxc1hIYVU4UlJrQThyOTFZc3Yyd3Azb3hyeG5ISG9pSXVuQ0JhNlpXNUFwWEhEMVJRY2RTUk1kUF8xUUJXQjdzQ19JaDJvWGdXWmFjd2FJTkplaXdhX09yY2pQOXp0UVcyUWs0NjQ2YkZfcDV2OXFR?oc=5",
+          "date": "Wed, 19 Aug 2026",
+          "source": "Seeking Alpha"
+        },
+        {
           "title": "Hudson Pacific Properties (HPP) Tops Q3 FFO Estimates - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGhxRnpGWDNMUUZlZ3BQUmNSc0ZSbzhDZlhNY1JzVzF5WnNVSW1BTGdONERkcmFVMXdNM1lKUUUwRmFUbkVkQjdkNjd4aVdSZU1idlZBTVlfYzY3S25McFREdXBVbHhQb2E2ZEdhMTlvaEc0YVJTamZZMjBEN1NFXzJoVmxyM2tHbi1Vb0xFczdwd2FqcmlFSG10WU8?oc=5",
           "date": "Thu, 05 Nov 2026",
@@ -319,7 +496,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -347,345 +524,13 @@
       ]
     },
     {
-      "ticker": "TEAM",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 54.0,
-      "sell_score": 0.0,
-      "net_score": 54.0,
-      "distinct_buyers": 1,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $846,000",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $846,000",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $762,097",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $762,097",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $30,726",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $30,726",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $229,229",
-        "2026-11-12 CEO Cannon-Brookes Michael BUY $229,229"
-      ],
-      "company": {
-        "name": "Atlassian Corp",
-        "industry": "Services-Prepackaged Software"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16"
-        ],
-        "closes": [
-          220.12,
-          204.1,
-          191.72,
-          187.08,
-          191.05,
-          189.88,
-          183.29,
-          153.68,
-          154.9,
-          148.6,
-          152.44,
-          152.29,
-          149.99,
-          149.94
-        ]
-      },
-      "price_now": 149.94,
-      "price_at_signal": 152.29,
-      "pct_since_signal": -1.54,
-      "pct_14d": -31.88,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-11-06",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000054/team-20260930.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-11-05",
-            "summary": "Company announced results of operations (earnings); executive/director departure or appointment; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000049/team-20261105.htm"
-          },
-          {
-            "form": "DEF 14A",
-            "date": "2026-10-14",
-            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000044/team-20261013.htm"
-          },
-          {
-            "form": "10-K",
-            "date": "2026-08-14",
-            "summary": "Annual report: full-year financials, risks, and business overview.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000036/team-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-06",
-            "summary": "Company announced results of operations (earnings); other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1650372/000165037226000031/team-20260806.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Cannon-Brookes Michael",
-          "kind": "CEO",
-          "note": "858 Form 4 filings on record since 2016; 9 buys of TEAM in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Atlassian (TEAM) Climbs 30% as Revenues \u2018Higher-Than-Expected\u2019 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWDZ6ZDBBY2lfRTRTLVdPSlp1czRUYmhKeWpoZEMwRGs3UnRaSVRPMkFsSzllVE5sTGU0YXBKcnN6YWc2NDB0d0t3ZkFXNXM2NTU2MG9JdGNwd05PV1ZwMUtiMVdqaEhQMEk2elgzZ2tON3lBTXFjdVpnZzFqbG45TGltTWNFbDhRVG9oQzhNb3NMQi1FcWtORk5vNVZGZXM?oc=5",
-          "date": "Fri, 01 May 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "A CEO's trust buys 13,400 Atlassian (TEAM) shares under a preset trading plan. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUEx6NzIxNXJDbU9td0JyUEFoN21zMzE5UkNDRjVITXZscDYwZDVUZUx3cmFtaFdPNUpkNzI5cDRWX2w4SkRNaVoyR2ltOEtzQkYyeXJvNXBBQWQ1Ti00VVdvNXNSOExyUGFrMFByMndGWFdhMjY0X25LT1Y3aFdJN1RrNWRwRnc0S3JGN2dvcFUycXNXVW5YYlc3SUgwaVUta2ZDb1BDMXpNeDZv?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Atlassian Stock Surges 30% After Earnings. So Much for the Software Slump. - Barron's",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WUo2ZkZlb1k2anR6eDEyZEE4Nzc1N2J4Ry1xT1ByZEZmalVQcHRIZlh5NWEyZ0ZkS0VWcm0xWDM4a0hXWE9QcU5IYjBQYzBvSzRYTHJKSGppcXhTQUFPMjJBQjF1dU5GOHp3Tl9wWUJUYlNmZEgxU2F0cjQ?oc=5",
-          "date": "Fri, 07 Aug 2026",
-          "source": "Barron's"
-        },
-        {
-          "title": "Atlassian stock skyrockets more than 35% as cloud growth roars back - SiliconANGLE",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzl3WXYyblJaRi1iNHJKSDE4ZFVscUtTRGVsYjJPZWM0RTJWZnMza0NkUnlwS3l2V09NWUFtTGZpZGJvejJQTUI0X1pRVTNudTh3SmdRbzZXanNzdzZEaGJmX2pVQ1ZyV3FEUzE4N292NDhoWElGb0VpZzI3a2FhQjFudWRNZ2d2ZFA4Ylh0QXVueHZN?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "SiliconANGLE"
-        },
-        {
-          "title": "TEAM - Atlassian Corp Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIdlhDNHJ5ajB2ZTNXSmg5dFRzVEQ1ei1aSlpCY0U1YXotdjJ1TWZ1RjdGWGd1a0psNE1DcGc0SDhrN1p1N1E?oc=5",
-          "date": "Wed, 27 May 2026",
-          "source": "Finviz"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cAtlassian\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Atlassian&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cAtlassian\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Atlassian&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cServices-Prepackaged Software\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Services-Prepackaged%20Software&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "BH",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 40.5,
-      "sell_score": 0.0,
-      "net_score": 40.5,
-      "distinct_buyers": 1,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $3,557,196",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $3,557,196",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $3,557,196",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $3,557,196",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $222,909",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $222,909",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $222,909",
-        "2026-11-12 CEO BIGLARI, SARDAR BUY $222,909"
-      ],
-      "company": {
-        "name": "Biglari Holdings Inc.",
-        "industry": "Retail-Eating  Places"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16"
-        ],
-        "closes": [
-          384.65,
-          390.32,
-          393.7,
-          388.23,
-          371.81,
-          372.88,
-          331.24,
-          322.43,
-          373.55,
-          349.22,
-          362.47,
-          362.31,
-          362.27,
-          363.16
-        ]
-      },
-      "price_now": 363.16,
-      "price_at_signal": 362.31,
-      "pct_since_signal": 0.23,
-      "pct_14d": -5.59,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-11-06",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1726173/000162828026071734/bh-20261106.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-11-06",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1726173/000162828026071730/bh-20260930.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-07",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1726173/000162828026054846/bh-20260807.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-07",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1726173/000162828026054841/bh-20260630.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-05-08",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1726173/000162828026032884/bh-20260508.htm"
-          }
-        ],
-        "about": "Biglari Holdings Inc. is an American holding company headquartered in San Antonio, Texas, founded by entrepreneur Sardar Biglari. Its subsidiaries include Steak 'n Shake, Maxim magazine, First Guard Insurance, Southern Pioneer Insurance, Southern Oil, Abraxas Petroleum and Western Sizzlin'."
-      },
-      "actors": [
-        {
-          "name": "BIGLARI, SARDAR",
-          "kind": "CEO",
-          "note": "289 Form 4 filings on record since 2005; 3 buys of BH in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "BIGLARI HOLDINGS INC. NEWS RELEASE - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPejk5OGx4ajFldEFobGlGMHhnTHhQU2x5ZHRtX0RzbWgydnEwLTNwSlBheXMwUnlhcUZKd3hkdVQyYUNLSUZJODFqczdxQ1dQd0lRZkdheG5JMTFqMGhXOEFfeE9CRmhjSl9DU2Z3anc3QndySzVkLXNBSk5JVkg5VjQ2VG1abko3a0QwLURVVXB5VjlYbjFLVTBlYXVBRXc?oc=5",
-          "date": "Fri, 06 Nov 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "The Lion Fund buys 628 Class B shares in Biglari Holdings (BH), holding 1,401,010 afterward. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdjlxNWMxMXlHTTNsaUxveEtGY0xBdF8yeEVoTGVQeDRBWTQyNjZCdEFnOGdzQkpLZVpiNmhvZUJQTUVUNm5lNEN5N0Y5NWZMN1QzY3NIQmpBSFZLeWFYM2dSM3FzMjFBX3FyYnl3b3ptclU2SDhLbExXczhteE51QjR2ZjdxRzZvRXZsU0MtbzlnYm56ckdLQnZrd1JiY2RjSlJlQ3lrMVNVaUhESzYxME9n?oc=5",
-          "date": "Fri, 13 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "BH - Biglari Holdings Inc Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE13OTRTWmhoZ3RSQVc0S1lJSGJLeE5oNE01amExVXJ4eVpmMzd5UDRhZ0ctRVFKUk1Zem00RWhRNlM0ckk?oc=5",
-          "date": "Thu, 28 May 2026",
-          "source": "Finviz"
-        },
-        {
-          "title": "BIGLARI HOLDINGS INC. NEWS RELEASE - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVnBfSENYZXkteDVFbkRCMFlRYUtMOE9OazhESHBNcmloZmlncEFja2ZaOFBtbzh3M01RZ0lPREhEZ2pkTkZNS0lLU1g0MFRGcDJsU0pQTjVaVUg1cUI4WkZBVVhKYlVPNzZLVmxDalNFOHQtZlhhVFNfMWNDTW1jZVFuVGFYODRhUzc0bGhlNlhxOEdsbnFHYUdHV2Q5Y1k?oc=5",
-          "date": "Thu, 29 Oct 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Biglari Holdings: Decent Performance, But The Growth Drivers Won't Last (NYSE:BH) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVnFWQm9OclMxakJaTTVmY082aGlFbTQ1NlBLcG5xeGZpbnBNdXdlUnJ5R1QtdHdDc3JMTDh1ckVSdTN6cXVXeWYwcVlzTnJvM0JuVnNXaTNuY3pmUlA0X1RBVjJZUEU1ek1fSGhLMExsT3RERHVPWXZYOV9fblhFM09wZ0t5akhqenBDVGx4MmJVTzUxZjYtRF8yU25XaDJYY3BrdWpEV2N5bW5RUnc?oc=5",
-          "date": "Fri, 02 Oct 2026",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cBiglari\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biglari&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBiglari\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biglari&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cRetail-Eating  Places\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Eating%20%20Places&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cRetail-Eating  Places\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Retail-Eating%20%20Places&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "CTEV",
       "call": "WATCH",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 41.5,
-      "sell_score": 1.4,
-      "net_score": 40.1,
+      "buy_score": 41.2,
+      "sell_score": 1.8,
+      "net_score": 39.4,
       "distinct_buyers": 2,
       "distinct_sellers": 1,
       "evidence": [
@@ -695,8 +540,8 @@
         "2026-11-11 DIRECTOR Klein Michael Stuart SELL $1,143,844",
         "2026-11-11 CEO Dalton Travis BUY $149,927",
         "2026-11-11 CEO Dalton Travis BUY $149,927",
-        "2026-11-10 DIRECTOR Klein Michael Stuart SELL $130,625",
-        "2026-11-10 DIRECTOR Klein Michael Stuart SELL $130,625"
+        "2026-11-11 10% OWNER ARES MANAGEMENT LLC BUY $390,403",
+        "2026-11-11 10% OWNER ARES MANAGEMENT LLC BUY $390,403"
       ],
       "company": {
         "name": "Claritev Corp",
@@ -704,7 +549,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -717,10 +561,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          23.0,
           24.0,
           24.0,
           22.92,
@@ -733,13 +577,14 @@
           28.21,
           26.9,
           26.82,
-          24.99
+          24.99,
+          22.95
         ]
       },
-      "price_now": 24.99,
-      "price_at_signal": 28.67,
-      "pct_since_signal": -12.84,
-      "pct_14d": 8.65,
+      "price_now": 22.95,
+      "price_at_signal": 28.21,
+      "pct_since_signal": -18.65,
+      "pct_14d": -4.38,
       "deep": {
         "recent_filings": [
           {
@@ -777,14 +622,14 @@
       },
       "actors": [
         {
+          "name": "ARES MANAGEMENT LLC",
+          "kind": "10% OWNER",
+          "note": "371 Form 4 filings on record since 2003; 5 buys of CTEV in this tracker's ledger"
+        },
+        {
           "name": "Dalton Travis",
           "kind": "CEO",
           "note": "23 Form 4 filings on record since 2021; 3 buys of CTEV in this tracker's ledger"
-        },
-        {
-          "name": "ARES MANAGEMENT LLC",
-          "kind": "10% OWNER",
-          "note": "369 Form 4 filings on record since 2003; 4 buys of CTEV in this tracker's ledger"
         },
         {
           "name": "Klein Michael Stuart",
@@ -792,11 +637,42 @@
           "note": "53 Form 4 filings on record since 2005; 3 sales of CTEV in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Ares Management, Claritev Corp director, buys $390,403 in ctev stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMURJbGQzQzBBc2RGaS1uS0p5c0k3TEl1NThUX1BmMmpaRUZCQUc4bm9TRFh5WGtrNzBYTkpuNm9NMkpJZTY4VGl0N0xxQ1c5LU1JWGppdV9IWnhWb19FTXE0YXFUaE1aeVd1QVp4dlpfakxHS2Rrb2w5aElEQ3d0emVyV19HQkpIYWpmNTUxNTdkMEtzdy1uNGtsbGF5SXFvS0tJWEEwd29XZFBLRnBQMkQwd01QYk50MVJJVVVVMDJ0OGZBdk5QaA?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Claritev\u2019s (CTEV) Profit Picture Brightens, But Its Cash Cushion Shrinks - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd01hS0piaml4TFg3WnZTakItMXRNR2FtcmhtSG1aemNyS09XcXdCWmJkeEw0VHBXV1dZMGh4Y0pvNGJwX0dCTTIySFhvMzNvbmhpZzRVdG43SkZFUHJYZEQ1TWlHcUR2SHlUQzV1UW0xNTFwSHItNUVNMC1vUUJHT0ZuSTVqSGlvelk3ZFpfM0Nib29DWU9rbzhfTzlDNDZqS2ExRG1B?oc=5",
+          "date": "Mon, 07 Sep 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "The CEO\u2019s spouse\u2019s IRA buys 5,110 Claritev (CTEV) shares, bringing its holding to 57,432. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPXzR0c1d6Sm01bGxwWU1HaTFoMUhndC1DOE5JWTYyR3BxOGdNZTBSNEdUdzlRd004NDBzaUQ2OEJwQm1TYXNZVUh0aXJwMnRudk13RDYtZEltY0Zsb2JieGIxdGN3bU5Ec1E3VTN0UUd3SDhvM1JSRUZxUDZyZnZvYjlJQ284Tnk4MmtyTXlDakxLZndvdXktV0tRSXZ5M3FpUG9PZEJ3aTljSkE?oc=5",
+          "date": "Fri, 13 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "CTEV - Claritev Corp Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1RSjRGV3JULXhIQmg1RDM3eWFqNVBGdnhlRHM4TDNneXIyRXBDalVnMk1ua2toU0NKbGdiSlNKcEhVaXQzZHc?oc=5",
+          "date": "Tue, 26 May 2026",
+          "source": "Finviz"
+        },
+        {
+          "title": "Ares Management LLC, director, buys $390,403 of Claritev Corp stock By Investing.com - Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTjlkOFpwNUljMXlJSDlIR3NpTThTNVlfbUJ4cGZ2dk1xd01sc0xBdnlXVDE3MFlnbk44QXA1RG9TdG9NN2xpY3FJMDBySklWckJTRnJNTWVLT3ZpNWdzd1h1YUJjVDJRN2w4aHhRb0Y0R1k2OHV1RW1vT0V0WG1PcWV1RG5qUm9uTWk1NVQ2Y1I2MEwtSXNJX2dPSktPckE0QnNpWWdXSE9EaE85RDM3R01fc2twNzJuYWc3NndJSmVkQQ?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Investing.com South Africa"
+        }
+      ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -824,183 +700,24 @@
       ]
     },
     {
-      "ticker": "ETRA",
-      "call": "WATCH",
-      "herd_pick": false,
-      "short_candidate": false,
-      "buy_score": 37.5,
-      "sell_score": 0.0,
-      "net_score": 37.5,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-10 DIRECTOR ORBIMED ADVISORS LLC BUY $174,915",
-        "2026-11-10 DIRECTOR ORBIMED ADVISORS LLC BUY $174,915",
-        "2026-11-10 DIRECTOR ORBIMED ADVISORS LLC BUY $174,915",
-        "2026-11-10 DIRECTOR ORBIMED ADVISORS LLC BUY $174,915",
-        "2026-11-10 DIRECTOR GORDON CARL L BUY $174,915",
-        "2026-11-10 DIRECTOR GORDON CARL L BUY $174,915",
-        "2026-11-09 DIRECTOR ORBIMED ADVISORS LLC BUY $32,960",
-        "2026-11-09 DIRECTOR ORBIMED ADVISORS LLC BUY $32,960"
-      ],
-      "company": {
-        "name": "Electra Therapeutics, Inc.",
-        "industry": "Biological Products, (No Diagnostic Substances)"
-      },
-      "trend": {
-        "dates": [
-          "2026-10-28",
-          "2026-10-29",
-          "2026-10-30",
-          "2026-11-02",
-          "2026-11-03",
-          "2026-11-04",
-          "2026-11-05",
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16"
-        ],
-        "closes": [
-          8.98,
-          8.64,
-          8.1,
-          7.31,
-          8.07,
-          7.97,
-          7.35,
-          7.8,
-          8.22,
-          7.99,
-          9.45,
-          9.11,
-          8.84,
-          8.31
-        ]
-      },
-      "price_now": 8.31,
-      "price_at_signal": 8.22,
-      "pct_since_signal": 1.09,
-      "pct_14d": -7.46,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-11-12",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526458476/etra-20260930.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-11-12",
-            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526458464/etra-20261112.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-21",
-            "summary": "Company amended bylaws or changed fiscal year; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526396646/d185250d8k.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "ORBIMED ADVISORS LLC",
-          "kind": "DIRECTOR",
-          "note": "290 Form 4 filings on record since 2017; 17 buys of ETRA in this tracker's ledger"
-        },
-        {
-          "name": "GORDON CARL L",
-          "kind": "DIRECTOR",
-          "note": "124 Form 4 filings on record since 2004; 17 buys of ETRA in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Two reporting persons share voting power over 3.37M Electra Therapeutics (ETRA) shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObmJkSmwtRm5tMzFna09FS3FVRTB3Qzh4Vnl3bV9EQ09LQ3JyNnFXbUozamhOV1poUUdhU29DNENVc3JwaTR1VDBZN25TYnJkT0tkUk0ybGlUNllyeXdfZXA1NVpYVjFSaTRISFJZRGlUeW40cmpnS2hmNDIyNy1idzV0d2R3elpkSlRteFh1UF9OU0VXeWU0LXhQZ1dpbWFGV3l6QlV0QkVGdE84ZXlfRTVwMU1XdTF2TTFVQ29pZm56aWpiQnpZcHV1NA?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Electra Therapeutics, Inc. (ETRA) stock price, news, quote and history - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WUE9SOWNLMlJOM1RCLWxYM0MxNVpIUTRrZTFiby1jek5CRUlZOXFjMXBwbE1rSTlwVnBiVFA5Y1dMemVlVFZacTI3dGl5N3ZjT1E?oc=5",
-          "date": "Fri, 18 Sep 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
-          "title": "ETRA - Electra Therapeutics Inc Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Zbms4VVE4dTZrS2xyS3d0Rk1DOW5XV2xIOFVPREx1aDhlNE1fa2ZLdllURWd0VkdFWFJMZW54VnFrSkVUaGc?oc=5",
-          "date": "Fri, 18 Sep 2026",
-          "source": "Finviz"
-        },
-        {
-          "title": "symbol__ Stock Quote Price and Forecast - CNN",
-          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aN1FXZjRHYXo4NjV2TGNlX05FWGMwOWFVVW15QUc3SzJlS1RDWndBZ0d1VUxlSmRoU2VKandsM2cwdEkyUXlYUGF0LUw4RUwt?oc=5",
-          "date": "Tue, 15 Sep 2026",
-          "source": "CNN"
-        },
-        {
-          "title": "Electra Therapeutics, Inc. (NASDAQ:ETRA) Sees Significant Decline in Short Interest - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdlhnbGlKV0NKMzhuQkxDT29IdkpXWG44TUNrbm5idkpBLWdxR1ZlOG9VdE0yMVU4ZEpCR3dSdlFPVldyRkJvQ1FYWi1Ob29UMksweDhrdTFYMnhORWxnSlRUanJ4d01jSTVNSUprM3VRMjMwVkIyWVJmTWx5RlN4WXlsT3pjdWJhdkZWNnZObG5NN0lQSkZBZ3Q5My1iUUVtdHlybGxlNG1JNm1FM3djRU80cjQyTEFyQzVkall4dzBTM1JLOHViRFM1VnpNLTNBal83ZmNJbmg?oc=5",
-          "date": "Sun, 01 Nov 2026",
-          "source": "MarketBeat"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cElectra Therapeutics\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Electra%20Therapeutics&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cElectra Therapeutics\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Electra%20Therapeutics&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cBiological Products, (No Diagnostic Substances)\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Biological%20Products%2C%20%28No%20Diagnostic%20Substances%29&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "MP",
       "call": "WATCH",
-      "herd_pick": false,
+      "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 35.3,
+      "buy_score": 30.4,
       "sell_score": 0.0,
-      "net_score": 35.3,
+      "net_score": 30.4,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
+        "2026-11-16 CFO Corbett Ryan BUY $128,625",
+        "2026-11-16 CFO Corbett Ryan BUY $128,625",
         "2026-11-11 COO Rosenthal Michael Stuart BUY $186,500",
         "2026-11-11 COO Rosenthal Michael Stuart BUY $186,500",
         "2026-11-10 DIRECTOR WEISENBURGER RANDALL J BUY $1,980,000",
         "2026-11-10 DIRECTOR WEISENBURGER RANDALL J BUY $1,980,000",
         "2026-11-10 COO Rosenthal Michael Stuart BUY $616,590",
-        "2026-11-10 COO Rosenthal Michael Stuart BUY $616,590",
-        "2026-11-10 COO Rosenthal Michael Stuart BUY $372,000",
-        "2026-11-10 COO Rosenthal Michael Stuart BUY $372,000"
+        "2026-11-10 COO Rosenthal Michael Stuart BUY $616,590"
       ],
       "company": {
         "name": "MP Materials Corp. / DE",
@@ -1008,7 +725,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1021,10 +737,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          41.06,
           41.64,
           39.57,
           38.35,
@@ -1037,13 +753,14 @@
           36.73,
           37.45,
           38.76,
-          36.09
+          36.09,
+          34.86
         ]
       },
-      "price_now": 36.09,
+      "price_now": 34.86,
       "price_at_signal": 36.46,
-      "pct_since_signal": -1.01,
-      "pct_14d": -12.1,
+      "pct_since_signal": -4.39,
+      "pct_14d": -16.28,
       "deep": {
         "recent_filings": [
           {
@@ -1083,7 +800,7 @@
         {
           "name": "Corbett Ryan",
           "kind": "CFO",
-          "note": "23 Form 4 filings on record since 2020; 2 buys of MP in this tracker's ledger"
+          "note": "24 Form 4 filings on record since 2020; 3 buys of MP in this tracker's ledger"
         },
         {
           "name": "WEISENBURGER RANDALL J",
@@ -1098,6 +815,18 @@
       ],
       "news": [
         {
+          "title": "MP Materials (MP) CFO buys shares at an average $36.75 each. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWENPZlA2TjN2b1JVRUFGbFBWMDhpM3pTQTJaTGtPb2p1U1pIaHpnSko0dzRvQlljMDZLU241eWktcHNzcXVLSVV2eWpYN0pqV2pvcjdsaVJMWHBIeVNDTVBrN1F1TTEtVmVxOUtyTWFTMS1YdlpsMklXbDl0MTRXZWZHRU4yZGh0S3NRbENoUUw3MmlmdnZMTkxsZVhfOElZTU1GSURXQ1VtREQxWEsxdWF3?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Insider Stock Purchases: November 12, 2026 - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlNnN2NDNWl0OGdfYTFKZU9Eby1EaDk0THBXRDZnRFZ3WXk4UnZhTXBodHo0M0N5TnowZWlhaURBSF9wTXVPelVRam5ja2pQMzJhcHIyUFl4RmM1aDNOX0RtOVVuNzdNek5SbEYySkxIdzVXRU1VbHdSLVJGcDlzLXI1SVVjdw?oc=5",
+          "date": "Thu, 12 Nov 2026",
+          "source": "Quiver Quantitative"
+        },
+        {
           "title": "At $36 a share, a director buys MP Materials (MP) stock. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQk5aU0tjTFZRNjFtMmx0OEJCVnJTci1lbEZLNHhpRXFBdDVVX2VzUjhDUE9ENVNXUmhkNGRudFdmcXVkTTVQTWNYb29YSXd5UmdvX1pLd0dKdzEwX1Q3QUpmSl93eFQ0QW10VFdQWHlCVmRKMkNfYWRzbmk4dy1sUTI0Y19qSnluTWVNQVRGcGpkeFZVVFpScWZLamhDekJkc1FjTlJNZEdRcEp0c2RIdnBn?oc=5",
           "date": "Thu, 12 Nov 2026",
@@ -1110,22 +839,10 @@
           "source": "Stock Titan"
         },
         {
-          "title": "Insider Stock Purchases: November 12, 2026 - Quiver Quantitative",
-          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYlNnN2NDNWl0OGdfYTFKZU9Eby1EaDk0THBXRDZnRFZ3WXk4UnZhTXBodHo0M0N5TnowZWlhaURBSF9wTXVPelVRam5ja2pQMzJhcHIyUFl4RmM1aDNOX0RtOVVuNzdNek5SbEYySkxIdzVXRU1VbHdSLVJGcDlzLXI1SVVjdw?oc=5",
-          "date": "Thu, 12 Nov 2026",
-          "source": "Quiver Quantitative"
-        },
-        {
           "title": "MP Materials Corp. Officer Sells Shares - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLTM0WFEtOEh3aEJ6X1lLdFhwYk5zMThfOWxuX1Jzc2hBcUIzWEVCQ2JYRkRsbEpCZFlWQkcwWXRWZDhsb3BDTzhpRU0yZ0c2QklBOWkxcmdKaGNFN3dmWGpfVmltZzlONFY5dGJkeWVoNS1MTjlpOUdfc043eEU0ZnMtclNBQksyY2pobVYzNkh4Vy05enNRb0dnU1FrdFIyZ0E?oc=5",
           "date": "Thu, 22 Jan 2026",
           "source": "TradingView"
-        },
-        {
-          "title": "In three purchases, MP Materials (MP) COO buys 32,000 shares on November 10\u201311. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHJLSHFLcFpkeWo5SGh3a2pFT09NQmI0NTJIRXAtTlBxYl9vNklHYlNXSEI2dXotcE5wNk9zbjU3QnNHdEpWNk96WUdwcEdzUW5GM193T194bUJCMHNfVW5QWUJKZ3RicTN5c2dPZkVvMDJnbkxYTXIwNzV6VzNQd1ZoUTVjM044TGZGV0w0RTZhWWh0LWwzUlRqM25nTU5GU1l3aWktQnZEMXBmd2Y3eVJR?oc=5",
-          "date": "Tue, 10 Nov 2026",
-          "source": "Stock Titan"
         }
       ],
       "news_flags": [],
@@ -1133,8 +850,8 @@
         "Rare earths & magnets"
       ],
       "timing": {
-        "label": "Recent \u2014 latest filing 5 days ago",
-        "cls": "mid"
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "cls": "fresh"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1161,13 +878,196 @@
       ]
     },
     {
+      "ticker": "BW",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 29.2,
+      "sell_score": 0.0,
+      "net_score": 29.2,
+      "distinct_buyers": 4,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-16 CFO Frymyer Cameron M BUY $42,100",
+        "2026-11-16 CFO Frymyer Cameron M BUY $42,100",
+        "2026-11-13 CEO Young Kenneth M BUY $43,500",
+        "2026-11-13 CEO Young Kenneth M BUY $43,500",
+        "2026-11-11 DIRECTOR Tato Joseph A BUY $43,762",
+        "2026-11-11 DIRECTOR Tato Joseph A BUY $43,762",
+        "2026-11-11 10% OWNER BRC Group Holdings, Inc. BUY $298,884",
+        "2026-11-11 10% OWNER BRC Group Holdings, Inc. BUY $298,884"
+      ],
+      "company": {
+        "name": "Babcock & Wilcox Enterprises, Inc.",
+        "industry": "Heating Equipment, Except Electric & Warm Air Furnaces"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17"
+        ],
+        "closes": [
+          4.56,
+          4.27,
+          4.07,
+          4.23,
+          3.69,
+          3.1,
+          3.25,
+          3.79,
+          4.48,
+          4.84,
+          4.86,
+          4.56,
+          4.33,
+          4.38
+        ]
+      },
+      "price_now": 4.38,
+      "price_at_signal": 4.84,
+      "pct_since_signal": -9.5,
+      "pct_14d": -3.95,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-11-09",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000082/bw-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-09",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000080/bw-20261109.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-05",
+            "summary": "Company other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1630805/000110465926123442/tm2629007d1_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-08",
+            "summary": "Company other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1630805/000110465926105943/tm2624980d1_8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-08-10",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1630805/000163080526000068/bw-20260630.htm"
+          }
+        ],
+        "about": "Babcock & Wilcox Enterprises, Inc. is an American energy technology and service provider that is active and has operations in many international markets with its headquarters in Akron, Ohio. Historically, the company is best known for their steam boilers."
+      },
+      "actors": [
+        {
+          "name": "Frymyer Cameron M",
+          "kind": "CFO",
+          "note": "10 Form 4 filings on record since 2025; 1 buy of BW in this tracker's ledger"
+        },
+        {
+          "name": "Young Kenneth M",
+          "kind": "CEO",
+          "note": "87 Form 4 filings on record since 2006; 2 buys of BW in this tracker's ledger"
+        },
+        {
+          "name": "Tato Joseph A",
+          "kind": "DIRECTOR",
+          "note": "12 Form 4 filings on record since 2020; 1 buy of BW in this tracker's ledger"
+        },
+        {
+          "name": "BRC Group Holdings, Inc.",
+          "kind": "10% OWNER",
+          "note": "487 Form 4 filings on record since 2019; 3 buys of BW in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Babcock & Wilcox Enterprises (BW) 10% owner BRC Group Holdings bought 50,000 shares for $212K at $4.24 - Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTm1EemRGcE8wcy1UMzVVZGFDRUkzZzJtNVFKa09FWHJfaUNzM0dPTXFvNW4wMVpzUzZUTC1pS1daZlA1Ml9ySml1WnRmeEEzMlQ5ZGZoajZqT3JiYXBCTW9jTm92dW1OTG9jaGlpY0M2VHRyUmxCWTl2eXFEYzBpbFhWcUZDMUhvNmJydm10Z0M0bWhvVjhENjJDTVhNVG5uTlE?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Quantisnow"
+        },
+        {
+          "title": "Jim Cramer Gives Babcock & Wilcox (BW) a Chance With One Condition - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPa0FabmFqYkpqNFFFbG5XVGtseFNqWGhDeGFFM0ItVFhuWk50YkhOZktHcm14WHhjcXBkN0JVTVNYTlJYRzNLU25tMDNlVEZCcmZ3bFRWUm02LXhYQWFudHVVSDFnS2xEbWgteTRNaFBlRlRoMktneTZfR3VGZUFtR25oaTBobE5HREIycmkzVTB3RnpoclpLNXc2Yl8?oc=5",
+          "date": "Sat, 10 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Form 13D/A Babcock & Wilcox Enterprises For: 17 November By Investing.com - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNmpsRmNleGtPakJ3Tk52a2ZVck4xWVM5LUROcjRQcGZZYW15ZkN2TFhXVmJTYVhyaGhTc0xjUnJKR29Sekl3M2UwOHFNNGt3Uk9GNjNTb19kLWtOM0J3MDhHcXNsTTVJazVUT3Mzbk1TODVzZTFuZEZhX2QtTXpoYU9RSV81ak9TQ0F1aXhsdXVQSXpyYk1kZnc3eTVqRUdGZUNmaE5BR1l4MWRRU0ZCRU5manU?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Investing.com Canada"
+        },
+        {
+          "title": "Babcock & Wilcox Enterprises Announces Closing of Common Stock Offering - Babcock & Wilcox",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNmNIeHQ5SzFaX053c09KYjFCZ1lCNjdiTnNPZ2hKczREbXhXLUtOSkRwQ3liMEx2OExScW5MRmt2XzFNMUlwblh5cWctRnFEdWJvNG5qdU4xeHpaRFpJVndLdEtJY1B0R0ZFc2hPWjV1MmE5VmRRcXVfVUgtNEdtN2c5U2hWSF9QT1gwVnd0RGFZc2FsWE9ucVpMdU5BV1RZNWlIRnJxbHJWQnBKN1RsdE1WZTFJMnlwZC1STVhOdFk?oc=5",
+          "date": "Mon, 18 May 2026",
+          "source": "Babcock & Wilcox"
+        },
+        {
+          "title": "A 401(k) buys 50,000 Babcock & Wilcox (BW) shares at $4.24 each. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnJhQ3psWUFRUnJfYWhtQXcwWHdrNllmU0VkZFNuSVZaOVV0QnlTc09DS0N4OWFFMWNTcURCMWltX3lUYmlROXZZUVR6aFNjOEFtQlQxaHgtckdDS3FHVWhUOWpvZlFfaDNHWWJCSVJ5SHF0Q1hJUXpBRDBwcXRTNG1PX2VvdmlZcldXTmJNdi1tT0JyVkxmSFJ1YkJxekc5SExPYVQyckhhcC1fT3d4T0xZYktId0JoS0FrNXYxcw?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Stock Titan"
+        }
+      ],
+      "news_flags": [
+        "share offering (dilution)"
+      ],
+      "themes": [],
+      "timing": {
+        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "cls": "fresh"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cBabcock & Wilcox Enterprises\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Babcock%20%26%20Wilcox%20Enterprises&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cBabcock & Wilcox Enterprises\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Babcock%20%26%20Wilcox%20Enterprises&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cHeating Equipment, Except Electric & Warm Air Furnaces\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Heating%20Equipment%2C%20Except%20Electric%20%26%20Warm%20Air%20Furnaces&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cHeating Equipment, Except Electric & Warm Air Furnaces\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Heating%20Equipment%2C%20Except%20Electric%20%26%20Warm%20Air%20Furnaces&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "LRMR",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 21.2,
+      "buy_score": 14.9,
       "sell_score": 0.0,
-      "net_score": 21.2,
+      "net_score": 14.9,
       "distinct_buyers": 4,
       "distinct_sellers": 0,
       "evidence": [
@@ -1186,7 +1086,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1199,10 +1098,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          2.54,
           2.67,
           2.47,
           2.37,
@@ -1215,13 +1114,14 @@
           2.73,
           2.7,
           3.02,
-          3.0
+          3.0,
+          2.99
         ]
       },
-      "price_now": 3.0,
+      "price_now": 2.99,
       "price_at_signal": 2.73,
-      "pct_since_signal": 9.89,
-      "pct_14d": 18.11,
+      "pct_since_signal": 9.52,
+      "pct_14d": 11.99,
       "deep": {
         "recent_filings": [
           {
@@ -1281,6 +1181,12 @@
       ],
       "news": [
         {
+          "title": "Larimar Therapeutics, Inc. (LRMR) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZWWNFZEdHQ29KdEZtOU9TVlZ1N1BhUkNPa29FRy1vYlZTdUhBYXgwajlGX194TWNsUW1sQW1FVUM5OE1MWUd4ZVp5a013NWRGU1E?oc=5",
+          "date": "Mon, 16 Nov 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
           "title": "Larimar Therapeutics, Inc. Stock 12\u2011Month Price Target Cut to $15.14, Implies 401% Upside - TradingView",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQUlkbTFUcUF4cGJQZmt1anFIV2t0Q3IxR1p4dVEydm5OdXJGSi0yekFRQm15Zk4xYUdFUjRjODJVaHJpa3htdkdadGZQSC04Rlo4U2lCYnFqVWZ5U3ZFRUNPV25VdFdGdEZaVndlQWN3QU5PNmJ6RncxMGk5aHduRmplVGpoRGkyNXlCdmlnc0FlYXZ4RmU5TGNiazlPRnhqc3pDWkdTV19WSVVOc1g5MlJrOHBQbU5ZeGlZVFh2d3dtQW1tWmFWbExMZWNXRmpSbFpFQ21zeTBLWnZfRkln?oc=5",
           "date": "Mon, 16 Nov 2026",
@@ -1293,16 +1199,10 @@
           "source": "mykxlg.com"
         },
         {
-          "title": "Larimar Therapeutics Stock Price Forecast. Should You Buy LRMR? - StockInvest.us",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPX1NkOFpRMzB1TGpmM0ZsMmF4WU5CNkM5OTVnOEZ6MVVXX0NxZlJzaUt4MTBNeEtEU1BjdkFVUDRQTmlJRjdLMA?oc=5",
+          "title": "Larimar Therapeutics chief development officer buys $13,549 in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRlN0ZUJWUWxTOE9nVnpFNkdZOHlYSmlSX1Eyb1JKZ0EtbHNPdnQ3ZzBJYmtWWmg2a1lwQ2ptOEFvRXpkOVNYOV95UWkteDBIcU1FVDlSSEc4bmhJbnIyQ1lvZkt6N2diSDNtc2JYVEt3aFFiVTBGRnVtaVZoQVNUMVI2ekZqbHpUQ2dzM09wcmxXWGotYk05bllxUEVIeDlUU1lsZUpJSnRWVlFwdXhGR0NOcjhMVnh5LVdEWEp2V3lCbWl5U2o2S2U4TQ?oc=5",
           "date": "Fri, 13 Nov 2026",
-          "source": "StockInvest.us"
-        },
-        {
-          "title": "Wedbush lowers Larimar Therapeutics stock price target on funding By Investing.com - Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNmVMU3BOWlV6STJkT2RZbjZCekZ6cDVFRlR6akRVZ19WR3ZXbWZ4YXdJSjlwS2gxa1ZtX042ak1QZ3Jpb1Z5UlBxbHlsdWJYM28yRjRUYnlBRjZzbC1waTcwR25sYlZ3SUN1TTFCTjdXZ0FSTDFxZG9rbk5ZTVNRS21hcy1PSFBaX2RTc0pFdFFxM21Balp2eTdSb2t2eV9mNXZLSjVsU3Z0SWpZSXJYVzhseXNkcVVtZ0RpZFZkSVZ5ck82?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Investing.com India"
+          "source": "Investing.com"
         },
         {
           "title": "Larimar Therapeutics (LRMR) Stock Price, Chart & Analysis - www.debelegger.nl",
@@ -1314,7 +1214,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 4 days ago",
+        "label": "Recent \u2014 latest filing 5 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1346,9 +1246,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 16.6,
+      "buy_score": 11.7,
       "sell_score": 0.0,
-      "net_score": 16.6,
+      "net_score": 11.7,
       "distinct_buyers": 4,
       "distinct_sellers": 0,
       "evidence": [
@@ -1367,7 +1267,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1380,10 +1279,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          4.02,
           4.01,
           3.86,
           3.84,
@@ -1396,13 +1295,14 @@
           2.87,
           3.05,
           3.0,
-          2.73
+          2.73,
+          2.52
         ]
       },
-      "price_now": 2.73,
+      "price_now": 2.52,
       "price_at_signal": 2.56,
-      "pct_since_signal": 6.64,
-      "pct_14d": -32.09,
+      "pct_since_signal": -1.56,
+      "pct_14d": -37.16,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -1429,11 +1329,42 @@
           "note": "1 Form 4 filings on record since 2026; 1 buy of GSM in this tracker's ledger"
         }
       ],
-      "news": [],
+      "news": [
+        {
+          "title": "Ferroglobe PLC's Dividend Analysis - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeUhXeDZuUVpuWldNWWdyNUZFSmtHNXdBUGMyMFZPSkJWX09HVFdmTUJEeWlOcldQUHk2TTFRSkdFQ1ZMM2pxVnNxRHFuU0tsUS1UVFdyR2NWUkhBUE1UM3dRZXBrX0Rzd3VFUGdlLWNjOUhGSnFGNTR5WEd2TFRZVGxYdm5OYzBuMG5QNXBOcUEwQnNfZHNPRjRYb21RZnc?oc=5",
+          "date": "Tue, 22 Sep 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Ferroglobe PLC Schedules Third Quarter 2026 Earnings Call for November 4, 2026 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmNjYTctU3FydUloTGlFM1k4TjRGbkNUODJIcWpQVWZ4Q1NQLUIyblhpRjd2SDBXVFh1Ym1vRWdpcWcxbk9saS1FeTNXVDNIYi03eFJQTnBuXzJrRVV6QnpzRlhuQnB0OXZQRGtwOExEcWI2OUs3REV6TzFwb0pXNHhFZEJhWmhMX016VkswY3RXN0FDSmZyeHRRS0hDNjc5bXNvMjl3?oc=5",
+          "date": "Tue, 20 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "GSM - Ferroglobe Plc Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5QVnNqYXQwNmpZeWRqcUdBSDUtWnFjdmhHVVZ2SGR5c0dCUVVfVHlLaEU4UGRWT29wNmJ2VFhEdVFtTHY5?oc=5",
+          "date": "Tue, 26 May 2026",
+          "source": "Finviz"
+        },
+        {
+          "title": "Ferroglobe PLC: Navigating Metal Uncertainty - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1ktdXpadnVzcmdneVVjNHl4d2hjQWpvUnN6clZVUmIzVVFkNk8tdldaaTBHbjZSQnJUXzczYk5abmJ0YnUyNklHMnR6Ujh0Nzh5QVpNS21MajdGSHUxQWVhbzNSdFE2TENjQXluZTNsbkVPZXdSNGt5Z05uWHNielhBckRET1ZQSDMyaTNn?oc=5",
+          "date": "Thu, 03 Sep 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Ferroglobe PLC (GSM) Stock Rises on Q2 2026 Earnings - Quiver Quantitative",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGhEX1AwX1BhYlZ3TG5aa1htdnRWZEViMnlpTEM5dWFBSVhGY1h6MzRoLXlHR1Z1enpyVEdzM3RBVERGZFlBWTlrOWx6VUUwYkJXYnZLX01OY0tpeW5WeGlqRnhmeElrOF80bHRub3k1QmlYclBEQUdQSDZjTE5Ba05obUlkS2RIc2VKb1ZVLUhLTWM?oc=5",
+          "date": "Wed, 05 Aug 2026",
+          "source": "Quiver Quantitative"
+        }
+      ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Aging \u2014 latest filing 10 days ago; edge decays over weeks",
+        "label": "Aging \u2014 latest filing 11 days ago; edge decays over weeks",
         "cls": "spent"
       },
       "earnings_soon": false,
@@ -1461,13 +1392,187 @@
       ]
     },
     {
+      "ticker": "AOMR",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 7.6,
+      "sell_score": 0.0,
+      "net_score": 7.6,
+      "distinct_buyers": 3,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-13 DIRECTOR Savarese Noelle BUY $38,119",
+        "2026-11-13 DIRECTOR Savarese Noelle BUY $38,119",
+        "2026-11-13 DIRECTOR Morgan Jonathan BUY $29,150",
+        "2026-11-13 DIRECTOR Morgan Jonathan BUY $29,150",
+        "2026-11-13 DIRECTOR MINAMI W D BUY $53,255",
+        "2026-11-13 DIRECTOR MINAMI W D BUY $53,255"
+      ],
+      "company": {
+        "name": "Angel Oak Mortgage REIT, Inc.",
+        "industry": "Real Estate"
+      },
+      "trend": {
+        "dates": [
+          "2026-10-29",
+          "2026-10-30",
+          "2026-11-02",
+          "2026-11-03",
+          "2026-11-04",
+          "2026-11-05",
+          "2026-11-06",
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17"
+        ],
+        "closes": [
+          7.28,
+          7.02,
+          7.15,
+          6.28,
+          6.46,
+          6.17,
+          5.95,
+          6.24,
+          6.2,
+          6.18,
+          5.87,
+          5.89,
+          5.59,
+          5.24
+        ]
+      },
+      "price_now": 5.24,
+      "price_at_signal": 5.89,
+      "pct_since_signal": -11.04,
+      "pct_14d": -28.02,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-11-03",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000068/aomr-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-03",
+            "summary": "Company announced results of operations (earnings); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000066/aomr-20261103.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-07",
+            "summary": "Company amended bylaws or changed fiscal year.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000065/aomr-20261006.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-29",
+            "summary": "Company entered a material agreement.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000060/aomr-20260925.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-29",
+            "summary": "Company entered a material agreement.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1766478/000176647826000058/aomr-20260925.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Morgan Jonathan",
+          "kind": "DIRECTOR",
+          "note": "17 Form 4 filings on record since 2013; 1 buy of AOMR in this tracker's ledger"
+        },
+        {
+          "name": "MINAMI W D",
+          "kind": "DIRECTOR",
+          "note": "65 Form 4 filings on record since 2003; 2 buys of AOMR in this tracker's ledger"
+        },
+        {
+          "name": "Savarese Noelle",
+          "kind": "DIRECTOR",
+          "note": "5 Form 4 filings on record since 2023; 1 buy of AOMR in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Angel Oak Mortgage REIT, Inc. Stock 12\u2011Month Price Target Cut to $9.55, Implies 34% Upside - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOXlQbWZ4Ny1mUlVMX1ZJY0J1V3R4TzRGQnkxWkJBUzAwNDBTTERBRW9oc1Q1bTM4OTR4YnpYNldfZllRUDJMSDVmWExzRVVvNUdrbkF5Q2paSnhxaUs3ak5SbC1KWkdscGRPaHpJQ2VRTTRaMDJadVdKTjdyUnVfWHN5blJfN2dSNm85VXJPVGlZNHE0Qm9WaWoxd0dBQUd4TG10NHF3a3h4TWlFd2FYUzZZaGxoMklPbWNqTXV1N3JaQXVxZTJjcVgxT19pQ3dhVW1vNW5TRFY3cGJycHJUWQ?oc=5",
+          "date": "Tue, 03 Nov 2026",
+          "source": "TradingView"
+        },
+        {
+          "title": "Angel Oak Mortgage REIT (AOMN) director Savarese bought 6,561 shares for $38.1K at $5.81 - Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOUhtZW13RWNsUmdGUjE0QTFXT2ZraERUVmk2ajMzUFVncnZ4MDR4dldRRmNzZVlQR1dtclVnczJDQ0kwODhCNzFEMEZLd3lXX28wZ3BnXzJEZXFyZGktdFZLMUgxT1RzSDFyVm03T21IeE82aUZaWE9IUFhab3ZPWWdUVjd1NFRGNU5fWGhjT0d3bmNZQV9jcUtlQ2lHY2xiemxWVzU3akltWGc?oc=5",
+          "date": "Mon, 16 Nov 2026",
+          "source": "Quantisnow"
+        },
+        {
+          "title": "Angel Oak Mortgage REIT Inc (AOMR) (Q2 2026) Earnings Call Highlights: Strategic Reinvestment ... - Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOVHBva1hFb0pvV2VaT2RnQXVHMVZ1X0RTWXpJb25GN2RCT0NvTWlzMVNvRUFRV0FGSjI3aktQQ251SDhtSEdvVWVsdl9EZHVrdE45QzE0QjdWSXozSWJrWHdZYmxoYk9pa0E4MFVmWVMwNGFvQWJrR0hSNlJKTU1FY1VR?oc=5",
+          "date": "Tue, 04 Aug 2026",
+          "source": "Yahoo Finance UK"
+        },
+        {
+          "title": "BTIG Lowers Angel Oak Mortgage REIT (AOMR) Target but Keeps Bullish View - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOGNrRXo0U3l1YXlNNUF3aDNfWlEzY0dZb1k0MWF1YThXZ0liWk5kcVZIMm00aWd6aDY0bjQ5V0hqSzdfWWRvc3lUVm1rZlhVMmtSSm1hZ01HUGs5T3ZpNVB4ZW1XX2dIN2ZqOGwyQlFTWXg0cUYyajVJUU1yMTdVZTVmZ0RSbHU1VjFFOFk1Mk5Jb3hUUFlj?oc=5",
+          "date": "Mon, 29 Jun 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Angel Oak Mortgage: AOMR Stock Price Quote & News - Robinhood",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyY3Ffa3hnUXM5bEN2Q000RXBPQ1A1RjhKZjRJRUlTTy03eXdxd1JSQWoxMGg1VnlaSktNSS1OWHFPZVVjdnZwMDh2REtJdDhRZWc?oc=5",
+          "date": "Sat, 29 Jul 2023",
+          "source": "Robinhood"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cAngel Oak Mortgage REIT\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Angel%20Oak%20Mortgage%20REIT&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cAngel Oak Mortgage REIT\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Angel%20Oak%20Mortgage%20REIT&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cReal Estate\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cReal Estate\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "CATX",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 8.3,
+      "buy_score": 5.8,
       "sell_score": 0.0,
-      "net_score": 8.3,
+      "net_score": 5.8,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1482,7 +1587,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1495,10 +1599,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          1.25,
           1.17,
           1.15,
           1.04,
@@ -1511,13 +1615,14 @@
           0.83,
           0.84,
           0.94,
-          0.9238
+          0.92,
+          0.8599
         ]
       },
-      "price_now": 0.9238,
+      "price_now": 0.8599,
       "price_at_signal": 0.83,
-      "pct_since_signal": 11.3,
-      "pct_14d": -26.1,
+      "pct_since_signal": 3.6,
+      "pct_14d": -26.5,
       "deep": {
         "recent_filings": [
           {
@@ -1567,28 +1672,28 @@
       ],
       "news": [
         {
-          "title": "Perspective Therapeutics, Inc. (CATX) latest stock news and headlines - Yahoo Finance UK",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1wQnQtdXB1U1QwZDNpaDQwSXpwbjFsZjEtQUNCRkxxenJSUkIyS3ctbWhrV21nb0tvNlpiUE1JVlotNVZsSG94VVlhdTh1bzNqVlZaWC0xZks?oc=5",
-          "date": "Tue, 10 Nov 2026",
-          "source": "Yahoo Finance UK"
-        },
-        {
-          "title": "Director Lori A. Woods buys Perspective Therapeutics (CATX) shares at $0.8438 on average. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcW91NVRoMThic1Jmb3FTa0J6aDlSQmg2R0RCRy16QXpVZTJ4enk1S2trSHFiNWF3WnRJd1VuS1o4ekhYbjVCTTlTczUwSUs3bkc5eVNEVkZUQVdfNEMzcVkxZHRDVzBJa3ZkMHVJVDlhSEdjMncyd2VlZTl0UWRyLW1QY3dnUnktM2x3WTlBdGVwcTRXQzJDZUVZTTVtR1hfamItZzBZR1R1OU1Xa25rYjNiVFFzS2ZtbjFZVEtuRQ?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Truist cuts Perspective Therapeutics stock price target on timeline - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWWc2QU5GUWVKUWY2Tjl4RUdtRlQxRk01aGRTQVYtZmRUclM5bGNxRFo4QW5RX2ZnMzdMeXhUYk1oRTY3S3c4Mm9KUUNyTVBYYWFyRWY5ZDM1aG5TekxtaTMzX1RIU0FWNG1rcE8zcTRwV0d1MGFrV3BmLWJ0dkh5VzhiOVVCd2Nab3BXM1NQX0t5aTBmNTlETmZLamNUb0FFd2JmZXA3dkV3VVYtNTZZUGRrTUcyT0JiYmgyVlA0SHZpQ01GSnc?oc=5",
-          "date": "Tue, 10 Nov 2026",
-          "source": "Investing.com"
-        },
-        {
           "title": "Are Medical Stocks Lagging Perspective Therapeutics, Inc. (CATX) This Year? - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMDBWNXVLUEcxLWhQZGVqNmdhTDVPYUJyVmE0NWJ2aGRFSFRpdVFPRGlUenQ3S1hLSmFZdXV3Qm50dV9LWk9PeWlWSXBlS3p4MV9XSzJZZjVRMUlOZmJPd3ZtQkhlejZyNlQwNWZrWFlINlV5OVhiWmprVGV5bHFWUTBTcjRRVWlKX19YX3paTlMtaVJvT0Zhdl91X3BVaTU3VVB4OWlaMlJHV19FbDJ4SUVR?oc=5",
           "date": "Tue, 04 Aug 2026",
           "source": "Yahoo Finance"
+        },
+        {
+          "title": "Perspective Therapeutics director Frank Morich buys $14,046 in stock By Investing.com - Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZHllZVJsSHBmZFc1YUx2Z2JUU1Z1bWJqQVJqeFFNUUMtOGYxUU41b09MRWdOOGJjdEVvYkN4U2ZIamg5akY2WEk2dTF2WmJMdHpaRTNiZmZXQzgycXhSdF9QQkpOR1FqZUhTRVRLS1VMM29YTjF2UUF0VjBVRDJMR3ZEaGlLT2lOQUNzekFDNER6OG1UQ1Y1OEp5Y2g3ajh4cUF6OGg1czJKcTRsZ0NuLTFzeUxQcENLZTRVTHRLN0hlRUg4LWc?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Investing.com India"
+        },
+        {
+          "title": "Frank Morich buys Perspective Therapeutics (CATX) shares, taking direct holdings to 30,000. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMnhERzBITHJ3RmdqSmJJQklXa1VOekx6MlNROWlMNk5tcDBHdnpZTlNrcWJyMnpzdHZRVnBSUE5IODI1SXQ3Tll6MnpoWVU4cWowRGREN2ltWFVYYXZyNUpJWTltcGhobE1CUUxuajhVbUgxMERvOWhSZGkwNU9MeGNJWmFhUUpEZTN2akFqYnMxTWY1ZFJJSUJaQk9FSFhIZ1N6UWt3MTVQMGY2VzJoSzZFR2pMZFBLSmtQWklJOA?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Stock Titan"
+        },
+        {
+          "title": "Director Frank Morich Acquires 15,000 Shares of Perspective Therapeutics at $0.9971 Each - Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzZxX2FEVlVPcHp3TTc1ZzRjcjE3Wmc2ei1RaVVRSGpFdklsd3NmRmpjWkNCUU1HNWZJRW5Ic0dDSV9OdDI0X2pnR2lMZ19KQmhMTU5zWDMwRXdkY1RkMW4yeHlMbnpEd1doUnNwYUcxOUs2bkxERWE3S0dGUVczdnBoeDhTMHN1ODNMR0J4NVF1SElMX2JHblZ6U2pmdi1KMnJ5cUliMkJ0ZkFudjlEOE9MRlJLU0xsWjNEaFBFRElmM04wMzZIaGxXSTQ?oc=5",
+          "date": "Tue, 17 Nov 2026",
+          "source": "Kalkine Media"
         },
         {
           "title": "CATX - Perspective Therapeutics Inc Stock Price and Quote - Finviz",
@@ -1600,8 +1705,8 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Edge partly spent \u2014 already +11% since disclosure",
-        "cls": "spent"
+        "label": "Recent \u2014 latest filing 5 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1632,9 +1737,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 7.9,
+      "buy_score": 5.5,
       "sell_score": 0.0,
-      "net_score": 7.9,
+      "net_score": 5.5,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1649,7 +1754,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1662,10 +1766,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          13.64,
           13.08,
           12.27,
           11.12,
@@ -1678,13 +1782,14 @@
           11.95,
           11.62,
           11.49,
-          11.12
+          11.12,
+          11.03
         ]
       },
-      "price_now": 11.12,
+      "price_now": 11.03,
       "price_at_signal": 11.62,
-      "pct_since_signal": -4.3,
-      "pct_14d": -18.48,
+      "pct_since_signal": -5.08,
+      "pct_14d": -15.67,
       "deep": {
         "recent_filings": [
           {
@@ -1752,23 +1857,23 @@
           "source": "StockInvest.us"
         },
         {
-          "title": "CFO Andrew Booth donates 50,000 AbCellera (ABCL) shares to charity alongside an option exercise. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUy1Ia2N1MmVuazRHLVFUQ1hHUGg1NmFJZ3d1Nk1FdzNrMld4OUszWXpSdXV1d3ZIaGdxRmo5VG56c29HMnhQc19RVWpZWW55V2V3d25XTnd2eEl5RTYycHZhUGtjQy14WlFqZ2sxRDB6THRudUtKaUxTSGFhVUthVm5venJFSld5ZllXUGxuSEtyanRLZUs3OXBsQW9DMHFvUTRPYlVPS0cyN09CQ2Z1U3VXYXROTnBpanc?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
+          "title": "Here\u2019s Why AbCellera (ABCL) is Among the 10 Best Penny Stocks to Buy for Long Term - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1BmRUE0VHV6cDREZFc1dTdSSFRHY0g2SDFRaGJHZjhkakNHaGY4a0l0Z21YdVZ4bjMzd0lsM3pUeDFKdmxSWERRV0VoMnJfdHR6MHRzZDZjYnRXYUtRVHE2X2hoSXFfcTYzU2ZIcU1wa2R6dzhnTFhPWTNvT3pPN3hla2VlWHNnRElsWHpQb01kdEtrUlh3?oc=5",
+          "date": "Fri, 22 May 2026",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "AbCellera Biologics (ABCL) Stock Sees Fair Value Lift After Clinical Data And Jazz Deal - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTnBIcHZpX0JGS1BoSkptY2FVamVyOWJnbXJDT1RUeHdNc0hRYldaSHNyN3VPLXNKbXI1UDlCR0UxcXk1NUV6WUFDbVZBOU5YajQtTUliakRiMlp5WmRueU1Nd2RzeUdnRXhSNFFsZFVSZ0w3OER1U1ktcWNUOWV0ZlFraEFoUENSM3FqLTZHUnJoMllET3ZwRU0tTjg?oc=5",
-          "date": "Tue, 11 Aug 2026",
-          "source": "Yahoo Finance"
+          "title": "Insider Buys Additional US$699k In AbCellera Biologics Stock - Simply Wall St",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQmJXenhrQzFaeGNBd3pSVGZ3ZVVLZHoxSGp1elBUQ0xibHJRZ2ZmbWV2ZnpmMlFhS2tWNnpNM3FnUFQyMFB0bS1HRS1ZeGx5R1JfX2Y2U2ozX1IwVm9tQ3RzVVV2YzY1c19CdkFsRjBxdGZZTlAtWlRqS1VQRm5weExZNlFEZEhTRHJmaXJiZTEwS0xTR2M1SWM0SUFmSlpnekdXNl9FQ2VBaV9SYWVlcFhMQU5Uc0pFS01ObGhZdUs5d09DVmdpWHBMLThaaFVJc0hyVmNFM3JSM1MtTjktWGVRLW9HNW_SAewBQVVfeXFMT0hRQmtZZUJkTWZLOGZTSVVyWFBFcWsySnlmdUp3eW9PdGJIdkNkbVVWVlI2NFF0WThsU3lVMjR2NWg3Sk9EcnZqM3FIb3YtOVNYZkY4N0toTHRJOERQQjJVRUU4RkNYOWhSbldDVHg5c2JqaHVDWm5UNVJqTHR5Skt3RUFFd2VpLXNZNjUzU0p3cUk4YkpYQ2FpNl9kS3RlXy13T0dINXhhcWcwOFJCSzk2aDN5aGRhck9FNXVtT2VUcU1hOGpVRk1WcTBIeFhva3c4NENqc2FFT01BdTJIRkc0R0JvWU51NzJnb3M?oc=5",
+          "date": "Sat, 14 Nov 2026",
+          "source": "Simply Wall St"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1799,9 +1904,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 5.6,
+      "buy_score": 4.0,
       "sell_score": 0.0,
-      "net_score": 5.6,
+      "net_score": 4.0,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1816,7 +1921,6 @@
       },
       "trend": {
         "dates": [
-          "2026-10-28",
           "2026-10-29",
           "2026-10-30",
           "2026-11-02",
@@ -1829,10 +1933,10 @@
           "2026-11-11",
           "2026-11-12",
           "2026-11-13",
-          "2026-11-16"
+          "2026-11-16",
+          "2026-11-17"
         ],
         "closes": [
-          232.4,
           174.0,
           165.0,
           158.0,
@@ -1845,13 +1949,14 @@
           159.85,
           156.65,
           165.04,
-          159.73
+          159.73,
+          156.5
         ]
       },
-      "price_now": 159.73,
+      "price_now": 156.5,
       "price_at_signal": 156.61,
-      "pct_since_signal": 1.99,
-      "pct_14d": -31.27,
+      "pct_since_signal": -0.07,
+      "pct_14d": -10.06,
       "deep": {
         "recent_filings": [
           {
@@ -1907,22 +2012,22 @@
           "source": "Yahoo Finance Singapore"
         },
         {
-          "title": "Alnylam Pharmaceuticals (NASDAQ:ALNY) Emerges as a Decent Value Stock - ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdy10VzhMSzQ2MzB6OVFzeFRXbHRvclFxam1RXzN3TmowV0w0UThBUzcwN2NKTGFqTzNNbndCcGVjV01ZQTRPWldnaW51RzduVFF3RmMwc2VOSGhpbFdBcmpOTy1ybjZLbmcwcHp0anRZdFRBNURCS1l5YlpmR0czQ1FiY1FJWUdFX05ZY0ZQOFpWeG93Q09ONE9sanAxSVBudlhSVlpEM2p4WUdRTTZpYVRnOV9pdy05WEE?oc=5",
-          "date": "Thu, 12 Nov 2026",
-          "source": "ChartMill"
-        },
-        {
-          "title": "T. Rowe Price reports 10,017,904 Alnylam (ALNY) shares in a passive stake. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQlZreUNjUWoyMUlZb0NRWVQ1RWNnMElhRURNc3UzUGdzUk1RZlRZbHF4cm0tSkJyMmdEZGVydG9vaEUtZ0lzSkhkQXhkYTdtWFNYS3o4bWVraF92WW9sT2E4TXN5by0wN1JJUW9OS0xkbk90b3RjMzdwa0FYdzlyaHcwdnFfOE93aU5Xc211dE55YnN2NDktcXlPOXQ0QXdqZzdpdGczdjFKdlZta0lIcmN2Mzk5ZzlBcGhBeF9sbER2Y0hJc1d4VmNmOA?oc=5",
-          "date": "Mon, 16 Nov 2026",
-          "source": "Stock Titan"
+          "title": "Alnylam Pharmaceuticals Inc Stock (ALNY) Moved Up by 7.90% on Sep 2: Facts Behind the Movement - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmRncEV4aGxJenllNFJGS1p0NmFmejJVMC16dDNldGRnT05Sa21QTUpfaXhOdHpIYklvVzM5QW94dk1GTlUtRGxMRmxKYlU1bXdDNVFxQ2RuallIeTEwMl9UZ0p6LXAtREtWdF9jWEV0emZmMTNycHpwejRLUTIzZlltaWxvMW9GQ2tF?oc=5",
+          "date": "Wed, 02 Sep 2026",
+          "source": "TradingKey"
         },
         {
           "title": "ALNY - Alnylam Pharmaceuticals Inc Stock Price and Quote - Finviz",
           "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE04MDQ5bjNWdGtjOG8wNnJLbGxYQXpXZERaczVyaXhKRGpkRERxQlg3a25pU0w0bDk5bVZ5YVFOeS03cVdXX1E?oc=5",
           "date": "Wed, 27 May 2026",
           "source": "Finviz"
+        },
+        {
+          "title": "What Is Driving Alnylam Stock? - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMmJiYW1pZlYyMExiTEJtVnp2OFc1Mk03U2c5RDhjZFg0clAzcUtkbGZiWnRHMkRuUjYzOF9LRWdDUERDSUhlLUVGTXBfUHMtNVJkX2RwWVgzTHN5MDdRejhSUzV4eV96alFGRlZNMUptbE9ZR1c3cFpZSFFTQmhkQXVJQW5CTU9RaEdQakszOA?oc=5",
+          "date": "Mon, 16 Nov 2026",
+          "source": "Yahoo Finance"
         },
         {
           "title": "Here's Why Ionis Pharmaceuticals' Stock is Down 28.5% Post Q3 Earnings - TradingView",
@@ -1934,7 +2039,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
