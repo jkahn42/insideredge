@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "signals": [
     {
       "ticker": "PLTR",
       "call": "SELL",
       "herd_pick": false,
       "short_candidate": false,
-      "buy_score": 2.4,
+      "buy_score": 2.9,
       "sell_score": 60.0,
-      "net_score": -57.6,
+      "net_score": -57.1,
       "distinct_buyers": 1,
       "distinct_sellers": 5,
       "evidence": [
@@ -27,7 +27,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -40,10 +39,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          160.38,
           169.2,
           168.82,
           172.4,
@@ -56,13 +55,14 @@
           143.49,
           159.36,
           161.18,
-          163.59
+          163.59,
+          172.17
         ]
       },
-      "price_now": 163.59,
+      "price_now": 172.17,
       "price_at_signal": 159.36,
-      "pct_since_signal": 2.65,
-      "pct_14d": 2.0,
+      "pct_since_signal": 8.04,
+      "pct_14d": 1.76,
       "deep": {
         "recent_filings": [
           {
@@ -114,40 +114,40 @@
       ],
       "news": [
         {
-          "title": "Why Is Palantir Stock Falling on Wednesday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcXQtWnNhNlptVVdFNWwtOGFkV2htRkhTTWNWc0xfcWZmejBJNEpjRm43SWxyei1ublI1VGtpajBqdC1WdDE1cnIteW95NF9hbFhBTlJFU3lULXhrR243UUhTN2NKT2dQNDRQMm1JdFEwNS1NSVBhb25hNkdTSFVmYTRSSkRPSkRqbXdMMnFWRWZBRnF1M2pTY3hqVlBsTWFBREdwOGNwMUM?oc=5",
-          "date": "Wed, 25 Nov 2026",
+          "title": "Palantir Stock Pops as a Fresh $300 Million Catalyst from Poland Emerges - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZi1qa1NFdkRuSHZvb0NKWjlPVVVudWVRRlJ5SkJfV2tndUZac1NaYWhBTkV2cWF2cHNYN0pNbHQ4NUFOcEhweHdGd2xxcy02M1lOT1pueFJDcVZfZUtTMmpKUElvaS04RUU3T05xc2RIZFNkT2p6aFVRclRjUUNsbm4xN3NwWmFoaEZHTnpXcnZPWDZJZWtHSUlIZmxfeFFNS2txRnNJSmhEM1hMZUlaWVk5b2JvbURjVE9aNkF2VTU4bjNJdkdV?oc=5",
+          "date": "Fri, 27 Nov 2026",
           "source": "Benzinga"
         },
         {
-          "title": "Palantir Technologies Inc Stock (PLTR) Moved Down by 4.32% on Nov 25: What Investors Need To Know - TradingKey",
-          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTF9qWENfNWtOZmhLSWRjRVZjOGU3TXBHcWxsUHdscnZuc1FCMkQ5QW1VZFRTa25TXzFKTndzM21JMUhqdzhjbk1BaHZqXzBiS2RaY0J4RU45aXg5VjdEcVd0VlJjZWswX2JFQ3lNN3ZXYmRBbFBMRGJ5aE01Rl9DcnBGVmZwbnFVOE5B?oc=5",
-          "date": "Wed, 25 Nov 2026",
+          "title": "Palantir Technologies Inc Stock (PLTR) Moved Up by 3.23% on Nov 27: A Full Analysis - TradingKey",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlllYmF1cGZ6X0tXRTM1M295UFd2cjhoZ3hHbWhXSXU3QnUwcjdjbG1oMW5rNEdDbkZ0SWdCYWtMY1hScGNJaGtkZXNHbVcxajZyX2VDVFZnYllicnlUUGdfVzU1VGdCSldtZTRDOVIxLUxla2NqUE1uX0tPRnZNWkIwcUFGLXlfVWNF?oc=5",
+          "date": "Fri, 27 Nov 2026",
           "source": "TradingKey"
         },
         {
-          "title": "Micro Palantir Technologies Inc (XPLTRH27.CME) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PVlNZZG9GelhxSzR1czZ3bVlGbDVjRFJ4UTJ0Y0pGanE5QWxLR00waEhqd0g5YWtLcFp4OGNVUmh2UnZCVTdiYzM0YUwwb3VzODBOakdyVEtUNnIy?oc=5",
-          "date": "Tue, 24 Nov 2026",
-          "source": "Yahoo! Finance Canada"
+          "title": "Analysts Raise Palantir's Revenue, FCF and Stock Price Targets - Is PLTR Too Cheap? - Barchart.com",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFVfUVNENGJhLXF4REpWNTNrcWF2am8yWGtJUWpQQ1ltWFZxUDJsZ2htR3BQMmV1Mm1Nbzh2d083TUYzTEptaUVNU3BrcTFOeThJN0I1T2lmQlVXcnp2Zkt0VFBzMFNYNW0wVEJPd0ZURTRNRE8zSUpVYmd4a2E4UmYtRFNjLUU4RjJOVGlDSGhoNmhWS3FGN1I1RTBoU0xKY3ZibGVRMnFzTTRlOFBvQ3ZxRDQtY3R4NU9UZDdhSEpYejlZalJ5dzl4Y2EwYjA?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "Barchart.com"
         },
         {
-          "title": "Palantir: Already Off To A Strong 2027 (NASDAQ:PLTR) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQR1J2VUNKQTFnZTY3dlh4WUkzTFdBZ2JaLUlFRm1BajU5ZVh2a3FhanIxNEtWTEwwZ0phbjZFSUVzNWw4V05PWXZja2xZZ1BFVHhyY0xWNnhra2lKWDBYdmdPQmd6RUd3RlpoUUc5eUdaOWhLeDF0bmRsa21FbkNSRHBJMzE?oc=5",
-          "date": "Wed, 25 Nov 2026",
-          "source": "Seeking Alpha"
+          "title": "Palantir Raised Its 2026 Growth Outlook to 91%. Could the Stock Have More Room to Run? - 24/7 Wall St.",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUDRzWVUtQmh1OTJiZG03T1d3VnE5Q1I0UzZDM3J5bGd6TkEzTHpRMi1zR2xrLVUtXzBWdDFPLVF5TDV2Uk1OMTV2WlJablpTNlY1RHRwdXUwYXNTTjQxQVJFcnRvQm1NbkI2RTdRWUkwZGlCajAzOTI2cWxIOFQ2YlFOd3NCV0otVDRyTkRfdTFSQWhtQy03ay1aRmhodnBLbi1KZmVrQzhwWE9tUENrU2kxeTdIdmdHbEFwQ2tOMXhDY21rRXc?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "24/7 Wall St."
         },
         {
-          "title": "Form 4 Palantir Technologies Inc For: 25 November By Investing.com - Investing.com South Africa",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGxiRXY3ZFhTbWg4RFBiOXg0X0tlQUN6UlFYZ2xtV0NnbnRxYU5PM1BWeVFIRHNTd3NLYnRfRTk5cEhNcV9XSy02WXFpVFlRRF9RNTJOaEdUcjlKY0pGSzQxVG43WkdVanNWR3luZFc1Q2Y0NFZJSkdMM0VTZi1hbTZrc0x5b3hXamRuVXFZZ0QyOXAxNnV1ZDQ5allKUnMwYjVYczlHQ0I5Z3ZBc3c?oc=5",
-          "date": "Wed, 25 Nov 2026",
-          "source": "Investing.com South Africa"
+          "title": "PLTR vs. ARM: Which AI-Tech Stock is Better Positioned Now? - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc2NHblMxX0dBWGx3bmNHbGplWXNOYWxWR1Q2TkhhUEplTHNERWFYY0E5MzJyQmtvMm92ZzYtOUdBY0pBUFZQODU2T0NhLXFBSTNTajI4bm5ONzZSdjU4SDZHcWtMOUFkU05HQzZHeEtPaV9YV2RQWS1vSHJveEs3NGZfQkk3cFNTQkhXbGk3c2RMczlRSTNOeE9rVk9HMjFnV0FoeWY5Tl9ySzltRXZKZ2NR?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "TradingView"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -180,10 +180,10 @@
       "herd_pick": false,
       "short_candidate": false,
       "buy_score": 60.0,
-      "sell_score": 6.8,
-      "net_score": 53.2,
+      "sell_score": 0.0,
+      "net_score": 60.0,
       "distinct_buyers": 1,
-      "distinct_sellers": 2,
+      "distinct_sellers": 0,
       "evidence": [
         "2026-11-25 CEO Cannon-Brookes Michael BUY $98,008",
         "2026-11-25 CEO Cannon-Brookes Michael BUY $98,008",
@@ -200,7 +200,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -213,10 +212,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          153.68,
           154.9,
           148.6,
           152.44,
@@ -229,13 +228,14 @@
           134.65,
           139.58,
           140.81,
-          144.39
+          144.39,
+          145.95
         ]
       },
-      "price_now": 144.39,
+      "price_now": 145.95,
       "price_at_signal": 144.39,
-      "pct_since_signal": 0.0,
-      "pct_14d": -6.05,
+      "pct_since_signal": 1.08,
+      "pct_14d": -5.78,
       "deep": {
         "recent_filings": [
           {
@@ -264,37 +264,9 @@
           "name": "Cannon-Brookes Michael",
           "kind": "CEO",
           "note": "866 Form 4 filings on record since 2016; 66 buys of TEAM in this tracker's ledger"
-        },
-        {
-          "name": "DUFFY BRIAN",
-          "kind": "OFFICER",
-          "note": "19 Form 4 filings on record since 2025; 16 sales of TEAM in this tracker's ledger"
-        },
-        {
-          "name": "CHUONG JAMES",
-          "kind": "CFO",
-          "note": "6 Form 4 filings on record since 2026; 17 sales of TEAM in this tracker's ledger"
         }
       ],
       "news": [
-        {
-          "title": "Atlassian\u2019s Shares Slide After Revenue Outlook Disappoints - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2tiRDY5cHdDWkJZeG54WWNLTHlIZ3d3anJLdWM3SFV4ZVMxQUdjdzNxWTdINEtwNGtIUmtzQXItSU1uZzRPZzNldlB0WHNnUG9kQkliVTM1ejNyZ29ucWJEdGF4Q0tyMUxTUUg3cmc4YzZIVFRqNC1Sa18wb3BZVnFBTVBtcHZCWW9sVnd0dGFqV3BMenFid2tJLWNqdGJ2NUlyV1lYcjFSaHBsOWc?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Bloomberg.com"
-        },
-        {
-          "title": "Atlassian Stock Retreating Ahead Of Earnings - Forbes",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmdRRGZuc0d1Z2JTWk1rWmlRNkhBQW9yVThBTlVKYzBIMExUU0FmdTB2NWVYVW1hb0JNQkdiT1MwaGVsdmpxbHAyUnl2cjJzd3BnUGI1WnV2ZloxeWRnbFN3OFFwWkp4Qi1Zek5QT2h1aFFUeC1CMldlcFVmS3ZrUGt6X0xIeXFOc200ZDdSdk5sRm5Wc2FTMEMzUWpMcDdTTW5UaWJR?oc=5",
-          "date": "Thu, 05 Nov 2026",
-          "source": "Forbes"
-        },
-        {
-          "title": "Why Is Atlassian Stock Sinking Friday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblRJRjRpTTBFTFJKWVUwUTVDMXloNDlKdXdkNTdFM1lrczU4V1hpNTBVRVRfTjZxTjItMnJreU5wXy1oY2VZRlkwVF9UYmdOTVFaYWJkYVl1aXNzMWFwN0paOXdyWU1ta1hvRk9ZQlBlbkF2VWpSczZ4eTJTdG84bjk0R1VOVVRUcW9BMEZaSmtETjJ1RW5tRWYtNTVmRTA?oc=5",
-          "date": "Fri, 06 Nov 2026",
-          "source": "Benzinga"
-        },
         {
           "title": "Atlassian shares fall 17% as slower subscription growth forecast overshadows earnings beat - SiliconANGLE",
           "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcm1LTWVzaEFwUXZvd3Vqb3R1dE9wN19oQWpKdEpWZGlVTGlZQnBubG5ZSDJyX1VVbWdFMVdsbzg0SmswT0V5UU1XakFaakVrZWNZN2R3dW1OV2NtQU5TR0oyWUNFQjlOR1F1UUx1OG5OUU02RXZ5bW04VlpPZzQteFJkYWtpTklNck4yZFNGNUp3OWpkcllreWtfZWVrRzY5amZudW4zTWNmRWFTNnQzQkFicnNKNGNIVUVkdnptRjhNczg5?oc=5",
@@ -302,16 +274,34 @@
           "source": "SiliconANGLE"
         },
         {
+          "title": "Atlassian\u2019s Shares Slide After Revenue Outlook Disappoints - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM2tiRDY5cHdDWkJZeG54WWNLTHlIZ3d3anJLdWM3SFV4ZVMxQUdjdzNxWTdINEtwNGtIUmtzQXItSU1uZzRPZzNldlB0WHNnUG9kQkliVTM1ejNyZ29ucWJEdGF4Q0tyMUxTUUg3cmc4YzZIVFRqNC1Sa18wb3BZVnFBTVBtcHZCWW9sVnd0dGFqV3BMenFid2tJLWNqdGJ2NUlyV1lYcjFSaHBsOWc?oc=5",
+          "date": "Thu, 05 Nov 2026",
+          "source": "Bloomberg.com"
+        },
+        {
+          "title": "Why Is Atlassian Stock Sinking Friday? - Atlassian (NASDAQ:TEAM) - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPblRJRjRpTTBFTFJKWVUwUTVDMXloNDlKdXdkNTdFM1lrczU4V1hpNTBVRVRfTjZxTjItMnJreU5wXy1oY2VZRlkwVF9UYmdOTVFaYWJkYVl1aXNzMWFwN0paOXdyWU1ta1hvRk9ZQlBlbkF2VWpSczZ4eTJTdG84bjk0R1VOVVRUcW9BMEZaSmtETjJ1RW5tRWYtNTVmRTA?oc=5",
+          "date": "Fri, 06 Nov 2026",
+          "source": "Benzinga"
+        },
+        {
           "title": "Atlassian Stock Surges 30% After Earnings. So Much for the Software Slump. - Barron's",
           "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03WUo2ZkZlb1k2anR6eDEyZEE4Nzc1N2J4Ry1xT1ByZEZmalVQcHRIZlh5NWEyZ0ZkS0VWcm0xWDM4a0hXWE9QcU5IYjBQYzBvSzRYTHJKSGppcXhTQUFPMjJBQjF1dU5GOHp3Tl9wWUJUYlNmZEgxU2F0cjQ?oc=5",
           "date": "Fri, 07 Aug 2026",
           "source": "Barron's"
+        },
+        {
+          "title": "TEAM - Atlassian Corp Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBIdlhDNHJ5ajB2ZTNXSmg5dFRzVEQ1ei1aSlpCY0U1YXotdjJ1TWZ1RjdGWGd1a0psNE1DcGc0SDhrN1p1N1E?oc=5",
+          "date": "Wed, 27 May 2026",
+          "source": "Finviz"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
+        "label": "Fresh \u2014 latest filing 2 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -364,7 +354,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -377,10 +366,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          39.64,
           40.71,
           40.91,
           42.16,
@@ -393,13 +382,14 @@
           37.04,
           38.53,
           39.71,
-          40.57
+          40.57,
+          41.19
         ]
       },
-      "price_now": 40.57,
+      "price_now": 41.19,
       "price_at_signal": 38.53,
-      "pct_since_signal": 5.29,
-      "pct_14d": 2.35,
+      "pct_since_signal": 6.9,
+      "pct_14d": 1.18,
       "deep": {
         "recent_filings": [
           {
@@ -449,7 +439,7 @@
         {
           "name": "Carlyle Group Inc.",
           "kind": "10% OWNER",
-          "note": "519 Form 4 filings on record since 2016; 1 sale of MDLN in this tracker's ledger"
+          "note": "515 Form 4 filings on record since 2016; 1 sale of MDLN in this tracker's ledger"
         },
         {
           "name": "CP Circle ML Holdco GP, LLC",
@@ -474,10 +464,10 @@
       ],
       "news": [
         {
-          "title": "Medline Inc. (MDLN) Stock Forecasts - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM0lTdlJuNXlCa0hwVWJSVG1Ca3IwcDBTSXhFZnNGYWxrU2RDY3ZZb3dMSXZISDJUSE1Td3lsQ3RoVFBQZTY1WW1ZLTRHTGo4aXZqT1dJNjJobW9Renk4WDJPVldITXp3ZFVILXVnZU52US1YZlROVWRPZkVMbm4yTjZ3a0NFTUhMbTVYUmh3?oc=5",
-          "date": "Thu, 26 Nov 2026",
-          "source": "Yahoo Finance"
+          "title": "Medline Inc. (MDLN) Stock Forecasts - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSmpCeUNBdkdHUHBVd0lIRERicWdzbEJNQktWVXhWLUxCTFZ1SUdvUEM0VzUtQ2taSDN3R3FtdmRDOE9nVE5pY0NBQkN4TGdiYzF0VmRLTmd5X0dPUWhLLTBWVWo1eDd2VHpXdEczQ0ZDY2N0Z2hNckRxTWdlQ3hBMkxZY3J0RXh6bDBWNWJTbVk?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "Yahoo! Finance Canada"
         },
         {
           "title": "Latham & Watkins Advises on Medline\u2019s US$2.4 Billion Secondary Offering of Common Stock - Latham & Watkins LLP",
@@ -486,16 +476,16 @@
           "source": "Latham & Watkins LLP"
         },
         {
-          "title": "BCP Holdings Mozart Manager Unloads $822M of Medline Stock After Run-Up - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUc4ZC1YZ29CVjBFaWl6STNyMlhLWlktRmRqVGtiVWcyZm5JQV9HcnY1NkpwbFdOWnRDSzhUV3BwS1M5dG9sQjd0a2pXSHU0dk5zN21MbVlMWDNhcnRKQ2lhVE40Z1RfeW9NLUNKNm5mbTRoN0JvWl9pMFF1NDEyNWhkaW44dEdyUm0wMWQwRnNpNFl0TWw2amxCZ0JvNzJFSXZEeDFNYjVodHlsWVVmalZOcE1McjJ0cUhOMHhCQ191NFl1Q3R2aU03T2hmOTlZZWtlYzd3?oc=5",
-          "date": "Thu, 26 Nov 2026",
-          "source": "Benzinga"
-        },
-        {
           "title": "MDLN Stock Price and Chart \u2014 NASDAQ:MDLN - TradingView",
           "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZc0VaYkN2cVIxRUhNTlNKXzlyUmZIQzFGXzBwbjkzOEdYSUdabm5Oek1NdmZyQWFTVklsa20zQU9aRzQ1UWo2OE41REE4c3ZRUW5RUzNUMXg4ZlBU?oc=5",
           "date": "Thu, 19 Nov 2026",
           "source": "TradingView"
+        },
+        {
+          "title": "BCP Holdings Mozart Manager Unloads $822M of Medline Stock After Run-Up - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUc4ZC1YZ29CVjBFaWl6STNyMlhLWlktRmRqVGtiVWcyZm5JQV9HcnY1NkpwbFdOWnRDSzhUV3BwS1M5dG9sQjd0a2pXSHU0dk5zN21MbVlMWDNhcnRKQ2lhVE40Z1RfeW9NLUNKNm5mbTRoN0JvWl9pMFF1NDEyNWhkaW44dEdyUm0wMWQwRnNpNFl0TWw2amxCZ0JvNzJFSXZEeDFNYjVodHlsWVVmalZOcE1McjJ0cUhOMHhCQ191NFl1Q3R2aU03T2hmOTlZZWtlYzd3?oc=5",
+          "date": "Thu, 26 Nov 2026",
+          "source": "Benzinga"
         },
         {
           "title": "Medline Inc. Announces Closing of Secondary Offering of Class A Common Stock and Full Exercise of Underwriters' Option to Purchase Additional Shares - Moomoo",
@@ -509,8 +499,8 @@
       ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -541,9 +531,9 @@
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 16.9,
+      "buy_score": 20.5,
       "sell_score": 0.0,
-      "net_score": 16.9,
+      "net_score": 20.5,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
@@ -562,7 +552,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -575,10 +564,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          15.94,
           17.55,
           17.23,
           17.64,
@@ -591,13 +580,14 @@
           8.8,
           9.77,
           10.15,
-          10.03
+          10.03,
+          10.06
         ]
       },
-      "price_now": 10.03,
+      "price_now": 10.06,
       "price_at_signal": 9.77,
-      "pct_since_signal": 2.66,
-      "pct_14d": -37.08,
+      "pct_since_signal": 2.97,
+      "pct_14d": -42.68,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -627,6 +617,12 @@
           "source": "Stock Titan"
         },
         {
+          "title": "Prenetics Chief Executive Officer Purchased Shares Worth Over $733K - TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaWZNUVJDRHpTT0NCVlZMTXhvelNCWkdPVFZiNG5sdVhramRtRU1YU3c2S25RNHFtdXEtc1NiVnljZ0R5Q1hZekN3bnlFOEo3UnV3MktUTFVfemNjOE9Lam51MFJkVVVqVHUxaGdxSmNRNVpibjBCcVVtRVFCenRId3Nxc0lEd1hCcnVaejBtTzl1aklJREJHYlpXRE85UGtFX3YxUTRGMURkcU9VUGxMMXFGejYzQWdVZk5MRkx4N2I2UXhTaEJR?oc=5",
+          "date": "Wed, 25 Nov 2026",
+          "source": "TradingView"
+        },
+        {
           "title": "Prenetics Global (PRE) Stock Price, Chart & Analysis - www.debelegger.nl",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tQ2E4UUJZT0xpbFAzSnBkbmRfMVN2dDNRUHV1c1pzTExiNE12dENOSzQtdUx6RldnZ1NQT3ZFLWJKZzZaX21RSjBqWGpEVjFKczJv?oc=5",
           "date": "Fri, 06 Nov 2026",
@@ -639,22 +635,16 @@
           "source": "Stock Titan"
         },
         {
-          "title": "PRE - Prenetics Global Limited Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBOMXNtWWpOSmhxWnVOMUhHZHE4VFV2N2wzTWNBTDJWZHhsNW1JcG5iU0kxXzJwU052VS01U05hdFRUb2lZ?oc=5",
-          "date": "Tue, 26 May 2026",
-          "source": "Finviz"
-        },
-        {
-          "title": "PRE - Prenetics Global Limited stock news, filings & ratings - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rMDIxVHludkRpeDNJeFBVUWZ1REZGcDZ5aDNqWDQ2MU5YR1Nndmo2eVJ5ZnQyNGdESy1pNDZ0c09QZFBPbEFrM01IX1JkQVk?oc=5",
-          "date": "Thu, 02 Jul 2026",
-          "source": "Quantisnow"
+          "title": "Prenetics Global Q1 Earnings Call Highlights - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOFlyTEU3dWV6MG1FVWVzd3N0REdBLUROSlFrZ2ZEd3IwTThheEU2c1JSVUdmVE1maXZVNUxjWDA0VzJYcEVfb25ZQlBwdU9ZYVh0dGlLWlUycnJjUmhxWkYyVThFNWo3dklDUmlMX2szdk1GQmhpZUtVMkN4WEo1VjctcHRJZXUyVThrYUUzdFY0SHJfUEt1NXc0VEE2bUk?oc=5",
+          "date": "Thu, 14 May 2026",
+          "source": "Yahoo Finance"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -682,183 +672,13 @@
       ]
     },
     {
-      "ticker": "GLXY",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 15.3,
-      "sell_score": 0.0,
-      "net_score": 15.3,
-      "distinct_buyers": 3,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-25 CFO Paquette Anthony BUY $268,450",
-        "2026-11-25 CFO Paquette Anthony BUY $268,450",
-        "2026-11-25 CEO Novogratz Michael BUY $955,522",
-        "2026-11-25 CEO Novogratz Michael BUY $955,522",
-        "2026-11-25 CEO Novogratz Michael BUY $955,522",
-        "2026-11-20 CEO Novogratz Michael BUY $49,190",
-        "2026-11-20 CEO Novogratz Michael BUY $49,190",
-        "2026-11-20 CEO Novogratz Michael BUY $49,190"
-      ],
-      "company": {
-        "name": "Galaxy Digital Inc.",
-        "industry": "Security Brokers, Dealers & Flotation Companies"
-      },
-      "trend": {
-        "dates": [
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25"
-        ],
-        "closes": [
-          13.66,
-          14.51,
-          14.11,
-          15.97,
-          15.18,
-          14.38,
-          13.14,
-          13.03,
-          13.32,
-          12.32,
-          11.22,
-          12.55,
-          11.55,
-          11.56
-        ]
-      },
-      "price_now": 11.56,
-      "price_at_signal": 11.22,
-      "pct_since_signal": 3.03,
-      "pct_14d": -15.37,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-11-09",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000112/glxy-20260930.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-10-27",
-            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000108/glxy-20261027.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-23",
-            "summary": "Company executive/director departure or appointment.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000105/glxy-20260922.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-10",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1859392/000185939226000091/glxy-20260630.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Novogratz Michael",
-          "kind": "CEO",
-          "note": "21 Form 4 filings on record since 2007; 5 buys of GLXY in this tracker's ledger"
-        },
-        {
-          "name": "Paquette Anthony",
-          "kind": "CFO",
-          "note": "4 Form 4 filings on record since 2025; 1 buy of GLXY in this tracker's ledger"
-        },
-        {
-          "name": "DEASON DOUGLAS R",
-          "kind": "DIRECTOR",
-          "note": "9 Form 4 filings on record since 1999; 5 buys of GLXY in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Wednesday\u2019s top insider buys and sells: Galaxy Digital, Gold.com and more - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQS1hzUk8zTjV4ZzJaVm80dlVfTFhvbjJ4RWl1TExtZWROaUVuaHpzR3V4UWNId0dQWTJwbmtzQVd3NGpacUxKWmZYZ1N1RlFLUF9TeHA0YVZPVkZ2aGFBMmo5R1VuQjc4STF3cUZpbHRBQ2FaeV9RdDZZUE5ZZFpGREFUdFJvdlhUalNHeVBXSnF6VVFNOW95MGZybDE3b1VBMm0ydTFHYmoySGlBQV9kRGZTTTBzY09mcUhYX3BRWFFjN2d1RGF3WHk0WQ?oc=5",
-          "date": "Thu, 26 Nov 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Why Is Galaxy Digital Stock Surging on Monday? - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSlNKcWJHd0FYSnV4LWlzX3A4bU9peDFndWw5b0pvdkMtLVpsa0VPOWhsNE5GTTlDU2FLWUFQdXB2bFdGTFJlQTZZQnZ4YzNvQTJoNTMwemxHOWdZXzNLU3RRejlsQ2lpQnBwa0U4cDk0TV9vN1ZUUzdseFhlTDlqVDhROXRvelRfb3IzZFJNcnF4NTdvb0dGM0MyRk52aXFrTDBBM0FJREJJQQ?oc=5",
-          "date": "Mon, 23 Nov 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "Galaxy Digital (GLXY) CEO Novogratz bought 86,913 shares for $956K at $10.99 - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaVh3bU1aQ1FheWJ0aXgzOWptMUpuLVY1eURta1VaaF9TajI4VU5GTnpjSlN5ZTZIOWdRN3V1b3VqblBiemlLRl82SmFZd1BJRENZUnQtQXV5cC1iS0x6U0wxR1RId3ZKYkU4Y1p1S1RCSE5xc1puNzF2dVRYRjRDVEc4WFkxNDczTHMtUjBsNS1yNHQ4Z21jQkVWejFjc3ZaYWhCNWhZSHRDY0JFM2NSZUtkak0?oc=5",
-          "date": "Thu, 26 Nov 2026",
-          "source": "Quantisnow"
-        },
-        {
-          "title": "GLXY Stock Price Today - CoinDesk",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6YU0yV19GUGFtTDNuLUZwVmVHU0ZROGkzcEVocG9pcjZlakNfbDlLQTl5b0xqSG9VbUJqYTJkTXZVaDMzMVVwQjNMbloxakdMQjZN?oc=5",
-          "date": "Tue, 24 Nov 2026",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Novogratz Buys 86,913 Galaxy Digital Shares at $10.994 - kalkine.com",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONGg3R3diQlRXQWNKd2pwMW5hTnY0QktGN2VRLWZVdzEybTNtMklOcXdHNkdhb210dmpKaEcyZnAxRF8taTV6Y2NsQ09fQXhOcnVld0tKMG9iUmdWa1F6TmFFWDhrcnlUTFp1Tl9tdnB6cDBpOWRoMS1LUFFCd1dHejVJMnYxRmY1VWd4Tmx3X3U0Vldj?oc=5",
-          "date": "Wed, 25 Nov 2026",
-          "source": "kalkine.com"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 1 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cGalaxy Digital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Galaxy%20Digital&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cGalaxy Digital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Galaxy%20Digital&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cSecurity Brokers, Dealers & Flotation Companies\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Security%20Brokers%2C%20Dealers%20%26%20Flotation%20Companies&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cSecurity Brokers, Dealers & Flotation Companies\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Security%20Brokers%2C%20Dealers%20%26%20Flotation%20Companies&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "PAM",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 12.0,
+      "buy_score": 14.6,
       "sell_score": 0.0,
-      "net_score": 12.0,
+      "net_score": 14.6,
       "distinct_buyers": 3,
       "distinct_sellers": 0,
       "evidence": [
@@ -877,7 +697,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -890,10 +709,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          63.58,
           64.95,
           63.75,
           63.56,
@@ -906,13 +725,14 @@
           60.63,
           62.16,
           61.16,
-          62.32
+          62.32,
+          63.21
         ]
       },
-      "price_now": 62.32,
+      "price_now": 63.21,
       "price_at_signal": 62.04,
-      "pct_since_signal": 0.45,
-      "pct_14d": -1.98,
+      "pct_since_signal": 1.89,
+      "pct_14d": -2.68,
       "deep": {
         "recent_filings": [],
         "about": ""
@@ -936,14 +756,14 @@
       ],
       "news": [
         {
-          "title": "At $62.11 and $62.40 a share, VP Gustavo Mariani bought Pampa Energy (PAM) shares. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHJERWItVEVyWmN6cGdON2Z3R2k1N09FUkR3QUVINWk5M3dYQ1k3OFg3Ny1ZUzN2cjRQclJScGdUcWFSM0FiOENfV2xzTTNobmVvYVdUTVdKcnF4cEFHZWtLYTlKX2JnMUdvb2txc0dxY0lKVEs2djRtZmJqZUNjYmNLbnhQUU5EY25pQnl0NXE5MHRRZGF3b21HcVhtNWloM3BqdjI3bVNCVTVUMWc?oc=5",
+          "title": "A 10% owner of Pampa Energy (PAM) bought shares on three consecutive days. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FmUGxDX0NJRWZJTkRUZ3k2ei14UE93aVlqaUp4cW1iRHI3cExxZFFxbHUycFM2YThWT3llZllaYjdURkFuN3QwUkhxNTF6MEF3TktjSEdFVmd2bWtqUHA3R2MwYS1Xck9LNzczRmhrZ2ZJNlJSQXFtRU9hOEdlenhjeUxjMDJ6aG9zZ3JuMDJvRkFXV2J6SmNYVG0yT2FHWVpJWGpVR3VFRWloRVE?oc=5",
           "date": "Mon, 23 Nov 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "A 10% owner of Pampa Energy (PAM) bought shares on three consecutive days. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1FmUGxDX0NJRWZJTkRUZ3k2ei14UE93aVlqaUp4cW1iRHI3cExxZFFxbHUycFM2YThWT3llZllaYjdURkFuN3QwUkhxNTF6MEF3TktjSEdFVmd2bWtqUHA3R2MwYS1Xck9LNzczRmhrZ2ZJNlJSQXFtRU9hOEdlenhjeUxjMDJ6aG9zZ3JuMDJvRkFXV2J6SmNYVG0yT2FHWVpJWGpVR3VFRWloRVE?oc=5",
+          "title": "Two direct purchases on Nov. 18 and 19 account for 32,464 shares bought by a Pampa Energy (PAM) VP. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTC13NUZvWVpVNERqWXNhdXI2R2U1T3ltbXVzZHAzZ3UwQ1E2aHNkdVQxdm5aU2szWlpjcUQ5bkJPa1FBSElOVkRSUEN6X01FODBNQlYzRzNjTkpSSTBOUFFUWk85bHFBQkhTQk5tRzZDdlpnSWwzTFdlbmNqb1pzcnBjU2lQcnNBZGtvakpBbkwxM3ltTFM4VjJJYWwyY3ZkTWNHQnhXN0dPc3VER0E?oc=5",
           "date": "Mon, 23 Nov 2026",
           "source": "Stock Titan"
         },
@@ -954,22 +774,22 @@
           "source": "Kalkine Media"
         },
         {
-          "title": "Two direct purchases on Nov. 18 and 19 account for 32,464 shares bought by a Pampa Energy (PAM) VP. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTC13NUZvWVpVNERqWXNhdXI2R2U1T3ltbXVzZHAzZ3UwQ1E2aHNkdVQxdm5aU2szWlpjcUQ5bkJPa1FBSElOVkRSUEN6X01FODBNQlYzRzNjTkpSSTBOUFFUWk85bHFBQkhTQk5tRzZDdlpnSWwzTFdlbmNqb1pzcnBjU2lQcnNBZGtvakpBbkwxM3ltTFM4VjJJYWwyY3ZkTWNHQnhXN0dPc3VER0E?oc=5",
+          "title": "At $62.11 and $62.40 a share, VP Gustavo Mariani bought Pampa Energy (PAM) shares. - Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHJERWItVEVyWmN6cGdON2Z3R2k1N09FUkR3QUVINWk5M3dYQ1k3OFg3Ny1ZUzN2cjRQclJScGdUcWFSM0FiOENfV2xzTTNobmVvYVdUTVdKcnF4cEFHZWtLYTlKX2JnMUdvb2txc0dxY0lKVEs2djRtZmJqZUNjYmNLbnhQUU5EY25pQnl0NXE5MHRRZGF3b21HcVhtNWloM3BqdjI3bVNCVTVUMWc?oc=5",
           "date": "Mon, 23 Nov 2026",
           "source": "Stock Titan"
         },
         {
-          "title": "On back-to-back days, an officer bought shares in Pampa Energy (PAM). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXF0TGN4bkw2VzZacHFjbkp3OE1PMVkxdl9IWlRFZWQ2MGFRS3RKWFVBeV9uSUQwclhsNkRlNGNkV3poMTVPcjNRWE96OXZzRnlhbFByZ2k5ekdZLW83WE1UOFA3WkdnUjFVeHZQdlpUV0EzcWtxQUxYamI5TDFLRmpPNlQ3azVESjZ5NGtmT3pjUDFXbVV2QnduZUdfdWdqYlRhVWtwOHFNdXZETHc?oc=5",
-          "date": "Wed, 18 Nov 2026",
-          "source": "Stock Titan"
+          "title": "Form 4 Pampa Energy Inc.: Gustavo Mariani (Vicepresident) For: 18 November - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTHlTYzV1ZFU0U3p2RW05OFF5UWhyYWtUSEUzSkk0dnR3dmotb3luUkM0U2dRV2VwY1p2Sjg3NU96Yi1DQTc0Q1lJYzZlOER3VUdMdVlCaUl5alpmckE3NEpKVzRZWW5HellLR1dIV3pqS2MzdG5nT0tRMnc3eTFwZmtEY3FEM295UWZtM2FkaEdNcUdXZ0RqdVV2cmVDbkdnMXZJWmNHcGdORjV3WFRLTmRkY2xNbFp5RWxUQXU1UmtmQk4xY09lS1Fn?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "Investing.com Canada"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -997,13 +817,209 @@
       ]
     },
     {
+      "ticker": "GNL",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 11.4,
+      "sell_score": 0.0,
+      "net_score": 11.4,
+      "distinct_buyers": 7,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-20 DIRECTOR Richardson Leon BUY $150,238",
+        "2026-11-20 DIRECTOR Richardson Leon BUY $150,238",
+        "2026-11-20 DIRECTOR PERLA STANLEY R BUY $30,200",
+        "2026-11-20 DIRECTOR PERLA STANLEY R BUY $30,200",
+        "2026-11-20 DIRECTOR Kabnick Lisa BUY $60,400",
+        "2026-11-20 DIRECTOR Kabnick Lisa BUY $60,400",
+        "2026-11-20 CEO Weil Edward M Jr. BUY $200,221",
+        "2026-11-20 CEO Weil Edward M Jr. BUY $200,221"
+      ],
+      "company": {
+        "name": "Global Net Lease, Inc.",
+        "industry": "Real Estate Investment Trusts"
+      },
+      "trend": {
+        "dates": [
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        "closes": [
+          6.87,
+          6.85,
+          6.75,
+          6.69,
+          6.58,
+          6.45,
+          6.27,
+          6.18,
+          6.01,
+          6.0,
+          6.29,
+          6.51,
+          6.55,
+          6.53
+        ]
+      },
+      "price_now": 6.53,
+      "price_at_signal": 6.0,
+      "pct_since_signal": 8.83,
+      "pct_14d": -4.95,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "8-K",
+            "date": "2026-11-05",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926123343/tm2628765d1_8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-11-04",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1526113/000162828026070177/gnl-20260930.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-04",
+            "summary": "Company announced results of operations (earnings); Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1526113/000162828026070168/gnl-20261104.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-11-04",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926122688/tm2628765d2_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-15",
+            "summary": "Company Reg FD disclosure (investor materials); exhibits/financial statements attached.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1526113/000110465926115947/tm2627451d1_8k.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "Galloway Jesse Charles",
+          "kind": "OFFICER",
+          "note": "13 Form 4 filings on record since 2023; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "Masterson Christopher J.",
+          "kind": "CFO",
+          "note": "32 Form 4 filings on record since 2017; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "Kabnick Lisa",
+          "kind": "DIRECTOR",
+          "note": "18 Form 4 filings on record since 2015; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "Weil Edward M Jr.",
+          "kind": "CEO",
+          "note": "110 Form 4 filings on record since 2010; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "Kravel Ori",
+          "kind": "COO",
+          "note": "12 Form 4 filings on record since 2025; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "Richardson Leon",
+          "kind": "DIRECTOR",
+          "note": "5 Form 4 filings on record since 2025; 1 buy of GNL in this tracker's ledger"
+        },
+        {
+          "name": "PERLA STANLEY R",
+          "kind": "DIRECTOR",
+          "note": "61 Form 4 filings on record since 2003; 1 buy of GNL in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Global Net Lease, Inc. (GNL) Stock Forecasts - Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYlkzTGd2bkVJZXR4dUVfTkhXcS1URmhqRW1qeWxPN3R5bmxkM0lDN2c2d1hGc05aX1FIVzRLMzZ2blFMVFlRcTg5VEhsZElDd1pBcnNpS0dmS2Q1eDl6bHd5ZkVUZmNfWW9FM2ZmNlAxSzRxb3FMbW1OWGVWX2Q1bWY1RDJrTUU4aWprN185RFI?oc=5",
+          "date": "Fri, 27 Nov 2026",
+          "source": "Yahoo! Finance Canada"
+        },
+        {
+          "title": "Global Net Lease Stock Price Forecast. Should You Buy GNL? - StockInvest.us",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBlbE9lVlQyZkRPemw1UHpjYWhaTVUxODJZOGNTYzFDMkM2cE5xT2xZM0ZGTmhiaVRDUGJJWUJvd1dTakNfOWdZ?oc=5",
+          "date": "Wed, 25 Nov 2026",
+          "source": "StockInvest.us"
+        },
+        {
+          "title": "Global Net Lease CFO Christopher Masterson buys $49,047 in stock By Investing.com - Investing.com Australia",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOVVVYUJHVUNCSG96UHFzQmZOck90elJxU0FueU9GRFZmZzhoaDhfNVdkVVVjYXJnZ0tyaWJuOHdTVFdXbmgzVk5YajNDR1BzM2tUdzAxMC1zU05MUFVobDhpMHpkM3RYUTEtdGMxajNfYjhRQWllaDUxeUFldW04Wm5uZXhucGotV3R5NktaY2c4YldobjNxNHRzcXkzemgwU3JncTZxWmI2bmE0S3p6LUJsYjhIal9KdmphRXcwQ3A?oc=5",
+          "date": "Mon, 23 Nov 2026",
+          "source": "Investing.com Australia"
+        },
+        {
+          "title": "Global Net Lease CEO Edward M. Weil Jr. Buys $200K Following Pullback - Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSUZMcDN6MS1xS09NTDB1cHJmRktiWGpCYURVX2J6a0FIdXBnWHB6a0g4ZVZ6YTNqem1tTWhRYkx2Z3d3MUJTTkp4X2JQRVlFa2owdzNCNGhJTW5YYUdsUXVzWTNCTGZsbzlyMThSeWVDTkpCZElQeVo4eVJLbTdFa25tcDhsSkd1cTFBd3p2VFJVWDMtcVotcVpScUxISHpWcG1rQ3F3d0ZjSURsTlNzNFE1bEJCQW1lcjBMWjJ3QmxUemJVMlExN2RCZDdLV09n?oc=5",
+          "date": "Mon, 23 Nov 2026",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Global Net Lease: 3 Key Takeaways for Long-Term Investors - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnFxQWxSZl9zRTJQUHVBWXdnSmRibWptMk5pcjFMSUIzS1g5Y1l4cUZSbVdaZjFRSDZuc1VJTnkzWXhtN2RxOGdYRmR6R0Z2b3gxVnRVVFFZWVl3cXZCZ3RKeHA5bGVHc2VnZUc5UzNadTcxb2pUclpIM2pMcVdoNGdMaUswX3N4ckRvNW1fQ18?oc=5",
+          "date": "Sat, 21 Nov 2026",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Recent \u2014 latest filing 7 days ago",
+        "cls": "mid"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cGlobal Net Lease\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Global%20Net%20Lease&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cGlobal Net Lease\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Global%20Net%20Lease&source=committeemeetings"
+        },
+        {
+          "label": "Bills mentioning \u201cReal Estate Investment Trusts\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cReal Estate Investment Trusts\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Real%20Estate%20Investment%20Trusts&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "MNR",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 4.8,
+      "buy_score": 5.8,
       "sell_score": 0.0,
-      "net_score": 4.8,
+      "net_score": 5.8,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1022,7 +1038,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -1035,10 +1050,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          9.0,
           9.19,
           9.12,
           9.1,
@@ -1051,13 +1066,14 @@
           7.95,
           7.5,
           7.57,
-          7.74
+          7.74,
+          7.85
         ]
       },
-      "price_now": 7.74,
+      "price_now": 7.85,
       "price_at_signal": 7.95,
-      "pct_since_signal": -2.64,
-      "pct_14d": -14.0,
+      "pct_since_signal": -1.26,
+      "pct_14d": -14.58,
       "deep": {
         "recent_filings": [
           {
@@ -1107,41 +1123,43 @@
       ],
       "news": [
         {
+          "title": "Mach Natural Resources: Don't Mistake Peak CAPEX And Selling Pressure For Broken Fundamentals - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcDZBNzRUWGwzREpzN2JNZEladHJ4b1RFV0lES3hDQXBzT0xxd1ZKWENza01PQ3BuSGNELXRod181czVRRXZGV205OXhpZTZqcHZjaXhpeHV5Z29OY1hEaVY2TDFNV0lhYnV1OFJsal9vSFJwQ2NaS3lBWFVoQXBSOU9nS0xyXzg1US1ySENkWTk1Q2k4cWd4LTBrVS12S1JRYnJXVEZTVkkxSmZ0aHhscTB4a2RIT1hiOHc4ZG90Y0YxTzMza0N3X0ZacjFwQ1owX2M2cQ?oc=5",
+          "date": "Tue, 24 Nov 2026",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Mach Natural Resources director buys $199k in stock - Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVnpDdk1rdDlXbFo1YlBVYTNGUzVUdEdEZG83QWVBaWgwcDN3Z3Z1QlZPNzdIZUVKQ1ctTG5MNGdISnNkSG1oOE05MVY2eF9kUGEyZ000UWw2d05IdlRJQlpNRkRIU0ZXQWZDS05oaG1Tdy1UREx4d0ZRZHdFTDkwWF9HOXVXRDJxWUcwb1pEYlRLRmtFTDVaSzV2RkZQM0FEaE1kMTdJNUFGQ2hnX2JING9iOTdwdw?oc=5",
+          "date": "Wed, 25 Nov 2026",
+          "source": "Investing.com"
+        },
+        {
           "title": "Mach Natural Resources LP (MNR) Q3 Earnings Top Estimates - Yahoo Finance",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWlwYTNvckQzNmJzeHNDTVJJZC14RDBTSXBxMmdDd04tc0NJU1ZiQWdnd2N3MG1ZdjZHTHdabWJlWklyclFUb1lvdWdqdkRabGQ3MGFjaW5qTFdWUXBCZWV3SERNQWF2Tmw5VGhwTGVsM3NDb1lDZ2l0MTdrTzgxT2VNZ0QwamlRWGtiY0paUUZkeUF1c0JtZzZ3?oc=5",
           "date": "Thu, 05 Nov 2026",
           "source": "Yahoo Finance"
         },
         {
-          "title": "MNR - Mach Natural Resources LP Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5DR0tDWW0xNm5zdjVwZkRzMDkxb2loTzhNc0lJTGFPUkd0bnpmNUxvWGFYOFZfNlhPcUZwZV84UmFLZ1Bt?oc=5",
-          "date": "Fri, 29 May 2026",
-          "source": "Finviz"
-        },
-        {
-          "title": "Mach Natural Resources: Turning The Next Oil Downturn Into An Opportunity (NYSE:MNR) - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2szMEN2UDN1MjIzSlNUbjdxUE0yRlByWEpja1ZFcVRMQk11NVlHbDZoa1g2Z0k5bU9QRl9MdlU2aWtUdmc1eV9hWWMxY2xKQlZVQWl0bnFlc2l5TE9tZ2Q3THhUWXRyT3VCVEw0bFRvU1lEeUxDNlZDcUwzSU9iT0tUSmg5czFMR0ZFOG1rVjByODdmX0dIcS1GOE1uaG9XdG5KU2JVVXBnbk9nUi1zQlNyZw?oc=5",
-          "date": "Wed, 26 Aug 2026",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "Mach Natural Resources LP (MNR) Q2 Earnings and Revenues Beat Estimates - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV3R4Zm5fakFfak9sbXdZYVRmZXhLWnhPcHEyazdlUlJSUE5jYlROMTdiSWUyUllXV3JtdkNGTWw2VHc1TllycWtCRlBRN285ZHlSZXFBM2RKRHEzSGNweUVsanlrSzFTandLTjFLbktUV25IdXpadDNKNnQ0SE9KbzBjVm8wS05uejdRZ01DSnI4MDJYWEgwVkNB?oc=5",
-          "date": "Thu, 06 Aug 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Mach Natural Resources LP (NYSE:MNR) Stock Rated \"Moderate Buy\" by Sell-Side Analysts - MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVTZvQWsyZ01vNDJLbzlZOWxoNk9OU1lSVy1MRmxFa1YtS1p5T19sWDIwV0NfNnY0Mjg0Q0NHamxzY0hwcDhnWU0tTy1hSjJXN21xT0FQR0FPOU5RT2VrdDctSmZzLVIwSTA2MFpPWG9XRTZkc1pPZWFHb2xsVERBZWNXT3hvVkVJNm1CQlBsUTlvbmdoUG1NbUY5cTljb1lNMGdGWWl3Y1hVajhLWTN4dWpQRTFxTjQ1MEhmNTJ6dDVIb1ZQTFhiV2tCQVVqM0ZyRzhab0hqdDdHSUdDWUE?oc=5",
+          "title": "Mach Natural Resources downgraded by Johnson Rice with a new price target - Quantisnow",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcUw0Z0FpX25oaWhMNmxrQ0JxaGlHZG12dDcyRDZWcnRhMF9zYjVJQ2traE0wWk9VVXd6SklYVG9ubS0tOWFwY2tSV05nTmllQmpQX1VfX1BoZUpJbmEtZmNpcGszSUpVWFNnZEdFNF9hNXhqdjVaMWhLdVJaZGs5MXF4SlF4SUJOZ2FKeS14czlnOVk5MzVINE1RQ1MzUlVTOUN2cV93?oc=5",
           "date": "Fri, 20 Nov 2026",
-          "source": "MarketBeat"
+          "source": "Quantisnow"
+        },
+        {
+          "title": "Mach Natural Resources (NYSE:MNR) Q3 Revenue Miss Weighs on Units Despite EPS Beat and 2027 Cash-Return Focus - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPV0ZhLV80Qm1jekVyV2dQMDhDRTNQdVJmcThjY3k4aUxvajRheHNFcmlLeGFoVElOZUUzOElJQzh1bE1tSk1yc0R4U21LbXdfcnRwU3NRZWRPNVRWQzFaclowejRPakRrLTFiNHJkakc2c0FRYjh4UDJzbVQ0LXhYRkcwai14S1pYN05SWjFzN2kxbk9TelZWTjR0ZnRHQ1lqQklMX0FIRVVUeG5hT3hPS0tXaS1QZTA3OUIzaWpiNkNEWmRHN2M2b0dZdTV3c01Od3ZQU3B6V1ZiaVFwN2lwZGV6MjBfeU9YMERKNDNn?oc=5",
+          "date": "Thu, 05 Nov 2026",
+          "source": "ChartMill"
         }
       ],
-      "news_flags": [],
+      "news_flags": [
+        "analyst downgrade"
+      ],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1168,151 +1186,13 @@
       ]
     },
     {
-      "ticker": "BULL",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 2.9,
-      "sell_score": 0.0,
-      "net_score": 2.9,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-23 PRESIDENT Denier Anthony Michael BUY $44,687",
-        "2026-11-23 PRESIDENT Denier Anthony Michael BUY $44,687",
-        "2026-11-23 CFO Wang Haichen BUY $90,000",
-        "2026-11-23 CFO Wang Haichen BUY $90,000"
-      ],
-      "company": {
-        "name": "Webull Corp",
-        "industry": "Security Brokers, Dealers & Flotation Companies"
-      },
-      "trend": {
-        "dates": [
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25"
-        ],
-        "closes": [
-          4.92,
-          4.92,
-          4.87,
-          5.06,
-          4.96,
-          5.18,
-          4.9,
-          4.73,
-          4.67,
-          4.57,
-          4.15,
-          4.45,
-          4.17,
-          4.06
-        ]
-      },
-      "price_now": 4.06,
-      "price_at_signal": 4.45,
-      "pct_since_signal": -8.76,
-      "pct_14d": -17.48,
-      "deep": {
-        "recent_filings": [],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Denier Anthony Michael",
-          "kind": "PRESIDENT",
-          "note": "9 Form 4 filings on record since 2026; 1 buy / 6 sales of BULL in this tracker's ledger"
-        },
-        {
-          "name": "Wang Haichen",
-          "kind": "CFO",
-          "note": "3 Form 4 filings on record since 2026; 1 buy / 1 sale of BULL in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "BULL Stock Dips Despite Q3 Beat: Webull CEO Says Retail Trading Boom Is Holding Up Months After PDT Rule Change, Sees New Growth Opportunity In Futures - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWViVFhhSTRWR3pUdmRZd1JER2hPeE9RM1Mwbk9JenRlcDhLV0pEblVNbWxLb0FVRndCbEd0SHB4aEg2YTh3cWM1ZU45V2p0Nmp5ZGk0NHk4Y2x1YzJ2RFJPWlY3Z1ZzeHZsSHdkVG5kdzlFZWZuQ09NUnpNR2taNXYyTm1adVA1alBEOXN2aVhuUGUyb1E?oc=5",
-          "date": "Fri, 20 Nov 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Webull Stock Wavers Despite Solid Q3 Results: CEO Points to 'Strong Engagement Among Active Traders' - Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQTE9FN2JSeDhQOHJLcXl1V2t0OGtHcXRJQ1Y2NUpOaUd4Wks4WlJzNS1NZy1tdV8tTjJGc25kaVVhRDA4VmNKWE9iYzRrTThoaEFkSXdHdElVeEE0NXNmQjFIbGp2bUs5eHV6akdIdnMzMHd4b25YSkpab2Q1aG1hUjRDOGJQXzhKeWFTQnA3ODFaSHNzekpYOUtwUk1XOHkyQ0YzWG40bVJrVVNldm5RRzlIcWZaaHNNMURBSVVmaG4wQV9CcEtEU0l6ak9FRUZFMGxmMTJHV3dHN2JISDJwWU95aHRQWmpycHc?oc=5",
-          "date": "Thu, 19 Nov 2026",
-          "source": "Benzinga"
-        },
-        {
-          "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18% - CNBC",
-          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlpHOW1fMm1KLVoxVFFqXy03bUVhMDh1QW80SENTdml4RXBmX0JGeFRRaTdybXRsUDZGTGVPSUhDT1g2M2VGb2xtOG1yT2VUXzJLU0FyUGd3cTc3WVl5RHVKWUt6YVNKdG5xX1dLUk9qRGZMa0hEd29pUHhfejJ0VmRHd3ltckdV0gGOAUFVX3lxTE9zeWJGWnhTbUltaXRuUUEzVEFiLXdNM3ZBZ1ZvXzFLcmxCUkdOYVJMYTBxSzk0U21mSnpNSHJNNU5WRjQxNDk1Y0p2WXE3UGpIRGNHSWJ1X3lBQl9SSG1Vb0RoM3ZzdC15aExKTVZpVHZVY0tTQ3FWMHJRQXAzYVQzR2Jxdy1BZVVheEFrUGc?oc=5",
-          "date": "Wed, 07 Oct 2026",
-          "source": "CNBC"
-        },
-        {
-          "title": "Webull Corp (NASDAQ:BULL) Q1 2026 Results: Revenue Misses Estimates but Adjusted EPS Turns Positive - ChartMill",
-          "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcHg0a3lGOEJUUHJfRnhuVnNhS2gxNlJQbm9ON1RVVDVVYS1XUzJJTEtQLTd5UnJHMGlOaHd1TTBLWlFYSVM1WE5tVGo1ZUJwN1FNemIyOUIwODJXUG9tUWJUTnNRTVNLR2dVQVBGbFhibzRzNEt0NWZNaEdFdEMwRlIwOGY4M3BVNUVVa1AzY1RDZWNYYVlxdFFVNVMyRE1qeWJDU0FRWjdud3poM3pPZUlxNnBxMEZkVjVHZHRTOUcxcGdjZ2tXbUpSVUNCYWZXOTJELTdlVV8yRU9fdXU0cw?oc=5",
-          "date": "Thu, 21 May 2026",
-          "source": "ChartMill"
-        },
-        {
-          "title": "BULL - Webull Corp Stock Price and Quote - Finviz",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE51OGhkRFFjYWRLdF9zQ2NIY0R1ejRjOFBQMzVpaDFzVUNnOWtRcUkxV3dZZkZDbVFYc3ZaRjFjTENSNzFBcUE?oc=5",
-          "date": "Tue, 26 May 2026",
-          "source": "Finviz"
-        }
-      ],
-      "news_flags": [
-        "earnings miss"
-      ],
-      "themes": [],
-      "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cWebull\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Webull&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cWebull\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Webull&source=committeemeetings"
-        },
-        {
-          "label": "Bills mentioning \u201cSecurity Brokers, Dealers & Flotation Companies\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Security%20Brokers%2C%20Dealers%20%26%20Flotation%20Companies&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cSecurity Brokers, Dealers & Flotation Companies\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Security%20Brokers%2C%20Dealers%20%26%20Flotation%20Companies&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "KYN",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 2.8,
+      "buy_score": 3.4,
       "sell_score": 0.0,
-      "net_score": 2.8,
+      "net_score": 3.4,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1327,7 +1207,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -1340,10 +1219,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          13.2,
           13.44,
           13.56,
           13.87,
@@ -1356,13 +1235,14 @@
           12.97,
           12.92,
           13.01,
-          13.19
+          13.19,
+          13.39
         ]
       },
-      "price_now": 13.19,
+      "price_now": 13.39,
       "price_at_signal": 12.97,
-      "pct_since_signal": 1.7,
-      "pct_14d": -0.08,
+      "pct_since_signal": 3.24,
+      "pct_14d": -0.37,
       "deep": {
         "recent_filings": [
           {
@@ -1388,16 +1268,16 @@
       ],
       "news": [
         {
-          "title": "Kayne Anderson Energy CFO Austin Parker buys $32,525 in KYN stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQd09BREhZQmRUaFd3VDNWWjh5ckVqd2NoMFJCaGZsNVdkbmM2dDY4aVcyaWJNMDI2TVE2NzlvYVpUbHFxckYzRFVDZUd4bVVoQV94ajY3Y0t1Q0dYQUxsX0RMUlVMSmFVM3VJYnpmdHpBQ0VLbEttVk83ZDZsMFRsY2N5WjduV21XLUpxUWk4U1U2ZkNvYmItVnBoNV9rUElRVk1QUHg2em0tWVR0WjBSeG91cnVIWHdzR2k1SzdJbE1xdGdlU3lj?oc=5",
-          "date": "Mon, 23 Nov 2026",
-          "source": "Investing.com"
-        },
-        {
           "title": "After buying more shares, the president of Kayne Anderson (KYN) directly holds over 1 million shares. - Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1VnNy12Nm5pQ3RRM0Z1RXpxbEdHNFVQTWVSMUNhR3hUUzc3a0JsS3BBXzdCR1N1ZGkxZkwyaDAzakI4akhYaHpqSFhkZTd6S3hfemJ1eExuRlkzM0owTzAwbmdKYV9BclBHTWhiRGJvRUhHdFM1djRrZkZjNW1UTzBrUzNWYUtNclMzZG9qcmptaXpRWmE0djhzajFkaTRTN0NHRzlaWkx6RFFfdTRoM1Z1YlFCdGFlUC1PQWtLYmlJSDhIYTR4STlB?oc=5",
           "date": "Mon, 23 Nov 2026",
           "source": "Stock Titan"
+        },
+        {
+          "title": "Kayne Anderson Energy CFO Austin Parker buys $32,525 in KYN stock - Investing.com Canada",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVgtdmZ6OURrNE9NNlkxYlg0OFJqRTM2cm9PWkJ3YnNOWDFNU3VhM3pHeTFQUlBWVHpvVnVDZ3ZSOFItTVFNZ2NzYWwtaVdLdFotYU91LW5FdUplSXZvMEpuOElfRzdINnBZOTg3NTc2UnVhZmdMY0tqUlFFMmhCQ1lGMm5LM2xZMnNOU1dMQ0liWWxUY2g0OVY5WFJVVGJBUW1MNjVyU21oR3UtN2NqVzdEc1Vidm9INVJPck8xcDV5Zw?oc=5",
+          "date": "Mon, 23 Nov 2026",
+          "source": "Investing.com Canada"
         },
         {
           "title": "Kayne Anderson Energy Infrastructure Fund (NYSE:KYN) CFO Buys 2,500 Shares of Company Stock - MarketBeat",
@@ -1412,16 +1292,16 @@
           "source": "kalkine.com"
         },
         {
-          "title": "KYN: The Payout Is Up 19%, But The Stock Hasn't Kept Up - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRjBtdWdNazlmLWRHYlpaU0hiLWxfRjlqOXlFaHMtMmsxcFdqQjBHWDN1X2doVzdycGg0TnN0MmdhWTBpWmgxQ09GbUUzYU85RS1xZU9WaW04eGVuU1F0REljb1hWZ2tWZGt0VUVGczhVSEFleF9VUkxCdVhKVEpBZ2RER2Z4bnNFOWlKY0ludGdSSUFIaE9RZ1FqSFJpNGdnR3c?oc=5",
-          "date": "Tue, 29 Sep 2026",
-          "source": "Seeking Alpha"
+          "title": "KYN Stock Price, Quote & News - Syfe",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5raUFPOG1Ud3hsNDZpNXotN0hiQ01FbWpKVVRYSVlyT280ZVdKNDI3RkhpbGR1TmVPMHBQNVVnaDNmZVNRNGg0UGFB?oc=5",
+          "date": "Fri, 06 Nov 2026",
+          "source": "Syfe"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
+        "label": "Recent \u2014 latest filing 7 days ago",
         "cls": "mid"
       },
       "earnings_soon": false,
@@ -1439,170 +1319,13 @@
       ]
     },
     {
-      "ticker": "OXSQ",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 2.5,
-      "sell_score": 0.0,
-      "net_score": 2.5,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-20 COO ROSENTHAL SAUL B BUY $57,354",
-        "2026-11-20 COO ROSENTHAL SAUL B BUY $57,354",
-        "2026-11-20 CEO COHEN JONATHAN H BUY $57,354",
-        "2026-11-20 CEO COHEN JONATHAN H BUY $57,354"
-      ],
-      "company": {
-        "name": "Oxford Square Capital Corp.",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25"
-        ],
-        "closes": [
-          0.87,
-          0.82,
-          0.81,
-          0.8,
-          0.8,
-          0.76,
-          0.62,
-          0.53,
-          0.53,
-          0.56,
-          0.6,
-          0.6,
-          0.63,
-          0.66
-        ]
-      },
-      "price_now": 0.66,
-      "price_at_signal": 0.6,
-      "pct_since_signal": 10.0,
-      "pct_14d": -24.14,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "10-Q",
-            "date": "2026-11-04",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026115688/ea0309227-01_10q.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-10-30",
-            "summary": "Company announced results of operations (earnings); amended bylaws or changed fiscal year; Reg FD disclosure (investor materials).",
-            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026114080/ea0310276-01_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-09-14",
-            "summary": "Company other notable events.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026099703/ea0305386-01_8k.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-08-20",
-            "summary": "Company shareholder vote results.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026092208/ea0302942-01_8k.htm"
-          },
-          {
-            "form": "10-Q",
-            "date": "2026-08-10",
-            "summary": "Quarterly report: unaudited quarterly financials.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026087243/ea0298853-01_10q.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "COHEN JONATHAN H",
-          "kind": "CEO",
-          "note": "88 Form 4 filings on record since 2003; 1 buy of OXSQ in this tracker's ledger"
-        },
-        {
-          "name": "ROSENTHAL SAUL B",
-          "kind": "COO",
-          "note": "87 Form 4 filings on record since 2003; 1 buy of OXSQ in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "Oxford Square Capital Corp. president buys $24,597 in stock - Investing.com",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdUdwZm9MandWbVJjbHRJdVNuNDVWaURrcDlBUm8xdUtWanQ0VUl5UmVwWm5heFdqa3FZbFBxS0YtbTN2QUU2T3lNQzdPRnNlVXJvYTNIc09vSmdRZmNiTXkzYm1wQTVLVldmU2VtZzh0M2JxdC1UX3FKWmVKOHdoc3E4Rktrc0JYVTNDaEpBY2dhdEVaTEZqQmhxcVZjcmM3Qmd0ZVJRNTJ4M09aRnlSbmFRWXBVYzBXbTlMbl9n?oc=5",
-          "date": "Sat, 21 Nov 2026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Oxford Square Capital Corp. Q3 2026 Earnings Call Summary - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNakFqZG9tNmhjZDFOejE3blRySHdjbmE5TU9kbnNFdmZBTVQ5d1hVV0lkNDF2MjB6M1gzZl96aUR1b2ZHSC1na1ZHUDJULUVBWkxpS1BJbWM0Q1ZIWTJLc29JU2xGcGo2eVduc1Bhb2c3QVFGSEpEVTlEdzVCeTl6YVBCUmVwbWhLV1VmUWl4YXV1NWV6VXJDLWR3?oc=5",
-          "date": "Fri, 30 Oct 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Oxford Square Capital (OXSQ) Stock Price, Chart & Analysis - www.debelegger.nl",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Hc0dxZDZ5Q1BQcVREZnVjRkZrYkl1VEdITlhud0YzMmdnSXBwMnpkdDEtTjdhSVRteGlXZUg0V0d5UVJTb2p5X3hqd19JUnBYdzVMQg?oc=5",
-          "date": "Tue, 03 Nov 2026",
-          "source": "www.debelegger.nl"
-        },
-        {
-          "title": "Oxford Square Capital (OXSQ) CEO reports stock buys near 60 cents a share through a joint account. - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYmtPRFRxRV9HZ1R0OHdtN3JrOXdsSHNMUVNIT1NUSk54VTFGYUtkVjUxSG1DTXhkRm9sYmxZdUxVTGM2c2xDaWJ6Xzd2Y2RuQWtyRjVTeHJxQjkwVDY1S0xuN05HeXBvWGk2b1EyMDVPS29hcUlMZFdhYUVzdlkxN2R6SjhmOVFrb0ZxRUl2TVZGNW1FTDl2dC00enJUS1I1NVo2TUozM2tnc2E2TGt4YnN5OTRZMUczYm5EOA?oc=5",
-          "date": "Tue, 24 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Oxford Square Capital (OXSQ) COO Rosenthal bought 44,943 shares for $24.6K at an average $0.55 - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU1ZoZGJlT0lkV09qMUNHbjBUUUtvYXNxRkM4OThRTzZ6NVc5cV8tZHRnenFURXB0VEstV0lSSWpHSkhqUEhsM3Bocm1IbEpqdWxJOTlzdFJNMW5vV3lXOXhXekdOZlc5RmJBVHo0Nmw5LVFnNUltZTA1QVZkeWhDVWhpOVdMbjY5NEc4dm45cE0ycGZMQ0ZMalUxQXphUmhW?oc=5",
-          "date": "Fri, 20 Nov 2026",
-          "source": "Quantisnow"
-        }
-      ],
-      "news_flags": [],
-      "themes": [],
-      "timing": {
-        "label": "Edge partly spent \u2014 already +10% since disclosure",
-        "cls": "spent"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cOxford Square Capital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Oxford%20Square%20Capital&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cOxford Square Capital\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=Oxford%20Square%20Capital&source=committeemeetings"
-        }
-      ]
-    },
-    {
       "ticker": "PED",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 3.2,
+      "buy_score": 3.8,
       "sell_score": 0.8,
-      "net_score": 2.4,
+      "net_score": 3.1,
       "distinct_buyers": 3,
       "distinct_sellers": 1,
       "evidence": [
@@ -1621,7 +1344,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -1634,10 +1356,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          14.88,
           14.51,
           13.34,
           13.62,
@@ -1650,13 +1372,14 @@
           9.56,
           9.14,
           8.73,
-          9.29
+          9.29,
+          9.15
         ]
       },
-      "price_now": 9.29,
+      "price_now": 9.15,
       "price_at_signal": 9.56,
-      "pct_since_signal": -2.82,
-      "pct_14d": -37.57,
+      "pct_since_signal": -4.29,
+      "pct_14d": -36.94,
       "deep": {
         "recent_filings": [
           {
@@ -1716,22 +1439,22 @@
       ],
       "news": [
         {
-          "title": "PEDEVCO Corp. (UD1.F) interactive stock chart \u2013 Yahoo Finance - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wbmUxbFE5bTM2RjBxTGxKUVJiWEd0SUVOSVVIRk4xcWpJQmI4MDZEWXBwMWhnTkZPSVNGV19vWmZnSUdMTFBRSjZCZjdmVERWTDhKQUFiR0RyTVk?oc=5",
-          "date": "Sat, 21 Nov 2026",
-          "source": "Yahoo Finance Singapore"
-        },
-        {
           "title": "Pedevco Corp director Simon Kukes buys $107,942 in stock - Investing.com",
           "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNjlHajBac0IzaElnMWQtcDhZOW5tMVpaRmltRlpjV2U1Z25hb3BQa2pIblNVQnRjX1VjenBsR0tXYkRfMUdUbWZ6c2tpVEhjRXlBNnRSQ2hHcHhEbE1JeE9wa1lQZS1Fa09rY3lwMU5UblpfWHVFdmZkTUdHTHhjZF9WWGtEaHdjaGhuc0t4WE8wSkREbHJpYW5hVF9zMHVZV3ZDeWp6SjQtWlhheWJGUUZXLXJUcEgwMVVF?oc=5",
           "date": "Tue, 17 Nov 2026",
           "source": "Investing.com"
         },
         {
-          "title": "PEDEVCO Corp. (UD1.F) stock price, news, quote and history - Yahoo Finance Singapore",
-          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1YU090NExEeGxGYmlpN0Z4OWNhXzdaWGp1YjQ4eEV1NkhTWjc0M3o3N2JSMF9mTEM1a19BQ004N2JnYkpOcUFsejZEWWZwQmpxVVBSbGFGR3RWc2tCdXBJMkxMUQ?oc=5",
-          "date": "Fri, 20 Nov 2026",
-          "source": "Yahoo Finance Singapore"
+          "title": "Pedevco Targets Rockies Growth, $10M Cost Cuts Amid CEO Search - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaVI0Wm00c2pqcU9hUVltdDVvSU9OTXZtdXl4eURVNzNwdzR0YUJsRm5SS0tiTDhPRVBHc01QWkt0bHhlMF8tWmUyQ1hZZ0o5RVZkRE9ZclphMGwzRWFfZ3laRjJtN0VtVVl1RGdQdG9ZMzNreXdhd3ZMcGtYRV9vSHFDeXo5TjRKMGlMSXVybWg2UWl0TXc?oc=5",
+          "date": "Sat, 03 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Pedevco: New Wells Still Need To Deliver - Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWRzY0tZeVlJQ3BITWowOEp4azlWb0c0Y0FXTlM3QUpFUGoySHQyeHlGeHFza0VyOEFVWGtJWldjcVR3OW05OWJ3SkMwNS1WNkdrNXhNbk4zYkt1Zkh2QkVCdUpOSlRoMXNhbmlvd2doT0hoZTlFQnRhQUFTYXZjZTFXcFlBbndqVXU2RTRNSQ?oc=5",
+          "date": "Wed, 18 Nov 2026",
+          "source": "Seeking Alpha"
         },
         {
           "title": "PED - PEDEVCO Corp Stock Price and Quote - Finviz",
@@ -1740,17 +1463,17 @@
           "source": "Finviz"
         },
         {
-          "title": "Pedevco: New Wells Still Need To Deliver - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYWRzY0tZeVlJQ3BITWowOEp4azlWb0c0Y0FXTlM3QUpFUGoySHQyeHlGeHFza0VyOEFVWGtJWldjcVR3OW05OWJ3SkMwNS1WNkdrNXhNbk4zYkt1Zkh2QkVCdUpOSlRoMXNhbmlvd2doT0hoZTlFQnRhQUFTYXZjZTFXcFlBbndqVXU2RTRNSQ?oc=5",
-          "date": "Wed, 18 Nov 2026",
-          "source": "Seeking Alpha"
+          "title": "Pedevco (NYSEAMERICAN:PED) CFO Sells 7,000 Shares of Stock - MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ2tTR2c2R1Q2VVN2LTBPOE01QWRCZ0I2V3hzUHlCbkFmZXNab01sS19RX0tiajZvNHNqNWFRUVRoMXQzRnZXMklXcUJiMVByZDJlMDIzTGV4RWN2ZlJZTHBMdWtycXVreDI5ZlM3SDlZQUFkNmQ1Vk5oWFZEYXBIZ01mTVlQT054ZE5WeW91NmFDZWVsdkpBRFJXNFlRTGtZX2hzTThRNVB3Qlg0dk03b203c2h3d3RO?oc=5",
+          "date": "Tue, 24 Nov 2026",
+          "source": "MarketBeat"
         }
       ],
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 3 day(s) ago",
-        "cls": "fresh"
+        "label": "Recent \u2014 latest filing 4 days ago",
+        "cls": "mid"
       },
       "earnings_soon": false,
       "legislation": [
@@ -1777,13 +1500,170 @@
       ]
     },
     {
+      "ticker": "OXSQ",
+      "call": "WATCH",
+      "herd_pick": true,
+      "short_candidate": false,
+      "buy_score": 3.0,
+      "sell_score": 0.0,
+      "net_score": 3.0,
+      "distinct_buyers": 2,
+      "distinct_sellers": 0,
+      "evidence": [
+        "2026-11-20 COO ROSENTHAL SAUL B BUY $57,354",
+        "2026-11-20 COO ROSENTHAL SAUL B BUY $57,354",
+        "2026-11-20 CEO COHEN JONATHAN H BUY $57,354",
+        "2026-11-20 CEO COHEN JONATHAN H BUY $57,354"
+      ],
+      "company": {
+        "name": "Oxford Square Capital Corp.",
+        "industry": ""
+      },
+      "trend": {
+        "dates": [
+          "2026-11-09",
+          "2026-11-10",
+          "2026-11-11",
+          "2026-11-12",
+          "2026-11-13",
+          "2026-11-16",
+          "2026-11-17",
+          "2026-11-18",
+          "2026-11-19",
+          "2026-11-20",
+          "2026-11-23",
+          "2026-11-24",
+          "2026-11-25",
+          "2026-11-27"
+        ],
+        "closes": [
+          0.82,
+          0.81,
+          0.8,
+          0.8,
+          0.76,
+          0.62,
+          0.53,
+          0.53,
+          0.56,
+          0.6,
+          0.6,
+          0.63,
+          0.66,
+          0.6836
+        ]
+      },
+      "price_now": 0.6836,
+      "price_at_signal": 0.6,
+      "pct_since_signal": 13.93,
+      "pct_14d": -16.63,
+      "deep": {
+        "recent_filings": [
+          {
+            "form": "10-Q",
+            "date": "2026-11-04",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026115688/ea0309227-01_10q.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-10-30",
+            "summary": "Company announced results of operations (earnings); amended bylaws or changed fiscal year; Reg FD disclosure (investor materials).",
+            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026114080/ea0310276-01_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-09-14",
+            "summary": "Company other notable events.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026099703/ea0305386-01_8k.htm"
+          },
+          {
+            "form": "8-K",
+            "date": "2026-08-20",
+            "summary": "Company shareholder vote results.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026092208/ea0302942-01_8k.htm"
+          },
+          {
+            "form": "10-Q",
+            "date": "2026-08-10",
+            "summary": "Quarterly report: unaudited quarterly financials.",
+            "url": "https://www.sec.gov/Archives/edgar/data/1259429/000121390026087243/ea0298853-01_10q.htm"
+          }
+        ],
+        "about": ""
+      },
+      "actors": [
+        {
+          "name": "COHEN JONATHAN H",
+          "kind": "CEO",
+          "note": "88 Form 4 filings on record since 2003; 1 buy of OXSQ in this tracker's ledger"
+        },
+        {
+          "name": "ROSENTHAL SAUL B",
+          "kind": "COO",
+          "note": "87 Form 4 filings on record since 2003; 1 buy of OXSQ in this tracker's ledger"
+        }
+      ],
+      "news": [
+        {
+          "title": "Oxford Square Capital Corp. Q3 2026 Earnings Call Summary - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNakFqZG9tNmhjZDFOejE3blRySHdjbmE5TU9kbnNFdmZBTVQ5d1hVV0lkNDF2MjB6M1gzZl96aUR1b2ZHSC1na1ZHUDJULUVBWkxpS1BJbWM0Q1ZIWTJLc29JU2xGcGo2eVduc1Bhb2c3QVFGSEpEVTlEdzVCeTl6YVBCUmVwbWhLV1VmUWl4YXV1NWV6VXJDLWR3?oc=5",
+          "date": "Fri, 30 Oct 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Oxford Square Capital Corp. (NASDAQ:OXSQ) Plunges After Q1 2026 Revenue and EPS Miss - ChartMill",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkhMNUVYSFlwUDdEUk1sa05DNlNZRy1jbm9fT1Y5NFFZQTR0UTlmUk9GcWJxQmJrbk1XZldVSEFVazZOY3JRM21FQUMyajRwSU1nY0lOOV90c19neXhBMW82bEt0TTM2R0RkbGdrLWNvbkFfT2tlR1JaYnJaTUNoQkhWRXpialRVcDZQMW8xRGFrUWxHR2JFUkRvZDF0NmdMOU5KaEJGZ1FjU2RaN0FUX2tmSE1tNnJmVVZLdk91eDZSemxKc1BnVkFVX3U?oc=5",
+          "date": "Wed, 29 Apr 2026",
+          "source": "ChartMill"
+        },
+        {
+          "title": "OXSQ - Oxford Square Capital Corp Stock Price and Quote - Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0zNDNEejRGMWV5c2FhUmFfYk15eXNNWVgzR2NnS1BMX1pFNDBDc2JocTNRb3JqOHhSRnJvN01GM1FranJQSUE?oc=5",
+          "date": "Thu, 28 May 2026",
+          "source": "Finviz"
+        },
+        {
+          "title": "Oxford Square\u2019s 22% Yield Masks a Dangerous Math Problem - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVDVRTTJHaFJ1VmVFSHZiOUQwMVAyQ01WWmt3NGtvcmhuV1FSNE45aUMtTDIxakJtcmhwU3VqdHpYS2NWWlJHVU8ycDRud1U0dURCMDZGeWktTmFJSlV0dzRGQ1B6eGIzTndlQnZ0Sm9LNGJETzFpdVV6QkM1UjhqTUNsUU1yalJLUzBZSEtGVzlhSGdXNlBjXw?oc=5",
+          "date": "Mon, 20 Apr 2026",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "symbol__ Stock Quote Price and Forecast - CNN",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kRDVVbEswc2R1MlItT3lJa3pURTZ3WXNHV3BKaFM5S2VpOTN5eXFiQkh5ZklHZXExNEp4RU9LYl9zaTFHbGlMeld1Z1FYYk1L?oc=5",
+          "date": "Tue, 12 Mar 2024",
+          "source": "CNN"
+        }
+      ],
+      "news_flags": [],
+      "themes": [],
+      "timing": {
+        "label": "Edge partly spent \u2014 already +14% since disclosure",
+        "cls": "spent"
+      },
+      "earnings_soon": false,
+      "legislation": [
+        {
+          "label": "Bills mentioning \u201cOxford Square Capital\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Oxford%20Square%20Capital&source=legislation"
+        },
+        {
+          "label": "Hearings mentioning \u201cOxford Square Capital\u201d",
+          "browse": true,
+          "url": "https://www.congress.gov/search?q=Oxford%20Square%20Capital&source=committeemeetings"
+        }
+      ]
+    },
+    {
       "ticker": "BPRE",
       "call": "WATCH",
       "herd_pick": true,
       "short_candidate": false,
-      "buy_score": 1.7,
+      "buy_score": 2.1,
       "sell_score": 0.0,
-      "net_score": 1.7,
+      "net_score": 2.1,
       "distinct_buyers": 2,
       "distinct_sellers": 0,
       "evidence": [
@@ -1798,7 +1678,6 @@
       },
       "trend": {
         "dates": [
-          "2026-11-06",
           "2026-11-09",
           "2026-11-10",
           "2026-11-11",
@@ -1811,10 +1690,10 @@
           "2026-11-20",
           "2026-11-23",
           "2026-11-24",
-          "2026-11-25"
+          "2026-11-25",
+          "2026-11-27"
         ],
         "closes": [
-          12.22,
           12.48,
           12.2,
           12.26,
@@ -1827,13 +1706,14 @@
           11.48,
           11.5,
           11.33,
-          11.48
+          11.48,
+          11.77
         ]
       },
-      "price_now": 11.48,
+      "price_now": 11.77,
       "price_at_signal": 11.89,
-      "pct_since_signal": -3.45,
-      "pct_14d": -6.06,
+      "pct_since_signal": -1.01,
+      "pct_14d": -5.69,
       "deep": {
         "recent_filings": [
           {
@@ -1860,15 +1740,15 @@
       "news": [
         {
           "title": "Bluerock Private Real Estate Fund (BPRE) director MacDonald bought 9,600 shares for $109K at $11.36 - Quantisnow",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOVhZamlOS2NqM2ZROUxSQmZka19fYVNua0ZfMVFXYk5HczhEd3dSY1U5M3pDMk8ySzYzenF2SGtXSkxJQ2tqMkJocF9LTlhBakxRdGZ0Q3loSHdnTV92UlFTc1JuLURucXNwVnBHcktoM0MySG9OcnVOX0QzZUNNZE1GWC1CMFhYMlY0VDBPYjhfQWYtSlltUXZlWDBRUkhRVmc1S181ODg?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMzduQ0NxLXphTkFlTEpYSGY4cFA5MWF0aGVHR2g3OGVmZ1lkeV9VUjlDcGV5YVBPUG5zVWJULS10ZnFCX1dpWFdYNlQteHlDS194eWhaV29meWpZSG1YWkxadUVlS29Ib2FTendoWjFycHJuaWNkc3hneHFZSjhabzUyUnZoc196TDF2TmV2UDZ5THgtRWY1Um9hUTFNZWNEVjd3?oc=5",
           "date": "Wed, 25 Nov 2026",
           "source": "Quantisnow"
         },
         {
-          "title": "Form 4 Bluerock Private Real Estate Fund: Ryan S. MacDonald (Director) For: 24 November - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPalF0a0FGVVdGUldleFlraDRQbzE2d3hZcU9aR0d5dDVJdzROR3pNb05TVXVNYlJ5QXlhWG1tZTFhdDNMelU1cVZxcEFGbkhXQkp2Mzcta3RVck8wZjlDNXdPWC0tb01tUUZlMzE0WS1rZ0pIY045NzRhTEJnLWdUN3RXLS0yanN3VGhiTW5oa3Fud3BoM0tOWmFBTXBzbDZpbUY5aGFNcTRLZ1RzYTVycVBpbUZraW1ycURHVDk0TFc0cmw1UTh3REZ2M1lhVzVGX3dWQ2VYbFBYZnc?oc=5",
-          "date": "Thu, 26 Nov 2026",
-          "source": "Investing.com Canada"
+          "title": "Form 4 Bluerock Private Real Estate Fund: Ramin Kamfar (Director) For: 19 November By Investing.com - Investing.com South Africa",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWF0MGNzSWZRalVDT3dsNmxNaUp3NmdfYkhESjR0cTYxSDM2Q1FnNFg5RlJWTlVCTDRyOE94RnlSYXRBVDZLeS16TF80ek5FYUIwdXZkUkZxTno4M1cyYWdpWlIwVWhZY0ZaZV92VEI3WGwtSENLMmlUNUN1RG8wdkdRTnk0TUxEVi04S1VVOWZOeHNUb0NFZzJEMHNFXzlkbzc0cExjU1pXQ3pNc2dYNE9fODQyVVB5MzBCdm1sUUw5NjhQNlk5OUFuQnh1S1pVSlo2dmln?oc=5",
+          "date": "Tue, 24 Nov 2026",
+          "source": "Investing.com South Africa"
         },
         {
           "title": "Nareit Welcomes New Member Bluerock Private Real Estate Fund - Nareit",
@@ -1892,7 +1772,7 @@
       "news_flags": [],
       "themes": [],
       "timing": {
-        "label": "Fresh \u2014 latest filing 2 day(s) ago",
+        "label": "Fresh \u2014 latest filing 3 day(s) ago",
         "cls": "fresh"
       },
       "earnings_soon": false,
@@ -1906,159 +1786,6 @@
           "label": "Hearings mentioning \u201cBluerock Private Real Estate Fund\u201d",
           "browse": true,
           "url": "https://www.congress.gov/search?q=Bluerock%20Private%20Real%20Estate%20Fund&source=committeemeetings"
-        }
-      ]
-    },
-    {
-      "ticker": "NXG",
-      "call": "WATCH",
-      "herd_pick": true,
-      "short_candidate": false,
-      "buy_score": 1.2,
-      "sell_score": 0.0,
-      "net_score": 1.2,
-      "distinct_buyers": 2,
-      "distinct_sellers": 0,
-      "evidence": [
-        "2026-11-20 OTHER Sunderland Todd BUY $38,700",
-        "2026-11-20 OTHER Sunderland Todd BUY $38,700",
-        "2026-11-19 DIRECTOR Bruce Brian R BUY $50,327",
-        "2026-11-19 DIRECTOR Bruce Brian R BUY $50,327"
-      ],
-      "company": {
-        "name": "NXG NextGen Infrastructure Income Fund",
-        "industry": ""
-      },
-      "trend": {
-        "dates": [
-          "2026-11-06",
-          "2026-11-09",
-          "2026-11-10",
-          "2026-11-11",
-          "2026-11-12",
-          "2026-11-13",
-          "2026-11-16",
-          "2026-11-17",
-          "2026-11-18",
-          "2026-11-19",
-          "2026-11-20",
-          "2026-11-23",
-          "2026-11-24",
-          "2026-11-25"
-        ],
-        "closes": [
-          43.36,
-          45.41,
-          44.25,
-          46.59,
-          46.6,
-          45.68,
-          42.89,
-          42.93,
-          43.49,
-          42.0,
-          38.62,
-          41.75,
-          40.31,
-          41.69
-        ]
-      },
-      "price_now": 41.69,
-      "price_at_signal": 42.0,
-      "pct_since_signal": -0.74,
-      "pct_14d": -3.85,
-      "deep": {
-        "recent_filings": [
-          {
-            "form": "8-K",
-            "date": "2026-07-10",
-            "summary": "Company other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1506488/000139834426012085/fp0099816-2_8kixbrl.htm"
-          },
-          {
-            "form": "DEF 14A",
-            "date": "2026-05-12",
-            "summary": "Proxy statement: executive pay, board slate, shareholder votes.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1506488/000139834426009022/fp0098870-3_def14a.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2026-04-07",
-            "summary": "Company entered a material agreement; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1506488/000139834426006200/fp0098277-1_8kixbrl.htm"
-          },
-          {
-            "form": "8-K",
-            "date": "2025-12-31",
-            "summary": "Company entered a material agreement; other notable events; exhibits/financial statements attached.",
-            "url": "https://www.sec.gov/Archives/edgar/data/1506488/000139834425023271/fp0096778-1_8kixbrl.htm"
-          }
-        ],
-        "about": ""
-      },
-      "actors": [
-        {
-          "name": "Bruce Brian R",
-          "kind": "DIRECTOR",
-          "note": "7 Form 4 filings on record since 2007; 1 buy of NXG in this tracker's ledger"
-        },
-        {
-          "name": "Sunderland Todd",
-          "kind": "OTHER",
-          "note": "13 Form 4 filings on record since 2023; 2 buys of NXG in this tracker's ledger"
-        }
-      ],
-      "news": [
-        {
-          "title": "NXG NextGen Infrastructure Income Fund (NYSE: NXG) Announces the Preliminary Results of its Rights Offering - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb19OVXpmNGhZcHFxSk80enpKUC00TlR0TzdEVWE3LU5xMlVzVXRrTjU1TXlRZXBfVG1iQUJZR2l5WVJhNlF4UWg4Nzh4SmF4S01OanRKeWJDSlNuem9xaHF1RUFHQk5uYjEycE1PZlV3MGpldks1UDEzVXVrRUVKZWNuU1dkNS01VkNQanRqMjlIbjRtTFdWR3pRdkV4Mk1KVm5sOGJn?oc=5",
-          "date": "Fri, 01 May 2026",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "At $43.7625 apiece, Brian R. Bruce bought 1,150 common shares of NXG NextGen (NXG). - Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTUhGNjR2dE14ZnZLVkZKYzVfeVBIV3RFMVczNndMOHIyb2pOVnE4c0Z0TC1aUXN3aHdTVEUycmd1Zkp1b3dyT2hNNER6UXNOUjU2Tm4xWW5yX3R6WVZWdmRJUTFRZ1NfWVBQOFFqeDZMLVFlRlBoQktyVlJyN2pjUHpaalJvUEs5VWthanZOQVNtSU5XUS1zUWlnTFRMZUFlcjFPb0ZzUWlqZzJOeXdJejhPYnJNQ3YxVy1UMHl5TDBwbTJSd0pNcEhR?oc=5",
-          "date": "Fri, 20 Nov 2026",
-          "source": "Stock Titan"
-        },
-        {
-          "title": "Form 4 NXG Nextgen Infrastructure Income Fund: Brian R. Bruce (Director) For: 19 November - Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb21rOWZPSlR1NFdldXVjNDFPNTNWRmhnWndHdnBpc0VZSm0yWVdpVF9UWmxvM3FkTlAxOThENGh0SkJjcE1sRUF6TkVBNGR6b1R3QkZjdjZJdXRoNWFQR1dpTlZES1R2Vy1NZkpxUmlQZ3VpQllsaDA3ZVR6MGNNb3BkQUx4VmdzMlhIZ1ZEN01sRExSQjNSMnZiZUFFYXlyZE9aR0Nic01kdGQweWNqMFRiTl96VlowS2xpS0VVR0ZPVE5OMHdCVFFlZnFIcEpiNFllU0dFWG9NeHVqSGc?oc=5",
-          "date": "Fri, 20 Nov 2026",
-          "source": "Investing.com Canada"
-        },
-        {
-          "title": "NXG NextGen Infrastructure Income Fund (NYSE: NXG) Announces Distributions - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM0Nvc0FUcklXX0pZaEhkeTFWc09YeVdFQnFRak01OW1BeVptTUVLaDk2Q1Q1NWRYeGFqM19EZFlyS1otUkNBSHhSQlh1R1pFXzFJTUJaSEdEa2pwU0NmVTlnVzUyRlUwMG5yS2lGNHdJS2REMWdmQzNmN2dOQlY4T1N1QjJqRlA1RUNlSF9aUy1nS0dtVDJZZHhUTmFFVmdmWjlBOFNWOXBBWl8wdjVOV3paaHJCaEpWQmxYMDE1TS1fSXEyRVNIbTU0c2w?oc=5",
-          "date": "Tue, 01 Sep 2026",
-          "source": "TradingView"
-        },
-        {
-          "title": "NXG: Strong Total Returns Continue From AI Data Centre Infrastructure And The Electrification Of Everything - Seeking Alpha",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmh6NjlhXzNTaWEzVW51cTJpMW41N1o5dzFubzFpLVF4M3doTDVPNDVWRThkNDVSMGxGUHl6akQ0YVRMZXk4b0JpalRxcTRRbUhHNWVqdzVuWEN2X1pBQnJ4WUxTczliLWJTRmV0aHlSQjRfRXF6MjlRUl9fSVFrbU85OV9fMVNNcnRtVTAtUWZ3TDRFYXY5X2tpVXcxUDBWUUJpd1pNOGFOSDQ3R1d5SFVsdmlhTE1hUGNUenJFUko3U00?oc=5",
-          "date": "Mon, 15 Jun 2026",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "news_flags": [
-        "share offering (dilution)"
-      ],
-      "themes": [],
-      "timing": {
-        "label": "Recent \u2014 latest filing 6 days ago",
-        "cls": "mid"
-      },
-      "earnings_soon": false,
-      "legislation": [
-        {
-          "label": "Bills mentioning \u201cNXG NextGen Infrastructure Income Fund\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NXG%20NextGen%20Infrastructure%20Income%20Fund&source=legislation"
-        },
-        {
-          "label": "Hearings mentioning \u201cNXG NextGen Infrastructure Income Fund\u201d",
-          "browse": true,
-          "url": "https://www.congress.gov/search?q=NXG%20NextGen%20Infrastructure%20Income%20Fund&source=committeemeetings"
         }
       ]
     }
